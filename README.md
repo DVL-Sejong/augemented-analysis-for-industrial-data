@@ -16,4 +16,7 @@ Development of automatic data semantic information composition/expression techno
 - Jungsoo Park
 
 # Instituions
-Sejong University, Seoul, South Korea
+- Sejong University, Seoul, South Korea
+
+# Contacts
+- vis.sejong.ac.kr

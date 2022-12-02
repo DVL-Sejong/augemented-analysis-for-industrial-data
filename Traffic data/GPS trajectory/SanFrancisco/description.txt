@@ -1,0 +1,6 @@
+The whole dataset is composed by 537 text files, with a total of 11220490 records. Each text file corresponds to a cab.
+
+latitude
+longitude
+occupancy (1 for passengers, 0 for empty)
+time (number of seconds since the Unix epoch: 00:00:00 UTC on 1 January 1970)

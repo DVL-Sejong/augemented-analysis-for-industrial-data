@@ -26,7 +26,6 @@ def parse_args():
 
 def __main__(args):
 
-    #import pdb;pdb.set_trace()
     # fixation=0, saccades=1
     
     #evt_dict = {'UNKNOWN' : 0, 'FIX' : 1, 'SACCADE' : 2, 'SP' : 3, 'NOISE' : 4}
@@ -34,15 +33,14 @@ def __main__(args):
             0: 'b',     #0. Fixation
             1: 'r',     #1. Saccade
         })
-    #import pdb;pdb.set_trace()
+
     save = True
     
     all_filenames = sorted(glob.glob(f'{args.csv_folder}/*.csv'))
     
     for fname in tqdm(all_filenames):
         df = pd.read_csv(fname)
-        
-        #import pdb;pdb.set_trace()
+
         print(fname)
         png_spath = fname.replace(str(args.csv_folder), str(args.png_folder))
         png_spath = png_spath.replace('csv', 'png')
@@ -52,8 +50,6 @@ def __main__(args):
         ax01 = plt.subplot2grid((1, 2), (0, 1))
 
         _data = df
-        #import pdb;pdb.set_trace()
-
         
         ax00.plot(_data['x_deg'], _data['y_deg'], '-')
         ax01.plot(_data['x_deg'], _data['y_deg'], '-')
@@ -64,28 +60,24 @@ def __main__(args):
         ax01.set_xlabel('x_deg')
         ax01.set_ylabel('y_deg')
 
-        # import pdb;pdb.set_trace()
-
         for e, c in data_evt_color_map.items():
             mask = _data['evt'] == e
             mask2 = _data['evt_pred'] == e
             ax00.plot(_data['x_deg'][mask], _data['y_deg'][mask], '.', color = c)
             ax01.plot(_data['x_deg'][mask2], _data['y_deg'][mask2], '.', color = c)
-        #import pdb;pdb.set_trace()
 
         etdata_extent = np.nanmax([np.abs(_data['x_deg']), np.abs(_data['y_deg'])])+1
 
         ax00.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
         ax01.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
-        #import pdb;pdb.set_trace()
-        
+
         # image
         png_sdir = '/'.join(png_spath.split('/')[:-1])
         if not os.path.exists(png_sdir):
             os.makedirs(png_sdir)
 
         # img = plt.imread(original_img_path)
-
+        # code used in colab.
         # ax00.imshow(img, extent = [-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
         # ax01.imshow(img, extent = [-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
 
@@ -95,7 +87,6 @@ def __main__(args):
             plt.savefig('%s' % (png_spath))
             print('>>>> saved:', png_spath)
             plt.close()
-        #import pdb;pdb.set_trace()
 
 if __name__ == '__main__':
     args = parse_args()

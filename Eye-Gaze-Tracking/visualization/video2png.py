@@ -11,7 +11,7 @@ plt.ion()
 from tqdm import tqdm
 
 def parse_args():
-    # 1번 모델이 사용하는 비디오 데이터셋 첫번째 프레임 저장
+    
     parser = ArgumentParser('Eye Movement Event parser')
 
     parser.add_argument('--video-folder', type=str, required=True,
@@ -26,7 +26,7 @@ def parse_args():
 
 def save_frames(args, fname):
     fps = args.fps
-    #save = args.save
+    #save = args.save 
     num = args.number
 
     video_name = (fname.split('/')[-1]).split('.')[0]
@@ -56,10 +56,8 @@ def save_frames(args, fname):
             break
     cap.release()
 
-# python3 arff2png.py --arff-folder 'data1/outputs/output2' --png-folder 'results1/result2/png' --img-folder 'original1'
 def __main__(args):
 
-    #import pdb;pdb.set_trace()
     all_filenames = sorted(glob.glob(f'{args.video_folder}/*.mpg'))
     print(all_filenames)
 
@@ -68,16 +66,14 @@ def __main__(args):
                 'golf', 'holsten_gate', 'koenigstrasse', 'puppies', 
                 'roundabout', 'sea', 'st_petri_gate', 'st_petri_market',
                 'st_petri_mcdonalds', 'street']
-    
-    # import pdb;pdb.set_trace()
-    
+
+    # TODO
     lst = ['data1/stimuli/beach.mpg', 'data1/stimuli/breite_strasse.mpg', 'data1/stimuli/bridge_1.mpg', 'data1/stimuli/bridge_2.mpg', 
     'data1/stimuli/bumblebee.mpg', 'data1/stimuli/doves.mpg', 'data1/stimuli/ducks_boat.mpg', 'data1/stimuli/ducks_children.mpg', 
     'data1/stimuli/golf.mpg', 'data1/stimuli/holsten_gate.mpg', 'data1/stimuli/koenigstrasse.mpg', 'data1/stimuli/puppies.mpg', 
     'data1/stimuli/roundabout.mpg', 'data1/stimuli/sea.mpg', 'data1/stimuli/st_petri_gate.mpg', 'data1/stimuli/st_petri_market.mpg', 
     'data1/stimuli/st_petri_mcdonalds.mpg', 'data1/stimuli/street.mpg']
 
-    #import pdb;pdb.set_trace()
     for fname in all_filenames:
         save_frames(args, fname)
         

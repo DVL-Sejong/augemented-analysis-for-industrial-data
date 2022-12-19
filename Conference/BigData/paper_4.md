@@ -1,4 +1,4 @@
-paper 4
+paper 4 @Tokyo university
 - session: Visual Analytics for Big Data
 - title: Characterizing Spontaneous Ideation Contest on Social Media Case Study on the Name Change of Facebook to Meta
 - type: short

@@ -13,7 +13,7 @@ plt.ion()
 from tqdm import tqdm
 
 def parse_args():
-    # 2번 모델
+
     parser = ArgumentParser('Eye Movement Event parser')
 
     parser.add_argument('--csv-folder', type=str, required=True,
@@ -26,8 +26,7 @@ def parse_args():
     return parser.parse_args()
 
 def __main__(args):
-
-    #import pdb;pdb.set_trace()
+    
     evt_dict = {'UNKNOWN' : 0, 'FIX' : 1, 'SACCADE' : 2, 'SP' : 3, 'NOISE' : 4}
     data_evt_color_map = dict({
             0: 'gray',  #0. Undefined
@@ -38,7 +37,7 @@ def __main__(args):
             5: 'k',     #5. Blink
             9: 'k',     #9. Other
         })
-    #import pdb;pdb.set_trace()
+    
     save = True
     
     all_filenames = sorted(glob.glob(f'{args.csv_folder}/*.csv'))
@@ -46,7 +45,6 @@ def __main__(args):
     for fname in tqdm(all_filenames):
         df = pd.read_csv(fname)
         
-        #import pdb;pdb.set_trace()
         print(fname)
         png_spath = fname.replace(str(args.csv_folder), str(args.png_folder))
         png_spath = png_spath.replace('csv', 'png')
@@ -65,20 +63,16 @@ def __main__(args):
         ax01.set_xlabel('x')
         ax01.set_ylabel('y')
 
-        # import pdb;pdb.set_trace()
-
         for e, c in data_evt_color_map.items():
             mask = _data['evt'] == e
             mask2 = _data['evt_pred'] == e
             ax00.plot(_data['x'][mask], _data['y'][mask], '.', color = c)
             ax01.plot(_data['x'][mask2], _data['y'][mask2], '.', color = c)
-        #import pdb;pdb.set_trace()
 
         etdata_extent = np.nanmax([np.abs(_data['x']), np.abs(_data['y'])])+1
 
         ax00.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
         ax01.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
-        #import pdb;pdb.set_trace()
         
         # image
         png_sdir = '/'.join(png_spath.split('/')[:-1])
@@ -112,7 +106,6 @@ def __main__(args):
             plt.savefig('%s' % (png_spath))
             print('>>>> saved:', png_spath)
             plt.close()
-        #import pdb;pdb.set_trace()
 
 if __name__ == '__main__':
     args = parse_args()

@@ -1,2 +1,4 @@
 paper 2
 - session: Visual Analytics for Big Data
+- title: Shapelet-based Temporal Association Rule Mining for Multivariate Time Series Classification
+- type: regular

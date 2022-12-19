@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 
 def parse_args():
-    # 1번 모델
+    # used for deep-learning model
     parser = ArgumentParser('Eye Movement Event parser')
 
     parser.add_argument('--arff-folder', type=str, required=True,
@@ -26,7 +26,6 @@ def parse_args():
 
     return parser.parse_args()
 
-# python3 arff2png.py --arff-folder 'data1/outputs/output2' --png-folder 'results1/result2/png' --img-folder 'original1'
 def __main__(args):
     
     evt_dict = {'UNKNOWN' : 0, 'FIX' : 1, 'SACCADE' : 2, 'SP' : 3, 'NOISE' : 4}
@@ -39,7 +38,7 @@ def __main__(args):
             5: 'k',     #5. Blink
             9: 'k',     #9. Other
         })
-    #import pdb;pdb.set_trace()
+    
     save = True
     all_filenames = sorted(glob.glob(f'{args.arff_folder}/*/*.arff'))
     
@@ -60,7 +59,6 @@ def __main__(args):
         df['status']=pd.DataFrame({ "status": [ x == 1.0 for x in df['status'].to_list() ]})
         df['evt'] = df['evt'].astype('uint8')
         
-        #import pdb;pdb.set_trace()
         print(fname)
         png_spath = fname.replace(str(args.arff_folder), str(args.png_folder))
         png_spath = png_spath.replace('arff', 'png')
@@ -79,27 +77,21 @@ def __main__(args):
         ax01.set_xlabel('x')
         ax01.set_ylabel('y')
 
-        # import pdb;pdb.set_trace()
-
         for e, c in data_evt_color_map.items():
             mask = _data['evt'] == e
             mask2 = _data['evt_pred'] == e
             ax00.plot(_data['x'][mask], _data['y'][mask], '.', color = c)
             ax01.plot(_data['x'][mask2], _data['y'][mask2], '.', color = c)
-        #import pdb;pdb.set_trace()
 
         etdata_extent = np.nanmax([np.abs(_data['x']), np.abs(_data['y'])])+1
 
         ax00.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
         ax01.axis([-etdata_extent, etdata_extent, -etdata_extent, etdata_extent])
-        #import pdb;pdb.set_trace()
-        
-        # image
+
         png_sdir = '/'.join(png_spath.split('/')[:-1])
         if not os.path.exists(png_sdir):
             os.makedirs(png_sdir)
 
-        #import pdb;pdb.set_trace()
         img_name = png_sdir.split('/')[-1]
         original_img_path = f'{args.img_folder}/{img_name}/fps_30_000.png'
         img = plt.imread(original_img_path)
@@ -110,8 +102,6 @@ def __main__(args):
             plt.savefig('%s' % (png_spath))
             print('>>>> saved:', png_spath)
             plt.close()
-        #import pdb;pdb.set_trace()
-        
 
 if __name__ == '__main__':
     args = parse_args()

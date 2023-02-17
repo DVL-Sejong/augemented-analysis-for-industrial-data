@@ -1,0 +1,255 @@
+{
+	"name": "ㄹ",
+	"children": [
+		{
+			"name": "래미안 영통 마크원",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "삼성물산"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "러시아",
+			"children": [
+				{
+					"name": "수교국(diplomatic relation)",
+					"children": [
+						{
+							"name": "오스트리아"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "렉서스",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "도요타"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "컨슈머리포트"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "한불모터스"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "한국도요타"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "전복"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "기술상"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "GS"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "수퍼카"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "도요타자동차그룹"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "혼다"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "프리우스"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "플러그인 하이브리드"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "일본"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "프리우스"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "DRS"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "렉스",
+			"children": [
+				{
+					"name": "해당 개체의 장르(genre)",
+					"children": [
+						{
+							"name": "역비즈니스콤플"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "렉스턴",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "쌍용차"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "로고스커뮤니케이션",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "아이패드"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "롯데건설",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "계약금"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "롯데마트",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "프"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "롯데캐슬",
+			"children": [
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "경기도"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "르네사스",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "콜버그 크라비스 로버츠"
+						}
+					]
+				}
+			]
+		}
+	]
+}

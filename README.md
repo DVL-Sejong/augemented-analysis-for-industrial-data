@@ -19,12 +19,10 @@ Development of automatic data semantic information composition/expression techno
 - Jiyun Jung
 - Sangbong Yoo
 - Hyein Hong
-- Giwwong Park
 - Changyoung Yoon
 - Soobin Yim
 - Changyoung Jung
 - Seokhwan Choi
-- Hyunjoo Lee
 - Nayoung Koo
 - Jungsoo Park
 

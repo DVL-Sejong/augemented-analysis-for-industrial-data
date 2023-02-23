@@ -1,4 +1,4 @@
 # The best prediction parameter setting
-- epoch: 
-- learning rate:
+- epoch: 100
+- learning rate: 1e07
 - ...

@@ -1,1 +1,4 @@
-The best prediction parameter setting
+# The best prediction parameter setting
+- epoch: 
+- learning rate:
+- ...

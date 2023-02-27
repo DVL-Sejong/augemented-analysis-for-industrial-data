@@ -1,0 +1,543 @@
+{
+	"name": "ㅈ",
+	"children": [
+		{
+			"name": "자기부상열차",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "블러드하운드 SSC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "자동차",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "역학"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "한 해"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "잡스",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "삼성"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "장가항포항불수강",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "철강"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "중국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "장관",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "예산관리국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "장순애",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "재정설계사"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "재무대표이사",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "의장직"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "재산세",
+			"children": [
+				{
+					"name": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+					"children": [
+						{
+							"name": "의정부시"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "전기차",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "유리"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "사업자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "전남",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "한국도요타"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "전문가",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "우희종"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정보기술",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "데스크톱"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정부",
+			"children": [
+				{
+					"name": "해당 지역이 끼고 있는 유역(located in or next to body of water)",
+					"children": [
+						{
+							"name": "서해상"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정자",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "용인고속도로"
+						}
+					]
+				},
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "광교"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정재형",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "모델"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정촌",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "경남"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정하원",
+			"children": [
+				{
+					"name": "국적(country of citizenship)",
+					"children": [
+						{
+							"name": "일본"
+						}
+					]
+				},
+				{
+					"name": "국적(country of citizenship)",
+					"children": [
+						{
+							"name": "미국"
+						}
+					]
+				},
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "주금공"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "정형돈",
+			"children": [
+				{
+					"name": "해당 개체의 친형제자매(sibling)",
+					"children": [
+						{
+							"name": "정재형"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "제1",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "경남"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "제록스",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "상표권"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "미국"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "Xerox"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "조개",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "생선"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "조손",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "정몽구"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "조원경",
+			"children": [
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "재정부"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "조현호",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "대주주"
+						}
+					]
+				},
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "사모펀드"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "종합부동산세",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "소득세"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "주주",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "일본"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "중앙은행",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "서동필"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "우리투자증권"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "중앙일보",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "www.jtbc.co.kr"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "중앙처리장치",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "스마트폰"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "지난해",
+			"children": [
+				{
+					"name": "해당 국가의 수도가 다음 지역임(capital)",
+					"children": [
+						{
+							"name": "평창"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "지난해부터",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "광저우"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "지부장",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "김창한"
+						}
+					]
+				},
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "만도"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "민주노총"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "지사",
+			"children": [
+				{
+					"name": "해당 개체가 속한 대륙(continent)",
+					"children": [
+						{
+							"name": "유럽"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "지일순",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "고객"
+						}
+					]
+				}
+			]
+		}
+	]
+}

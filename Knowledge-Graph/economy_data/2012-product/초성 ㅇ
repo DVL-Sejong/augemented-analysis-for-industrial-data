@@ -1,0 +1,1323 @@
+{
+	"name": "ㅇ",
+	"children": [
+		{
+			"name": "아돌프 히틀러",
+			"children": [
+				{
+					"name": "국적(country of citizenship)",
+					"children": [
+						{
+							"name": "슬로바키아"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아르헨티나",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "이현동"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아웃도",
+			"children": [
+				{
+					"name": "해당 개체의 위치(location)",
+					"children": [
+						{
+							"name": "퍼스트빌리지"
+						}
+					]
+				},
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "퍼스트빌리지"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아이디어플래시",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "미국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아이스크림샌드위치",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "ICS"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아이오닉",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "현대자동차"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아이패드",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "PC"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "USB"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "노트북"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "사파리"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "아이폰",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "전자지갑"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "안드로이드",
+			"children": [
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "구글 플레이스토어"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "안드로이드OS",
+			"children": [
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "구글"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "스마트폰"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "안병용",
+			"children": [
+				{
+					"name": "국적(country of citizenship)",
+					"children": [
+						{
+							"name": "북부"
+						}
+					]
+				},
+				{
+					"name": "태어난 곳(place of birth)",
+					"children": [
+						{
+							"name": "경기"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "알루미늄",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "니켈"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "앞바퀴",
+			"children": [
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "뒷바퀴"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "애플",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "MS"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "윈도 운영체제"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "애플리케이션 프로세서",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "스마트폰"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "약 1000만원",
+			"children": [
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "일본"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "양적 완화",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "달러"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "얼라이언스번스타인",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "미국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "엄지",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "세 개"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에이스브이",
+			"children": [
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "경남"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에이치스퀘어",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "판교"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "판교 테크노밸리"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에일린의 뜰",
+			"children": [
+				{
+					"name": "해당 개체의 소유자(owned by)",
+					"children": [
+						{
+							"name": "에코카라트"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에코윙S",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "이산화탄소"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에코카라트",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "강서구"
+						}
+					]
+				},
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "부산"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "에쿠스",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "제네시스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "엔진",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "디젤차"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "대한항공"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "연간",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "장가항포항불수강"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "연말까지",
+			"children": [
+				{
+					"name": "해당 개체의 저자(author)",
+					"children": [
+						{
+							"name": "윤방부"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "연방준비제도",
+			"children": [
+				{
+					"name": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+					"children": [
+						{
+							"name": "달러"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "연합뉴스",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 산하 기관임(parent organization)",
+					"children": [
+						{
+							"name": "SK텔레콤"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "영등포역",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "지하철"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "영어",
+			"children": [
+				{
+					"name": "해당 개체가 다음 대상의 고유의 것임(indigenous to)",
+					"children": [
+						{
+							"name": "독자"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "한 번"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오른손",
+			"children": [
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "왼쪽"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오메르 융겔",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "태블릿"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오진수",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "문막"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오텔리니",
+			"children": [
+				{
+					"name": "해당 인물의 현재 또는 과거의 직위(position held)",
+					"children": [
+						{
+							"name": "CEO"
+						}
+					]
+				},
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "전자제품박람회"
+						}
+					]
+				},
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "인텔"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오토봇",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "EVA"
+						}
+					]
+				},
+				{
+					"name": "공간적 배경(narrative location)",
+					"children": [
+						{
+							"name": "올해"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "고탄력압축소재"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "르까프"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "오하이오 주립대",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "안철민"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "온실가스",
+			"children": [
+				{
+					"name": "해당 개체의 운영 주체(operator)",
+					"children": [
+						{
+							"name": "철도공사"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "올겨울",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "MK 어학원"
+						}
+					]
+				},
+				{
+					"name": "해당 저작물이나 명칭에서 사용한 언어(language of work or name)",
+					"children": [
+						{
+							"name": "영어"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "올림",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "손연재"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "올림픽대로",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "경부고속도로"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "올해",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "전자기기"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "옵티머스 뷰",
+			"children": [
+				{
+					"name": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+					"children": [
+						{
+							"name": "갤럭시 노트"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "옵티머스패드 LTE",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "용인",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "내곡"
+						}
+					]
+				},
+				{
+					"name": "해당 개체는 다음으로부터 이어짐(replaces)",
+					"children": [
+						{
+							"name": "분당"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "용정구분소",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "연간"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "우남건설",
+			"children": [
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "화성시"
+						}
+					]
+				},
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "경기도"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "우라늄",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "금"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "우리금융",
+			"children": [
+				{
+					"name": "해당 개체의 산하 기관(subsidiary)",
+					"children": [
+						{
+							"name": "BS금융지주"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "우리투자증권",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 산하 기관임(parent organization)",
+					"children": [
+						{
+							"name": "삼성자산운용"
+						}
+					]
+				},
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "통화정"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "운영체제",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "MS"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "원유",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "지난해"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "월스트리트저널",
+			"children": [
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "폭스뉴스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "위",
+			"children": [
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "앞"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "위구르 자치구",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "러시아"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "위중국",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "LED 모니터"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "윈도",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "윈도 운영체제",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "영국"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "구글"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "iOS"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "애플"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "프로세"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "IBM"
+						}
+					]
+				},
+				{
+					"name": "해당 개체와 같이 등장하는 개념(see also)",
+					"children": [
+						{
+							"name": "CPU"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "안드로이드"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "윈도RT",
+			"children": [
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "MS"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "윈도라이브"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "한국"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "유니폼",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "선수"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "유스",
+			"children": [
+				{
+					"name": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+					"children": [
+						{
+							"name": "더 퍼펙트 크루즈"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "유엔 안보리",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "대한민국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "은퇴자를 위한 특별한 강연회",
+			"children": [
+				{
+					"name": "해당 개체의 위치(location)",
+					"children": [
+						{
+							"name": "서초"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "을지로",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "참석자"
+						}
+					]
+				},
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "석좌교수"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "의정부",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "경기"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이근배",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "소비자"
+						}
+					]
+				},
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "소장"
+						}
+					]
+				},
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "상품과학연구소"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이사",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "얼라이언스번스타인"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이영애",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "의원"
+						}
+					]
+				},
+				{
+					"name": "해당 인물의 소속 정당(member of political party)",
+					"children": [
+						{
+							"name": "자유선진당"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이천일",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "올해"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "이달 말부터"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이탈리아",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "페트로파스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "이틀간",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "코엑스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "인슐린",
+			"children": [
+				{
+					"name": "다음에게서 영향을 받음(influenced by)",
+					"children": [
+						{
+							"name": "임중섭"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "인천공항철도",
+			"children": [
+				{
+					"name": "해당 개체가 다음과 연결되어 있음(connects with)",
+					"children": [
+						{
+							"name": "중앙선"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "인터파크",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "인텔",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "디지타임즈"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "대만"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "한국"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "일로일로",
+			"children": [
+				{
+					"name": "해당 장소나 사건에서 다음 언어가 주로 사용됨(language used)",
+					"children": [
+						{
+							"name": "영어"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "필리핀"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "일본",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "석모도"
+						}
+					]
+				}
+			]
+		}
+	]
+}

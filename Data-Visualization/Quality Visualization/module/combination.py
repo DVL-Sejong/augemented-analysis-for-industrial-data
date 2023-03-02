@@ -7,13 +7,17 @@ from scipy import stats
 import module.main as main
 from pycaret.regression import *
 
-uploadFileName = 'bike'
-targetColumn = 'cnt'
-inputModelList = ['lr', 'svm', 'gbr']
-inputEvalList = ['MAE', 'MSE', 'RMSE']
+uploadFileName = 'housing'
+targetColumn = 'PRICE'
+inputModelList = ['lr', 'rf', 'dt']
+inputEvalList = ['RMSE']
+
+# uploadFileName = 'beijing'
+# targetColumn = 'PM2.5'
+# inputModelList = ['lr', 'dt', 'rf', 'mlp']
+# inputEvalList = ['RMSE', 'R2']
 
 corrThreshold = 0.8
-
 originDf = pd.read_csv(uploadFileName + '.csv')
 originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
 columnList = list(originDf.columns)
@@ -55,27 +59,32 @@ allCorrDf = df.corr()
 
 # correlation
 highCorrColumnList = []
-for column in columnList:
-    columnCorrDf = abs(allCorrDf[column])
-    highCorrDf = columnCorrDf[columnCorrDf > corrThreshold]
-    
-    if len(highCorrDf) > 1:
-        highCorrColumnList.append(list(highCorrDf.index))
+for row in columnList:
+    for column in columnList:
+        if row == column: break
+        if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
+            highCorrColumnList.append([row, column])
 
-highCorrColumnList = list(set([tuple(set(item)) for item in highCorrColumnList]))
-highCorr = len(highCorrColumnList) * 2
+highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+highCorr = len(highCorrColumnList)
 
 # relevance
-columnCorrDf = abs(allCorrDf[targetColumn])
+targetColumnCorrDf = abs(allCorrDf[targetColumn])
 
-highCorrColumnList = []
+highCorrTargetColumnList = []
 for row in columnList:
     if row == targetColumn: continue
-    if columnCorrDf[row] < corrThreshold:
-        highCorrColumnList.append(row)
+    if targetColumnCorrDf[row] > corrThreshold:
+        highCorrTargetColumnList.append(row)
 
-highColumnCorr = len(highCorrColumnList)
-print(missing, outlier, incons, duplicate, highCorr, highColumnCorr)
+problemColumnList = []
+for highCorrColumn in highCorrTargetColumnList:
+    for column in columnList:
+        if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+            problemColumnList.append(column)
+
+problemCorr = len(problemColumnList)
+print(missing, outlier, incons, duplicate, highCorr, problemCorr)
 
 # to do action
 actionList = []
@@ -89,9 +98,8 @@ if duplicate > 0:
     actionList.append('d')
 if highCorr > 0:
     actionList.append('c')
-if highColumnCorr > 0:
+if problemCorr > 0:
     actionList.append('r')
-
 print(actionList)
 
 # permutation
@@ -99,7 +107,6 @@ permutationList = []
 for i in range(len(actionList)):
     permutationList.append(list(map("".join, itertools.permutations(actionList, i + 1))))
 permutationList = sum(permutationList, [])
-
 print(permutationList)
 
 # combination
@@ -347,25 +354,36 @@ for permutation in permutationList:
                     inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
                     allCorrDf = inconsNaNDf.corr(method = action)
 
-                    highCorrList = []
                     if alphabet == 'c':
+                        highCorrColumnList = []
                         for row in columnList:
                             for column in columnList:
                                 if row == column: break
                                 if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
-                                    highCorrList.append([row, column])
+                                    highCorrColumnList.append([row, column])
 
-                        highCorrList = list(set(sum(highCorrList, [])))
+                        highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+                        if targetColumn in highCorrColumnList: highCorrColumnList.remove(targetColumn)
+                        columnConcatDf = df.drop(highCorrColumnList, axis = 1)
 
                     if alphabet == 'r':
-                        columnCorrDf = allCorrDf[targetColumn]
-                        
-                        for row in columnList:
-                            if columnCorrDf[row] < corrThreshold and columnCorrDf[row] > -corrThreshold:
-                                highCorrList.append(row)
+                        targetColumnCorrDf = abs(allCorrDf[targetColumn])
 
-                    if targetColumn in highCorrList: highCorrList.remove(targetColumn)
-                    columnConcatDf = df.drop(highCorrList, axis = 1)
+                        highCorrTargetColumnList = []
+                        for row in columnList:
+                            if row == targetColumn: continue
+                            if targetColumnCorrDf[row] > corrThreshold:
+                                highCorrTargetColumnList.append(row)
+
+                        problemColumnList = []
+                        for highCorrColumn in highCorrTargetColumnList:
+                            for column in columnList:
+                                if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+                                    problemColumnList.append(column)
+                        
+                        if targetColumn in problemColumnList: problemColumnList.remove(targetColumn)
+                        columnConcatDf = df.drop(problemColumnList, axis = 1)
+
                     actionDfList.append(columnConcatDf)
         
         beforeActionList = actionList

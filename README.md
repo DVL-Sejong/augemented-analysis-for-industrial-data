@@ -23,7 +23,7 @@ Development of automatic data semantic information composition/expression techno
 - Soobin Yim
 - Changyoung Jung
 - Seokhwan Choi
-- Nayoung Koo
+- Seongbum Seo
 - Jungsoo Park
 - Seongwon Choi
 

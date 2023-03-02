@@ -33,6 +33,8 @@ regEvalList = ['MAE', 'RMSE', 'R2', 'RMSLE', 'MAPE']
 combination = []
 combinationDetail = []
 
+corrThreshold = 0.8
+
 @app.route('/fileUpload', methods=['GET', 'POST'])
 def fileUpload():
   req = request.files['file']
@@ -123,40 +125,41 @@ def donutChart():
   dupCnt = len(originDf[originDf.duplicated(keep = False)])
   dupRate = 100 - round(dupCnt/len(originDf) * 100)
 
+  global targetColumn, corrThreshold
   inconsNaNSeries = originDf.apply(pd.to_numeric, errors = 'coerce')
   inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
-  allCorrDf = inconsNaNDf.corr()
+  allCorrDf = inconsNaNDf.corr(method = 'kendall') # for boston house price dataset - kendall
   allCorrDf = allCorrDf.fillna(0)
-
-  highCorr = 0
-  corrThreshold = 0.8
 
   # correlation
   highCorrColumnList = []
-  for column in columnList:
-    columnCorrDf = abs(allCorrDf[column])
-    highCorrDf = columnCorrDf[columnCorrDf > corrThreshold]
-    
-    if len(highCorrDf) > 1:
-      highCorrColumnList.append(list(highCorrDf.index))
+  for row in columnList:
+    for column in columnList:
+      if row == column: break
+      if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
+        highCorrColumnList.append([row, column])
 
-  highCorrColumnList = list(set([tuple(set(item)) for item in highCorrColumnList]))
-  highCorr = len(highCorrColumnList) * 2
+  highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+  highCorr = len(highCorrColumnList)
   corRate = 100 - round(highCorr/len(columnList) * 100)
 
-  global targetColumn
-
   # relevance
-  columnCorrDf = abs(allCorrDf[targetColumn])
+  targetColumnCorrDf = abs(allCorrDf[targetColumn])
 
-  highCorrColumnList = []
+  highCorrTargetColumnList = []
   for row in columnList:
     if row == targetColumn: continue
-    if columnCorrDf[row] < corrThreshold:
-      highCorrColumnList.append(row)
-  
-  highColumnCorr = len(highCorrColumnList)
-  relRate = 100 - round(highColumnCorr/(len(columnList) - 1) * 100)
+    if targetColumnCorrDf[row] > corrThreshold:
+      highCorrTargetColumnList.append(row)
+
+  problemColumnList = []
+  for highCorrColumn in highCorrTargetColumnList:
+    for column in columnList:
+      if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+        problemColumnList.append(column)
+
+  problemCorr = len(problemColumnList)
+  relRate = 100 - round(problemCorr/(len(columnList) - 1) * 100)
 
   rateList = [misRate, outRate, incRate, dupRate, corRate, relRate]
   colorList = ['darkorange', 'steelblue', 'yellowgreen', 'lightcoral', 'darkslategray', 'mediumpurple']
@@ -181,7 +184,7 @@ def checkVisualization():
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
 
-  global targetColumn
+  global targetColumn, corrThreshold
   response = {'visualization': vis}
   
   # completeness, homogeneity
@@ -321,7 +324,6 @@ def checkVisualization():
 
   if vis == 'correlationChart' or vis == 'relevanceChart':
     method = req["method"]
-    corrThreshold = 0.8
 
     inconsNaNSeries = originDf.apply(pd.to_numeric, errors = 'coerce')
     inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
@@ -330,6 +332,7 @@ def checkVisualization():
     allCorrDf = allCorrDf.reindex(sorted(allCorrDf.columns), axis = 1)
 
     # correlation
+    ##### to fix
     if vis == 'correlationChart':
       highCorrColumnList = []
       for column in columnList:
@@ -359,6 +362,7 @@ def checkVisualization():
       response['categoryData'] = categoryDataList
 
     # relevance
+    ##### to fix
     if vis == 'relevanceChart':
       columnCorrDf = allCorrDf[targetColumn]
 
@@ -491,46 +495,45 @@ def columnSummary():
   originDf = pd.read_csv('static/dataset/' + str(fileName) + '.csv')
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
-  totalNum = len(originDf)
 
+  global targetColumn, corrThreshold
   inconsNaNSeries = originDf.apply(pd.to_numeric, errors = 'coerce')
   inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
-  allCorrDf = inconsNaNDf.corr(method = 'kendall')
+  allCorrDf = inconsNaNDf.corr(method = 'kendall') # for boston house price dataset - kendall
   allCorrDf = allCorrDf.fillna(0)
-  
-  corrThreshold = 0.8
 
   # correlation
-  corrColumnList = []
-  for column in columnList:
-    columnCorrDf = abs(allCorrDf[column])
-    highCorrDf = columnCorrDf[columnCorrDf > corrThreshold]
-    
-    if len(highCorrDf) > 1:
-      corrColumnList.append(list(highCorrDf.index))
+  highCorrColumnList = []
+  for row in columnList:
+    for column in columnList:
+      if row == column: break
+      if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
+        highCorrColumnList.append([row, column])
+  highCorrColumnList = list(set(sum(highCorrColumnList, [])))
 
-  corrColumnList = sum(corrColumnList, [])
-  corrColumnList = list(set(corrColumnList))
   corList = [0 for i in range(len(columnList))]
   for i in range(len(columnList)):
-    if columnList[i] in corrColumnList:
+    if columnList[i] in highCorrColumnList:
       corList[i] = 100
 
-  global targetColumn
-
   # relevence
-  allCorrDf = allCorrDf.reindex(sorted(allCorrDf.columns), axis = 1)
-  columnCorrDf = allCorrDf[targetColumn]
+  targetColumnCorrDf = abs(allCorrDf[targetColumn])
 
-  columnCorrColumnList = []
+  highCorrTargetColumnList = []
   for row in columnList:
     if row == targetColumn: continue
-    if columnCorrDf[row] < corrThreshold and columnCorrDf[row] > -corrThreshold:
-      columnCorrColumnList.append(row)
+    if targetColumnCorrDf[row] > corrThreshold:
+      highCorrTargetColumnList.append(row)
+
+  problemColumnList = []
+  for highCorrColumn in highCorrTargetColumnList:
+    for column in columnList:
+      if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+        problemColumnList.append(column)
 
   relList = [0 for i in range(len(columnList))]
   for i in range(len(columnList)):
-    if columnList[i] in columnCorrColumnList:
+    if columnList[i] in problemColumnList:
       relList[i] = 100
 
   seriesData = []
@@ -571,7 +574,7 @@ def recommend():
   req = request.get_data().decode('utf-8')
   req = eval(req)
 
-  global uploadFileName, combination, combinationDetail, targetColumn
+  global uploadFileName, combination, combinationDetail, targetColumn, corrThreshold
   combination = req["combination"]
   combinationDetail = req["combinationDetail"]
 
@@ -706,28 +709,36 @@ def recommend():
       inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
       allCorrDf = inconsNaNDf.corr(method = action)
       allCorrDf = allCorrDf.fillna(0)
-      corrThreshold = 0.8
 
-      highCorrList = []
       if issue == 'correlation':
+        highCorrColumnList = []
         for row in columnList:
           for column in columnList:
             if row == column: break
             if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
-              highCorrList.append([row, column])
+              highCorrColumnList.append([row, column])
 
-        highCorrList = list(set(sum(highCorrList, [])))
+        highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+        if targetColumn in highCorrColumnList: highCorrColumnList.remove(targetColumn)
+        beforeDf = beforeDf.drop(highCorrColumnList, axis = 1)
 
       if issue == 'relevance':
-        columnCorrDf = allCorrDf[targetColumn]
-        
+        targetColumnCorrDf = abs(allCorrDf[targetColumn])
+
+        highCorrTargetColumnList = []
         for row in columnList:
-          if columnCorrDf[row] < corrThreshold and columnCorrDf[row] > -corrThreshold:
-            highCorrList.append(row)
+          if row == targetColumn: continue
+          if targetColumnCorrDf[row] > corrThreshold:
+            highCorrTargetColumnList.append(row)
 
-      if targetColumn in highCorrList: highCorrList.remove(targetColumn)
-      beforeDf = beforeDf.drop(highCorrList, axis = 1)
+        problemColumnList = []
+        for highCorrColumn in highCorrTargetColumnList:
+          for column in columnList:
+            if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+              problemColumnList.append(column)
 
+        if targetColumn in problemColumnList: problemColumnList.remove(targetColumn)  
+        beforeDf = beforeDf.drop(problemColumnList, axis = 1)
     beforeDf.to_csv('static/dataset/' + str(i + 1) + '.csv', index = False)
 
   return json.dumps({'recommend': 'success'})
@@ -829,7 +840,7 @@ def new():
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
 
-  global combination, combinationDetail, targetColumn
+  global combination, combinationDetail, targetColumn, corrThreshold
   customIssue = combination[fileName - 1]
   originAction = combinationDetail[fileName - 1]
 
@@ -1112,30 +1123,36 @@ def new():
       inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
       allCorrDf = inconsNaNDf.corr(method = action)
       allCorrDf = allCorrDf.fillna(0)
-      corrThreshold = 0.8
 
-      highCorrList = []
       if issue == 'correlation':
+        highCorrColumnList = []
         for row in columnList:
           for column in columnList:
             if row == column: break
             if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
-              highCorrList.append([row, column])
+              highCorrColumnList.append([row, column])
 
-        highCorrList = list(set(sum(highCorrList, [])))
-        if targetColumn in highCorrList: highCorrList.remove(targetColumn)
-        beforeDf = beforeDf.drop(highCorrList, axis = 1)
+        highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+        if targetColumn in highCorrColumnList: highCorrColumnList.remove(targetColumn)
+        beforeDf = beforeDf.drop(highCorrColumnList, axis = 1)
 
       if issue == 'relevance':
-        columnCorrDf = allCorrDf[targetColumn]
-        
+        targetColumnCorrDf = abs(allCorrDf[targetColumn])
+
+        highCorrTargetColumnList = []
         for row in columnList:
-          if columnCorrDf[row] < corrThreshold and columnCorrDf[row] > -corrThreshold:
-            highCorrList.append(row)
+          if row == targetColumn: continue
+          if targetColumnCorrDf[row] > corrThreshold:
+            highCorrTargetColumnList.append(row)
 
-        if targetColumn in highCorrList: highCorrList.remove(targetColumn)
-        beforeDf = beforeDf.drop(highCorrList, axis = 1)
+        problemColumnList = []
+        for highCorrColumn in highCorrTargetColumnList:
+          for column in columnList:
+            if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+              problemColumnList.append(column)
 
+        if targetColumn in problemColumnList: problemColumnList.remove(targetColumn)
+        beforeDf = beforeDf.drop(problemColumnList, axis = 1)
     beforeDf.to_csv('static/dataset/' + str(i + 1) + '.csv', index = False)
 
   return json.dumps({'new': 'success'})
@@ -1316,7 +1333,8 @@ def changeDistort():
   for i in range(0, len(indexList)):
     resultList.append({'index': indexList[i], 'x': xList[i], 'y': yList[i]})
 
-  kstest = round(abs(stats.ks_2samp(beforeColumnDf, afterColumnDf).pvalue), 3)
+  if fileName == 0: kstest = 0
+  else: kstest = round(abs(stats.ks_2samp(beforeColumnDf, afterColumnDf).pvalue), 3)
 
   response = {}
   response['ECDFchartData'] = resultList

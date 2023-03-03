@@ -1,4 +1,13 @@
+### Survey
 Opportunities and Challenges in Explainable Artificial Intelligence (XAI) A Survey
 Explainable Artificial Intelligence (XAI) Concepts, Taxonomies, Opportunities and Challenges toward Responsible Ai
-Human-Centered Explainable AI (XAI) From Algorithms to User Experiences
 Opportunities and Challenges in Explainable Artificial Intelligence (XAI) A Survey
+
+### Local explanation
+
+- High-precision Model-Agnostic Explanations (Anchors)
+- Why Should I Trust You?”: Explaining the Predictions of Any Classifier (LIME)
+- Counterfactual Explanations without Opening the Black Box: Automated Decisions and the Gdpr
+
+### HCI
+Human-Centered Explainable AI (XAI) From Algorithms to User Experiences

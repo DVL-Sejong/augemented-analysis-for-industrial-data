@@ -7,3 +7,6 @@
 + Stoffel et al. - 2015 - Feature-based Visual Exploration of Text Classification
 + Stoffel et al. - 2015 - VAPD - A Visionary System for Uncertainty Aware Decision Making in Crime Analysis
 + van den Elzen et al. - 2015 - Reducing Snapshots to Points_ A Visual Analytics Approach to Dynamic Network Exploration
+
+### 2016
++ Gutenko et al. - 2016 - AnaFe_ Visual Analytics of Image-derived Temporal Features – Focusing on the Spleen

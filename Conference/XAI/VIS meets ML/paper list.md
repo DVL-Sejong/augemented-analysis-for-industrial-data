@@ -10,3 +10,7 @@
 
 ### 2016
 + Gutenko et al. - 2016 - AnaFe_ Visual Analytics of Image-derived Temporal Features – Focusing on the Spleen
+
+
+
+### VIS 2022

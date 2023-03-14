@@ -27,7 +27,6 @@ Development of automatic data semantic information composition/expression techno
 - Seongbum Seo
 - Jungsoo Park
 - Seongwon Choi
-- Seongbum Seo
 
 # Instituions
 - Sejong University, Seoul, South Korea

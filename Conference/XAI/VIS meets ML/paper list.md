@@ -16,3 +16,4 @@
 
 ### VIS 2022
 + Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
++ MV2Net: Multi-Variate Multi-View Brain Network Comparison over Uncertain Data

@@ -17,3 +17,4 @@
 ### VIS 2022
 + Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
 + MV2Net: Multi-Variate Multi-View Brain Network Comparison over Uncertain Data
++ Fuzzy_Spreadsheet_Understanding_and_Exploring_Uncertainties_in_Tabular_Calculations

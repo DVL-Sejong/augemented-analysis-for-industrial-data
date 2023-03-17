@@ -18,3 +18,4 @@
 + Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
 + MV2Net: Multi-Variate Multi-View Brain Network Comparison over Uncertain Data
 + Fuzzy_Spreadsheet_Understanding_and_Exploring_Uncertainties_in_Tabular_Calculations
++ VERTIGo_A_Visual_Platform_for_Querying_and_Exploring_Large_Multilayer_Networks

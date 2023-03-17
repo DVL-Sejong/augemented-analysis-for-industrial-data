@@ -11,7 +11,8 @@
 ### 2016
 + Gutenko et al. - 2016 - AnaFe_ Visual Analytics of Image-derived Temporal Features – Focusing on the Spleen
 
-
+### 2019
++ Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics
 
 ### VIS 2022
-Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
++ Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction

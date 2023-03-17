@@ -1,0 +1,2102 @@
+[
+    {
+        "DOCID": 2018,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스",
+        "SUB_OBJ": "14일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2019,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스",
+        "SUB_OBJ": "김성래",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2020,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스",
+        "SUB_OBJ": "생명공학",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2021,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2022,
+        "MAIN_OBJ": "14일",
+        "SUB_OBJ": "생명공학",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 2023,
+        "MAIN_OBJ": "김성래",
+        "SUB_OBJ": "생명공학",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2024,
+        "MAIN_OBJ": "김성래",
+        "SUB_OBJ": "파트너",
+        "RELATION": "직업(occupation)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2025,
+        "MAIN_OBJ": "김성래",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2026,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "생명공학",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2027,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "파트너",
+        "RELATION": "직업(occupation)",
+        "weight": "0.30837"
+    },
+    {
+        "DOCID": 2028,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.37852"
+    },
+    {
+        "DOCID": 2029,
+        "MAIN_OBJ": "생명공학",
+        "SUB_OBJ": "김성래",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2030,
+        "MAIN_OBJ": "생명공학",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2031,
+        "MAIN_OBJ": "생명공학",
+        "SUB_OBJ": "파트너",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2032,
+        "MAIN_OBJ": "생명공학",
+        "SUB_OBJ": "부사장",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2033,
+        "MAIN_OBJ": "파트너",
+        "SUB_OBJ": "14일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2034,
+        "MAIN_OBJ": "파트너",
+        "SUB_OBJ": "김성래",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2035,
+        "MAIN_OBJ": "파트너",
+        "SUB_OBJ": "생명공학",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2036,
+        "MAIN_OBJ": "파트너",
+        "SUB_OBJ": "부사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.36609"
+    },
+    {
+        "DOCID": 2037,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "파트너",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.36609"
+    },
+    {
+        "DOCID": 2038,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "파트너",
+        "RELATION": "직업(occupation)",
+        "weight": "0.09797"
+    },
+    {
+        "DOCID": 2039,
+        "MAIN_OBJ": "경인에너지",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2040,
+        "MAIN_OBJ": "보스턴은행",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2041,
+        "MAIN_OBJ": "보스턴은행",
+        "SUB_OBJ": "경인에너지",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2042,
+        "MAIN_OBJ": "보스턴은행",
+        "SUB_OBJ": "CJ 제일제당",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2043,
+        "MAIN_OBJ": "보스턴은행",
+        "SUB_OBJ": "하이드릭 앤 스트러글스 한국법인",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2044,
+        "MAIN_OBJ": "CJ 제일제당",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 2045,
+        "MAIN_OBJ": "CJ 제일제당",
+        "SUB_OBJ": "경인에너지",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 2046,
+        "MAIN_OBJ": "CJ 제일제당",
+        "SUB_OBJ": "하이드릭 앤 스트러글스 한국법인",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2047,
+        "MAIN_OBJ": "2007년",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2048,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스 한국법인",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 2049,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스 한국법인",
+        "SUB_OBJ": "경인에너지",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 2050,
+        "MAIN_OBJ": "하이드릭 앤 스트러글스 한국법인",
+        "SUB_OBJ": "보스턴은행",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2051,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 2052,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 2053,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "서영세",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.16498"
+    },
+    {
+        "DOCID": 2054,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.26651"
+    },
+    {
+        "DOCID": 2055,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "이영훈",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2209"
+    },
+    {
+        "DOCID": 2056,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 2057,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.13183"
+    },
+    {
+        "DOCID": 2058,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 2059,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.38955"
+    },
+    {
+        "DOCID": 2060,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.16498"
+    },
+    {
+        "DOCID": 2061,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 2062,
+        "MAIN_OBJ": "포스코",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.24152"
+    },
+    {
+        "DOCID": 2063,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "전중선",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.05621"
+    },
+    {
+        "DOCID": 2064,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "이복성",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 2065,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "상무대우",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.0312"
+    },
+    {
+        "DOCID": 2066,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.09834"
+    },
+    {
+        "DOCID": 2067,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 2068,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.09162"
+    },
+    {
+        "DOCID": 2069,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2070,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 2071,
+        "MAIN_OBJ": "조봉래",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2072,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "상무",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.74361"
+    },
+    {
+        "DOCID": 2073,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.1123"
+    },
+    {
+        "DOCID": 2074,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 2075,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 2076,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 2077,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 2078,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2079,
+        "MAIN_OBJ": "이후근",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 2080,
+        "MAIN_OBJ": "이정식",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 2081,
+        "MAIN_OBJ": "이정식",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 2082,
+        "MAIN_OBJ": "이정식",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 2083,
+        "MAIN_OBJ": "이정식",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.06114"
+    },
+    {
+        "DOCID": 2084,
+        "MAIN_OBJ": "이정식",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 2085,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.41014"
+    },
+    {
+        "DOCID": 2086,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "이후근",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2087,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2088,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "이영훈",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.23486"
+    },
+    {
+        "DOCID": 2089,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "최정우",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.41014"
+    },
+    {
+        "DOCID": 2090,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2091,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2092,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2093,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2094,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "조용두",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.48601"
+    },
+    {
+        "DOCID": 2095,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.21671"
+    },
+    {
+        "DOCID": 2096,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "정창화",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.35585"
+    },
+    {
+        "DOCID": 2097,
+        "MAIN_OBJ": "서영세",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.48601"
+    },
+    {
+        "DOCID": 2098,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.1123"
+    },
+    {
+        "DOCID": 2099,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 2100,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 2101,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 2102,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 2103,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2104,
+        "MAIN_OBJ": "박명길",
+        "SUB_OBJ": "조용두",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 2105,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 2106,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 2107,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.10293"
+    },
+    {
+        "DOCID": 2108,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 2109,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 2110,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 2111,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.12985"
+    },
+    {
+        "DOCID": 2112,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.21454"
+    },
+    {
+        "DOCID": 2113,
+        "MAIN_OBJ": "이영훈",
+        "SUB_OBJ": "조용두",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 2114,
+        "MAIN_OBJ": "최정우",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.06899"
+    },
+    {
+        "DOCID": 2115,
+        "MAIN_OBJ": "최정우",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2116,
+        "MAIN_OBJ": "최정우",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 2117,
+        "MAIN_OBJ": "최정우",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 2118,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2119,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2120,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "이후근",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47102"
+    },
+    {
+        "DOCID": 2121,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.56951"
+    },
+    {
+        "DOCID": 2122,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "서영세",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2123,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47102"
+    },
+    {
+        "DOCID": 2124,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "이영훈",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.40355"
+    },
+    {
+        "DOCID": 2125,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "최정우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2126,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2127,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.26001"
+    },
+    {
+        "DOCID": 2128,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2129,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.10523"
+    },
+    {
+        "DOCID": 2130,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2131,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2132,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2133,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "전중선",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28502"
+    },
+    {
+        "DOCID": 2134,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2135,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2136,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.37699"
+    },
+    {
+        "DOCID": 2137,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "정창화",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.56951"
+    },
+    {
+        "DOCID": 2138,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43447"
+    },
+    {
+        "DOCID": 2139,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "김관영",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2140,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "상무대우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2141,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.73281"
+    },
+    {
+        "DOCID": 2142,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2143,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "김병휘",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2144,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "황보원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2145,
+        "MAIN_OBJ": "전무대우",
+        "SUB_OBJ": "하영술",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2146,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "이후근",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2147,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 2148,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2149,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.09162"
+    },
+    {
+        "DOCID": 2150,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2151,
+        "MAIN_OBJ": "박귀찬",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2152,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.48392"
+    },
+    {
+        "DOCID": 2153,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "이후근",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.34131"
+    },
+    {
+        "DOCID": 2154,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.42384"
+    },
+    {
+        "DOCID": 2155,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.34131"
+    },
+    {
+        "DOCID": 2156,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "이영훈",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.28662"
+    },
+    {
+        "DOCID": 2157,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.21788"
+    },
+    {
+        "DOCID": 2158,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.37785"
+    },
+    {
+        "DOCID": 2159,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.37785"
+    },
+    {
+        "DOCID": 2160,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.48391"
+    },
+    {
+        "DOCID": 2161,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.21788"
+    },
+    {
+        "DOCID": 2162,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.37785"
+    },
+    {
+        "DOCID": 2163,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.26555"
+    },
+    {
+        "DOCID": 2164,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "정창화",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.42384"
+    },
+    {
+        "DOCID": 2165,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.31148"
+    },
+    {
+        "DOCID": 2166,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.56666"
+    },
+    {
+        "DOCID": 2167,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.69088"
+    },
+    {
+        "DOCID": 2168,
+        "MAIN_OBJ": "김영헌",
+        "SUB_OBJ": "김병휘",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.48391"
+    },
+    {
+        "DOCID": 2169,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.41014"
+    },
+    {
+        "DOCID": 2170,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2171,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.35585"
+    },
+    {
+        "DOCID": 2172,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "서영세",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2173,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.14105"
+    },
+    {
+        "DOCID": 2174,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2175,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2176,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.41014"
+    },
+    {
+        "DOCID": 2177,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2178,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2179,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.21671"
+    },
+    {
+        "DOCID": 2180,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.25644"
+    },
+    {
+        "DOCID": 2181,
+        "MAIN_OBJ": "서명득",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.60195"
+    },
+    {
+        "DOCID": 2182,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "이복성",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.03478"
+    },
+    {
+        "DOCID": 2183,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.09834"
+    },
+    {
+        "DOCID": 2184,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 2185,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.07197"
+    },
+    {
+        "DOCID": 2186,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2187,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "조용두",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 2188,
+        "MAIN_OBJ": "배청헌",
+        "SUB_OBJ": "황보원",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2189,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 2190,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.09162"
+    },
+    {
+        "DOCID": 2191,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "전중선",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08061"
+    },
+    {
+        "DOCID": 2192,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 2193,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 2194,
+        "MAIN_OBJ": "신건",
+        "SUB_OBJ": "황보원",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2195,
+        "MAIN_OBJ": "김동수",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.36377"
+    },
+    {
+        "DOCID": 2196,
+        "MAIN_OBJ": "김동수",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.05004"
+    },
+    {
+        "DOCID": 2197,
+        "MAIN_OBJ": "김동수",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.06413"
+    },
+    {
+        "DOCID": 2198,
+        "MAIN_OBJ": "김동수",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.08131"
+    },
+    {
+        "DOCID": 2199,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.44859"
+    },
+    {
+        "DOCID": 2200,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.34747"
+    },
+    {
+        "DOCID": 2201,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "최정우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.44859"
+    },
+    {
+        "DOCID": 2202,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.34747"
+    },
+    {
+        "DOCID": 2203,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.15892"
+    },
+    {
+        "DOCID": 2204,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.34747"
+    },
+    {
+        "DOCID": 2205,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.34747"
+    },
+    {
+        "DOCID": 2206,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.44859"
+    },
+    {
+        "DOCID": 2207,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.19749"
+    },
+    {
+        "DOCID": 2208,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.34747"
+    },
+    {
+        "DOCID": 2209,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "이복성",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.31291"
+    },
+    {
+        "DOCID": 2210,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28483"
+    },
+    {
+        "DOCID": 2211,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.52821"
+    },
+    {
+        "DOCID": 2212,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.64869"
+    },
+    {
+        "DOCID": 2213,
+        "MAIN_OBJ": "전중선",
+        "SUB_OBJ": "김병휘",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.44859"
+    },
+    {
+        "DOCID": 2214,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.41014"
+    },
+    {
+        "DOCID": 2215,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2216,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.14105"
+    },
+    {
+        "DOCID": 2217,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2218,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2219,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.3148"
+    },
+    {
+        "DOCID": 2220,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2221,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "조용두",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.48601"
+    },
+    {
+        "DOCID": 2222,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.21671"
+    },
+    {
+        "DOCID": 2223,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.25644"
+    },
+    {
+        "DOCID": 2224,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.48601"
+    },
+    {
+        "DOCID": 2225,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "황보원",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.60195"
+    },
+    {
+        "DOCID": 2226,
+        "MAIN_OBJ": "성기웅",
+        "SUB_OBJ": "신학균",
+        "RELATION": "해당 개체와 연관된 종교(religion)",
+        "weight": "0.28253"
+    },
+    {
+        "DOCID": 2227,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.09834"
+    },
+    {
+        "DOCID": 2228,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 2229,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2230,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.07197"
+    },
+    {
+        "DOCID": 2231,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.09162"
+    },
+    {
+        "DOCID": 2232,
+        "MAIN_OBJ": "조영기",
+        "SUB_OBJ": "황보원",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2233,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "포스코",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.1123"
+    },
+    {
+        "DOCID": 2234,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "서영세",
+        "RELATION": "하위 행정구역",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 2235,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 2236,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "상무",
+        "RELATION": "하위 행정구역",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 2237,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "조용두",
+        "RELATION": "하위 행정구역",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 2238,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "정창화",
+        "RELATION": "하위 행정구역",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 2239,
+        "MAIN_OBJ": "이복성",
+        "SUB_OBJ": "김관영",
+        "RELATION": "하위 행정구역",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 2240,
+        "MAIN_OBJ": "조용두",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2241,
+        "MAIN_OBJ": "조용두",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.03864"
+    },
+    {
+        "DOCID": 2242,
+        "MAIN_OBJ": "조용두",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.0497"
+    },
+    {
+        "DOCID": 2243,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.15169"
+    },
+    {
+        "DOCID": 2244,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 2245,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.26068"
+    },
+    {
+        "DOCID": 2246,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "서영세",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.14188"
+    },
+    {
+        "DOCID": 2247,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.11278"
+    },
+    {
+        "DOCID": 2248,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.14188"
+    },
+    {
+        "DOCID": 2249,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.26068"
+    },
+    {
+        "DOCID": 2250,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.23257"
+    },
+    {
+        "DOCID": 2251,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.21003"
+    },
+    {
+        "DOCID": 2252,
+        "MAIN_OBJ": "정탁",
+        "SUB_OBJ": "신학균",
+        "RELATION": "해당 개체와 연관된 종교(religion)",
+        "weight": "0.23257"
+    },
+    {
+        "DOCID": 2253,
+        "MAIN_OBJ": "정창화",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 2254,
+        "MAIN_OBJ": "정창화",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.07809"
+    },
+    {
+        "DOCID": 2255,
+        "MAIN_OBJ": "정창화",
+        "SUB_OBJ": "이복성",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 2256,
+        "MAIN_OBJ": "정창화",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 2257,
+        "MAIN_OBJ": "정창화",
+        "SUB_OBJ": "신학균",
+        "RELATION": "해당 개체와 연관된 종교(religion)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 2258,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 2259,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 2260,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.09286"
+    },
+    {
+        "DOCID": 2261,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.11748"
+    },
+    {
+        "DOCID": 2262,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 2263,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.11748"
+    },
+    {
+        "DOCID": 2264,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.14674"
+    },
+    {
+        "DOCID": 2265,
+        "MAIN_OBJ": "손창환",
+        "SUB_OBJ": "신학균",
+        "RELATION": "해당 개체와 연관된 종교(religion)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 2266,
+        "MAIN_OBJ": "김관영",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 2267,
+        "MAIN_OBJ": "김관영",
+        "SUB_OBJ": "이복성",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 2268,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2269,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "조봉래",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2270,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "이후근",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47102"
+    },
+    {
+        "DOCID": 2271,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.56951"
+    },
+    {
+        "DOCID": 2272,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "서영세",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2273,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "박명길",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47102"
+    },
+    {
+        "DOCID": 2274,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "이영훈",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.40355"
+    },
+    {
+        "DOCID": 2275,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "최정우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2276,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "박귀찬",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2277,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "김영헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.26001"
+    },
+    {
+        "DOCID": 2278,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2279,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.10523"
+    },
+    {
+        "DOCID": 2280,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "배청헌",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2281,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "신건",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2282,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "김동수",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2283,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "전중선",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28502"
+    },
+    {
+        "DOCID": 2284,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "성기웅",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31558"
+    },
+    {
+        "DOCID": 2285,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "조영기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.51507"
+    },
+    {
+        "DOCID": 2286,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "조용두",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.73281"
+    },
+    {
+        "DOCID": 2287,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.37699"
+    },
+    {
+        "DOCID": 2288,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "정창화",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.56951"
+    },
+    {
+        "DOCID": 2289,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "손창환",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43447"
+    },
+    {
+        "DOCID": 2290,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "김관영",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2291,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "이명호",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.73281"
+    },
+    {
+        "DOCID": 2292,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "최승덕",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2293,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "김병휘",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2294,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "황보원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.86962"
+    },
+    {
+        "DOCID": 2295,
+        "MAIN_OBJ": "상무대우",
+        "SUB_OBJ": "하영술",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.63914"
+    },
+    {
+        "DOCID": 2296,
+        "MAIN_OBJ": "이명호",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2297,
+        "MAIN_OBJ": "이명호",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.0497"
+    },
+    {
+        "DOCID": 2298,
+        "MAIN_OBJ": "이명호",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 2299,
+        "MAIN_OBJ": "최승덕",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 2300,
+        "MAIN_OBJ": "최승덕",
+        "SUB_OBJ": "조용두",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 2301,
+        "MAIN_OBJ": "김병휘",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2302,
+        "MAIN_OBJ": "김병휘",
+        "SUB_OBJ": "이정식",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 2303,
+        "MAIN_OBJ": "김병휘",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 2304,
+        "MAIN_OBJ": "김병휘",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.08131"
+    },
+    {
+        "DOCID": 2305,
+        "MAIN_OBJ": "황보원",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 2306,
+        "MAIN_OBJ": "황보원",
+        "SUB_OBJ": "이복성",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 2307,
+        "MAIN_OBJ": "하영술",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2308,
+        "MAIN_OBJ": "하영술",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.06413"
+    },
+    {
+        "DOCID": 2309,
+        "MAIN_OBJ": "하영술",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 2310,
+        "MAIN_OBJ": "하영술",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.08131"
+    },
+    {
+        "DOCID": 2311,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "포스코",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.1123"
+    },
+    {
+        "DOCID": 2312,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 2313,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "전무대우",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.05218"
+    },
+    {
+        "DOCID": 2314,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "서명득",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 2315,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 2316,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "이복성",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2317,
+        "MAIN_OBJ": "신학균",
+        "SUB_OBJ": "정탁",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.13128"
+    }
+]

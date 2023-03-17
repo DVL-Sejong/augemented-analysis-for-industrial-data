@@ -1,0 +1,1556 @@
+[
+    {
+        "DOCID": 2880,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "자동차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.74643"
+    },
+    {
+        "DOCID": 2881,
+        "MAIN_OBJ": "자동차",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10103"
+    },
+    {
+        "DOCID": 2882,
+        "MAIN_OBJ": "자동차",
+        "SUB_OBJ": "하나",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.10767"
+    },
+    {
+        "DOCID": 2883,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "중형차",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 2884,
+        "MAIN_OBJ": "스포츠유틸리티차량",
+        "SUB_OBJ": "SUV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2885,
+        "MAIN_OBJ": "SUV",
+        "SUB_OBJ": "스포츠유틸리티차량",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2886,
+        "MAIN_OBJ": "기아",
+        "SUB_OBJ": "K9",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2887,
+        "MAIN_OBJ": "기아",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.43354"
+    },
+    {
+        "DOCID": 2888,
+        "MAIN_OBJ": "기아",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 2889,
+        "MAIN_OBJ": "K9",
+        "SUB_OBJ": "기아",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2890,
+        "MAIN_OBJ": "K9",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 2891,
+        "MAIN_OBJ": "K9",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 2892,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "K9",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 2893,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2894,
+        "MAIN_OBJ": "싼타페",
+        "SUB_OBJ": "K9",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 2895,
+        "MAIN_OBJ": "현대·기아차",
+        "SUB_OBJ": "두 차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2896,
+        "MAIN_OBJ": "두 차",
+        "SUB_OBJ": "현대·기아차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2897,
+        "MAIN_OBJ": "K9",
+        "SUB_OBJ": "발광다이오드",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 2898,
+        "MAIN_OBJ": "발광다이오드",
+        "SUB_OBJ": "LED",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2899,
+        "MAIN_OBJ": "발광다이오드",
+        "SUB_OBJ": "눈",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 2900,
+        "MAIN_OBJ": "LED",
+        "SUB_OBJ": "발광다이오드",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2901,
+        "MAIN_OBJ": "LED",
+        "SUB_OBJ": "눈",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 2902,
+        "MAIN_OBJ": "싼타페",
+        "SUB_OBJ": "현대차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 2903,
+        "MAIN_OBJ": "현대차",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 2904,
+        "MAIN_OBJ": "현대차",
+        "SUB_OBJ": "헥사고날",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2905,
+        "MAIN_OBJ": "현대차",
+        "SUB_OBJ": "육각형",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2906,
+        "MAIN_OBJ": "헥사고날",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 2907,
+        "MAIN_OBJ": "헥사고날",
+        "SUB_OBJ": "현대차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2908,
+        "MAIN_OBJ": "헥사고날",
+        "SUB_OBJ": "육각형",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2909,
+        "MAIN_OBJ": "육각형",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 2910,
+        "MAIN_OBJ": "육각형",
+        "SUB_OBJ": "싼타페",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 2911,
+        "MAIN_OBJ": "육각형",
+        "SUB_OBJ": "현대차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2912,
+        "MAIN_OBJ": "육각형",
+        "SUB_OBJ": "헥사고날",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2913,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "한국GM",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 2914,
+        "MAIN_OBJ": "르노삼성",
+        "SUB_OBJ": "SM7",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2915,
+        "MAIN_OBJ": "지난달",
+        "SUB_OBJ": "SM7",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 2916,
+        "MAIN_OBJ": "SM7",
+        "SUB_OBJ": "르노삼성",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2917,
+        "MAIN_OBJ": "SM3",
+        "SUB_OBJ": "SM5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2918,
+        "MAIN_OBJ": "SM5",
+        "SUB_OBJ": "SM3",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2919,
+        "MAIN_OBJ": "한국GM",
+        "SUB_OBJ": "캡티바 2.0",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2920,
+        "MAIN_OBJ": "한국GM",
+        "SUB_OBJ": "스포츠카",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 2921,
+        "MAIN_OBJ": "한국GM",
+        "SUB_OBJ": "콜벳",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2922,
+        "MAIN_OBJ": "지난 연말",
+        "SUB_OBJ": "캡티바 2.0",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 2923,
+        "MAIN_OBJ": "캡티바 2.0",
+        "SUB_OBJ": "한국GM",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 2924,
+        "MAIN_OBJ": "캡티바 2.0",
+        "SUB_OBJ": "지난 연말",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2925,
+        "MAIN_OBJ": "캡티바 2.0",
+        "SUB_OBJ": "스포츠카",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 2926,
+        "MAIN_OBJ": "캡티바 2.0",
+        "SUB_OBJ": "쉐보레",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2927,
+        "MAIN_OBJ": "스포츠카",
+        "SUB_OBJ": "한국GM",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 2928,
+        "MAIN_OBJ": "스포츠카",
+        "SUB_OBJ": "쉐보레",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 2929,
+        "MAIN_OBJ": "쉐보레",
+        "SUB_OBJ": "한국GM",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2930,
+        "MAIN_OBJ": "쉐보레",
+        "SUB_OBJ": "캡티바 2.0",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2931,
+        "MAIN_OBJ": "쉐보레",
+        "SUB_OBJ": "스포츠카",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 2932,
+        "MAIN_OBJ": "쉐보레",
+        "SUB_OBJ": "콜벳",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2933,
+        "MAIN_OBJ": "콜벳",
+        "SUB_OBJ": "한국GM",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2934,
+        "MAIN_OBJ": "콜벳",
+        "SUB_OBJ": "지난 연말",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2935,
+        "MAIN_OBJ": "콜벳",
+        "SUB_OBJ": "스포츠카",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 2936,
+        "MAIN_OBJ": "콜벳",
+        "SUB_OBJ": "쉐보레",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2937,
+        "MAIN_OBJ": "쌍용차",
+        "SUB_OBJ": "코란도스포츠",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2938,
+        "MAIN_OBJ": "코란도C",
+        "SUB_OBJ": "쌍용차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2939,
+        "MAIN_OBJ": "코란도스포츠",
+        "SUB_OBJ": "코란도C",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2940,
+        "MAIN_OBJ": "도요타",
+        "SUB_OBJ": "1만3000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2941,
+        "MAIN_OBJ": "도요타",
+        "SUB_OBJ": "7700대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2942,
+        "MAIN_OBJ": "도요타",
+        "SUB_OBJ": "2만700대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2943,
+        "MAIN_OBJ": "1만3000대",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2944,
+        "MAIN_OBJ": "1만3000대",
+        "SUB_OBJ": "7700대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2945,
+        "MAIN_OBJ": "1만3000대",
+        "SUB_OBJ": "2만700대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 2946,
+        "MAIN_OBJ": "렉서스",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 2947,
+        "MAIN_OBJ": "렉서스",
+        "SUB_OBJ": "7700대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 2948,
+        "MAIN_OBJ": "렉서스",
+        "SUB_OBJ": "2만700대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 2949,
+        "MAIN_OBJ": "7700대",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 2950,
+        "MAIN_OBJ": "7700대",
+        "SUB_OBJ": "1만3000대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2951,
+        "MAIN_OBJ": "7700대",
+        "SUB_OBJ": "렉서스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 2952,
+        "MAIN_OBJ": "7700대",
+        "SUB_OBJ": "2만700대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2953,
+        "MAIN_OBJ": "2만700대",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 2954,
+        "MAIN_OBJ": "2만700대",
+        "SUB_OBJ": "1만3000대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2955,
+        "MAIN_OBJ": "2만700대",
+        "SUB_OBJ": "렉서스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 2956,
+        "MAIN_OBJ": "2만700대",
+        "SUB_OBJ": "7700대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2957,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "두 배 이상",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 2958,
+        "MAIN_OBJ": "프리우스",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 2959,
+        "MAIN_OBJ": "캠리",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 2960,
+        "MAIN_OBJ": "캠리",
+        "SUB_OBJ": "프리우스",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2961,
+        "MAIN_OBJ": "캠리",
+        "SUB_OBJ": "프리우스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 2962,
+        "MAIN_OBJ": "캠리",
+        "SUB_OBJ": "렉서스",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 2963,
+        "MAIN_OBJ": "렉서스",
+        "SUB_OBJ": "프리우스",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 2964,
+        "MAIN_OBJ": "렉서스",
+        "SUB_OBJ": "프리우스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 2965,
+        "MAIN_OBJ": "GS",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 2966,
+        "MAIN_OBJ": "RX",
+        "SUB_OBJ": "렉서스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 2967,
+        "MAIN_OBJ": "RX",
+        "SUB_OBJ": "도요타",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 2968,
+        "MAIN_OBJ": "ES",
+        "SUB_OBJ": "RX",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2969,
+        "MAIN_OBJ": "ES",
+        "SUB_OBJ": "RX",
+        "RELATION": "해당 개체는 다음으로부터 이어짐(replaces)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2970,
+        "MAIN_OBJ": "벤자",
+        "SUB_OBJ": "RX",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2971,
+        "MAIN_OBJ": "벤자",
+        "SUB_OBJ": "ES",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2972,
+        "MAIN_OBJ": "BMW코리아",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 2973,
+        "MAIN_OBJ": "BMW코리아",
+        "SUB_OBJ": "2만7602대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 2974,
+        "MAIN_OBJ": "2만7602대",
+        "SUB_OBJ": "BMW코리아",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 2975,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "모터사이클",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 2976,
+        "MAIN_OBJ": "모터사이클",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.02746"
+    },
+    {
+        "DOCID": 2977,
+        "MAIN_OBJ": "3만3000대",
+        "SUB_OBJ": "모터사이클",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2978,
+        "MAIN_OBJ": "1월",
+        "SUB_OBJ": "지난달",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 2979,
+        "MAIN_OBJ": "미니 디젤",
+        "SUB_OBJ": "320d",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 2980,
+        "MAIN_OBJ": "지난달",
+        "SUB_OBJ": "1월",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 2981,
+        "MAIN_OBJ": "320d",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 2982,
+        "MAIN_OBJ": "320d",
+        "SUB_OBJ": "엔진",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 2983,
+        "MAIN_OBJ": "디젤",
+        "SUB_OBJ": "엔진",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.41327"
+    },
+    {
+        "DOCID": 2984,
+        "MAIN_OBJ": "엔진",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.41327"
+    },
+    {
+        "DOCID": 2985,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "5500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 2986,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "인피니티",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 2987,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "2500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2988,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 2989,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "10%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 2990,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "8000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 2991,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "2500대",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 2992,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "지난해",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.41412"
+    },
+    {
+        "DOCID": 2993,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "10%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 2994,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "5500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2995,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "인피니티",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2996,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "2500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 2997,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "8000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2998,
+        "MAIN_OBJ": "5500대",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.1521"
+    },
+    {
+        "DOCID": 2999,
+        "MAIN_OBJ": "5500대",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3000,
+        "MAIN_OBJ": "5500대",
+        "SUB_OBJ": "인피니티",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3001,
+        "MAIN_OBJ": "5500대",
+        "SUB_OBJ": "2500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3002,
+        "MAIN_OBJ": "5500대",
+        "SUB_OBJ": "8000대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3003,
+        "MAIN_OBJ": "인피니티",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3004,
+        "MAIN_OBJ": "인피니티",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3005,
+        "MAIN_OBJ": "인피니티",
+        "SUB_OBJ": "5500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3006,
+        "MAIN_OBJ": "인피니티",
+        "SUB_OBJ": "2500대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3007,
+        "MAIN_OBJ": "인피니티",
+        "SUB_OBJ": "8000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3008,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3009,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3010,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "5500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3011,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "5500대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3012,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "인피니티",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3013,
+        "MAIN_OBJ": "2500대",
+        "SUB_OBJ": "8000대",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3014,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "올해",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.29598"
+    },
+    {
+        "DOCID": 3015,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "5500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 3016,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "2500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 3017,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "10%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 3018,
+        "MAIN_OBJ": "10%",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3019,
+        "MAIN_OBJ": "10%",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 3020,
+        "MAIN_OBJ": "10%",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3021,
+        "MAIN_OBJ": "10%",
+        "SUB_OBJ": "5500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3022,
+        "MAIN_OBJ": "10%",
+        "SUB_OBJ": "2500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3023,
+        "MAIN_OBJ": "8000대",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3024,
+        "MAIN_OBJ": "8000대",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3025,
+        "MAIN_OBJ": "8000대",
+        "SUB_OBJ": "5500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3026,
+        "MAIN_OBJ": "8000대",
+        "SUB_OBJ": "인피니티",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3027,
+        "MAIN_OBJ": "8000대",
+        "SUB_OBJ": "2500대",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3028,
+        "MAIN_OBJ": "일본",
+        "SUB_OBJ": "지난달",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3029,
+        "MAIN_OBJ": "일본",
+        "SUB_OBJ": "디젤차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3030,
+        "MAIN_OBJ": "디젤차",
+        "SUB_OBJ": "일본",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 3031,
+        "MAIN_OBJ": "인피니티 FX30d",
+        "SUB_OBJ": "일본",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3032,
+        "MAIN_OBJ": "인피니티 FX30d",
+        "SUB_OBJ": "디젤차",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3033,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "알티마",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 3034,
+        "MAIN_OBJ": "알티마",
+        "SUB_OBJ": "닛산",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.04745"
+    },
+    {
+        "DOCID": 3035,
+        "MAIN_OBJ": "메르세데스-벤츠 코리아",
+        "SUB_OBJ": "M클래스",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 3036,
+        "MAIN_OBJ": "메르세데스-벤츠 코리아",
+        "SUB_OBJ": "두 자릿수",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3037,
+        "MAIN_OBJ": "SLK",
+        "SUB_OBJ": "두 자릿수",
+        "RELATION": "해당 선수가 맡은 포지션(position played on team / speciality)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 3038,
+        "MAIN_OBJ": "B",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 3039,
+        "MAIN_OBJ": "B",
+        "SUB_OBJ": "SLK",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 3040,
+        "MAIN_OBJ": "B",
+        "SUB_OBJ": "M클래스",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 3041,
+        "MAIN_OBJ": "B",
+        "SUB_OBJ": "두 자릿수",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 3042,
+        "MAIN_OBJ": "M클래스",
+        "SUB_OBJ": "메르세데스-벤츠 코리아",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 3043,
+        "MAIN_OBJ": "M클래스",
+        "SUB_OBJ": "SLK",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 3044,
+        "MAIN_OBJ": "M클래스",
+        "SUB_OBJ": "두 자릿수",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 3045,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "1.69988"
+    },
+    {
+        "DOCID": 3046,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "M클래스",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 3047,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "두 자릿수",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.49"
+    },
+    {
+        "DOCID": 3048,
+        "MAIN_OBJ": "두 자릿수",
+        "SUB_OBJ": "B",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 3049,
+        "MAIN_OBJ": "두 자릿수",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.04906"
+    },
+    {
+        "DOCID": 3050,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 3051,
+        "MAIN_OBJ": "각각 1만5000대",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 3052,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "각각 1만5000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 3053,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 3054,
+        "MAIN_OBJ": "폴크스바겐",
+        "SUB_OBJ": "각각 1만5000대",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 3055,
+        "MAIN_OBJ": "폴크스바겐",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 3056,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "S5",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 3057,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "S6",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 3058,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "S7",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 3059,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "S8",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 3060,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "RS5",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 3061,
+        "MAIN_OBJ": "아우디",
+        "SUB_OBJ": "R8 GT 스파이더",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 3062,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 3063,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "S6",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3064,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "S7",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3065,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "S8",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3066,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "RS5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3067,
+        "MAIN_OBJ": "S5",
+        "SUB_OBJ": "R8 GT 스파이더",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 3068,
+        "MAIN_OBJ": "S6",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 3069,
+        "MAIN_OBJ": "S6",
+        "SUB_OBJ": "S5",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3070,
+        "MAIN_OBJ": "S6",
+        "SUB_OBJ": "S7",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3071,
+        "MAIN_OBJ": "S6",
+        "SUB_OBJ": "S8",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3072,
+        "MAIN_OBJ": "S6",
+        "SUB_OBJ": "RS5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3073,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 3074,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "S5",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3075,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "S6",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3076,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "S8",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3077,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "RS5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3078,
+        "MAIN_OBJ": "S7",
+        "SUB_OBJ": "R8 GT 스파이더",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 3079,
+        "MAIN_OBJ": "S8",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 3080,
+        "MAIN_OBJ": "S8",
+        "SUB_OBJ": "S5",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3081,
+        "MAIN_OBJ": "S8",
+        "SUB_OBJ": "S6",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3082,
+        "MAIN_OBJ": "S8",
+        "SUB_OBJ": "S7",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3083,
+        "MAIN_OBJ": "S8",
+        "SUB_OBJ": "RS5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 3084,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 3085,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "S5",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3086,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "S6",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3087,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "S7",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3088,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "S8",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 3089,
+        "MAIN_OBJ": "RS5",
+        "SUB_OBJ": "R8 GT 스파이더",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 3090,
+        "MAIN_OBJ": "R8 GT 스파이더",
+        "SUB_OBJ": "아우디",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 3091,
+        "MAIN_OBJ": "R8 GT 스파이더",
+        "SUB_OBJ": "RS5",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 3092,
+        "MAIN_OBJ": "폴크스바겐",
+        "SUB_OBJ": "시로코",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3093,
+        "MAIN_OBJ": "시로코",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3094,
+        "MAIN_OBJ": "시로코",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3095,
+        "MAIN_OBJ": "시로코",
+        "SUB_OBJ": "지난달",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 3096,
+        "MAIN_OBJ": "골프 카브리올레",
+        "SUB_OBJ": "폴크스바겐",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 3097,
+        "MAIN_OBJ": "미쓰비시",
+        "SUB_OBJ": "파트너",
+        "RELATION": "직업(occupation)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3098,
+        "MAIN_OBJ": "미쓰비시",
+        "SUB_OBJ": "CXC",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3099,
+        "MAIN_OBJ": "16일",
+        "SUB_OBJ": "파트너",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3100,
+        "MAIN_OBJ": "파트너",
+        "SUB_OBJ": "16일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3101,
+        "MAIN_OBJ": "CXC",
+        "SUB_OBJ": "16일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    }
+]

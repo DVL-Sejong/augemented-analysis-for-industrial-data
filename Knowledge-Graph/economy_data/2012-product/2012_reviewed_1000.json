@@ -1,0 +1,562 @@
+[
+    {
+        "DOCID": 1938,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "최치훈",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1939,
+        "MAIN_OBJ": "최치훈",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1940,
+        "MAIN_OBJ": "최치훈",
+        "SUB_OBJ": "사장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1941,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "최치훈",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1942,
+        "MAIN_OBJ": "대학생",
+        "SUB_OBJ": "8일",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1943,
+        "MAIN_OBJ": "열정락서",
+        "SUB_OBJ": "삼성",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1944,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1945,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "1988년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1946,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "제너럴일렉트릭",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1947,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "GE",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1948,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "한국인",
+        "RELATION": "다음은 해당 개체의 민족에 속함(ethnic group)",
+        "weight": "0.71232"
+    },
+    {
+        "DOCID": 1949,
+        "MAIN_OBJ": "조지타운고",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1950,
+        "MAIN_OBJ": "조지타운고",
+        "SUB_OBJ": "한국인",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1951,
+        "MAIN_OBJ": "조지타운고",
+        "SUB_OBJ": "최고경영진",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1952,
+        "MAIN_OBJ": "터프츠대",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1953,
+        "MAIN_OBJ": "터프츠대",
+        "SUB_OBJ": "조지워싱턴대",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1954,
+        "MAIN_OBJ": "경제학사",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1955,
+        "MAIN_OBJ": "경제학사",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1956,
+        "MAIN_OBJ": "조지워싱턴대",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1957,
+        "MAIN_OBJ": "조지워싱턴대",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1958,
+        "MAIN_OBJ": "1988년",
+        "SUB_OBJ": "미",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1959,
+        "MAIN_OBJ": "1988년",
+        "SUB_OBJ": "한국인",
+        "RELATION": "다음은 해당 개체의 민족에 속함(ethnic group)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1960,
+        "MAIN_OBJ": "1988년",
+        "SUB_OBJ": "최고경영진",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1961,
+        "MAIN_OBJ": "제너럴일렉트릭",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1962,
+        "MAIN_OBJ": "제너럴일렉트릭",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1963,
+        "MAIN_OBJ": "제너럴일렉트릭",
+        "SUB_OBJ": "조지워싱턴대",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1964,
+        "MAIN_OBJ": "제너럴일렉트릭",
+        "SUB_OBJ": "GE",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1965,
+        "MAIN_OBJ": "제너럴일렉트릭",
+        "SUB_OBJ": "한국인",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1966,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1967,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1968,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "제너럴일렉트릭",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1969,
+        "MAIN_OBJ": "한국인",
+        "SUB_OBJ": "조지타운고",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1970,
+        "MAIN_OBJ": "최고경영진",
+        "SUB_OBJ": "미",
+        "RELATION": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1971,
+        "MAIN_OBJ": "최고경영진",
+        "SUB_OBJ": "한국인",
+        "RELATION": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1972,
+        "MAIN_OBJ": "삼성",
+        "SUB_OBJ": "삼성SDI",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1973,
+        "MAIN_OBJ": "삼성",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1974,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "삼성",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.51913"
+    },
+    {
+        "DOCID": 1975,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "삼성SDI",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1976,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1977,
+        "MAIN_OBJ": "삼성SDI",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1978,
+        "MAIN_OBJ": "삼성SDI",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1979,
+        "MAIN_OBJ": "삼성SDI",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1980,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "2010년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 1981,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "CEO",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1982,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "삼성",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1983,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1984,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "삼성SDI",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1985,
+        "MAIN_OBJ": "최고경영자",
+        "SUB_OBJ": "삼성",
+        "RELATION": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1986,
+        "MAIN_OBJ": "최고경영자",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1987,
+        "MAIN_OBJ": "최고경영자",
+        "SUB_OBJ": "CEO",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1988,
+        "MAIN_OBJ": "CEO",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1989,
+        "MAIN_OBJ": "CEO",
+        "SUB_OBJ": "최고경영자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1990,
+        "MAIN_OBJ": "멕시코",
+        "SUB_OBJ": "영국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.39528"
+    },
+    {
+        "DOCID": 1991,
+        "MAIN_OBJ": "멕시코",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.40236"
+    },
+    {
+        "DOCID": 1992,
+        "MAIN_OBJ": "영국",
+        "SUB_OBJ": "멕시코",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.39528"
+    },
+    {
+        "DOCID": 1993,
+        "MAIN_OBJ": "영국",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.44719"
+    },
+    {
+        "DOCID": 1994,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "멕시코",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.40236"
+    },
+    {
+        "DOCID": 1995,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "영국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.44719"
+    },
+    {
+        "DOCID": 1996,
+        "MAIN_OBJ": "최고경영자",
+        "SUB_OBJ": "친구",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 1997,
+        "MAIN_OBJ": "최",
+        "SUB_OBJ": "사장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.30642"
+    },
+    {
+        "DOCID": 1998,
+        "MAIN_OBJ": "최",
+        "SUB_OBJ": "GE",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1999,
+        "MAIN_OBJ": "최",
+        "SUB_OBJ": "회장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.43533"
+    },
+    {
+        "DOCID": 2000,
+        "MAIN_OBJ": "최",
+        "SUB_OBJ": "앞",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.45477"
+    },
+    {
+        "DOCID": 2001,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57555"
+    },
+    {
+        "DOCID": 2002,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "앞",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.51847"
+    },
+    {
+        "DOCID": 2003,
+        "MAIN_OBJ": "잭 웰치",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 2004,
+        "MAIN_OBJ": "잭 웰치",
+        "SUB_OBJ": "GE",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 2005,
+        "MAIN_OBJ": "잭 웰치",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2006,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "최",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 2007,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "잭 웰치",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 2008,
+        "MAIN_OBJ": "GE",
+        "SUB_OBJ": "앞",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 2009,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "최",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.30132"
+    },
+    {
+        "DOCID": 2010,
+        "MAIN_OBJ": "앞",
+        "SUB_OBJ": "최",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.1783"
+    },
+    {
+        "DOCID": 2011,
+        "MAIN_OBJ": "앞",
+        "SUB_OBJ": "사장",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.14978"
+    },
+    {
+        "DOCID": 2012,
+        "MAIN_OBJ": "3박4일",
+        "SUB_OBJ": "앞",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 2013,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "총괄",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.35191"
+    },
+    {
+        "DOCID": 2014,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.31104"
+    },
+    {
+        "DOCID": 2015,
+        "MAIN_OBJ": "총괄",
+        "SUB_OBJ": "잭 웰치",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2016,
+        "MAIN_OBJ": "총괄",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.35191"
+    },
+    {
+        "DOCID": 2017,
+        "MAIN_OBJ": "총괄",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.24281"
+    }
+]

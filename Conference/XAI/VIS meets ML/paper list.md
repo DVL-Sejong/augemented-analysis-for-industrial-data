@@ -10,7 +10,8 @@
 
 ### 2016
 + Gutenko et al. - 2016 - AnaFe_ Visual Analytics of Image-derived Temporal Features – Focusing on the Spleen
-
++ Heimerl et al. - 2016 - DocuCompass_ Effective Exploration of Document Landscapes
++ 
 ### 2019
 + Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics
 

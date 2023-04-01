@@ -1,0 +1,155 @@
+{
+	"name": "ㅊ",
+	"children": [
+		{
+			"name": "차",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "도요타자동차"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "차",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "기차"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "좌우"
+						}
+					]
+				},
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "의원"
+						}
+					]
+				},
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "정치인"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "창업전문가",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "박영민"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "주인공"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "천연가스",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "연두교서"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "올해"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "셰일가스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "철강",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "기기"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+					"children": [
+						{
+							"name": "상하이"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+					"children": [
+						{
+							"name": "연간"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "무선통신"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "초·중·고생",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "필리핀"
+						}
+					]
+				}
+			]
+		}
+	]
+}

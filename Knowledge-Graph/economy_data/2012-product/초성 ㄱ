@@ -1,0 +1,555 @@
+{
+	"name": "ㄱ",
+	"children": [
+		{
+			"name": "가든 파이브",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "상반기"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "가솔린",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "디젤차"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "한 단계"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "가정의 달",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "주말"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "가죽공예가",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "다비가죽"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "강사"
+						}
+					]
+				},
+				{
+					"name": "직업의 분야(field of this occupation)",
+					"children": [
+						{
+							"name": "가죽공예"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "강남구청",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "모바일 오피스"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 소유자(owned by)",
+					"children": [
+						{
+							"name": "SK C&C"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "모바일 오피스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "강남권",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "문정벨트"
+						}
+					]
+				},
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "세곡~"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "강원도",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "수달"
+						}
+					]
+				},
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "어름치"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "경기도",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "수도권 광역급행철도"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "우남건설"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "다이소아성산업"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "경남",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "보광훼미리마트"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "경보 시스템",
+			"children": [
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "후측방"
+						}
+					]
+				},
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "앞"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "경부고속선",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "연간"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "KTX"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "경영학석사",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "안철민"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "골프",
+			"children": [
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "프랑스"
+						}
+					]
+				},
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "디젤"
+						}
+					]
+				},
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "해치백"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "공공근로자",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "근로자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "공군",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "스페인"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "관계자",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "변액연금보험 펀드"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "한 단계"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "올 하반기"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "관료",
+			"children": [
+				{
+					"name": "직업의 분야(field of this occupation)",
+					"children": [
+						{
+							"name": "유교"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "관세청",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "커피"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "광저우",
+			"children": [
+				{
+					"name": "해당 지역이 다음의 수도임(capital of)",
+					"children": [
+						{
+							"name": "지난해부터"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "교수",
+			"children": [
+				{
+					"name": "직업의 분야(field of this occupation)",
+					"children": [
+						{
+							"name": "역학"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "구름빵",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "부모"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "구민",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "송파구"
+						}
+					]
+				},
+				{
+					"name": "해당 인물의 학교(educated at)",
+					"children": [
+						{
+							"name": "한국사이버대학교"
+						}
+					]
+				},
+				{
+					"name": "해당 행정부 또는 지자체의 수장(head of government)",
+					"children": [
+						{
+							"name": "박춘희"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "국민",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "호기구"
+						}
+					]
+				},
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "국제구"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "근로자",
+			"children": [
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "공공근로자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "금",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "양적 완화"
+						}
+					]
+				},
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "Fed"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "금소연",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "변액연금보험"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "기",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "경남"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "기술담당자",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "구윤회"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "기획재정부",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "회원"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "김",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "디젤차"
+						}
+					]
+				},
+				{
+					"name": "태어난 곳(place of birth)",
+					"children": [
+						{
+							"name": "용인"
+						}
+					]
+				}
+			]
+		}
+	]
+}

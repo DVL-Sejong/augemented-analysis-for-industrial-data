@@ -1,0 +1,241 @@
+[
+    {
+        "RMSE": {
+            "rf": 3.2158,
+            "lr": 4.1703,
+            "dt": 4.1007
+        },
+        "issue": "o",
+        "action": [
+            "iqr"
+        ]
+    },
+    {
+        "RMSE": {
+            "rf": 3.2158,
+            "lr": 4.1703,
+            "dt": 4.1007
+        },
+        "issue": "oc",
+        "action": [
+            "iqr",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "rf": 3.2454,
+            "lr": 4.0882,
+            "dt": 4.3876
+        },
+        "issue": "oc",
+        "action": [
+            "iqr",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "rf": 3.1242,
+            "dt": 3.8946,
+            "lr": 4.1568
+        },
+        "issue": "oc",
+        "action": [
+            "iqr",
+            "kendall"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "or",
+        "action": [
+            "iqr",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "or",
+        "action": [
+            "iqr",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "rf": 3.289,
+            "lr": 4.1289,
+            "dt": 4.1193
+        },
+        "issue": "co",
+        "action": [
+            "pearson",
+            "iqr"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "ocr",
+        "action": [
+            "iqr",
+            "pearson",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "ocr",
+        "action": [
+            "iqr",
+            "pearson",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "ocr",
+        "action": [
+            "iqr",
+            "spearman",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "ocr",
+        "action": [
+            "iqr",
+            "spearman",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "pearson",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "pearson",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "pearson",
+            "kendall"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "spearman",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "spearman",
+            "spearman"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "orc",
+        "action": [
+            "iqr",
+            "spearman",
+            "kendall"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "cor",
+        "action": [
+            "pearson",
+            "iqr",
+            "pearson"
+        ]
+    },
+    {
+        "RMSE": {
+            "lr": 5.5611,
+            "dt": 5.5611,
+            "rf": 5.5662
+        },
+        "issue": "cor",
+        "action": [
+            "pearson",
+            "iqr",
+            "spearman"
+        ]
+    }
+]

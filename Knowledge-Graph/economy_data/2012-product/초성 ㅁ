@@ -1,0 +1,285 @@
+{
+	"name": "ㅁ",
+	"children": [
+		{
+			"name": "마리오 드라기",
+			"children": [
+				{
+					"name": "해당 인물을 고용한 곳(employer)",
+					"children": [
+						{
+							"name": "유럽중앙은행"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "마이크로소프트",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "정보기술"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "만도",
+			"children": [
+				{
+					"name": "해당 지역이 다음의 수도임(capital of)",
+					"children": [
+						{
+							"name": "현대차"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "만하임 법원",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "독일"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "말레이시아",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "Singapore&India"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "맥오타카라",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "탄소"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "머리",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "유리"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "명예상무",
+			"children": [
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "종로 남영지점"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "모바일",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "티젠"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "엠스팟"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "하나"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "한 대"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "윈도폰"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "모바일D램",
+			"children": [
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "삼성전자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "모바일용",
+			"children": [
+				{
+					"name": "해당 개체와 같이 등장하는 개념(see also)",
+					"children": [
+						{
+							"name": "CPU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "목화토금수",
+			"children": [
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "한국농어촌공사"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "무라나까 토시야스",
+			"children": [
+				{
+					"name": "해당 인물의 현재 또는 과거의 직위(position held)",
+					"children": [
+						{
+							"name": "대표"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "문",
+			"children": [
+				{
+					"name": "해당 개체와 같이 등장하는 개념(see also)",
+					"children": [
+						{
+							"name": "대표"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "문정벨트",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "강남권"
+						}
+					]
+				},
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "보금자리지구"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "미국",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "엠스팟"
+						}
+					]
+				},
+				{
+					"name": "다음은 해당 개체의 민족에 속함(ethnic group)",
+					"children": [
+						{
+							"name": "소비자"
+						}
+					]
+				},
+				{
+					"name": "해당 개체에게 있었던 주목할 만한 사건(significant event)",
+					"children": [
+						{
+							"name": "두 번"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "얼라이언스번스타인"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "DOCID": 3640,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "닛산 큐브",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3641,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "한국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "1.18764"
+    },
+    {
+        "DOCID": 3642,
+        "MAIN_OBJ": "닛산 큐브",
+        "SUB_OBJ": "한국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 3643,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.59927"
+    },
+    {
+        "DOCID": 3644,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "닛산 큐브",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 3645,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "한국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "1.53638"
+    },
+    {
+        "DOCID": 3646,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "소비자",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.77758"
+    },
+    {
+        "DOCID": 3647,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "한국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.90735"
+    },
+    {
+        "DOCID": 3648,
+        "MAIN_OBJ": "중앙일보",
+        "SUB_OBJ": "올해의 차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 3649,
+        "MAIN_OBJ": "중앙일보",
+        "SUB_OBJ": "차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.13552"
+    },
+    {
+        "DOCID": 3650,
+        "MAIN_OBJ": "올해의 차",
+        "SUB_OBJ": "차",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 3651,
+        "MAIN_OBJ": "올해의",
+        "SUB_OBJ": "올해의 차",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 3652,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "중앙일보",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.59186"
+    },
+    {
+        "DOCID": 3653,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "올해의 차",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 3654,
+        "MAIN_OBJ": "켄지 나이토",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 3655,
+        "MAIN_OBJ": "한국닛산",
+        "SUB_OBJ": "켄지 나이토",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 3656,
+        "MAIN_OBJ": "닛산",
+        "SUB_OBJ": "한국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 3657,
+        "MAIN_OBJ": "켄지 나이토",
+        "SUB_OBJ": "한국닛산",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.28248"
+    }
+]

@@ -1,0 +1,178 @@
+{
+	"name": "ㅍ",
+	"children": [
+		{
+			"name": "파트너",
+			"children": [
+				{
+					"name": "직업의 분야(field of this occupation)",
+					"children": [
+						{
+							"name": "펩시"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": [],
+			"children": [
+				{
+					"name": "직업의 분야(field of this occupation)",
+					"children": [
+						{
+							"name": "보틀링"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "퍼실 파워젤",
+			"children": [
+				{
+					"name": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+					"children": [
+						{
+							"name": "0점"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "편입생",
+			"children": [
+				{
+					"name": "반대 개념(opposite of)",
+					"children": [
+						{
+							"name": "취득자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "평택",
+			"children": [
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "수서역"
+						}
+					]
+				},
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "오진수"
+						}
+					]
+				},
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "수서동"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "포드코리아",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "트럭"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "코란도스포츠"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "포유디지털",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "데스크톱"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "태블릿PC"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "LCD TV"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "폭스뉴스",
+			"children": [
+				{
+					"name": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+					"children": [
+						{
+							"name": "월스트리트저널"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 산하 기관(subsidiary)",
+					"children": [
+						{
+							"name": "WSJ"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "풀 LED",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "AVM"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "BDS"
+						}
+					]
+				}
+			]
+		}
+	]
+}

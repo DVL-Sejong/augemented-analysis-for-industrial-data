@@ -1,0 +1,299 @@
+{
+	"name": "ㅌ",
+	"children": [
+		{
+			"name": "탐앤탐스",
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "티백커피"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": [],
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "당첨자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "태광그룹",
+			"children": [
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "창원"
+						}
+					]
+				},
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "경남"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "태블릿PC",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "TV"
+						}
+					]
+				},
+				{
+					"name": "해당 개체를 개발한 주체(developer)",
+					"children": [
+						{
+							"name": "삼성전자"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "IT"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "스마트TV"
+						}
+					]
+				},
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "법원"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "독일"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "연간"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "구"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "스마트폰"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "고객"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "PC"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "러시아"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "LED"
+						}
+					]
+				},
+				{
+					"name": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+					"children": [
+						{
+							"name": "브뤼셀"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "에어컨"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "직원"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "세탁기"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "휴대전화"
+						}
+					]
+				},
+				{
+					"name": "해당 개체와 같이 등장하는 개념(see also)",
+					"children": [
+						{
+							"name": "센터장"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "컴퓨터"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "냉장고"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "노트북"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "IT서포터즈"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "꿈품센터"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "삼성전자"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 제조사(manufacturer)",
+					"children": [
+						{
+							"name": "KT"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+					"children": [
+						{
+							"name": "벨기에"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "태양광",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "STX 도브호"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "테크크런치",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "개발자"
+						}
+					]
+				}
+			]
+		}
+	]
+}

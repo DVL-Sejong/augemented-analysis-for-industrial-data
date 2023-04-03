@@ -1,0 +1,1 @@
+python3 csv2png.py --csv-folder 'data/outputs/output' --png-folder 'results/csv2png' --img-folder 'original'

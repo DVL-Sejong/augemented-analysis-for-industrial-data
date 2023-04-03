@@ -1,4 +1,4 @@
-# augemented-analysis-for-industrial-data
+# Augemented analysis for industrial data
 Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and maximizing improvement
 
 # Research area
@@ -13,20 +13,20 @@ Development of automatic data semantic information composition/expression techno
 - Causal Modeling and Analysis
 - Traffic Analysis
 - EEG Analysis
+- Konwledge map
 
 # Members
 - Yun Jang
 - Jiyun Jung
 - Sangbong Yoo
 - Hyein Hong
-- Giwwong Park
 - Changyoung Yoon
 - Soobin Yim
 - Changyoung Jung
-- Seokhwan Choi
-- Hyunjoo Lee
-- Nayoung Koo
+- SeokHwan Choi
+- Seongbum Seo
 - Jungsoo Park
+- Seongwon Choi
 
 # Instituions
 - Sejong University, Seoul, South Korea

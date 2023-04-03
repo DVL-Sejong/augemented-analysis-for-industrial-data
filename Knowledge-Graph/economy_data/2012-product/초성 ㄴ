@@ -1,0 +1,170 @@
+{
+	"name": "ㄴ",
+	"children": [
+		{
+			"name": "남성산",
+			"children": [
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "신안저수지"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": [],
+			"children": [
+				{
+					"name": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+					"children": [
+						{
+							"name": "앞"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "남아프리카공화국",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "겨울올림픽유치위원회"
+						}
+					]
+				},
+				{
+					"name": "하위 행정구역",
+					"children": [
+						{
+							"name": "평창"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 소유한 것(owner of)",
+					"children": [
+						{
+							"name": "인천공항"
+						}
+					]
+				},
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "공군"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "내년",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "쎈쿡=맛있고 건강한 잡곡밥"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "내년부터",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "재산세"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "넌장현",
+			"children": [
+				{
+					"name": "다음 행정구역에 위치함(located in)",
+					"children": [
+						{
+							"name": "슌커"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "네 배",
+			"children": [
+				{
+					"name": "해당 개체가 다음의 일부분임(part of)",
+					"children": [
+						{
+							"name": "연간"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "감자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "노트북",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "솔리트스테이트드라이브"
+						}
+					]
+				},
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "샌디스크"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "농림수산식품부",
+			"children": [
+				{
+					"name": "다음 공동체의 구성원임(member of)",
+					"children": [
+						{
+							"name": "호기구"
+						}
+					]
+				},
+				{
+					"name": "해당 개체의 산하 기관(subsidiary)",
+					"children": [
+						{
+							"name": "유통정책관"
+						}
+					]
+				}
+			]
+		}
+	]
+}

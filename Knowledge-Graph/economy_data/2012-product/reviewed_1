@@ -1,0 +1,919 @@
+[
+    {
+        "DOCID": 1,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "수도권",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.32899"
+    },
+    {
+        "DOCID": 2,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "지난 한 해",
+        "RELATION": "해당 개체에게 있었던 주목할 만한 사건(significant event)",
+        "weight": "1.33064"
+    },
+    {
+        "DOCID": 3,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "서울",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43981"
+    },
+    {
+        "DOCID": 4,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "지난 한 해",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 5,
+        "MAIN_OBJ": "중앙일보조인스랜드",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 6,
+        "MAIN_OBJ": "중앙일보조인스랜드",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 7,
+        "MAIN_OBJ": "중앙일보조인스랜드",
+        "SUB_OBJ": "수도권",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 8,
+        "MAIN_OBJ": "중앙일보조인스랜드",
+        "SUB_OBJ": "각각 0.04%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 9,
+        "MAIN_OBJ": "중앙일보조인스랜드",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 10,
+        "MAIN_OBJ": "2011년",
+        "SUB_OBJ": "중앙일보조인스랜드",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 11,
+        "MAIN_OBJ": "2011년",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 12,
+        "MAIN_OBJ": "2011년",
+        "SUB_OBJ": "각각 0.04%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 13,
+        "MAIN_OBJ": "2011년",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 14,
+        "MAIN_OBJ": "마지막",
+        "SUB_OBJ": "2011년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 15,
+        "MAIN_OBJ": "마지막",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 16,
+        "MAIN_OBJ": "마지막",
+        "SUB_OBJ": "서울",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.21895"
+    },
+    {
+        "DOCID": 17,
+        "MAIN_OBJ": "마지막",
+        "SUB_OBJ": "각각 0.04%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 18,
+        "MAIN_OBJ": "마지막",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 19,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "중앙일보조인스랜드",
+        "RELATION": "하위 행정구역",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 20,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "2011년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 21,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "수도권",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14674"
+    },
+    {
+        "DOCID": 22,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "중앙일보조인스랜드",
+        "RELATION": "하위 행정구역",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 23,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "중앙일보조인스랜드",
+        "RELATION": "하위 행정구역",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 24,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "중앙일보조인스랜드",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 25,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "2011년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 26,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "마지막",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47894"
+    },
+    {
+        "DOCID": 27,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21003"
+    },
+    {
+        "DOCID": 28,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "각각 0.04%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 29,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 30,
+        "MAIN_OBJ": "각각 0.04%",
+        "SUB_OBJ": "2011년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 31,
+        "MAIN_OBJ": "각각 0.04%",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 32,
+        "MAIN_OBJ": "각각 0.04%",
+        "SUB_OBJ": "지난주",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 33,
+        "MAIN_OBJ": "각각 0.04%",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 34,
+        "MAIN_OBJ": "0.01%",
+        "SUB_OBJ": "2011년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 35,
+        "MAIN_OBJ": "0.01%",
+        "SUB_OBJ": "지난주",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 36,
+        "MAIN_OBJ": "수도권",
+        "SUB_OBJ": "0%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 37,
+        "MAIN_OBJ": "0%",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 38,
+        "MAIN_OBJ": "0%",
+        "SUB_OBJ": "0.01%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 39,
+        "MAIN_OBJ": "강남구",
+        "SUB_OBJ": "개포동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 40,
+        "MAIN_OBJ": "강남구",
+        "SUB_OBJ": "주공",
+        "RELATION": "하위 행정구역",
+        "weight": "0.41867"
+    },
+    {
+        "DOCID": 41,
+        "MAIN_OBJ": "강남구",
+        "SUB_OBJ": "56㎡형",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 42,
+        "MAIN_OBJ": "강남구",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 43,
+        "MAIN_OBJ": "개포동",
+        "SUB_OBJ": "강남구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 44,
+        "MAIN_OBJ": "개포동",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 45,
+        "MAIN_OBJ": "개포동",
+        "SUB_OBJ": "1000만원",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 46,
+        "MAIN_OBJ": "주공",
+        "SUB_OBJ": "강남구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.28821"
+    },
+    {
+        "DOCID": 47,
+        "MAIN_OBJ": "주공",
+        "SUB_OBJ": "개포동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 48,
+        "MAIN_OBJ": "주공",
+        "SUB_OBJ": "지난주",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 49,
+        "MAIN_OBJ": "1단지",
+        "SUB_OBJ": "강남구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 50,
+        "MAIN_OBJ": "1단지",
+        "SUB_OBJ": "개포동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 51,
+        "MAIN_OBJ": "1단지",
+        "SUB_OBJ": "56㎡형",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 52,
+        "MAIN_OBJ": "1단지",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 53,
+        "MAIN_OBJ": "56㎡형",
+        "SUB_OBJ": "강남구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54,
+        "MAIN_OBJ": "56㎡형",
+        "SUB_OBJ": "개포동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 55,
+        "MAIN_OBJ": "56㎡형",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 56,
+        "MAIN_OBJ": "56㎡형",
+        "SUB_OBJ": "9억3000만~9억6000만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 57,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "개포동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 58,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "주공",
+        "RELATION": "하위 행정구역",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 59,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "56㎡형",
+        "RELATION": "하위 행정구역",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 60,
+        "MAIN_OBJ": "1000만원",
+        "SUB_OBJ": "주공",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 61,
+        "MAIN_OBJ": "1000만원",
+        "SUB_OBJ": "9억3000만~9억6000만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 62,
+        "MAIN_OBJ": "9억3000만~9억6000만원",
+        "SUB_OBJ": "주공",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 63,
+        "MAIN_OBJ": "9억3000만~9억6000만원",
+        "SUB_OBJ": "1000만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 64,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "고양시",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.35207"
+    },
+    {
+        "DOCID": 65,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "후곡마을",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 66,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 67,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 지역이 다음의 수도임(capital of)",
+        "weight": "0.4986"
+    },
+    {
+        "DOCID": 68,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "후곡마을",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 69,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "10단지",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 70,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "157㎡형",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 71,
+        "MAIN_OBJ": "후곡마을",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 72,
+        "MAIN_OBJ": "후곡마을",
+        "SUB_OBJ": "고양시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 73,
+        "MAIN_OBJ": "후곡마을",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 74,
+        "MAIN_OBJ": "후곡마을",
+        "SUB_OBJ": "1500만원",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 75,
+        "MAIN_OBJ": "10단지",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 76,
+        "MAIN_OBJ": "10단지",
+        "SUB_OBJ": "고양시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 77,
+        "MAIN_OBJ": "10단지",
+        "SUB_OBJ": "후곡마을",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 78,
+        "MAIN_OBJ": "10단지",
+        "SUB_OBJ": "157㎡형",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 79,
+        "MAIN_OBJ": "10단지",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 80,
+        "MAIN_OBJ": "157㎡형",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 81,
+        "MAIN_OBJ": "157㎡형",
+        "SUB_OBJ": "고양시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 82,
+        "MAIN_OBJ": "157㎡형",
+        "SUB_OBJ": "후곡마을",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 83,
+        "MAIN_OBJ": "157㎡형",
+        "SUB_OBJ": "지난주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 84,
+        "MAIN_OBJ": "157㎡형",
+        "SUB_OBJ": "4억8500만~5억6000만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 85,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 86,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "후곡마을",
+        "RELATION": "하위 행정구역",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 87,
+        "MAIN_OBJ": "1500만원",
+        "SUB_OBJ": "10단지",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 88,
+        "MAIN_OBJ": "1500만원",
+        "SUB_OBJ": "4억8500만~5억6000만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 89,
+        "MAIN_OBJ": "4억8500만~5억6000만원",
+        "SUB_OBJ": "10단지",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 90,
+        "MAIN_OBJ": "4억8500만~5억6000만원",
+        "SUB_OBJ": "지난주",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 91,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "노원구",
+        "RELATION": "하위 행정구역",
+        "weight": "0.53999"
+    },
+    {
+        "DOCID": 92,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "상계동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 93,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "불암현대",
+        "RELATION": "하위 행정구역",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 94,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "81㎡",
+        "RELATION": "하위 행정구역",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 95,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "전주",
+        "RELATION": "자매 결연 도시(twinned administrative body)",
+        "weight": "0.68329"
+    },
+    {
+        "DOCID": 96,
+        "MAIN_OBJ": "노원구",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.29936"
+    },
+    {
+        "DOCID": 97,
+        "MAIN_OBJ": "노원구",
+        "SUB_OBJ": "상계동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 98,
+        "MAIN_OBJ": "노원구",
+        "SUB_OBJ": "불암현대",
+        "RELATION": "하위 행정구역",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 99,
+        "MAIN_OBJ": "노원구",
+        "SUB_OBJ": "81㎡",
+        "RELATION": "하위 행정구역",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 100,
+        "MAIN_OBJ": "노원구",
+        "SUB_OBJ": "전주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.49693"
+    },
+    {
+        "DOCID": 101,
+        "MAIN_OBJ": "상계동",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 102,
+        "MAIN_OBJ": "상계동",
+        "SUB_OBJ": "노원구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 103,
+        "MAIN_OBJ": "상계동",
+        "SUB_OBJ": "불암현대",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 104,
+        "MAIN_OBJ": "상계동",
+        "SUB_OBJ": "1억6500만원 정도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 105,
+        "MAIN_OBJ": "상계동",
+        "SUB_OBJ": "전주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 106,
+        "MAIN_OBJ": "불암현대",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 107,
+        "MAIN_OBJ": "불암현대",
+        "SUB_OBJ": "노원구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 108,
+        "MAIN_OBJ": "불암현대",
+        "SUB_OBJ": "상계동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 109,
+        "MAIN_OBJ": "불암현대",
+        "SUB_OBJ": "전주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 110,
+        "MAIN_OBJ": "81㎡",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 111,
+        "MAIN_OBJ": "81㎡",
+        "SUB_OBJ": "노원구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 112,
+        "MAIN_OBJ": "81㎡",
+        "SUB_OBJ": "불암현대",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 113,
+        "MAIN_OBJ": "81㎡",
+        "SUB_OBJ": "전주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 114,
+        "MAIN_OBJ": "1억6500만원 정도",
+        "SUB_OBJ": "노원구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.04745"
+    },
+    {
+        "DOCID": 115,
+        "MAIN_OBJ": "전주",
+        "SUB_OBJ": "서울",
+        "RELATION": "자매 결연 도시(twinned administrative body)",
+        "weight": "0.1993"
+    },
+    {
+        "DOCID": 116,
+        "MAIN_OBJ": "전주",
+        "SUB_OBJ": "노원구",
+        "RELATION": "하위 행정구역",
+        "weight": "0.25782"
+    },
+    {
+        "DOCID": 117,
+        "MAIN_OBJ": "전주",
+        "SUB_OBJ": "상계동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 118,
+        "MAIN_OBJ": "수원시",
+        "SUB_OBJ": "당수동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 119,
+        "MAIN_OBJ": "수원시",
+        "SUB_OBJ": "인정프린스",
+        "RELATION": "하위 행정구역",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 120,
+        "MAIN_OBJ": "수원시",
+        "SUB_OBJ": "105㎡",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 121,
+        "MAIN_OBJ": "당수동",
+        "SUB_OBJ": "수원시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 122,
+        "MAIN_OBJ": "당수동",
+        "SUB_OBJ": "인정프린스",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 123,
+        "MAIN_OBJ": "당수동",
+        "SUB_OBJ": "1억3000만~1억4000만원",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 124,
+        "MAIN_OBJ": "인정프린스",
+        "SUB_OBJ": "수원시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 125,
+        "MAIN_OBJ": "인정프린스",
+        "SUB_OBJ": "당수동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 126,
+        "MAIN_OBJ": "105㎡",
+        "SUB_OBJ": "수원시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 127,
+        "MAIN_OBJ": "105㎡",
+        "SUB_OBJ": "당수동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 128,
+        "MAIN_OBJ": "105㎡",
+        "SUB_OBJ": "인정프린스",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 129,
+        "MAIN_OBJ": "1000만원",
+        "SUB_OBJ": "1억3000만~1억4000만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 130,
+        "MAIN_OBJ": "1억3000만~1억4000만원",
+        "SUB_OBJ": "1000만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 131,
+        "MAIN_OBJ": "황정일",
+        "SUB_OBJ": "기자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    }
+]

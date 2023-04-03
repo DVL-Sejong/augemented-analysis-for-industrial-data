@@ -1,0 +1,310 @@
+[
+    {
+        "DOCID": 2836,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "i40",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.05353"
+    },
+    {
+        "DOCID": 2837,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "현대차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 2838,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "고객",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38933"
+    },
+    {
+        "DOCID": 2839,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 2840,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "현대차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 2841,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 2842,
+        "MAIN_OBJ": "현대차",
+        "SUB_OBJ": "i40",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 2843,
+        "MAIN_OBJ": "현대차",
+        "SUB_OBJ": "고객",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2844,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "i40",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 2845,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "중형차",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.7839"
+    },
+    {
+        "DOCID": 2846,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "중형차",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.7839"
+    },
+    {
+        "DOCID": 2847,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "유러피언",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.7839"
+    },
+    {
+        "DOCID": 2848,
+        "MAIN_OBJ": "중형차",
+        "SUB_OBJ": "i40",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.02086"
+    },
+    {
+        "DOCID": 2849,
+        "MAIN_OBJ": "유러피언",
+        "SUB_OBJ": "i40",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.02086"
+    },
+    {
+        "DOCID": 2850,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "왜건",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 2851,
+        "MAIN_OBJ": "디젤",
+        "SUB_OBJ": "왜건",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.48803"
+    },
+    {
+        "DOCID": 2852,
+        "MAIN_OBJ": "왜건",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29703"
+    },
+    {
+        "DOCID": 2853,
+        "MAIN_OBJ": "왜건",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.11254"
+    },
+    {
+        "DOCID": 2854,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "18.0㎞/L",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 2855,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 2856,
+        "MAIN_OBJ": "18.0㎞/L",
+        "SUB_OBJ": "i40",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.05353"
+    },
+    {
+        "DOCID": 2857,
+        "MAIN_OBJ": "18.0㎞/L",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2858,
+        "MAIN_OBJ": "18.0㎞/L",
+        "SUB_OBJ": "엔진",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 2859,
+        "MAIN_OBJ": "디젤",
+        "SUB_OBJ": "엔진",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.71912"
+    },
+    {
+        "DOCID": 2860,
+        "MAIN_OBJ": "엔진",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20316"
+    },
+    {
+        "DOCID": 2861,
+        "MAIN_OBJ": "김성환",
+        "SUB_OBJ": "현대자동차",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 2862,
+        "MAIN_OBJ": "김성환",
+        "SUB_OBJ": "i40",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 2863,
+        "MAIN_OBJ": "현대자동차",
+        "SUB_OBJ": "김성환",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 2864,
+        "MAIN_OBJ": "현대자동차",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.48236"
+    },
+    {
+        "DOCID": 2865,
+        "MAIN_OBJ": "현대자동차",
+        "SUB_OBJ": "i40",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 2866,
+        "MAIN_OBJ": "현대자동차",
+        "SUB_OBJ": "디젤",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.54606"
+    },
+    {
+        "DOCID": 2867,
+        "MAIN_OBJ": "현대자동차",
+        "SUB_OBJ": "절반 이상",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 2868,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "현대자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.24831"
+    },
+    {
+        "DOCID": 2869,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.30109"
+    },
+    {
+        "DOCID": 2870,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "현대자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 2871,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 2872,
+        "MAIN_OBJ": "i40",
+        "SUB_OBJ": "절반 이상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 2873,
+        "MAIN_OBJ": "디젤",
+        "SUB_OBJ": "현대자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.29071"
+    },
+    {
+        "DOCID": 2874,
+        "MAIN_OBJ": "절반 이상",
+        "SUB_OBJ": "현대자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 2875,
+        "MAIN_OBJ": "절반 이상",
+        "SUB_OBJ": "상무",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2876,
+        "MAIN_OBJ": "절반 이상",
+        "SUB_OBJ": "디젤",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 2877,
+        "MAIN_OBJ": "차",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17784"
+    },
+    {
+        "DOCID": 2878,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "차",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.43133"
+    },
+    {
+        "DOCID": 2879,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "김성환",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23734"
+    }
+]

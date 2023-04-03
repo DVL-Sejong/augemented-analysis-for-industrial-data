@@ -1,0 +1,138 @@
+{
+	"name": "ㅋ",
+	"children": [
+		{
+			"name": "카스텔",
+			"children": [
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "프랑스"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": [],
+			"children": [
+				{
+					"name": "해당 개체의 제품(product or material produced)",
+					"children": [
+						{
+							"name": "보졸레 누보 와인"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "카이스트",
+			"children": [
+				{
+					"name": "해당 개체의 설립자(founded by)",
+					"children": [
+						{
+							"name": "나성균"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "캔커피",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "컵커피"
+						}
+					]
+				},
+				{
+					"name": "다음 국가의 것임(country)",
+					"children": [
+						{
+							"name": "일본"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "컴퓨터",
+			"children": [
+				{
+					"name": "해당 개체가 다음으로 이루어져 있음(has part)",
+					"children": [
+						{
+							"name": "S노트"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "컵커피",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "커피"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "코즐로브스카",
+			"children": [
+				{
+					"name": "직업(occupation)",
+					"children": [
+						{
+							"name": "근로자"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "코트",
+			"children": [
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "재킷"
+						}
+					]
+				},
+				{
+					"name": "하위 개념(subclass of)",
+					"children": [
+						{
+							"name": "슈트"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "콩고",
+			"children": [
+				{
+					"name": "다음 종류에 속함(instance of)",
+					"children": [
+						{
+							"name": "신도"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -34,6 +34,9 @@ combination = []
 combinationDetail = []
 
 corrThreshold = 0.8
+zscoreThreshold = 3
+outMethod = 'iqr'
+corrMethod = 'kendall'
 
 @app.route('/fileUpload', methods=['GET', 'POST'])
 def fileUpload():
@@ -89,6 +92,8 @@ def donutChart():
   req = eval(request.get_data().decode('utf-8'))
   fileName = req["fileName"]
 
+  global outMethod, corrMethod, targetColumn, zscoreThreshold, corrThreshold
+
   originDf = pd.read_csv('static/dataset/' + str(fileName) + '.csv')
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
@@ -99,25 +104,46 @@ def donutChart():
   misRate = 100 - round((mis/totalNum) * 100)
   
   # outlier
-  tmpList = []
-  for column in columnList:
-    df = pd.DataFrame(pd.to_numeric(originDf[column], errors = 'coerce'))
-    df = df.dropna()
+  if outMethod == 'iqr':
+    tmpList = []
+    for column in columnList:
+      df = pd.DataFrame(pd.to_numeric(originDf[column], errors = 'coerce'))
+      df = df.dropna()
 
-    lower, upper = main.lower_upper(df[column])
-    lowerIdxList = list(df[df[column] > upper].index.values)
-    upperIdxList = list(df[df[column] < lower].index.values)
-    tmpList.append(len(lowerIdxList + upperIdxList))
-  out = sum(tmpList)
-  outRate = 100 - round((out/totalNum) * 100)
+      lower, upper = main.lower_upper(df[column])
+      lowerIdxList = list(df[df[column] > upper].index.values)
+      upperIdxList = list(df[df[column] < lower].index.values)
+      tmpList.append(len(lowerIdxList + upperIdxList))
+    out = sum(tmpList)
+    outRate = 100 - round((out/totalNum) * 100)
+  
+  if outMethod == 'z-score':
+    tmpList = []
+    for column in columnList:
+      df = pd.DataFrame(pd.to_numeric(originDf[column], errors = 'coerce'))
+      columnSeries = df.dropna()
+      meanValue = np.mean(columnSeries)
+      stdValue = np.std(columnSeries)
+
+      outlierIndex = []
+      for i in range(len(df)):
+        value = df.iloc[i].values[0]
+        zscore = ((value - meanValue)/stdValue).values[0]
+        
+        if zscore > zscoreThreshold:
+          outlierIndex.append(i)
+      
+      tmpList.append(len(outlierIndex))
+    out = sum(tmpList)
+    outRate = 100 - round((out/totalNum) * 100)
 
   # homogeneity
   tmpList = []
   for column in columnList:
     df = originDf[column].dropna()
     df = pd.DataFrame(pd.to_numeric(df, errors = 'coerce'))
-    conIdxList = list(df[df[column].isnull()].index)
-    tmpList.append(len(conIdxList))
+    inconsIndex = list(df[df[column].isnull()].index)
+    tmpList.append(len(inconsIndex))
   inc = sum(tmpList)
   incRate = 100 - round((inc/totalNum) * 100)
 
@@ -125,10 +151,9 @@ def donutChart():
   dupCnt = len(originDf[originDf.duplicated(keep = False)])
   dupRate = 100 - round(dupCnt/len(originDf) * 100)
 
-  global targetColumn, corrThreshold
   inconsNaNSeries = originDf.apply(pd.to_numeric, errors = 'coerce')
   inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
-  allCorrDf = inconsNaNDf.corr(method = 'kendall') # for boston house price dataset - kendall
+  allCorrDf = inconsNaNDf.corr(method = corrMethod)
   allCorrDf = allCorrDf.fillna(0)
 
   # correlation
@@ -184,7 +209,7 @@ def checkVisualization():
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
 
-  global targetColumn, corrThreshold
+  global targetColumn, zscoreThreshold, corrThreshold
   response = {'visualization': vis}
   
   # completeness, homogeneity
@@ -248,15 +273,15 @@ def checkVisualization():
 
     sliceCnt = 20
     sliceSize = (maxValue - minValue)/sliceCnt
-    columnCntList = [0 for i in range(sliceCnt)]
+    columnCntList = [0 for i in range(sliceCnt + 1)]
 
     seriesDataList = []
     categoryDataList = []
 
-    for i in range(sliceCnt):
+    for i in range(sliceCnt + 1):
       minRange = float(minValue + (sliceSize * i))
       maxRange = float(minValue + (sliceSize * (i + 1)))
-      categoryDataList.append(maxRange)
+      categoryDataList.append(minRange)
 
       for j in range(len(columnList)):
         if math.isnan(columnList[j]) == False:
@@ -274,16 +299,15 @@ def checkVisualization():
       upperIdxList = list(columnDf[columnDf < lower].index.values)
       outlierIndex = lowerIdxList + upperIdxList
 
-      response['cnt'] = len(outlierIndex)
-      response['lower'] = round(lower, 3)
-      response['upper'] = round(upper, 3)
-      response['standard'] = 'lower than ' + str(round(lower, 3)) + ', higher than ' + str(round(upper, 3))
-
       issueList = []
       for i in outlierIndex:
         outlier = columnDf.iloc[i]
         issueList.append([str(i), str(round(outlier, 3))])
       
+      response['cnt'] = len(outlierIndex)
+      response['lower'] = round(lower, 3)
+      response['upper'] = round(upper, 3)
+      response['standard'] = 'lower than ' + str(round(lower, 3)) + ', higher than ' + str(round(upper, 3))
       response['issueList'] = issueList
 
     if method == 'z-score':
@@ -292,14 +316,12 @@ def checkVisualization():
       stdValue = np.std(columnSeries)
 
       outlierIndex = []
-      zscoreThreshold = 3
       for i in range(len(columnDf)):
         value = columnDf.iloc[i]
         zscore = ((value - meanValue)/stdValue)
 
         if zscore > zscoreThreshold:
           outlierIndex.append(i)
-      response['cnt'] = len(outlierIndex)
 
       issueList = []
       outlierValue = []
@@ -308,6 +330,7 @@ def checkVisualization():
         outlierValue.append(outlier)
         issueList.append([str(i), str(round(outlier, 3))])
       
+      response['cnt'] = len(outlierIndex)
       response['threshold'] = round(min(outlierValue), 3)
       response['standard'] = 'greater than ' + str(round(min(outlierValue), 3))
       response['issueList'] = issueList
@@ -332,18 +355,16 @@ def checkVisualization():
     allCorrDf = allCorrDf.reindex(sorted(allCorrDf.columns), axis = 1)
 
     # correlation
-    ##### to fix
     if vis == 'correlationChart':
       highCorrColumnList = []
-      for column in columnList:
-        columnCorrDf = abs(allCorrDf[column])
-        highCorrDf = columnCorrDf[columnCorrDf > corrThreshold]
-        
-        if len(highCorrDf) > 1:
-          highCorrColumnList.append(list(highCorrDf.index))
-      highCorrColumnList = list(set([tuple(set(item)) for item in highCorrColumnList]))
+      for row in columnList:
+        for column in columnList:
+          if row == column: break
+          if allCorrDf.loc[row][column] > corrThreshold or allCorrDf.loc[row][column] < -corrThreshold:
+            highCorrColumnList.append([row, column])
 
-      response['cnt'] = len(highCorrColumnList) * 2
+      highCorrColumnList = list(set(sum(highCorrColumnList, [])))
+      response['cnt'] = len(highCorrColumnList)
       response['issueList'] = highCorrColumnList
 
       seriesDataList = []
@@ -362,22 +383,34 @@ def checkVisualization():
       response['categoryData'] = categoryDataList
 
     # relevance
-    ##### to fix
     if vis == 'relevanceChart':
-      columnCorrDf = allCorrDf[targetColumn]
+      targetColumnCorrDf = abs(allCorrDf[targetColumn])
 
-      seriesDataList = []
-      highCorrColumnList = []
+      highCorrTargetColumnList = []
       for row in columnList:
         if row == targetColumn: continue
-        if columnCorrDf[row] < corrThreshold and columnCorrDf[row] > -corrThreshold:
-          highCorrColumnList.append(row)
+        if targetColumnCorrDf[row] > corrThreshold:
+          highCorrTargetColumnList.append(row)
+
+      problemColumnList = []
+      for highCorrColumn in highCorrTargetColumnList:
+        for column in columnList:
+          if allCorrDf[highCorrColumn][column] < (1 - corrThreshold) and allCorrDf[highCorrColumn][column] > -(1 - corrThreshold):
+            problemColumnList.append(column)
+      response['cnt'] = len(problemColumnList)
+      response['issueList'] = problemColumnList
+
+      columnName = req["column"]
+      columnCorrDf = allCorrDf[columnName]
+
+      seriesDataList = []
+      for row in columnList:
+        if row == columnName: continue
         seriesDataList.append(columnCorrDf[row])
 
-      response['cnt'] = len(highCorrColumnList)
-      response['issueList'] = highCorrColumnList
+      categoryDataList = [column for column in columnList if column != columnName]
       response['seriesData'] = seriesDataList
-      response['categoryData'] = columnList
+      response['categoryData'] = categoryDataList
 
   return json.dumps(response)
 
@@ -410,7 +443,7 @@ def modelTable():
   # modelResultDf = modelResultDf.round(3)
 
   # modelResultDf.to_csv('static/example_modelTable.csv', index = False)
-  modelResultDf = pd.read_csv('static/example_modelTable_step2.csv')
+  modelResultDf = pd.read_csv('static/example_modelTable_step0.csv')
 
   modelResultList = [list(modelResultDf.columns)]
   for i in range(len(modelResultDf)):
@@ -444,16 +477,18 @@ def tablePoint():
   req = eval(request.get_data().decode('utf-8'))
   fileName = req["fileName"]
 
+  global outMethod, zscoreThreshold
+
   originDf = pd.read_csv('static/dataset/' + str(fileName) + '.csv')
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
   
   misPointList = []
   for column in columnList:
-    misIdxList = list(originDf[originDf[column].isnull()].index)
+    missingIndex = list(originDf[originDf[column].isnull()].index)
 
-    if len(misIdxList) > 0:
-      for row in misIdxList:
+    if len(missingIndex) > 0:
+      for row in missingIndex:
         misPointList.append({'x': str(row + 1), 'y': columnList.index(column)})
 
   outPointList = []
@@ -461,23 +496,37 @@ def tablePoint():
     df = pd.DataFrame(pd.to_numeric(originDf[column], errors = 'coerce'))
     df = df.dropna()
 
-    lower, upper = main.lower_upper(df[column])
-    lowerIdxList = list(df[df[column] > upper].index.values)
-    upperIdxList = list(df[df[column] < lower].index.values)
-    outIdxList = lowerIdxList + upperIdxList
+    if outMethod == 'iqr':
+      lower, upper = main.lower_upper(df[column])
+      lowerIdxList = list(df[df[column] > upper].index.values)
+      upperIdxList = list(df[df[column] < lower].index.values)
+      outlierIndex = lowerIdxList + upperIdxList
+    
+    if outMethod == 'z-score':
+      columnSeries = df.dropna()
+      meanValue = np.mean(columnSeries)
+      stdValue = np.std(columnSeries)
 
-    if len(outIdxList) > 0:
-      for row in outIdxList:
+      outlierIndex = []
+      for i in range(len(df)):
+        value = df.iloc[i].values[0]
+        zscore = ((value - meanValue)/stdValue).values[0]
+        
+        if zscore > zscoreThreshold:
+          outlierIndex.append(i)
+
+    if len(outlierIndex) > 0:
+      for row in outlierIndex:
         outPointList.append({'x': str(row + 1), 'y': columnList.index(column)})
-
+  
   conPointList = []
   for column in columnList:  
     df = originDf[column].dropna()
     df = pd.DataFrame(pd.to_numeric(df, errors = 'coerce'))
-    conIdxList = list(df[df[column].isnull()].index)
+    inconsIndex = list(df[df[column].isnull()].index)
 
-    if len(conIdxList) > 0:
-      for row in conIdxList:
+    if len(inconsIndex) > 0:
+      for row in inconsIndex:
         conPointList.append({'x': str(row + 1), 'y': columnList.index(column)})
 
   response = {}
@@ -496,10 +545,10 @@ def columnSummary():
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
 
-  global targetColumn, corrThreshold
+  global targetColumn, corrThreshold, corrMethod
   inconsNaNSeries = originDf.apply(pd.to_numeric, errors = 'coerce')
   inconsNaNDf = pd.DataFrame(inconsNaNSeries, columns = columnList)
-  allCorrDf = inconsNaNDf.corr(method = 'kendall') # for boston house price dataset - kendall
+  allCorrDf = inconsNaNDf.corr(method = corrMethod)
   allCorrDf = allCorrDf.fillna(0)
 
   # correlation
@@ -574,7 +623,7 @@ def recommend():
   req = request.get_data().decode('utf-8')
   req = eval(req)
 
-  global uploadFileName, combination, combinationDetail, targetColumn, corrThreshold
+  global uploadFileName, combination, combinationDetail, targetColumn, zscoreThreshold, corrThreshold
   combination = req["combination"]
   combinationDetail = req["combinationDetail"]
 
@@ -653,7 +702,6 @@ def recommend():
           stdValue = np.std(inconsNaNSeries)
 
           outlierIndex = []
-          zscoreThreshold = 3
           for j in range(len(inconsNaNDf)):
               value = inconsNaNDf.iloc[j].values[0]
               zscore = ((value - meanValue)/stdValue).values[0]
@@ -785,15 +833,15 @@ def newVisualization():
 
     sliceCnt = 20
     sliceSize = (maxValue - minValue)/sliceCnt
-    columnCntList = [0 for i in range(sliceCnt)]
+    columnCntList = [0 for i in range(sliceCnt + 1)]
 
     seriesDataList = []
     categoryDataList = []
 
-    for i in range(sliceCnt):
+    for i in range(sliceCnt + 1):
       minRange = float(minValue + (sliceSize * i))
       maxRange = float(minValue + (sliceSize * (i + 1)))
-      categoryDataList.append(maxRange)
+      categoryDataList.append(minRange)
 
       for j in range(len(columnList)):
         if math.isnan(columnList[j]) == False:
@@ -840,7 +888,7 @@ def new():
   originDf = originDf.reindex(sorted(originDf.columns), axis = 1)
   columnList = list(originDf.columns)
 
-  global combination, combinationDetail, targetColumn, corrThreshold
+  global combination, combinationDetail, targetColumn, zscoreThreshold, corrThreshold
   customIssue = combination[fileName - 1]
   originAction = combinationDetail[fileName - 1]
 
@@ -950,7 +998,6 @@ def new():
             stdValue = np.std(inconsNaNSeries)
 
             outlierIndex = []
-            zscoreThreshold = 3
             for i in range(len(inconsNaNDf)):
                 value = inconsNaNDf.iloc[i].values[0]
                 zscore = ((value - meanValue)/stdValue).values[0]
@@ -971,7 +1018,6 @@ def new():
             stdValue = np.std(inconsNaNSeries)
 
             outlierIndex = []
-            zscoreThreshold = 3
             for i in range(len(inconsNaNDf)):
                 value = inconsNaNDf.iloc[i].values[0]
                 zscore = ((value - meanValue)/stdValue).values[0]
@@ -1067,7 +1113,6 @@ def new():
           stdValue = np.std(inconsNaNSeries)
 
           outlierIndex = []
-          zscoreThreshold = 3
           for j in range(len(inconsNaNDf)):
               value = inconsNaNDf.iloc[j].values[0]
               zscore = ((value - meanValue)/stdValue).values[0]
@@ -1166,53 +1211,63 @@ def impact():
 
   # missing
   missingList = []
-  for i in range(0, 5):
-    after = afterData[i][inputEvalList[0]][inputModelList[0]]
-    before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-    impact = after - before
-
-    missingList.append(impact)
-  missing = sum(missingList)/len(missingList)
+  for i in range(len(inputModelList)):
+    tmpList = []
+    for j in range(0, 5):
+      after = afterData[j][inputEvalList[0]][inputModelList[i]]
+      before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+      tmpList.append(after - before)
+    missingList.append(sum(tmpList)/len(tmpList))
+  missing = min(missingList)
 
   # outlier
   outlierList = []
-  for i in range(5, 7):
-    after = afterData[i][inputEvalList[0]][inputModelList[0]]
-    before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-    impact = after - before
-
-    outlierList.append(impact)
-  outlier = sum(outlierList)/len(outlierList)
+  for i in range(len(inputModelList)):
+    tmpList = []  
+    for j in range(5, 7):
+      after = afterData[j][inputEvalList[0]][inputModelList[i]]
+      before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+      tmpList.append(after - before)
+    outlierList.append(sum(tmpList)/len(tmpList))
+  outlier = min(outlierList)
 
   # incons
-  after = afterData[7][inputEvalList[0]][inputModelList[0]]
-  before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-  incons = after - before
+  inconsList = []
+  for i in range(len(inputModelList)):
+    after = afterData[7][inputEvalList[0]][inputModelList[i]]
+    before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+    inconsList.append(after - before)
+  incons = min(inconsList)
 
   # duplicate
-  after = afterData[8][inputEvalList[0]][inputModelList[0]]
-  before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-  duplicate = after - before
+  dupList = []
+  for i in range(len(inputModelList)):
+    after = afterData[8][inputEvalList[0]][inputModelList[i]]
+    before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+    dupList.append(after - before)
+  duplicate = min(dupList)
 
   # correlation
   corrList = []
-  for i in range(9, 12):
-    after = afterData[i][inputEvalList[0]][inputModelList[0]]
-    before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-    impact = after - before
-
-    corrList.append(impact)
-  corr = sum(corrList)/len(corrList)
+  for i in range(len(inputModelList)):
+    tmpList = []
+    for j in range(9, 12):
+      after = afterData[j][inputEvalList[0]][inputModelList[i]]
+      before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+      tmpList.append(after - before)
+    corrList.append(sum(tmpList)/len(tmpList))
+  corr = min(corrList)
 
   # relevance
   relList = []
-  for i in range(12, 15):
-    after = afterData[i][inputEvalList[0]][inputModelList[0]]
-    before = beforeData[0][inputEvalList[0]][inputModelList[0]]
-    impact = after - before
-
-    relList.append(impact)
-  rel = sum(relList)/len(relList)
+  for i in range(len(inputModelList)):
+    tmpList = []
+    for j in range(12, 15):
+      after = afterData[j][inputEvalList[0]][inputModelList[i]]
+      before = beforeData[0][inputEvalList[0]][inputModelList[i]]
+      tmpList.append(after - before)
+    relList.append(sum(tmpList)/len(tmpList))
+  rel = min(relList)
 
   response = {}
   response['seriesData'] = [missing, outlier, incons, duplicate, corr, rel]
@@ -1281,12 +1336,12 @@ def changePerformance():
   # afterList = modelResultDf.loc[[modelName], :].values.tolist()[0]
 
   # house pricing dataset - step 0
-  # beforeList = [2.481, 3.592, 0.824, 0.155, 0.123]
-  # afterList = [2.481, 3.592, 0.824, 0.155, 0.123]
+  beforeList = [2.481, 3.592, 0.824, 0.155, 0.123]
+  afterList = [2.481, 3.592, 0.824, 0.155, 0.123]
 
   # house pricing dataset - step 2
-  beforeList = [2.481, 3.592, 0.824, 0.155, 0.123]
-  afterList = [2.341, 3.124, 0.644, 0.122, 0.1]
+  # beforeList = [2.481, 3.592, 0.824, 0.155, 0.123]
+  # afterList = [2.341, 3.124, 0.644, 0.122, 0.1]
 
   seriesDataList = []
   seriesDataList.append({'name': 'before', 'data': beforeList})

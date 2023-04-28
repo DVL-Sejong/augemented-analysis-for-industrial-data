@@ -1,0 +1,338 @@
+[
+    {
+        "DOCID": 54325,
+        "MAIN_OBJ": "김승유",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 54326,
+        "MAIN_OBJ": "김승유",
+        "SUB_OBJ": "경영발전보상위원회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54327,
+        "MAIN_OBJ": "김승유",
+        "SUB_OBJ": "경영진",
+        "RELATION": "직업(occupation)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54328,
+        "MAIN_OBJ": "하나금융지주",
+        "SUB_OBJ": "김승유",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54329,
+        "MAIN_OBJ": "하나금융지주",
+        "SUB_OBJ": "20일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 54330,
+        "MAIN_OBJ": "하나금융지주",
+        "SUB_OBJ": "경영발전보상위원회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54331,
+        "MAIN_OBJ": "하나금융지주",
+        "SUB_OBJ": "경영발전보상위원회",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54332,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "경영진",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.67702"
+    },
+    {
+        "DOCID": 54333,
+        "MAIN_OBJ": "20일",
+        "SUB_OBJ": "하나금융지주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 54334,
+        "MAIN_OBJ": "20일",
+        "SUB_OBJ": "경영발전보상위원회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54335,
+        "MAIN_OBJ": "경영발전보상위원회",
+        "SUB_OBJ": "김승유",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54336,
+        "MAIN_OBJ": "경영발전보상위원회",
+        "SUB_OBJ": "하나금융지주",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54337,
+        "MAIN_OBJ": "경영발전보상위원회",
+        "SUB_OBJ": "20일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54338,
+        "MAIN_OBJ": "경영진",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.16816"
+    },
+    {
+        "DOCID": 54339,
+        "MAIN_OBJ": "경영진",
+        "SUB_OBJ": "20일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54340,
+        "MAIN_OBJ": "하나금융",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 54341,
+        "MAIN_OBJ": "하나금융",
+        "SUB_OBJ": "김종열",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 54342,
+        "MAIN_OBJ": "이달",
+        "SUB_OBJ": "김종열",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 54343,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.28331"
+    },
+    {
+        "DOCID": 54344,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "김종열",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54345,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.47779"
+    },
+    {
+        "DOCID": 54346,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.76277"
+    },
+    {
+        "DOCID": 54347,
+        "MAIN_OBJ": "김종열",
+        "SUB_OBJ": "하나금융",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 54348,
+        "MAIN_OBJ": "김종열",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 54349,
+        "MAIN_OBJ": "김종열",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54350,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "이달",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.50625"
+    },
+    {
+        "DOCID": 54351,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.20509"
+    },
+    {
+        "DOCID": 54352,
+        "MAIN_OBJ": "하나금융",
+        "SUB_OBJ": "23일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 54353,
+        "MAIN_OBJ": "50억원",
+        "SUB_OBJ": "23일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 54354,
+        "MAIN_OBJ": "50억원",
+        "SUB_OBJ": "100억원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54355,
+        "MAIN_OBJ": "100억원",
+        "SUB_OBJ": "23일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 54356,
+        "MAIN_OBJ": "100억원",
+        "SUB_OBJ": "50억원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54357,
+        "MAIN_OBJ": "하나금융",
+        "SUB_OBJ": "퇴직금",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 54358,
+        "MAIN_OBJ": "하나금융",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 54359,
+        "MAIN_OBJ": "관계자",
+        "SUB_OBJ": "등기이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 54360,
+        "MAIN_OBJ": "관계자",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.26497"
+    },
+    {
+        "DOCID": 54361,
+        "MAIN_OBJ": "관계자",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.21345"
+    },
+    {
+        "DOCID": 54362,
+        "MAIN_OBJ": "등기이사",
+        "SUB_OBJ": "하나금융",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54363,
+        "MAIN_OBJ": "등기이사",
+        "SUB_OBJ": "관계자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 54364,
+        "MAIN_OBJ": "등기이사",
+        "SUB_OBJ": "퇴직금",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 54365,
+        "MAIN_OBJ": "등기이사",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 54366,
+        "MAIN_OBJ": "등기이사",
+        "SUB_OBJ": "40여 년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 54367,
+        "MAIN_OBJ": "퇴직금",
+        "SUB_OBJ": "40여 년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 54368,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.38881"
+    },
+    {
+        "DOCID": 54369,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "등기이사",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 54370,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "관계자",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.5292"
+    },
+    {
+        "DOCID": 54371,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "등기이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 54372,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "40여 년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.21573"
+    }
+]

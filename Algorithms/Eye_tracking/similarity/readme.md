@@ -3,4 +3,4 @@
 - Edit Distance (ED)
 - Frechet Distance
 - Jaccard Coefficient Similarity
-- Longest Common Subsequence
+- Longest Common Subsequence (LCS)

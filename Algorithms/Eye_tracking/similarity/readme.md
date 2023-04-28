@@ -1,5 +1,5 @@
 *Similarity calculation algorithms used in Eye tracking Researches (Scanpath)*
-- Dynamic Time Warping
+- Dynamic Time Warping (DTW)
 - Edit Distance
 - Frechet Distance
 - Jaccard Coefficient Similarity

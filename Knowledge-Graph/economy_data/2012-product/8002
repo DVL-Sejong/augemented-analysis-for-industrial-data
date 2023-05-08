@@ -1,0 +1,5690 @@
+[
+    {
+        "DOCID": 1276770,
+        "MAIN_OBJ": "lottorich.co.kr",
+        "SUB_OBJ": "한 편",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276771,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "하늘천사",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276772,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "지난 1997년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276773,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "IMF",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1276774,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "15년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276775,
+        "MAIN_OBJ": "하늘천사",
+        "SUB_OBJ": "IMF",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276776,
+        "MAIN_OBJ": "하늘천사",
+        "SUB_OBJ": "15년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276777,
+        "MAIN_OBJ": "dkdltm03",
+        "SUB_OBJ": "leesuk5937",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276778,
+        "MAIN_OBJ": "dkdltm03",
+        "SUB_OBJ": "IMF",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276779,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "하늘천사",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276780,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "dkdltm03",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276781,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "지난 1997년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276782,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "지난 1997년",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276783,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "IMF",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1276784,
+        "MAIN_OBJ": "leesuk5937",
+        "SUB_OBJ": "15년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276785,
+        "MAIN_OBJ": "지난 1997년",
+        "SUB_OBJ": "오늘",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1276786,
+        "MAIN_OBJ": "지난 1997년",
+        "SUB_OBJ": "하늘천사",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276787,
+        "MAIN_OBJ": "지난 1997년",
+        "SUB_OBJ": "dkdltm03",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276788,
+        "MAIN_OBJ": "지난 1997년",
+        "SUB_OBJ": "leesuk5937",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1276789,
+        "MAIN_OBJ": "지난 1997년",
+        "SUB_OBJ": "15년",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1276790,
+        "MAIN_OBJ": "15년",
+        "SUB_OBJ": "오늘",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1276791,
+        "MAIN_OBJ": "15년",
+        "SUB_OBJ": "하늘천사",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276792,
+        "MAIN_OBJ": "15년",
+        "SUB_OBJ": "leesuk5937",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1276793,
+        "MAIN_OBJ": "15년",
+        "SUB_OBJ": "지난 1997년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1276794,
+        "MAIN_OBJ": "한 편",
+        "SUB_OBJ": "기호",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276795,
+        "MAIN_OBJ": "기호",
+        "SUB_OBJ": "한 편",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276796,
+        "MAIN_OBJ": "기호",
+        "SUB_OBJ": "한 편",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276797,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "기호",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.56949"
+    },
+    {
+        "DOCID": 1276798,
+        "MAIN_OBJ": "오늘",
+        "SUB_OBJ": "3번",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1276799,
+        "MAIN_OBJ": "5천원",
+        "SUB_OBJ": "1만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276800,
+        "MAIN_OBJ": "1만원",
+        "SUB_OBJ": "5천원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276801,
+        "MAIN_OBJ": "서민",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.93543"
+    },
+    {
+        "DOCID": 1276802,
+        "MAIN_OBJ": "한주",
+        "SUB_OBJ": "1,000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60085"
+    }
+]
+[
+    {
+        "DOCID": 1276803,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "래티늄(VI",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43918"
+    },
+    {
+        "DOCID": 1276804,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "43",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276805,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "세 차례",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276806,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43918"
+    },
+    {
+        "DOCID": 1276807,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "래티늄(VI",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276808,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.42547"
+    },
+    {
+        "DOCID": 1276809,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "43",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276810,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.31164"
+    },
+    {
+        "DOCID": 1276811,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "고양시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.40055"
+    },
+    {
+        "DOCID": 1276812,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276813,
+        "MAIN_OBJ": "래티늄(VI",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276814,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "플",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.15935"
+    },
+    {
+        "DOCID": 1276815,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "43",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276816,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "세 차례",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276817,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.289"
+    },
+    {
+        "DOCID": 1276818,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "경기도",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.21448"
+    },
+    {
+        "DOCID": 1276819,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "고양시",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.26776"
+    },
+    {
+        "DOCID": 1276820,
+        "MAIN_OBJ": "43",
+        "SUB_OBJ": "플",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276821,
+        "MAIN_OBJ": "43",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276822,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "플",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.31164"
+    },
+    {
+        "DOCID": 1276823,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.46059"
+    },
+    {
+        "DOCID": 1276824,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.53105"
+    },
+    {
+        "DOCID": 1276825,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "고양시",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.53409"
+    },
+    {
+        "DOCID": 1276826,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "플",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.22926"
+    },
+    {
+        "DOCID": 1276827,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36486"
+    },
+    {
+        "DOCID": 1276828,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.39241"
+    },
+    {
+        "DOCID": 1276829,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 지역이 다음의 수도임(capital of)",
+        "weight": "0.32447"
+    },
+    {
+        "DOCID": 1276830,
+        "MAIN_OBJ": "세 차례",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276831,
+        "MAIN_OBJ": "세 차례",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276832,
+        "MAIN_OBJ": "총 8만1000원",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276833,
+        "MAIN_OBJ": "두 가지 이상",
+        "SUB_OBJ": "6개월 이전",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276834,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "하루",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31602"
+    },
+    {
+        "DOCID": 1276835,
+        "MAIN_OBJ": "하루",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.31602"
+    },
+    {
+        "DOCID": 1276836,
+        "MAIN_OBJ": "황진자",
+        "SUB_OBJ": "한국소비자원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276837,
+        "MAIN_OBJ": "한국소비자원",
+        "SUB_OBJ": "황진자",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276838,
+        "MAIN_OBJ": "약관광고팀장",
+        "SUB_OBJ": "황진자",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276839,
+        "MAIN_OBJ": "약관광고팀장",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276840,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "황진자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276841,
+        "MAIN_OBJ": "신한카드",
+        "SUB_OBJ": "지난 10월부터",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276842,
+        "MAIN_OBJ": "서규봉",
+        "SUB_OBJ": "경기도",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276843,
+        "MAIN_OBJ": "서규봉",
+        "SUB_OBJ": "부천시",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276844,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "서규봉",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276845,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "부천시",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.97995"
+    },
+    {
+        "DOCID": 1276846,
+        "MAIN_OBJ": "부천시",
+        "SUB_OBJ": "서규봉",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276847,
+        "MAIN_OBJ": "한 달",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276848,
+        "MAIN_OBJ": "한 달",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276849,
+        "MAIN_OBJ": "50만원",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276850,
+        "MAIN_OBJ": "서",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276851,
+        "MAIN_OBJ": "올해 5월",
+        "SUB_OBJ": "한 달",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276852,
+        "MAIN_OBJ": "올해 5월",
+        "SUB_OBJ": "50만원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276853,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276854,
+        "MAIN_OBJ": "KB국민",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276855,
+        "MAIN_OBJ": "KB국민",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276856,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276857,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "KB국민",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276858,
+        "MAIN_OBJ": "VIP",
+        "SUB_OBJ": "내년부터",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276859,
+        "MAIN_OBJ": "금융감독원",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276860,
+        "MAIN_OBJ": "금융감독원",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276861,
+        "MAIN_OBJ": "새누리당",
+        "SUB_OBJ": "금융감독원",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276862,
+        "MAIN_OBJ": "새누리당",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276863,
+        "MAIN_OBJ": "김재경",
+        "SUB_OBJ": "금융감독원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276864,
+        "MAIN_OBJ": "김재경",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276865,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276866,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276867,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "40%가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276868,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "1년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276869,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276870,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "40%가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276871,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "1년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276872,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276873,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276874,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276875,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "111개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276876,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276877,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276878,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276879,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "금융소비자원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276880,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276881,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "소비자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276882,
+        "MAIN_OBJ": "금융소비자원",
+        "SUB_OBJ": "조남희",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276883,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32203"
+    },
+    {
+        "DOCID": 1276884,
+        "MAIN_OBJ": "이상구",
+        "SUB_OBJ": "SMS",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276885,
+        "MAIN_OBJ": "이상구",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276886,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "이상구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276887,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "상호여전검사국장",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276888,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "SMS",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276889,
+        "MAIN_OBJ": "상호여전검사국장",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276890,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276891,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276892,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "상호여전검사국장",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276893,
+        "MAIN_OBJ": "김혜미",
+        "SUB_OBJ": "기",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276894,
+        "MAIN_OBJ": "6개월 이전",
+        "SUB_OBJ": "두 가지 이상",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    }
+]
+[
+    {
+        "DOCID": 1276895,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.10612"
+    },
+    {
+        "DOCID": 1276896,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "의장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1276897,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "69",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276898,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.14261"
+    },
+    {
+        "DOCID": 1276899,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "59",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276900,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.46433"
+    },
+    {
+        "DOCID": 1276901,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "의장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.36292"
+    },
+    {
+        "DOCID": 1276902,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1276903,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.12105"
+    },
+    {
+        "DOCID": 1276904,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "허진수",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.25384"
+    },
+    {
+        "DOCID": 1276905,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1276906,
+        "MAIN_OBJ": "69",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.04091"
+    },
+    {
+        "DOCID": 1276907,
+        "MAIN_OBJ": "69",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1276908,
+        "MAIN_OBJ": "69",
+        "SUB_OBJ": "59",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276909,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1276910,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.14674"
+    },
+    {
+        "DOCID": 1276911,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "의장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.87042"
+    },
+    {
+        "DOCID": 1276912,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.32735"
+    },
+    {
+        "DOCID": 1276913,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "59",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.06042"
+    },
+    {
+        "DOCID": 1276914,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "부회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.99259"
+    },
+    {
+        "DOCID": 1276915,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.99259"
+    },
+    {
+        "DOCID": 1276916,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.08715"
+    },
+    {
+        "DOCID": 1276917,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "59",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.75309"
+    },
+    {
+        "DOCID": 1276918,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1276919,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "의장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.26068"
+    },
+    {
+        "DOCID": 1276920,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "허동수",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.11887"
+    },
+    {
+        "DOCID": 1276921,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.21003"
+    },
+    {
+        "DOCID": 1276922,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.08005"
+    },
+    {
+        "DOCID": 1276923,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1276924,
+        "MAIN_OBJ": "59",
+        "SUB_OBJ": "69",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276925,
+        "MAIN_OBJ": "부회장",
+        "SUB_OBJ": "의장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.37028"
+    },
+    {
+        "DOCID": 1276926,
+        "MAIN_OBJ": "부회장",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.13866"
+    },
+    {
+        "DOCID": 1276927,
+        "MAIN_OBJ": "부회장",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.09067"
+    },
+    {
+        "DOCID": 1276928,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 1276929,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.67029"
+    },
+    {
+        "DOCID": 1276930,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "의장직",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.54786"
+    },
+    {
+        "DOCID": 1276931,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "1994년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.80429"
+    },
+    {
+        "DOCID": 1276932,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.25751"
+    },
+    {
+        "DOCID": 1276933,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "의장직",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.69342"
+    },
+    {
+        "DOCID": 1276934,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.05322"
+    },
+    {
+        "DOCID": 1276935,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "의장직",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276936,
+        "MAIN_OBJ": "의장직",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.02674"
+    },
+    {
+        "DOCID": 1276937,
+        "MAIN_OBJ": "의장직",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.02674"
+    },
+    {
+        "DOCID": 1276938,
+        "MAIN_OBJ": "의장직",
+        "SUB_OBJ": "대표",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276939,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "전국경제인연합회장",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1276940,
+        "MAIN_OBJ": "부회장",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06465"
+    },
+    {
+        "DOCID": 1276941,
+        "MAIN_OBJ": "부회장",
+        "SUB_OBJ": "사촌",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.43681"
+    },
+    {
+        "DOCID": 1276942,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.25384"
+    },
+    {
+        "DOCID": 1276943,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1276944,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.12105"
+    },
+    {
+        "DOCID": 1276945,
+        "MAIN_OBJ": "64",
+        "SUB_OBJ": "부회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276946,
+        "MAIN_OBJ": "64",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.02674"
+    },
+    {
+        "DOCID": 1276947,
+        "MAIN_OBJ": "64",
+        "SUB_OBJ": "동생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276948,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276949,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.11887"
+    },
+    {
+        "DOCID": 1276950,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "전국경제인연합회장",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1276951,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.11887"
+    },
+    {
+        "DOCID": 1276952,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "64",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.69342"
+    },
+    {
+        "DOCID": 1276953,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "둘째",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.38902"
+    },
+    {
+        "DOCID": 1276954,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "동생",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.91129"
+    },
+    {
+        "DOCID": 1276955,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "사촌",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.99982"
+    },
+    {
+        "DOCID": 1276956,
+        "MAIN_OBJ": "전국경제인연합회장",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1276957,
+        "MAIN_OBJ": "전국경제인연합회장",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.04091"
+    },
+    {
+        "DOCID": 1276958,
+        "MAIN_OBJ": "전국경제인연합회장",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.04091"
+    },
+    {
+        "DOCID": 1276959,
+        "MAIN_OBJ": "둘째",
+        "SUB_OBJ": "사촌",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.18541"
+    },
+    {
+        "DOCID": 1276960,
+        "MAIN_OBJ": "동생",
+        "SUB_OBJ": "64",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276961,
+        "MAIN_OBJ": "동생",
+        "SUB_OBJ": "둘째",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.76766"
+    },
+    {
+        "DOCID": 1276962,
+        "MAIN_OBJ": "동생",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.07873"
+    },
+    {
+        "DOCID": 1276963,
+        "MAIN_OBJ": "동생",
+        "SUB_OBJ": "사촌",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.52058"
+    },
+    {
+        "DOCID": 1276964,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.34932"
+    },
+    {
+        "DOCID": 1276965,
+        "MAIN_OBJ": "사촌",
+        "SUB_OBJ": "64",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276966,
+        "MAIN_OBJ": "사촌",
+        "SUB_OBJ": "둘째",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.67973"
+    },
+    {
+        "DOCID": 1276967,
+        "MAIN_OBJ": "의장",
+        "SUB_OBJ": "부회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.46433"
+    },
+    {
+        "DOCID": 1276968,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1276969,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.23633"
+    },
+    {
+        "DOCID": 1276970,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1276971,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.16297"
+    },
+    {
+        "DOCID": 1276972,
+        "MAIN_OBJ": "관계자",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.02473"
+    },
+    {
+        "DOCID": 1276973,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.88904"
+    },
+    {
+        "DOCID": 1276974,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "관계자",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.42822"
+    },
+    {
+        "DOCID": 1276975,
+        "MAIN_OBJ": "40년 가까",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276976,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "셰브론",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 1276977,
+        "MAIN_OBJ": "셰브론",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 1276978,
+        "MAIN_OBJ": "셰브론",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.02854"
+    },
+    {
+        "DOCID": 1276979,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "고려대",
+        "RELATION": "해당 인물의 학교(educated at)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1276980,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1276981,
+        "MAIN_OBJ": "허진수",
+        "SUB_OBJ": "조지워싱턴대",
+        "RELATION": "해당 인물의 학교(educated at)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 1276982,
+        "MAIN_OBJ": "고려대",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08131"
+    },
+    {
+        "DOCID": 1276983,
+        "MAIN_OBJ": "고려대",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.40015"
+    },
+    {
+        "DOCID": 1276984,
+        "MAIN_OBJ": "고려대",
+        "SUB_OBJ": "조지워싱턴대",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276985,
+        "MAIN_OBJ": "고려대",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1276986,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "허진수",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1276987,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "조지워싱턴대",
+        "RELATION": "하위 행정구역",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276988,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "86년",
+        "RELATION": "해당 개체에게 있었던 주목할 만한 사건(significant event)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276989,
+        "MAIN_OBJ": "조지워싱턴대",
+        "SUB_OBJ": "고려대",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276990,
+        "MAIN_OBJ": "조지워싱턴대",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276991,
+        "MAIN_OBJ": "86년",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276992,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1276993,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "허연수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.26067"
+    },
+    {
+        "DOCID": 1276994,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "GS리테일",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.26068"
+    },
+    {
+        "DOCID": 1276995,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "허용수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23257"
+    },
+    {
+        "DOCID": 1276996,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "44",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1276997,
+        "MAIN_OBJ": "GS그룹",
+        "SUB_OBJ": "GS에너지",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1276998,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.25384"
+    },
+    {
+        "DOCID": 1276999,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "허연수",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.36292"
+    },
+    {
+        "DOCID": 1277000,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "GS리테일",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.36292"
+    },
+    {
+        "DOCID": 1277001,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1277002,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "허용수",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.32734"
+    },
+    {
+        "DOCID": 1277003,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "GS에너지",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1277004,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.19602"
+    },
+    {
+        "DOCID": 1277005,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1277006,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "51",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.06042"
+    },
+    {
+        "DOCID": 1277007,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.94648"
+    },
+    {
+        "DOCID": 1277008,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "허용수",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.43931"
+    },
+    {
+        "DOCID": 1277009,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "44",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.06042"
+    },
+    {
+        "DOCID": 1277010,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.50599"
+    },
+    {
+        "DOCID": 1277011,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.96568"
+    },
+    {
+        "DOCID": 1277012,
+        "MAIN_OBJ": "사촌",
+        "SUB_OBJ": "허연수",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 1277013,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 1277014,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.05039"
+    },
+    {
+        "DOCID": 1277015,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277016,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "GS에너지",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277017,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.08576"
+    },
+    {
+        "DOCID": 1277018,
+        "MAIN_OBJ": "허연수",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277019,
+        "MAIN_OBJ": "51",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.02484"
+    },
+    {
+        "DOCID": 1277020,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 1277021,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 1277022,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.07605"
+    },
+    {
+        "DOCID": 1277023,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "허연수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277024,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "허용수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1277025,
+        "MAIN_OBJ": "GS리테일",
+        "SUB_OBJ": "GS에너지",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277026,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1277027,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12514"
+    },
+    {
+        "DOCID": 1277028,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "51",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1277029,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "전무",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17878"
+    },
+    {
+        "DOCID": 1277030,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.44681"
+    },
+    {
+        "DOCID": 1277031,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.13128"
+    },
+    {
+        "DOCID": 1277032,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1277033,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.058"
+    },
+    {
+        "DOCID": 1277034,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1277035,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "GS에너지",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1277036,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.09814"
+    },
+    {
+        "DOCID": 1277037,
+        "MAIN_OBJ": "허용수",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1277038,
+        "MAIN_OBJ": "44",
+        "SUB_OBJ": "51",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277039,
+        "MAIN_OBJ": "GS에너지",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1277040,
+        "MAIN_OBJ": "GS에너지",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06465"
+    },
+    {
+        "DOCID": 1277041,
+        "MAIN_OBJ": "GS에너지",
+        "SUB_OBJ": "허연수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277042,
+        "MAIN_OBJ": "GS에너지",
+        "SUB_OBJ": "GS리테일",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277043,
+        "MAIN_OBJ": "GS에너지",
+        "SUB_OBJ": "허용수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1277044,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.22944"
+    },
+    {
+        "DOCID": 1277045,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15784"
+    },
+    {
+        "DOCID": 1277046,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.23059"
+    },
+    {
+        "DOCID": 1277047,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "부사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.68099"
+    },
+    {
+        "DOCID": 1277048,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "GS그룹",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1277049,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "회장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.13064"
+    },
+    {
+        "DOCID": 1277050,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "부사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.44681"
+    },
+    {
+        "DOCID": 1277051,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1277052,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1277053,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1277054,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1277055,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.32734"
+    },
+    {
+        "DOCID": 1277056,
+        "MAIN_OBJ": "허동수",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.46661"
+    },
+    {
+        "DOCID": 1277057,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "장남",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.18531"
+    },
+    {
+        "DOCID": 1277058,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "43",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.06042"
+    },
+    {
+        "DOCID": 1277059,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "33",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.8277"
+    },
+    {
+        "DOCID": 1277060,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "상무보",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.53437"
+    },
+    {
+        "DOCID": 1277061,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.98029"
+    },
+    {
+        "DOCID": 1277062,
+        "MAIN_OBJ": "장남",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.02854"
+    },
+    {
+        "DOCID": 1277063,
+        "MAIN_OBJ": "장남",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.02854"
+    },
+    {
+        "DOCID": 1277064,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1277065,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.06547"
+    },
+    {
+        "DOCID": 1277066,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277067,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1277068,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1277069,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1277070,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "상무보",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1277071,
+        "MAIN_OBJ": "허세홍",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1277072,
+        "MAIN_OBJ": "43",
+        "SUB_OBJ": "상무",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 1277073,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277074,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1277075,
+        "MAIN_OBJ": "GS칼텍스",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1277076,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15784"
+    },
+    {
+        "DOCID": 1277077,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.27087"
+    },
+    {
+        "DOCID": 1277078,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "43",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.83964"
+    },
+    {
+        "DOCID": 1277079,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.27087"
+    },
+    {
+        "DOCID": 1277080,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.27087"
+    },
+    {
+        "DOCID": 1277081,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "상무보",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.37387"
+    },
+    {
+        "DOCID": 1277082,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1277083,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 자녀(child)",
+        "weight": "0.29836"
+    },
+    {
+        "DOCID": 1277084,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.32734"
+    },
+    {
+        "DOCID": 1277085,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "상무보",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.40782"
+    },
+    {
+        "DOCID": 1277086,
+        "MAIN_OBJ": "허창수",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.46661"
+    },
+    {
+        "DOCID": 1277087,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1277088,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.06547"
+    },
+    {
+        "DOCID": 1277089,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "GS칼텍스",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277090,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1277091,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 친아버지(father)",
+        "weight": "0.09799"
+    },
+    {
+        "DOCID": 1277092,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1277093,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "상무보",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1277094,
+        "MAIN_OBJ": "허윤홍",
+        "SUB_OBJ": "상무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1277095,
+        "MAIN_OBJ": "33",
+        "SUB_OBJ": "43",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1277096,
+        "MAIN_OBJ": "33",
+        "SUB_OBJ": "상무",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1277097,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1277098,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1277099,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1277100,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1277101,
+        "MAIN_OBJ": "상무보",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06465"
+    },
+    {
+        "DOCID": 1277102,
+        "MAIN_OBJ": "상무보",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.04265"
+    },
+    {
+        "DOCID": 1277103,
+        "MAIN_OBJ": "상무보",
+        "SUB_OBJ": "허세홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1277104,
+        "MAIN_OBJ": "상무보",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.06465"
+    },
+    {
+        "DOCID": 1277105,
+        "MAIN_OBJ": "상무보",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1277106,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "허동수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.05294"
+    },
+    {
+        "DOCID": 1277107,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "부사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33776"
+    },
+    {
+        "DOCID": 1277108,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "허창수",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.05294"
+    },
+    {
+        "DOCID": 1277109,
+        "MAIN_OBJ": "상무",
+        "SUB_OBJ": "허윤홍",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1277110,
+        "MAIN_OBJ": "(주)GS",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277111,
+        "MAIN_OBJ": "(주)GS",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277112,
+        "MAIN_OBJ": "경영지원팀장",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.058"
+    },
+    {
+        "DOCID": 1277113,
+        "MAIN_OBJ": "경영지원팀장",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1277114,
+        "MAIN_OBJ": "경영지원팀장",
+        "SUB_OBJ": "사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1277115,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277116,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1277117,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "경영지원팀장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.43928"
+    },
+    {
+        "DOCID": 1277118,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.75309"
+    },
+    {
+        "DOCID": 1277119,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277120,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "경영지원총괄",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.54957"
+    },
+    {
+        "DOCID": 1277121,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "CFO",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1277122,
+        "MAIN_OBJ": "임병용",
+        "SUB_OBJ": "(주)GS",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277123,
+        "MAIN_OBJ": "임병용",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1277124,
+        "MAIN_OBJ": "50",
+        "SUB_OBJ": "경영지원팀장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1277125,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "GS스포츠",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277126,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.09067"
+    },
+    {
+        "DOCID": 1277127,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1277128,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 1277129,
+        "MAIN_OBJ": "경영지원총괄",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277130,
+        "MAIN_OBJ": "경영지원총괄",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1277131,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277132,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "임병용",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277133,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1277134,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1277135,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "사장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277136,
+        "MAIN_OBJ": "CFO",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1277137,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "장기주",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277138,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "장기주",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277139,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1277140,
+        "MAIN_OBJ": "GS스포츠",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08576"
+    },
+    {
+        "DOCID": 1277141,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.14438"
+    },
+    {
+        "DOCID": 1277142,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277143,
+        "MAIN_OBJ": "장기주",
+        "SUB_OBJ": "전무",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.03241"
+    },
+    {
+        "DOCID": 1277144,
+        "MAIN_OBJ": "장기주",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1277145,
+        "MAIN_OBJ": "GS건설",
+        "SUB_OBJ": "장기주",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1277146,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "GS스포츠",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.33144"
+    },
+    {
+        "DOCID": 1277147,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "대표이사",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.21323"
+    },
+    {
+        "DOCID": 1277148,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "GS건설",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.29799"
+    },
+    {
+        "DOCID": 1277149,
+        "MAIN_OBJ": "전무",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.68099"
+    }
+]
+[
+    {
+        "DOCID": 1277150,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "드럼세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277151,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277152,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277153,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "1위",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277154,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "LG전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1277155,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277156,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1277157,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "디엠 라케누시마일마가",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277158,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "세탁기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1277159,
+        "MAIN_OBJ": "핀란드",
+        "SUB_OBJ": "LG전자",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1277160,
+        "MAIN_OBJ": "핀란드",
+        "SUB_OBJ": "디엠 라케누시마일마가",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277161,
+        "MAIN_OBJ": "핀란드",
+        "SUB_OBJ": "세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.25144"
+    },
+    {
+        "DOCID": 1277162,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.22206"
+    },
+    {
+        "DOCID": 1277163,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "1위",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1277164,
+        "MAIN_OBJ": "디엠 라케누시마일마가",
+        "SUB_OBJ": "드럼세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1277165,
+        "MAIN_OBJ": "디엠 라케누시마일마가",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277166,
+        "MAIN_OBJ": "디엠 라케누시마일마가",
+        "SUB_OBJ": "세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1277167,
+        "MAIN_OBJ": "세탁기",
+        "SUB_OBJ": "LG전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277168,
+        "MAIN_OBJ": "세탁기",
+        "SUB_OBJ": "드럼세탁기",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277169,
+        "MAIN_OBJ": "세탁기",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.3712"
+    },
+    {
+        "DOCID": 1277170,
+        "MAIN_OBJ": "세탁기",
+        "SUB_OBJ": "소비자",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.50252"
+    },
+    {
+        "DOCID": 1277171,
+        "MAIN_OBJ": "1위",
+        "SUB_OBJ": "드럼세탁기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277172,
+        "MAIN_OBJ": "1위",
+        "SUB_OBJ": "핀란드",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277173,
+        "MAIN_OBJ": "1위",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1277174,
+        "MAIN_OBJ": "1위",
+        "SUB_OBJ": "세탁기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277175,
+        "MAIN_OBJ": "LG",
+        "SUB_OBJ": "드럼세탁기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1277176,
+        "MAIN_OBJ": "드럼세탁기",
+        "SUB_OBJ": "LG",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.5541"
+    }
+]
+[
+    {
+        "DOCID": 1277177,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1277178,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09067"
+    },
+    {
+        "DOCID": 1277179,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277180,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277181,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "신한",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1277182,
+        "MAIN_OBJ": "6~12일",
+        "SUB_OBJ": "롯데마트",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1277183,
+        "MAIN_OBJ": "6~12일",
+        "SUB_OBJ": "KB국민카드",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1277184,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.54957"
+    },
+    {
+        "DOCID": 1277185,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "40%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.54957"
+    },
+    {
+        "DOCID": 1277186,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "롯데마트",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277187,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.16319"
+    },
+    {
+        "DOCID": 1277188,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "신한",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.54696"
+    },
+    {
+        "DOCID": 1277189,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "40%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1277190,
+        "MAIN_OBJ": "신한",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.0899"
+    },
+    {
+        "DOCID": 1277191,
+        "MAIN_OBJ": "신한",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.22856"
+    },
+    {
+        "DOCID": 1277192,
+        "MAIN_OBJ": "40%",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277193,
+        "MAIN_OBJ": "40%",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277194,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "등심",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277195,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "100g",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1277196,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "3900원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43928"
+    },
+    {
+        "DOCID": 1277197,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "국거리",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36794"
+    },
+    {
+        "DOCID": 1277198,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.80092"
+    },
+    {
+        "DOCID": 1277199,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "1980원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36794"
+    },
+    {
+        "DOCID": 1277200,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "일주일 정도",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277201,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43928"
+    },
+    {
+        "DOCID": 1277202,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "200t",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1277203,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "100g",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277204,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "국거리",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277205,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277206,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277207,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "200t",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277208,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14944"
+    },
+    {
+        "DOCID": 1277209,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1277210,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1277211,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "3900원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277212,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "국거리",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1277213,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277214,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "1980원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1277215,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "200t",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1277216,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10612"
+    },
+    {
+        "DOCID": 1277217,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277218,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277219,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1277220,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "일주일 정도",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277221,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1277222,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 1277223,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277224,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277225,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 1277226,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "100g",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277227,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277228,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.15676"
+    },
+    {
+        "DOCID": 1277229,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1277230,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1277231,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277232,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277233,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277234,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277235,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277236,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277237,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "1등급",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1277238,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.1521"
+    },
+    {
+        "DOCID": 1277239,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277240,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277241,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277242,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.058"
+    },
+    {
+        "DOCID": 1277243,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1277244,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277245,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277246,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "등심",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277247,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12612"
+    },
+    {
+        "DOCID": 1277248,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277249,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277250,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    }
+]
+[
+    {
+        "DOCID": 1276441,
+        "MAIN_OBJ": "연초",
+        "SUB_OBJ": "이번 주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276442,
+        "MAIN_OBJ": "이번 주",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276443,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "29일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276444,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276445,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276446,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "29일",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276447,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276448,
+        "MAIN_OBJ": "29일",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276449,
+        "MAIN_OBJ": "29일",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276450,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276451,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "사흘",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276452,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "29일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276453,
+        "MAIN_OBJ": "한 주간",
+        "SUB_OBJ": "2.22%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276454,
+        "MAIN_OBJ": "한 주간",
+        "SUB_OBJ": "1825.74",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276455,
+        "MAIN_OBJ": "2.22%",
+        "SUB_OBJ": "한 주간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276456,
+        "MAIN_OBJ": "2.22%",
+        "SUB_OBJ": "1825.74",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276457,
+        "MAIN_OBJ": "1825.74",
+        "SUB_OBJ": "한 주간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276458,
+        "MAIN_OBJ": "1825.74",
+        "SUB_OBJ": "2.22%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276459,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.5965"
+    },
+    {
+        "DOCID": 1276460,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.25184"
+    },
+    {
+        "DOCID": 1276461,
+        "MAIN_OBJ": "2일",
+        "SUB_OBJ": "새해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276462,
+        "MAIN_OBJ": "새해",
+        "SUB_OBJ": "2일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276463,
+        "MAIN_OBJ": "중국",
+        "SUB_OBJ": "일본",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.5904"
+    },
+    {
+        "DOCID": 1276464,
+        "MAIN_OBJ": "일본",
+        "SUB_OBJ": "중국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.26989"
+    },
+    {
+        "DOCID": 1276465,
+        "MAIN_OBJ": "2~3일",
+        "SUB_OBJ": "중국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276466,
+        "MAIN_OBJ": "곽병열",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276467,
+        "MAIN_OBJ": "곽병열",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276468,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276469,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 1276470,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276471,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276472,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "유진투자증권",
+        "RELATION": "해당 개체의 발행 주체(publisher)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276473,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1276474,
+        "MAIN_OBJ": "연초",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.14597"
+    },
+    {
+        "DOCID": 1276475,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276476,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "스트래티지스트",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276477,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.62026"
+    },
+    {
+        "DOCID": 1276478,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.4138"
+    },
+    {
+        "DOCID": 1276479,
+        "MAIN_OBJ": "독일",
+        "SUB_OBJ": "메르켈",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.35402"
+    },
+    {
+        "DOCID": 1276480,
+        "MAIN_OBJ": "메르켈",
+        "SUB_OBJ": "독일",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.35402"
+    },
+    {
+        "DOCID": 1276481,
+        "MAIN_OBJ": "총리",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.49772"
+    },
+    {
+        "DOCID": 1276482,
+        "MAIN_OBJ": "총리",
+        "SUB_OBJ": "5일",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276483,
+        "MAIN_OBJ": "5일",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276484,
+        "MAIN_OBJ": "5일",
+        "SUB_OBJ": "연말",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276485,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.54313"
+    },
+    {
+        "DOCID": 1276486,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "5일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276487,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "주 후반부터",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1276488,
+        "MAIN_OBJ": "스탠더드 앤드 푸어스",
+        "SUB_OBJ": "S&P",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276489,
+        "MAIN_OBJ": "S&P",
+        "SUB_OBJ": "스탠더드 앤드 푸어스",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276490,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "S&P",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276491,
+        "MAIN_OBJ": "무디스",
+        "SUB_OBJ": "S&P",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276492,
+        "MAIN_OBJ": "프랑스",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.19418"
+    },
+    {
+        "DOCID": 1276493,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "중국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.70473"
+    },
+    {
+        "DOCID": 1276494,
+        "MAIN_OBJ": "중국",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.17964"
+    },
+    {
+        "DOCID": 1276495,
+        "MAIN_OBJ": "김정훈",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1276496,
+        "MAIN_OBJ": "한국투자증권",
+        "SUB_OBJ": "김정훈",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276497,
+        "MAIN_OBJ": "한국투자증권",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276498,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "김정훈",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276499,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.19219"
+    },
+    {
+        "DOCID": 1276500,
+        "MAIN_OBJ": "4분기",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276501,
+        "MAIN_OBJ": "4분기",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276502,
+        "MAIN_OBJ": "정보기술",
+        "SUB_OBJ": "IT",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276503,
+        "MAIN_OBJ": "김수연",
+        "SUB_OBJ": "기자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    }
+]
+[
+    {
+        "DOCID": 1276504,
+        "MAIN_OBJ": "하형석",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1276505,
+        "MAIN_OBJ": "하형석",
+        "SUB_OBJ": "소비자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276506,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.46899"
+    },
+    {
+        "DOCID": 1276507,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "대표",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.20985"
+    },
+    {
+        "DOCID": 1276508,
+        "MAIN_OBJ": "미미박스",
+        "SUB_OBJ": "하형석",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276509,
+        "MAIN_OBJ": "하형석",
+        "SUB_OBJ": "미미박스",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276510,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "29",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.3784"
+    },
+    {
+        "DOCID": 1276511,
+        "MAIN_OBJ": "지난해 12월",
+        "SUB_OBJ": "회원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276512,
+        "MAIN_OBJ": "지난해 12월",
+        "SUB_OBJ": "회원",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276513,
+        "MAIN_OBJ": "미미박스",
+        "SUB_OBJ": "만 3개월여 만",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276514,
+        "MAIN_OBJ": "만 3개월여 만",
+        "SUB_OBJ": "지난해 12월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276515,
+        "MAIN_OBJ": "만 3개월여 만",
+        "SUB_OBJ": "회원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276516,
+        "MAIN_OBJ": "회원",
+        "SUB_OBJ": "지난해 12월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276517,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "1.55581"
+    },
+    {
+        "DOCID": 1276518,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "하",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.38465"
+    },
+    {
+        "DOCID": 1276519,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.76789"
+    },
+    {
+        "DOCID": 1276520,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.21672"
+    },
+    {
+        "DOCID": 1276521,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "한국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.59129"
+    },
+    {
+        "DOCID": 1276522,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.24399"
+    },
+    {
+        "DOCID": 1276523,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "파슨스스쿨",
+        "RELATION": "해당 인물의 학교(educated at)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276524,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "한국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.8016"
+    },
+    {
+        "DOCID": 1276525,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.36563"
+    },
+    {
+        "DOCID": 1276526,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "파슨스스쿨",
+        "RELATION": "해당 인물의 학교(educated at)",
+        "weight": "0.48999"
+    },
+    {
+        "DOCID": 1276527,
+        "MAIN_OBJ": "한국",
+        "SUB_OBJ": "하",
+        "RELATION": "해당 국가의 원수(head of state)",
+        "weight": "0.13532"
+    },
+    {
+        "DOCID": 1276528,
+        "MAIN_OBJ": "한국",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.15061"
+    },
+    {
+        "DOCID": 1276529,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "하",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.36522"
+    },
+    {
+        "DOCID": 1276530,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.3116"
+    },
+    {
+        "DOCID": 1276531,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "한국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.82965"
+    },
+    {
+        "DOCID": 1276532,
+        "MAIN_OBJ": "파슨스스쿨",
+        "SUB_OBJ": "한국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276533,
+        "MAIN_OBJ": "파슨스스쿨",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 1276534,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "뉴욕",
+        "RELATION": "하위 행정구역",
+        "weight": "1.06827"
+    },
+    {
+        "DOCID": 1276535,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "톰포드",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276536,
+        "MAIN_OBJ": "뉴욕",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.08973"
+    },
+    {
+        "DOCID": 1276537,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276538,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276539,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "인턴",
+        "RELATION": "직업(occupation)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1276540,
+        "MAIN_OBJ": "인턴",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.07246"
+    },
+    {
+        "DOCID": 1276541,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1276542,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1276543,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "브래드 피트",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 1276544,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "코디",
+        "RELATION": "직업(occupation)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 1276545,
+        "MAIN_OBJ": "톰포드",
+        "SUB_OBJ": "티켓몬스터",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1276546,
+        "MAIN_OBJ": "모델",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29078"
+    },
+    {
+        "DOCID": 1276547,
+        "MAIN_OBJ": "모델",
+        "SUB_OBJ": "코디",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.44505"
+    },
+    {
+        "DOCID": 1276548,
+        "MAIN_OBJ": "모델",
+        "SUB_OBJ": "친구",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.41672"
+    },
+    {
+        "DOCID": 1276549,
+        "MAIN_OBJ": "영화배우",
+        "SUB_OBJ": "모델",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.42195"
+    },
+    {
+        "DOCID": 1276550,
+        "MAIN_OBJ": "영화배우",
+        "SUB_OBJ": "코디",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.53082"
+    },
+    {
+        "DOCID": 1276551,
+        "MAIN_OBJ": "영화배우",
+        "SUB_OBJ": "친구",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.55394"
+    },
+    {
+        "DOCID": 1276552,
+        "MAIN_OBJ": "영화배우",
+        "SUB_OBJ": "친구",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.55394"
+    },
+    {
+        "DOCID": 1276553,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "톰포드",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 1276554,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276555,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276556,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "코디",
+        "RELATION": "직업(occupation)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276557,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "티켓몬스터",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276558,
+        "MAIN_OBJ": "브래드 피트",
+        "SUB_OBJ": "친구",
+        "RELATION": "직업(occupation)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276559,
+        "MAIN_OBJ": "코디",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.2659"
+    },
+    {
+        "DOCID": 1276560,
+        "MAIN_OBJ": "코디",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.21941"
+    },
+    {
+        "DOCID": 1276561,
+        "MAIN_OBJ": "티켓몬스터",
+        "SUB_OBJ": "톰포드",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 1276562,
+        "MAIN_OBJ": "티켓몬스터",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276563,
+        "MAIN_OBJ": "티켓몬스터",
+        "SUB_OBJ": "홍콩",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276564,
+        "MAIN_OBJ": "홍콩",
+        "SUB_OBJ": "톰포드",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1276565,
+        "MAIN_OBJ": "홍콩",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276566,
+        "MAIN_OBJ": "홍콩",
+        "SUB_OBJ": "영화배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1276567,
+        "MAIN_OBJ": "홍콩",
+        "SUB_OBJ": "브래드 피트",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1276568,
+        "MAIN_OBJ": "홍콩",
+        "SUB_OBJ": "코디",
+        "RELATION": "직업(occupation)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276569,
+        "MAIN_OBJ": "친구",
+        "SUB_OBJ": "모델",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.24586"
+    },
+    {
+        "DOCID": 1276570,
+        "MAIN_OBJ": "친구",
+        "SUB_OBJ": "홍콩",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1276571,
+        "MAIN_OBJ": "지난 2월부터",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.04745"
+    },
+    {
+        "DOCID": 1276572,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "지난 2월부터",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1276573,
+        "MAIN_OBJ": "회원",
+        "SUB_OBJ": "미미박스",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276574,
+        "MAIN_OBJ": "1만6500원",
+        "SUB_OBJ": "회원",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276575,
+        "MAIN_OBJ": "회원",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26104"
+    },
+    {
+        "DOCID": 1276576,
+        "MAIN_OBJ": "10만원어치 정도",
+        "SUB_OBJ": "한 개당",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276577,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "회원",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.50182"
+    },
+    {
+        "DOCID": 1276578,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "20%",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 1276579,
+        "MAIN_OBJ": "4명",
+        "SUB_OBJ": "3500만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276580,
+        "MAIN_OBJ": "3500만원",
+        "SUB_OBJ": "동업자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276581,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "담당자",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.03878"
+    },
+    {
+        "DOCID": 1276582,
+        "MAIN_OBJ": "담당자",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.0679"
+    },
+    {
+        "DOCID": 1276583,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "첫 달부터",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.3784"
+    },
+    {
+        "DOCID": 1276584,
+        "MAIN_OBJ": "하",
+        "SUB_OBJ": "소비자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.39991"
+    },
+    {
+        "DOCID": 1276585,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "대표",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.20985"
+    },
+    {
+        "DOCID": 1276586,
+        "MAIN_OBJ": "2010년",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.03069"
+    },
+    {
+        "DOCID": 1276587,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "2010년",
+        "RELATION": "해당 개체에게 있었던 주목할 만한 사건(significant event)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1276588,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "버치박스",
+        "RELATION": "하위 행정구역",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1276589,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "버치박스",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1276590,
+        "MAIN_OBJ": "버치박스",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.03069"
+    },
+    {
+        "DOCID": 1276591,
+        "MAIN_OBJ": "(BirchBox",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.03069"
+    }
+]
+[
+    {
+        "DOCID": 1276592,
+        "MAIN_OBJ": "우리은행 본점",
+        "SUB_OBJ": "반 고흐",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1276593,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "TWO CHAIRS",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1276594,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "두 개",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276595,
+        "MAIN_OBJ": "TWO CHAIRS",
+        "SUB_OBJ": "두 개",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 1276596,
+        "MAIN_OBJ": "2012",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 1276597,
+        "MAIN_OBJ": "2012",
+        "SUB_OBJ": "두 개",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1276598,
+        "MAIN_OBJ": "고객사랑브랜드대상",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1276599,
+        "MAIN_OBJ": "고객사랑브랜드대상",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 1276600,
+        "MAIN_OBJ": "TWO CHAIRS",
+        "SUB_OBJ": "우리은행 본점",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1276601,
+        "MAIN_OBJ": "TWO CHAIRS",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 1276602,
+        "MAIN_OBJ": "TWO CHAIRS",
+        "SUB_OBJ": "고갱",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276603,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1276604,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "TWO CHAIRS",
+        "RELATION": "대표 작품(notable work)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276605,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "두 개의 의자",
+        "RELATION": "대표 작품(notable work)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276606,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "고갱",
+        "RELATION": "대표 작품(notable work)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276607,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "두 개",
+        "RELATION": "대표 작품(notable work)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276608,
+        "MAIN_OBJ": "두 개의 의자",
+        "SUB_OBJ": "두 개",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1276609,
+        "MAIN_OBJ": "두 개의 의자",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0375"
+    },
+    {
+        "DOCID": 1276610,
+        "MAIN_OBJ": "고갱",
+        "SUB_OBJ": "반 고흐",
+        "RELATION": "해당 개체의 창작자(creator)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1276611,
+        "MAIN_OBJ": "고갱",
+        "SUB_OBJ": "두 개",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276612,
+        "MAIN_OBJ": "고갱",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.05353"
+    },
+    {
+        "DOCID": 1276613,
+        "MAIN_OBJ": "두 개",
+        "SUB_OBJ": "반 고흐",
+        "RELATION": "해당 개체의 창작자(creator)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1276614,
+        "MAIN_OBJ": "두 개",
+        "SUB_OBJ": "두 개의 의자",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276615,
+        "MAIN_OBJ": "두 개",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1276616,
+        "MAIN_OBJ": "반 고흐",
+        "SUB_OBJ": "TWO CHAIRS",
+        "RELATION": "해당 개체의 음반 레이블(record label)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276617,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "2012",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 1276618,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "반 고흐",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 1276619,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "두 개의 의자",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 1276620,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "고갱",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 1276621,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "고갱",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 1276622,
+        "MAIN_OBJ": "두 개",
+        "SUB_OBJ": "2012",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276623,
+        "MAIN_OBJ": "두 개",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1276624,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "세무사",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.53479"
+    },
+    {
+        "DOCID": 1276625,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "스피드뱅크",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276626,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "부동산연구소장",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276627,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "안명숙",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276628,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276629,
+        "MAIN_OBJ": "세무사",
+        "SUB_OBJ": "11명",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276630,
+        "MAIN_OBJ": "세무사",
+        "SUB_OBJ": "안명숙",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276631,
+        "MAIN_OBJ": "세무사",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20551"
+    },
+    {
+        "DOCID": 1276632,
+        "MAIN_OBJ": "11명",
+        "SUB_OBJ": "부동산연구소장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276633,
+        "MAIN_OBJ": "11명",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276634,
+        "MAIN_OBJ": "11명",
+        "SUB_OBJ": "전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276635,
+        "MAIN_OBJ": "세무전문가",
+        "SUB_OBJ": "11명",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276636,
+        "MAIN_OBJ": "세무전문가",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1276637,
+        "MAIN_OBJ": "스피드뱅크",
+        "SUB_OBJ": "국세청",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276638,
+        "MAIN_OBJ": "스피드뱅크",
+        "SUB_OBJ": "안명숙",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276639,
+        "MAIN_OBJ": "스피드뱅크",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276640,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "국세청",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276641,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "세무사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276642,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "11명",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276643,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "세무전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1276644,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "안명숙",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276645,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276646,
+        "MAIN_OBJ": "부동산연구소장",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276647,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "국세청",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276648,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "세무사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276649,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "세무전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1276650,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "스피드뱅크",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276651,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276652,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276653,
+        "MAIN_OBJ": "안명숙",
+        "SUB_OBJ": "변호사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276654,
+        "MAIN_OBJ": "부동산팀장",
+        "SUB_OBJ": "국세청",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276655,
+        "MAIN_OBJ": "부동산팀장",
+        "SUB_OBJ": "세무사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276656,
+        "MAIN_OBJ": "부동산팀장",
+        "SUB_OBJ": "11명",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276657,
+        "MAIN_OBJ": "부동산팀장",
+        "SUB_OBJ": "안명숙",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276658,
+        "MAIN_OBJ": "부동산팀장",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276659,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "11명",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276660,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "스피드뱅크",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276661,
+        "MAIN_OBJ": "변호사",
+        "SUB_OBJ": "세무사",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.55804"
+    },
+    {
+        "DOCID": 1276662,
+        "MAIN_OBJ": "변호사",
+        "SUB_OBJ": "11명",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276663,
+        "MAIN_OBJ": "변호사",
+        "SUB_OBJ": "부동산연구소장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276664,
+        "MAIN_OBJ": "변호사",
+        "SUB_OBJ": "부동산팀장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276665,
+        "MAIN_OBJ": "변호사",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.30848"
+    },
+    {
+        "DOCID": 1276666,
+        "MAIN_OBJ": "CFP",
+        "SUB_OBJ": "상품전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276667,
+        "MAIN_OBJ": "CFP",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276668,
+        "MAIN_OBJ": "CFP",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.05353"
+    },
+    {
+        "DOCID": 1276669,
+        "MAIN_OBJ": "애널리스트",
+        "SUB_OBJ": "상품전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276670,
+        "MAIN_OBJ": "애널리스트",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276671,
+        "MAIN_OBJ": "애널리스트",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1276672,
+        "MAIN_OBJ": "애널리스트",
+        "SUB_OBJ": "자산가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1276673,
+        "MAIN_OBJ": "애널리스트",
+        "SUB_OBJ": "자녀",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276674,
+        "MAIN_OBJ": "상품전문가",
+        "SUB_OBJ": "애널리스트",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276675,
+        "MAIN_OBJ": "상품전문가",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276676,
+        "MAIN_OBJ": "상품전문가",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1276677,
+        "MAIN_OBJ": "상품전문가",
+        "SUB_OBJ": "자산가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1276678,
+        "MAIN_OBJ": "상품전문가",
+        "SUB_OBJ": "자녀",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1276679,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26954"
+    },
+    {
+        "DOCID": 1276680,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "자녀",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.58389"
+    },
+    {
+        "DOCID": 1276681,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "상품전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 1276682,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.54024"
+    },
+    {
+        "DOCID": 1276683,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "자산가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.38955"
+    },
+    {
+        "DOCID": 1276684,
+        "MAIN_OBJ": "자산가",
+        "SUB_OBJ": "상품전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1276685,
+        "MAIN_OBJ": "자산가",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 1276686,
+        "MAIN_OBJ": "자산가",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.06899"
+    },
+    {
+        "DOCID": 1276687,
+        "MAIN_OBJ": "자산가",
+        "SUB_OBJ": "자녀",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276688,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "상품전문가",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1276689,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "자산가",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276690,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "고객",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.12583"
+    },
+    {
+        "DOCID": 1276691,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "TwoChairs센터",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 1276692,
+        "MAIN_OBJ": "TwoChairs센터",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.03478"
+    },
+    {
+        "DOCID": 1276693,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "우리투자증권",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 1276694,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "우리투자증권",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 1276695,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "WM",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276696,
+        "MAIN_OBJ": "우리은행",
+        "SUB_OBJ": "센터",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.96085"
+    },
+    {
+        "DOCID": 1276697,
+        "MAIN_OBJ": "우리투자증권",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.03478"
+    },
+    {
+        "DOCID": 1276698,
+        "MAIN_OBJ": "WM",
+        "SUB_OBJ": "우리은행",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276699,
+        "MAIN_OBJ": "WM",
+        "SUB_OBJ": "우리투자증권",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276700,
+        "MAIN_OBJ": "WM",
+        "SUB_OBJ": "센터",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276701,
+        "MAIN_OBJ": "센터",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0833"
+    },
+    {
+        "DOCID": 1276702,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "WM",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276703,
+        "MAIN_OBJ": "유학생",
+        "SUB_OBJ": "부모",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29354"
+    },
+    {
+        "DOCID": 1276704,
+        "MAIN_OBJ": "유학생",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276705,
+        "MAIN_OBJ": "유학생",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276706,
+        "MAIN_OBJ": "유학생",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17695"
+    },
+    {
+        "DOCID": 1276707,
+        "MAIN_OBJ": "유학생",
+        "SUB_OBJ": "투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.61972"
+    },
+    {
+        "DOCID": 1276708,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "유학생",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.37528"
+    },
+    {
+        "DOCID": 1276709,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1276710,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276711,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1276712,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "PB",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276713,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "투자자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.65028"
+    },
+    {
+        "DOCID": 1276714,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "유학생",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276715,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "부모",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1276716,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1276717,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "PB",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1276718,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1123"
+    },
+    {
+        "DOCID": 1276719,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1276720,
+        "MAIN_OBJ": "해외투자자",
+        "SUB_OBJ": "유학생",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276721,
+        "MAIN_OBJ": "해외투자자",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1276722,
+        "MAIN_OBJ": "해외투자자",
+        "SUB_OBJ": "PB",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276723,
+        "MAIN_OBJ": "해외투자자",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1276724,
+        "MAIN_OBJ": "해외투자자",
+        "SUB_OBJ": "투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1276725,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "유학생",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57612"
+    },
+    {
+        "DOCID": 1276726,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26651"
+    },
+    {
+        "DOCID": 1276727,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 1276728,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.01049"
+    },
+    {
+        "DOCID": 1276729,
+        "MAIN_OBJ": "투자자",
+        "SUB_OBJ": "부모",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.15749"
+    },
+    {
+        "DOCID": 1276730,
+        "MAIN_OBJ": "투자자",
+        "SUB_OBJ": "해외투자자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1276731,
+        "MAIN_OBJ": "개인사업자",
+        "SUB_OBJ": "CEO",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276732,
+        "MAIN_OBJ": "CEO",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276733,
+        "MAIN_OBJ": "CEO",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276734,
+        "MAIN_OBJ": "CEO",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 1276735,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "개인사업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276736,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "CEO",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1276737,
+        "MAIN_OBJ": "PB",
+        "SUB_OBJ": "PB사관학교",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276738,
+        "MAIN_OBJ": "PB",
+        "SUB_OBJ": "PB사관학교",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276739,
+        "MAIN_OBJ": "이정구",
+        "SUB_OBJ": "객원기자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    }
+]
+[
+    {
+        "DOCID": 1276740,
+        "MAIN_OBJ": "하이투자증권",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276741,
+        "MAIN_OBJ": "2013년 말까지",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276742,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "스마트하이",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276743,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "태블릿PC",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276744,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276745,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "하이투자증권",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276746,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276747,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276748,
+        "MAIN_OBJ": "태블릿PC",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276749,
+        "MAIN_OBJ": "태블릿PC",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276750,
+        "MAIN_OBJ": "스마트하이T",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    }
+]
+[
+    {
+        "DOCID": 1276751,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "5일부터 11일까지",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1276752,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "교사",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1276753,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1276754,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "중·고등",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1276755,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "14일부터 18일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276756,
+        "MAIN_OBJ": "두 차례",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 1276757,
+        "MAIN_OBJ": "초등",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276758,
+        "MAIN_OBJ": "초등",
+        "SUB_OBJ": "교사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1849"
+    },
+    {
+        "DOCID": 1276759,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276760,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "두 차례",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276761,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276762,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "중·고등",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276763,
+        "MAIN_OBJ": "7일부터 11일까지",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 1276764,
+        "MAIN_OBJ": "중·고등",
+        "SUB_OBJ": "교사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1276765,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "초등",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.71708"
+    },
+    {
+        "DOCID": 1276766,
+        "MAIN_OBJ": "14일부터 18일까지",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276767,
+        "MAIN_OBJ": "14일부터 18일까지",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276768,
+        "MAIN_OBJ": "한국은행",
+        "SUB_OBJ": "www.bokeducation.or.kr",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276769,
+        "MAIN_OBJ": "www.bokeducation.or.kr",
+        "SUB_OBJ": "한국은행",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    }
+]

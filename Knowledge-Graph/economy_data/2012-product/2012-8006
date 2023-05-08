@@ -1,0 +1,520 @@
+[
+    {
+        "DOCID": 1277177,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1277178,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09067"
+    },
+    {
+        "DOCID": 1277179,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277180,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277181,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "신한",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1277182,
+        "MAIN_OBJ": "6~12일",
+        "SUB_OBJ": "롯데마트",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1277183,
+        "MAIN_OBJ": "6~12일",
+        "SUB_OBJ": "KB국민카드",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1277184,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.54957"
+    },
+    {
+        "DOCID": 1277185,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "40%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.54957"
+    },
+    {
+        "DOCID": 1277186,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "롯데마트",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277187,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.16319"
+    },
+    {
+        "DOCID": 1277188,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "신한",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.54696"
+    },
+    {
+        "DOCID": 1277189,
+        "MAIN_OBJ": "롯데",
+        "SUB_OBJ": "40%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1277190,
+        "MAIN_OBJ": "신한",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.0899"
+    },
+    {
+        "DOCID": 1277191,
+        "MAIN_OBJ": "신한",
+        "SUB_OBJ": "롯데",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.22856"
+    },
+    {
+        "DOCID": 1277192,
+        "MAIN_OBJ": "40%",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277193,
+        "MAIN_OBJ": "40%",
+        "SUB_OBJ": "6~12일",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277194,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "등심",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277195,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "100g",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1277196,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "3900원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43928"
+    },
+    {
+        "DOCID": 1277197,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "국거리",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36794"
+    },
+    {
+        "DOCID": 1277198,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.80092"
+    },
+    {
+        "DOCID": 1277199,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "1980원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36794"
+    },
+    {
+        "DOCID": 1277200,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "일주일 정도",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1277201,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43928"
+    },
+    {
+        "DOCID": 1277202,
+        "MAIN_OBJ": "한우",
+        "SUB_OBJ": "200t",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1277203,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "100g",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277204,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "국거리",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277205,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277206,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277207,
+        "MAIN_OBJ": "등심",
+        "SUB_OBJ": "200t",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1277208,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14944"
+    },
+    {
+        "DOCID": 1277209,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1277210,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1277211,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "3900원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277212,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "국거리",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1277213,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277214,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "1980원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1277215,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "200t",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1277216,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10612"
+    },
+    {
+        "DOCID": 1277217,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277218,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277219,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1277220,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "일주일 정도",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277221,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1277222,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 1277223,
+        "MAIN_OBJ": "3900원",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277224,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277225,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 1277226,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "100g",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277227,
+        "MAIN_OBJ": "국거리",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277228,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.15676"
+    },
+    {
+        "DOCID": 1277229,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1277230,
+        "MAIN_OBJ": "불고기",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1277231,
+        "MAIN_OBJ": "1등급",
+        "SUB_OBJ": "다섯 배가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1277232,
+        "MAIN_OBJ": "100g",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277233,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1277234,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1277235,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277236,
+        "MAIN_OBJ": "1980원",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1277237,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "1등급",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1277238,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.1521"
+    },
+    {
+        "DOCID": 1277239,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "3900원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277240,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1277241,
+        "MAIN_OBJ": "일주일 정도",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1277242,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "한우",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.058"
+    },
+    {
+        "DOCID": 1277243,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1277244,
+        "MAIN_OBJ": "다섯 배가량",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277245,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "등심",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277246,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "등심",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1277247,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "1등급",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12612"
+    },
+    {
+        "DOCID": 1277248,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "100g",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1277249,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "불고기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1277250,
+        "MAIN_OBJ": "200t",
+        "SUB_OBJ": "1980원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.24006"
+    }
+]

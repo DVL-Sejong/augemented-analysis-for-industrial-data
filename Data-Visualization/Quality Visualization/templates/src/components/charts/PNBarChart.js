@@ -33,15 +33,23 @@ export default function PNBarChart(props) {
             ranges: [{
               from: -1.0,
               to: -0.8,
+              color: '#D91212'
+            }, {
+              from: -0.799,
+              to: -0.201,
               color: '#6C757D'
             }, {
-              from: -0.8,
-              to: 0.8,
-              color: '#D91212'
+              from: -0.2,
+              to: 0.2,
+              color: '#008FFB'
+            }, {
+              from: 0.201,
+              to: 0.799,
+              color: '#6C757D'
             }, {
               from: 0.8,
               to: 1.0,
-              color: '#6C757D'
+              color: '#D91212'
             }]
           },
         }

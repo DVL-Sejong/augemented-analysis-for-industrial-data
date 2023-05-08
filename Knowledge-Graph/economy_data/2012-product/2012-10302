@@ -1,0 +1,303 @@
+[
+    {
+        "DOCID": 54108,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 54109,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "김은광",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54110,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "지난 16일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 54111,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "보건복지부",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 54112,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "오는 3월 말",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 54113,
+        "MAIN_OBJ": "김은광",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54114,
+        "MAIN_OBJ": "김은광",
+        "SUB_OBJ": "지난 16일",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 54115,
+        "MAIN_OBJ": "김은광",
+        "SUB_OBJ": "보건복지부",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 54116,
+        "MAIN_OBJ": "(사)대한노인회 안산시 상록구지회",
+        "SUB_OBJ": "김은광",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54117,
+        "MAIN_OBJ": "(사)대한노인회 안산시 상록구지회",
+        "SUB_OBJ": "지난 16일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 54118,
+        "MAIN_OBJ": "(사)대한노인회 안산시 상록구지회",
+        "SUB_OBJ": "보건복지부",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 54119,
+        "MAIN_OBJ": "(사)대한노인회 안산시 상록구지회",
+        "SUB_OBJ": "오는 3월 말",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 54120,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "얌샘",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 54121,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "김은광",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 54122,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "지난 16일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54123,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "(사)대한노인회 안산시 상록구지회",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 54124,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "오는 3월 말",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54125,
+        "MAIN_OBJ": "보건복지부",
+        "SUB_OBJ": "맛사랑 콩사랑",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 54126,
+        "MAIN_OBJ": "맛사랑 콩사랑",
+        "SUB_OBJ": "김은광",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 54127,
+        "MAIN_OBJ": "맛사랑 콩사랑",
+        "SUB_OBJ": "보건복지부",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 54128,
+        "MAIN_OBJ": "맛사랑 콩사랑",
+        "SUB_OBJ": "오는 3월 말",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 54129,
+        "MAIN_OBJ": "맛사랑 콩사랑",
+        "SUB_OBJ": "오는 3월 말",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 54130,
+        "MAIN_OBJ": "소상공인진흥원",
+        "SUB_OBJ": "안산소상공인지원센터",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54131,
+        "MAIN_OBJ": "안산소상공인지원센터",
+        "SUB_OBJ": "소상공인진흥원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54132,
+        "MAIN_OBJ": "안산소상공인지원센터",
+        "SUB_OBJ": "강계주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54133,
+        "MAIN_OBJ": "안산소상공인지원센터",
+        "SUB_OBJ": "센터장",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54134,
+        "MAIN_OBJ": "강계주",
+        "SUB_OBJ": "안산소상공인지원센터",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 54135,
+        "MAIN_OBJ": "센터장",
+        "SUB_OBJ": "안산소상공인지원센터",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54136,
+        "MAIN_OBJ": "센터장",
+        "SUB_OBJ": "강계주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54137,
+        "MAIN_OBJ": "센터장",
+        "SUB_OBJ": "얌샘",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 54138,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "안산소상공인지원센터",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54139,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.144"
+    },
+    {
+        "DOCID": 54140,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "노인일자리 사업",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54141,
+        "MAIN_OBJ": "노인일자리 사업",
+        "SUB_OBJ": "김은광",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 54142,
+        "MAIN_OBJ": "얌샘",
+        "SUB_OBJ": "소상공인진흥원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54143,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "1",
+        "RELATION": "2등급",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54144,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "예비창업자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54145,
+        "MAIN_OBJ": "2011년",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 54146,
+        "MAIN_OBJ": "소상공인진흥원",
+        "SUB_OBJ": "얌샘",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 54147,
+        "MAIN_OBJ": "소상공인진흥원",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54148,
+        "MAIN_OBJ": "1",
+        "SUB_OBJ": "2등급",
+        "RELATION": "고객",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 54149,
+        "MAIN_OBJ": "예비창업자",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54150,
+        "MAIN_OBJ": "예비창업자",
+        "SUB_OBJ": "1",
+        "RELATION": "2등급",
+        "weight": "0.28248"
+    }
+]

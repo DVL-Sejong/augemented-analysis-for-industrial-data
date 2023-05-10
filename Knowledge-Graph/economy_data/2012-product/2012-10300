@@ -1,0 +1,842 @@
+[
+    {
+        "DOCID": 53963,
+        "MAIN_OBJ": "아마추어",
+        "SUB_OBJ": "골퍼",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 53964,
+        "MAIN_OBJ": "골퍼",
+        "SUB_OBJ": "하나",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 53965,
+        "MAIN_OBJ": "하나",
+        "SUB_OBJ": "아마추어",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.47407"
+    },
+    {
+        "DOCID": 53966,
+        "MAIN_OBJ": "하나",
+        "SUB_OBJ": "골퍼",
+        "RELATION": "직업(occupation)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 53967,
+        "MAIN_OBJ": "300야드",
+        "SUB_OBJ": "350야드",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 53968,
+        "MAIN_OBJ": "300야드",
+        "SUB_OBJ": "타자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 53969,
+        "MAIN_OBJ": "350야드",
+        "SUB_OBJ": "300야드",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 53970,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": "감마선",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 53971,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": "(Gamma-ray",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53972,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": ") 조사",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53973,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": "아토파워",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 53974,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": "(Atopower) CT",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53975,
+        "MAIN_OBJ": "카이스트",
+        "SUB_OBJ": "골프공",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 53976,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": "감마선",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 53977,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": "(Gamma-ray",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53978,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": ") 조사",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53979,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": "아토파워",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 53980,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": "(Atopower) CT",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53981,
+        "MAIN_OBJ": "KAIST",
+        "SUB_OBJ": "골프공",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 53982,
+        "MAIN_OBJ": "감마선",
+        "SUB_OBJ": "카이스트",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 53983,
+        "MAIN_OBJ": "감마선",
+        "SUB_OBJ": "KAIST",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 53984,
+        "MAIN_OBJ": "감마선",
+        "SUB_OBJ": "(Gamma-ray",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 53985,
+        "MAIN_OBJ": "감마선",
+        "SUB_OBJ": "골프공",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 53986,
+        "MAIN_OBJ": "(Gamma-ray",
+        "SUB_OBJ": "카이스트",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 53987,
+        "MAIN_OBJ": "(Gamma-ray",
+        "SUB_OBJ": "KAIST",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 53988,
+        "MAIN_OBJ": ") 조사",
+        "SUB_OBJ": "카이스트",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 53989,
+        "MAIN_OBJ": ") 조사",
+        "SUB_OBJ": "골프공",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 53990,
+        "MAIN_OBJ": "아토파워",
+        "SUB_OBJ": ") 조사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 53991,
+        "MAIN_OBJ": "아토파워",
+        "SUB_OBJ": "(Atopower) CT",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 53992,
+        "MAIN_OBJ": "아토파워",
+        "SUB_OBJ": "골프공",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 53993,
+        "MAIN_OBJ": "(Atopower) CT",
+        "SUB_OBJ": ") 조사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 53994,
+        "MAIN_OBJ": "(Atopower) CT",
+        "SUB_OBJ": "골프공",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 53995,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": "(Gamma-ray",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53996,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": "(Gamma-ray",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53997,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": ") 조사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53998,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": "(Atopower) CT",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 53999,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "권영경",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54000,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "아토파워 골프공",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 54001,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "20%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54002,
+        "MAIN_OBJ": "대표이사",
+        "SUB_OBJ": "20%",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 54003,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "오샵코리아",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 54004,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "20%",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 54005,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "30% 가량",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 54006,
+        "MAIN_OBJ": "특허청",
+        "SUB_OBJ": "아토파워 골프공",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.03478"
+    },
+    {
+        "DOCID": 54007,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": "전문가",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54008,
+        "MAIN_OBJ": "골프공",
+        "SUB_OBJ": "공",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 54009,
+        "MAIN_OBJ": "공",
+        "SUB_OBJ": "골프공",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 54010,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "한 세트",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 54011,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 54012,
+        "MAIN_OBJ": "오샵코리아",
+        "SUB_OBJ": "5만9000원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 54013,
+        "MAIN_OBJ": "www.ohshop.co.kr",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 54014,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "12개",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 54015,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "한 세트",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 54016,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 54017,
+        "MAIN_OBJ": "아토파워 골프공",
+        "SUB_OBJ": "5만9000원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 54018,
+        "MAIN_OBJ": "12개",
+        "SUB_OBJ": "www.ohshop.co.kr",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 54019,
+        "MAIN_OBJ": "12개",
+        "SUB_OBJ": "아토파워 골프공",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54020,
+        "MAIN_OBJ": "12개",
+        "SUB_OBJ": "한 세트",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54021,
+        "MAIN_OBJ": "12개",
+        "SUB_OBJ": "6만5000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 54022,
+        "MAIN_OBJ": "12개",
+        "SUB_OBJ": "5만9000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 54023,
+        "MAIN_OBJ": "한 세트",
+        "SUB_OBJ": "오샵코리아",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 54024,
+        "MAIN_OBJ": "한 세트",
+        "SUB_OBJ": "아토파워 골프공",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54025,
+        "MAIN_OBJ": "한 세트",
+        "SUB_OBJ": "12개",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54026,
+        "MAIN_OBJ": "한 세트",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 54027,
+        "MAIN_OBJ": "한 세트",
+        "SUB_OBJ": "6만5000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 54028,
+        "MAIN_OBJ": "6만5000원",
+        "SUB_OBJ": "www.ohshop.co.kr",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54029,
+        "MAIN_OBJ": "6만5000원",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 54030,
+        "MAIN_OBJ": "6만5000원",
+        "SUB_OBJ": "5만9000원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54031,
+        "MAIN_OBJ": "5만9000원",
+        "SUB_OBJ": "www.ohshop.co.kr",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 54032,
+        "MAIN_OBJ": "5만9000원",
+        "SUB_OBJ": "6만5000원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54033,
+        "MAIN_OBJ": "5살",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54034,
+        "MAIN_OBJ": "5살",
+        "SUB_OBJ": "한번",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54035,
+        "MAIN_OBJ": "5살",
+        "SUB_OBJ": "비염",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 54036,
+        "MAIN_OBJ": "3초면",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 54037,
+        "MAIN_OBJ": "3초면",
+        "SUB_OBJ": "비염",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 54038,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "한번",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.50623"
+    },
+    {
+        "DOCID": 54039,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "2달",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54040,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "車왁스",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54041,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47538"
+    },
+    {
+        "DOCID": 54042,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "비염",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 54043,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "원적외선",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54044,
+        "MAIN_OBJ": "휴대용",
+        "SUB_OBJ": "하이브리드",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.57239"
+    },
+    {
+        "DOCID": 54045,
+        "MAIN_OBJ": "스피커",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29291"
+    },
+    {
+        "DOCID": 54046,
+        "MAIN_OBJ": "스피커",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33944"
+    },
+    {
+        "DOCID": 54047,
+        "MAIN_OBJ": "스피커",
+        "SUB_OBJ": "車",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 54048,
+        "MAIN_OBJ": "스피커",
+        "SUB_OBJ": "하이브리드",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.40768"
+    },
+    {
+        "DOCID": 54049,
+        "MAIN_OBJ": "한번",
+        "SUB_OBJ": "3초면",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54050,
+        "MAIN_OBJ": "한번",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.26317"
+    },
+    {
+        "DOCID": 54051,
+        "MAIN_OBJ": "한번",
+        "SUB_OBJ": "비염",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 54052,
+        "MAIN_OBJ": "2달",
+        "SUB_OBJ": "5살",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54053,
+        "MAIN_OBJ": "2달",
+        "SUB_OBJ": "3초면",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54054,
+        "MAIN_OBJ": "2달",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54055,
+        "MAIN_OBJ": "車왁스",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.08716"
+    },
+    {
+        "DOCID": 54056,
+        "MAIN_OBJ": "車왁스",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54057,
+        "MAIN_OBJ": "車왁스",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54058,
+        "MAIN_OBJ": "알레르기",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22442"
+    },
+    {
+        "DOCID": 54059,
+        "MAIN_OBJ": "알레르기",
+        "SUB_OBJ": "비염",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 54060,
+        "MAIN_OBJ": "알레르기",
+        "SUB_OBJ": "車",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 54061,
+        "MAIN_OBJ": "알레르기",
+        "SUB_OBJ": "하이브리드",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.33254"
+    },
+    {
+        "DOCID": 54062,
+        "MAIN_OBJ": "비염",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54063,
+        "MAIN_OBJ": "비염",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 54064,
+        "MAIN_OBJ": "비염",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 54065,
+        "MAIN_OBJ": "비염",
+        "SUB_OBJ": "원적외선",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54066,
+        "MAIN_OBJ": "비염",
+        "SUB_OBJ": "車",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54067,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "5살",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54068,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54069,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "스피커",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 54070,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "車왁스",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 54071,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 54072,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "비염",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 54073,
+        "MAIN_OBJ": "원적외선",
+        "SUB_OBJ": "車",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 54074,
+        "MAIN_OBJ": "車",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54075,
+        "MAIN_OBJ": "車",
+        "SUB_OBJ": "스피커",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 54076,
+        "MAIN_OBJ": "車",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 54077,
+        "MAIN_OBJ": "車",
+        "SUB_OBJ": "비염",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54078,
+        "MAIN_OBJ": "車",
+        "SUB_OBJ": "원적외선",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 54079,
+        "MAIN_OBJ": "하이브리드",
+        "SUB_OBJ": "휴대용",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28581"
+    },
+    {
+        "DOCID": 54080,
+        "MAIN_OBJ": "하이브리드",
+        "SUB_OBJ": "스피커",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.40768"
+    },
+    {
+        "DOCID": 54081,
+        "MAIN_OBJ": "하이브리드",
+        "SUB_OBJ": "알레르기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.33254"
+    },
+    {
+        "DOCID": 54082,
+        "MAIN_OBJ": "하이브리드",
+        "SUB_OBJ": "車",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14732"
+    }
+]

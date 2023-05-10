@@ -1,0 +1,135 @@
+[
+    {
+        "DOCID": 1276751,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "5일부터 11일까지",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1276752,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "교사",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1276753,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1276754,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "중·고등",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1276755,
+        "MAIN_OBJ": "내년 1월",
+        "SUB_OBJ": "14일부터 18일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276756,
+        "MAIN_OBJ": "두 차례",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 1276757,
+        "MAIN_OBJ": "초등",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276758,
+        "MAIN_OBJ": "초등",
+        "SUB_OBJ": "교사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1849"
+    },
+    {
+        "DOCID": 1276759,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1276760,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "두 차례",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276761,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276762,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "중·고등",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276763,
+        "MAIN_OBJ": "7일부터 11일까지",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 1276764,
+        "MAIN_OBJ": "중·고등",
+        "SUB_OBJ": "교사",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1276765,
+        "MAIN_OBJ": "교사",
+        "SUB_OBJ": "초등",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.71708"
+    },
+    {
+        "DOCID": 1276766,
+        "MAIN_OBJ": "14일부터 18일까지",
+        "SUB_OBJ": "내년 1월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1276767,
+        "MAIN_OBJ": "14일부터 18일까지",
+        "SUB_OBJ": "7일부터 11일까지",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276768,
+        "MAIN_OBJ": "한국은행",
+        "SUB_OBJ": "www.bokeducation.or.kr",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276769,
+        "MAIN_OBJ": "www.bokeducation.or.kr",
+        "SUB_OBJ": "한국은행",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    }
+]

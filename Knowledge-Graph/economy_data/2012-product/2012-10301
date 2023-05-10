@@ -1,0 +1,177 @@
+[
+    {
+        "DOCID": 54083,
+        "MAIN_OBJ": "창업몰 경제연구소",
+        "SUB_OBJ": "CERI",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54084,
+        "MAIN_OBJ": "창업몰 경제연구소",
+        "SUB_OBJ": "장재민",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54085,
+        "MAIN_OBJ": "CERI",
+        "SUB_OBJ": "창업몰 경제연구소",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54086,
+        "MAIN_OBJ": "CERI",
+        "SUB_OBJ": "장재민",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54087,
+        "MAIN_OBJ": "장재민",
+        "SUB_OBJ": "창업몰 경제연구소",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54088,
+        "MAIN_OBJ": "장재민",
+        "SUB_OBJ": "CERI",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54089,
+        "MAIN_OBJ": "장재민",
+        "SUB_OBJ": "팀장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 54090,
+        "MAIN_OBJ": "4인",
+        "SUB_OBJ": "19.7%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54091,
+        "MAIN_OBJ": "19.7%",
+        "SUB_OBJ": "4인",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 54092,
+        "MAIN_OBJ": "서",
+        "SUB_OBJ": "생선",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.10786"
+    },
+    {
+        "DOCID": 54093,
+        "MAIN_OBJ": "서",
+        "SUB_OBJ": "20~30%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 54094,
+        "MAIN_OBJ": "남대문시장",
+        "SUB_OBJ": "자갈치시장",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 54095,
+        "MAIN_OBJ": "가락시장",
+        "SUB_OBJ": "남대문시장",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 54096,
+        "MAIN_OBJ": "가락시장",
+        "SUB_OBJ": "자갈치시장",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 54097,
+        "MAIN_OBJ": "가락시장",
+        "SUB_OBJ": "민속5",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 54098,
+        "MAIN_OBJ": "5일 시장",
+        "SUB_OBJ": "가락시장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 54099,
+        "MAIN_OBJ": "5일 시장",
+        "SUB_OBJ": "정선",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 54100,
+        "MAIN_OBJ": "자갈치시장",
+        "SUB_OBJ": "남대문시장",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 54101,
+        "MAIN_OBJ": "자갈치시장",
+        "SUB_OBJ": "민속5",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 54102,
+        "MAIN_OBJ": "민속5",
+        "SUB_OBJ": "남대문시장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 54103,
+        "MAIN_OBJ": "민속5",
+        "SUB_OBJ": "정선",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 54104,
+        "MAIN_OBJ": "민속5",
+        "SUB_OBJ": "5일 시장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 54105,
+        "MAIN_OBJ": "민속5",
+        "SUB_OBJ": "자갈치시장",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 54106,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "휴대폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.97279"
+    },
+    {
+        "DOCID": 54107,
+        "MAIN_OBJ": "전통시장연합",
+        "SUB_OBJ": "휴대폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.60085"
+    }
+]

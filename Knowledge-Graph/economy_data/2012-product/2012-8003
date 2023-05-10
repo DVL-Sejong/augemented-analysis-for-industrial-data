@@ -1,0 +1,646 @@
+[
+    {
+        "DOCID": 1276803,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "래티늄(VI",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43918"
+    },
+    {
+        "DOCID": 1276804,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "43",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276805,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "세 차례",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276806,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43918"
+    },
+    {
+        "DOCID": 1276807,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "래티늄(VI",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276808,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.42547"
+    },
+    {
+        "DOCID": 1276809,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "43",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276810,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.31164"
+    },
+    {
+        "DOCID": 1276811,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "고양시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.40055"
+    },
+    {
+        "DOCID": 1276812,
+        "MAIN_OBJ": "플",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276813,
+        "MAIN_OBJ": "래티늄(VI",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276814,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "플",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.15935"
+    },
+    {
+        "DOCID": 1276815,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "43",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276816,
+        "MAIN_OBJ": "의사",
+        "SUB_OBJ": "세 차례",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276817,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.289"
+    },
+    {
+        "DOCID": 1276818,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "경기도",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.21448"
+    },
+    {
+        "DOCID": 1276819,
+        "MAIN_OBJ": "김",
+        "SUB_OBJ": "고양시",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.26776"
+    },
+    {
+        "DOCID": 1276820,
+        "MAIN_OBJ": "43",
+        "SUB_OBJ": "플",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276821,
+        "MAIN_OBJ": "43",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276822,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "플",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.31164"
+    },
+    {
+        "DOCID": 1276823,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.46059"
+    },
+    {
+        "DOCID": 1276824,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.53105"
+    },
+    {
+        "DOCID": 1276825,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "고양시",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.53409"
+    },
+    {
+        "DOCID": 1276826,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "플",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.22926"
+    },
+    {
+        "DOCID": 1276827,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36486"
+    },
+    {
+        "DOCID": 1276828,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "김",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.39241"
+    },
+    {
+        "DOCID": 1276829,
+        "MAIN_OBJ": "고양시",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 지역이 다음의 수도임(capital of)",
+        "weight": "0.32447"
+    },
+    {
+        "DOCID": 1276830,
+        "MAIN_OBJ": "세 차례",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276831,
+        "MAIN_OBJ": "세 차례",
+        "SUB_OBJ": "총 8만1000원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276832,
+        "MAIN_OBJ": "총 8만1000원",
+        "SUB_OBJ": "의사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276833,
+        "MAIN_OBJ": "두 가지 이상",
+        "SUB_OBJ": "6개월 이전",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276834,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "하루",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.31602"
+    },
+    {
+        "DOCID": 1276835,
+        "MAIN_OBJ": "하루",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.31602"
+    },
+    {
+        "DOCID": 1276836,
+        "MAIN_OBJ": "황진자",
+        "SUB_OBJ": "한국소비자원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276837,
+        "MAIN_OBJ": "한국소비자원",
+        "SUB_OBJ": "황진자",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276838,
+        "MAIN_OBJ": "약관광고팀장",
+        "SUB_OBJ": "황진자",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276839,
+        "MAIN_OBJ": "약관광고팀장",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276840,
+        "MAIN_OBJ": "소비자",
+        "SUB_OBJ": "황진자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276841,
+        "MAIN_OBJ": "신한카드",
+        "SUB_OBJ": "지난 10월부터",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276842,
+        "MAIN_OBJ": "서규봉",
+        "SUB_OBJ": "경기도",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276843,
+        "MAIN_OBJ": "서규봉",
+        "SUB_OBJ": "부천시",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276844,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "서규봉",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276845,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "부천시",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.97995"
+    },
+    {
+        "DOCID": 1276846,
+        "MAIN_OBJ": "부천시",
+        "SUB_OBJ": "서규봉",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276847,
+        "MAIN_OBJ": "한 달",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276848,
+        "MAIN_OBJ": "한 달",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276849,
+        "MAIN_OBJ": "50만원",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276850,
+        "MAIN_OBJ": "서",
+        "SUB_OBJ": "올해 5월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276851,
+        "MAIN_OBJ": "올해 5월",
+        "SUB_OBJ": "한 달",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276852,
+        "MAIN_OBJ": "올해 5월",
+        "SUB_OBJ": "50만원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276853,
+        "MAIN_OBJ": "현대",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276854,
+        "MAIN_OBJ": "KB국민",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276855,
+        "MAIN_OBJ": "KB국민",
+        "SUB_OBJ": "삼성카드",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276856,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "현대",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276857,
+        "MAIN_OBJ": "삼성카드",
+        "SUB_OBJ": "KB국민",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276858,
+        "MAIN_OBJ": "VIP",
+        "SUB_OBJ": "내년부터",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276859,
+        "MAIN_OBJ": "금융감독원",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276860,
+        "MAIN_OBJ": "금융감독원",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276861,
+        "MAIN_OBJ": "새누리당",
+        "SUB_OBJ": "금융감독원",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276862,
+        "MAIN_OBJ": "새누리당",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276863,
+        "MAIN_OBJ": "김재경",
+        "SUB_OBJ": "금융감독원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276864,
+        "MAIN_OBJ": "김재경",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276865,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276866,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276867,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "40%가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276868,
+        "MAIN_OBJ": "2009년 이후",
+        "SUB_OBJ": "1년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276869,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276870,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "40%가량",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276871,
+        "MAIN_OBJ": "111개",
+        "SUB_OBJ": "1년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276872,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276873,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1276874,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276875,
+        "MAIN_OBJ": "40%가량",
+        "SUB_OBJ": "111개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1276876,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "새누리당",
+        "RELATION": "해당 인물의 소속 정당(member of political party)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276877,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "김재경",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276878,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "2009년 이후",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1276879,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "금융소비자원",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276880,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276881,
+        "MAIN_OBJ": "조남희",
+        "SUB_OBJ": "소비자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276882,
+        "MAIN_OBJ": "금융소비자원",
+        "SUB_OBJ": "조남희",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276883,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "소비자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32203"
+    },
+    {
+        "DOCID": 1276884,
+        "MAIN_OBJ": "이상구",
+        "SUB_OBJ": "SMS",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276885,
+        "MAIN_OBJ": "이상구",
+        "SUB_OBJ": "관계자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1276886,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "이상구",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276887,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "상호여전검사국장",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276888,
+        "MAIN_OBJ": "금감원",
+        "SUB_OBJ": "SMS",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276889,
+        "MAIN_OBJ": "상호여전검사국장",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276890,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276891,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "금감원",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276892,
+        "MAIN_OBJ": "SMS",
+        "SUB_OBJ": "상호여전검사국장",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276893,
+        "MAIN_OBJ": "김혜미",
+        "SUB_OBJ": "기",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276894,
+        "MAIN_OBJ": "6개월 이전",
+        "SUB_OBJ": "두 가지 이상",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    }
+]

@@ -1,0 +1,2998 @@
+[
+    {
+        "DOCID": 1126644,
+        "MAIN_OBJ": "금융금융위",
+        "SUB_OBJ": "금융위원회",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126645,
+        "MAIN_OBJ": "금융금융위",
+        "SUB_OBJ": "차입형 토지신탁",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1126646,
+        "MAIN_OBJ": "금융위원회",
+        "SUB_OBJ": "금융금융위",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126647,
+        "MAIN_OBJ": "금융위원회",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1126648,
+        "MAIN_OBJ": "금융위원회",
+        "SUB_OBJ": "차입형 토지신탁",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1126649,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "금융위원회",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1126650,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "차입형 토지신탁",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 1126651,
+        "MAIN_OBJ": "한국토지신탁",
+        "SUB_OBJ": "대한토지신탁",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126652,
+        "MAIN_OBJ": "한국토지신탁",
+        "SUB_OBJ": "7곳",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126653,
+        "MAIN_OBJ": "대한토지신탁",
+        "SUB_OBJ": "한국토지신탁",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126654,
+        "MAIN_OBJ": "대한토지신탁",
+        "SUB_OBJ": "7곳",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126655,
+        "MAIN_OBJ": "7곳",
+        "SUB_OBJ": "한국토지신탁",
+        "RELATION": "해당 개체의 운영 주체(operator)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126656,
+        "MAIN_OBJ": "총선",
+        "SUB_OBJ": "다음날",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.60923"
+    },
+    {
+        "DOCID": 1126657,
+        "MAIN_OBJ": "총선",
+        "SUB_OBJ": "12일부터 20일까지",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1126658,
+        "MAIN_OBJ": "총선",
+        "SUB_OBJ": "9일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126659,
+        "MAIN_OBJ": "다음날",
+        "SUB_OBJ": "9일",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1126660,
+        "MAIN_OBJ": "9일",
+        "SUB_OBJ": "총선",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126661,
+        "MAIN_OBJ": "9일",
+        "SUB_OBJ": "다음날",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126662,
+        "MAIN_OBJ": "9일",
+        "SUB_OBJ": "12일부터 20일까지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1126663,
+        "MAIN_OBJ": "국민은행",
+        "SUB_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 1126664,
+        "MAIN_OBJ": "국민은행",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1126665,
+        "MAIN_OBJ": "국민은행",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1126666,
+        "MAIN_OBJ": "국민은행",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 1126667,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "국민은행",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1126668,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "KB국민은행",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.21455"
+    },
+    {
+        "DOCID": 1126669,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126670,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "KB스타클럽",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.21454"
+    },
+    {
+        "DOCID": 1126671,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.19339"
+    },
+    {
+        "DOCID": 1126672,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126673,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1126674,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 개체의 위치(location)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1126675,
+        "MAIN_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126676,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "국민은행",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1126677,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1126678,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1126679,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126680,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126681,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14342"
+    },
+    {
+        "DOCID": 1126682,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 1126683,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "당첨자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126684,
+        "MAIN_OBJ": "고객",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1126685,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "KB국민은행",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126686,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1126687,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1126688,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126689,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126690,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126691,
+        "MAIN_OBJ": "KB스타클럽",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14343"
+    },
+    {
+        "DOCID": 1126692,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.16006"
+    },
+    {
+        "DOCID": 1126693,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "KB국민은행",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1126694,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1126695,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1126696,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1126697,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 1126698,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "당첨자",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1126699,
+        "MAIN_OBJ": "프로야구",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.16006"
+    },
+    {
+        "DOCID": 1126700,
+        "MAIN_OBJ": "뮤지컬",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.30361"
+    },
+    {
+        "DOCID": 1126701,
+        "MAIN_OBJ": "뮤지컬",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 1126702,
+        "MAIN_OBJ": "뮤지컬",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1126703,
+        "MAIN_OBJ": "달고나",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126704,
+        "MAIN_OBJ": "달고나",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1126705,
+        "MAIN_OBJ": "달고나",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126706,
+        "MAIN_OBJ": "달고나",
+        "SUB_OBJ": "당첨자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126707,
+        "MAIN_OBJ": "달고나",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1126708,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12612"
+    },
+    {
+        "DOCID": 1126709,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "고객",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1126710,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 1126711,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1126712,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1126713,
+        "MAIN_OBJ": "4월 30일까지",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.12612"
+    },
+    {
+        "DOCID": 1126714,
+        "MAIN_OBJ": "KB국민은행",
+        "SUB_OBJ": "KB스타클럽",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126715,
+        "MAIN_OBJ": "당첨자",
+        "SUB_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1126716,
+        "MAIN_OBJ": "당첨자",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126717,
+        "MAIN_OBJ": "당첨자",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1126718,
+        "MAIN_OBJ": "당첨자",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126719,
+        "MAIN_OBJ": "당첨자",
+        "SUB_OBJ": "5월 4일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1126720,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "KB스타클럽 월(月)척 이벤트",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126721,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "KB국민은행",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.21455"
+    },
+    {
+        "DOCID": 1126722,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126723,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "KB스타클럽",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.21454"
+    },
+    {
+        "DOCID": 1126724,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.19339"
+    },
+    {
+        "DOCID": 1126725,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "프로야구",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.19339"
+    },
+    {
+        "DOCID": 1126726,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "뮤지컬",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126727,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "달고나",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1126728,
+        "MAIN_OBJ": "5월 4일",
+        "SUB_OBJ": "4월 30일까지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1126729,
+        "MAIN_OBJ": "현대캐피탈",
+        "SUB_OBJ": "10만원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 1126730,
+        "MAIN_OBJ": "현대캐피탈",
+        "SUB_OBJ": "경차",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1126731,
+        "MAIN_OBJ": "현대캐피탈",
+        "SUB_OBJ": "10만원 내",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 1126732,
+        "MAIN_OBJ": "경차",
+        "SUB_OBJ": "10만원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1126733,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "8만2300원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1126734,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "레이",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1126735,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "9만6600원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1126736,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "48개월",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 1126737,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "50%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1126738,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "고객",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1126739,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "20만원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 1126740,
+        "MAIN_OBJ": "기아자동차",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1126741,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "8만2300원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126742,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "레이",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.50575"
+    },
+    {
+        "DOCID": 1126743,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "9만6600원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126744,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "50%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1126745,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "6월 말까지",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126746,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "20만원",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126747,
+        "MAIN_OBJ": "모닝",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126748,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "기아자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1126749,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "모닝",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126750,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "9만6600원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126751,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "48개월",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126752,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1126753,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "20만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126754,
+        "MAIN_OBJ": "8만2300원",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126755,
+        "MAIN_OBJ": "레이",
+        "SUB_OBJ": "기아자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1126756,
+        "MAIN_OBJ": "레이",
+        "SUB_OBJ": "모닝",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.2431"
+    },
+    {
+        "DOCID": 1126757,
+        "MAIN_OBJ": "레이",
+        "SUB_OBJ": "48개월",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1126758,
+        "MAIN_OBJ": "레이",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.34019"
+    },
+    {
+        "DOCID": 1126759,
+        "MAIN_OBJ": "9만6600원",
+        "SUB_OBJ": "기아자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1126760,
+        "MAIN_OBJ": "9만6600원",
+        "SUB_OBJ": "모닝",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1126761,
+        "MAIN_OBJ": "9만6600원",
+        "SUB_OBJ": "8만2300원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1126762,
+        "MAIN_OBJ": "9만6600원",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126763,
+        "MAIN_OBJ": "9만6600원",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1126764,
+        "MAIN_OBJ": "48개월",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126765,
+        "MAIN_OBJ": "48개월",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1126766,
+        "MAIN_OBJ": "50%",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1126767,
+        "MAIN_OBJ": "50%",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11116"
+    },
+    {
+        "DOCID": 1126768,
+        "MAIN_OBJ": "6월 말까지",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126769,
+        "MAIN_OBJ": "6월 말까지",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1126770,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "기아자동차",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 1126771,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "모닝",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1126772,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "8만2300원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1126773,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "9만6600원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1126774,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "고객",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1126775,
+        "MAIN_OBJ": "20만원",
+        "SUB_OBJ": "한 가지",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.15551"
+    },
+    {
+        "DOCID": 1126776,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "8만2300원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126777,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "레이",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1126778,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "9만6600원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126779,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "48개월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126780,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "50%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1126781,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "6월 말까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126782,
+        "MAIN_OBJ": "한 가지",
+        "SUB_OBJ": "20만원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.19883"
+    },
+    {
+        "DOCID": 1126783,
+        "MAIN_OBJ": "현대캐피탈",
+        "SUB_OBJ": "50억원 미만",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1126784,
+        "MAIN_OBJ": "1588-5330",
+        "SUB_OBJ": "원도급자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126785,
+        "MAIN_OBJ": "1588-5330",
+        "SUB_OBJ": "발주자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126786,
+        "MAIN_OBJ": "50억원 미만",
+        "SUB_OBJ": "발주자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126787,
+        "MAIN_OBJ": "원도급자",
+        "SUB_OBJ": "발주자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126788,
+        "MAIN_OBJ": "발주자",
+        "SUB_OBJ": "원도급자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126789,
+        "MAIN_OBJ": "국토해양부",
+        "SUB_OBJ": "건설산업기본법",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126790,
+        "MAIN_OBJ": "건설산업기본법",
+        "SUB_OBJ": "12일부터 다음 달 22일까지",
+        "RELATION": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1126791,
+        "MAIN_OBJ": "50억원 미만",
+        "SUB_OBJ": "원도급자",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126792,
+        "MAIN_OBJ": "과징금",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126793,
+        "MAIN_OBJ": "연간",
+        "SUB_OBJ": "과징금",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126794,
+        "MAIN_OBJ": "연간",
+        "SUB_OBJ": "50%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1126795,
+        "MAIN_OBJ": "50%",
+        "SUB_OBJ": "과징금",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1126796,
+        "MAIN_OBJ": "50%",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1126797,
+        "MAIN_OBJ": "공정거래위원회",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.02484"
+    },
+    {
+        "DOCID": 1126798,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "공정거래위원회",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126799,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "표시광고법",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 1126800,
+        "MAIN_OBJ": "과징금",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1126801,
+        "MAIN_OBJ": "과징금",
+        "SUB_OBJ": "표시광고법",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1126802,
+        "MAIN_OBJ": "연간",
+        "SUB_OBJ": "5% 이내",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126803,
+        "MAIN_OBJ": "연간",
+        "SUB_OBJ": "10~50% 이내",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126804,
+        "MAIN_OBJ": "5% 이내",
+        "SUB_OBJ": "과징금",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126805,
+        "MAIN_OBJ": "5% 이내",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1126806,
+        "MAIN_OBJ": "10~50% 이내",
+        "SUB_OBJ": "과징금",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126807,
+        "MAIN_OBJ": "10~50% 이내",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126808,
+        "MAIN_OBJ": "10~50% 이내",
+        "SUB_OBJ": "5% 이내",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126809,
+        "MAIN_OBJ": "공정위",
+        "SUB_OBJ": "과징금",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1126810,
+        "MAIN_OBJ": "국토부",
+        "SUB_OBJ": "극지체험전시회",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1126811,
+        "MAIN_OBJ": "한 달간",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.02484"
+    },
+    {
+        "DOCID": 1126812,
+        "MAIN_OBJ": "극지체험전시회",
+        "SUB_OBJ": "국토부",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126813,
+        "MAIN_OBJ": "극지체험전시회",
+        "SUB_OBJ": "국토해양부",
+        "RELATION": "주최자(organizer)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126814,
+        "MAIN_OBJ": "극지체험전시회",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 1126815,
+        "MAIN_OBJ": "국토해양부",
+        "SUB_OBJ": "극지체험전시회",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126816,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "국토부",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126817,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "한 달간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126818,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "극지체험전시회",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1126819,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "국토해양부",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 1126820,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "극지체험전시회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1126821,
+        "MAIN_OBJ": "한국극지연구회",
+        "SUB_OBJ": "남극",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126822,
+        "MAIN_OBJ": "한국극지연구회",
+        "SUB_OBJ": "서울",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1126823,
+        "MAIN_OBJ": "한국극지연구회",
+        "SUB_OBJ": "능동",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126824,
+        "MAIN_OBJ": "남극",
+        "SUB_OBJ": "한국극지연구회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1126825,
+        "MAIN_OBJ": "14일부터 다음 달 13일까지",
+        "SUB_OBJ": "남극",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126826,
+        "MAIN_OBJ": "한 달 동안",
+        "SUB_OBJ": "14일부터 다음 달 13일까지",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126827,
+        "MAIN_OBJ": "한 달 동안",
+        "SUB_OBJ": "능동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126828,
+        "MAIN_OBJ": "한 달 동안",
+        "SUB_OBJ": "어린이대공원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126829,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "한국극지연구회",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126830,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "남극",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.94826"
+    },
+    {
+        "DOCID": 1126831,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "한 달 동안",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126832,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "능동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.47215"
+    },
+    {
+        "DOCID": 1126833,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "어린이대공원",
+        "RELATION": "하위 행정구역",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126834,
+        "MAIN_OBJ": "능동",
+        "SUB_OBJ": "남극",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.74399"
+    },
+    {
+        "DOCID": 1126835,
+        "MAIN_OBJ": "능동",
+        "SUB_OBJ": "14일부터 다음 달 13일까지",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1126836,
+        "MAIN_OBJ": "능동",
+        "SUB_OBJ": "한 달 동안",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126837,
+        "MAIN_OBJ": "능동",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.21169"
+    },
+    {
+        "DOCID": 1126838,
+        "MAIN_OBJ": "능동",
+        "SUB_OBJ": "어린이대공원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126839,
+        "MAIN_OBJ": "어린이대공원",
+        "SUB_OBJ": "남극",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126840,
+        "MAIN_OBJ": "어린이대공원",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1126841,
+        "MAIN_OBJ": "어린이대공원",
+        "SUB_OBJ": "능동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126842,
+        "MAIN_OBJ": "기업헤라",
+        "SUB_OBJ": "립스틱",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126843,
+        "MAIN_OBJ": "립스틱",
+        "SUB_OBJ": "유방암",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126844,
+        "MAIN_OBJ": "립스틱",
+        "SUB_OBJ": "유방암",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126845,
+        "MAIN_OBJ": "아모레퍼시픽",
+        "SUB_OBJ": "립스틱",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126846,
+        "MAIN_OBJ": "헤라",
+        "SUB_OBJ": "립스틱",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126847,
+        "MAIN_OBJ": "튤립핑크",
+        "SUB_OBJ": "헤라",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1126848,
+        "MAIN_OBJ": "로즈베이핑크",
+        "SUB_OBJ": "튤립핑크",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126849,
+        "MAIN_OBJ": "2종",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126850,
+        "MAIN_OBJ": "헤라",
+        "SUB_OBJ": "2종",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126851,
+        "MAIN_OBJ": "헤라",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36802"
+    },
+    {
+        "DOCID": 1126852,
+        "MAIN_OBJ": "모델",
+        "SUB_OBJ": "튤립핑크",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126853,
+        "MAIN_OBJ": "모델",
+        "SUB_OBJ": "신민아",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1126854,
+        "MAIN_OBJ": "신민아",
+        "SUB_OBJ": "2종",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1126855,
+        "MAIN_OBJ": "신민아",
+        "SUB_OBJ": "헤라",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126856,
+        "MAIN_OBJ": "신민아",
+        "SUB_OBJ": "모델",
+        "RELATION": "직업(occupation)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126857,
+        "MAIN_OBJ": "아모레",
+        "SUB_OBJ": "한국유방건강재단",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126858,
+        "MAIN_OBJ": "유방암",
+        "SUB_OBJ": "아모레",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126859,
+        "MAIN_OBJ": "유방암",
+        "SUB_OBJ": "12년째",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126860,
+        "MAIN_OBJ": "한국유방건강재단",
+        "SUB_OBJ": "아모레",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126861,
+        "MAIN_OBJ": "12년째",
+        "SUB_OBJ": "유방암",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126862,
+        "MAIN_OBJ": "크라제인터내셔날",
+        "SUB_OBJ": "텍사스",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 1126863,
+        "MAIN_OBJ": "크라제인터내셔날",
+        "SUB_OBJ": "치킨",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1126864,
+        "MAIN_OBJ": "크라제인터내셔날",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 1126865,
+        "MAIN_OBJ": "텍사스",
+        "SUB_OBJ": "치킨",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.21762"
+    },
+    {
+        "DOCID": 1126866,
+        "MAIN_OBJ": "텍사스",
+        "SUB_OBJ": "크라제버거",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1126867,
+        "MAIN_OBJ": "텍사스",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126868,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "텍사스",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.53672"
+    },
+    {
+        "DOCID": 1126869,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "1호점",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.09834"
+    },
+    {
+        "DOCID": 1126870,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "크라제버거",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1126871,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.65997"
+    },
+    {
+        "DOCID": 1126872,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "텍사스 치킨",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1126873,
+        "MAIN_OBJ": "치킨",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 1126874,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "치킨",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 1126875,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "크라제인터내셔날",
+        "RELATION": "해당 개체의 운영 주체(operator)",
+        "weight": "0.38955"
+    },
+    {
+        "DOCID": 1126876,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.57655"
+    },
+    {
+        "DOCID": 1126877,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 1126878,
+        "MAIN_OBJ": "크라제버거",
+        "SUB_OBJ": "치킨",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1126879,
+        "MAIN_OBJ": "크라제버거",
+        "SUB_OBJ": "치킨",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1126880,
+        "MAIN_OBJ": "크라제버거",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 1126881,
+        "MAIN_OBJ": "크라제버거",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1126882,
+        "MAIN_OBJ": "크라제인터내셔날",
+        "SUB_OBJ": "1700개",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1126883,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "크라제인터내셔날",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1126884,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "텍사스",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.30953"
+    },
+    {
+        "DOCID": 1126885,
+        "MAIN_OBJ": "텍사스 치킨",
+        "SUB_OBJ": "치킨",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1126886,
+        "MAIN_OBJ": "텍사스 치킨",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126887,
+        "MAIN_OBJ": "텍사스 치킨",
+        "SUB_OBJ": "텍사스",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126888,
+        "MAIN_OBJ": "1952년",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126889,
+        "MAIN_OBJ": "1952년",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1126890,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "1700개",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 1126891,
+        "MAIN_OBJ": "30여 개",
+        "SUB_OBJ": "1호점",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.08391"
+    },
+    {
+        "DOCID": 1126892,
+        "MAIN_OBJ": "30여 개",
+        "SUB_OBJ": "크라제버거",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1126893,
+        "MAIN_OBJ": "30여 개",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126894,
+        "MAIN_OBJ": "30여 개",
+        "SUB_OBJ": "텍사스 치킨",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1126895,
+        "MAIN_OBJ": "30여 개",
+        "SUB_OBJ": "1952년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126896,
+        "MAIN_OBJ": "1700개",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126897,
+        "MAIN_OBJ": "1700개",
+        "SUB_OBJ": "1952년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1126898,
+        "MAIN_OBJ": "1700개",
+        "SUB_OBJ": "30여 개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1126899,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 1126900,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "구리시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.33705"
+    },
+    {
+        "DOCID": 1126901,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20359"
+    },
+    {
+        "DOCID": 1126902,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.46327"
+    },
+    {
+        "DOCID": 1126903,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.2975"
+    },
+    {
+        "DOCID": 1126904,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "55인치",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.2209"
+    },
+    {
+        "DOCID": 1126905,
+        "MAIN_OBJ": "1호점",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.20359"
+    },
+    {
+        "DOCID": 1126906,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "구리시",
+        "RELATION": "하위 행정구역",
+        "weight": "0.4239"
+    },
+    {
+        "DOCID": 1126907,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "6월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1126908,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126909,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.42838"
+    },
+    {
+        "DOCID": 1126910,
+        "MAIN_OBJ": "경기도",
+        "SUB_OBJ": "TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126911,
+        "MAIN_OBJ": "구리시",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.4239"
+    },
+    {
+        "DOCID": 1126912,
+        "MAIN_OBJ": "구리시",
+        "SUB_OBJ": "6월",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 1126913,
+        "MAIN_OBJ": "구리시",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126914,
+        "MAIN_OBJ": "구리시",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.40218"
+    },
+    {
+        "DOCID": 1126915,
+        "MAIN_OBJ": "구리시",
+        "SUB_OBJ": "TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126916,
+        "MAIN_OBJ": "6월",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.04745"
+    },
+    {
+        "DOCID": 1126917,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "1호점",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.16406"
+    },
+    {
+        "DOCID": 1126918,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.55037"
+    },
+    {
+        "DOCID": 1126919,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "구리시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.54542"
+    },
+    {
+        "DOCID": 1126920,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.19006"
+    },
+    {
+        "DOCID": 1126921,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.68338"
+    },
+    {
+        "DOCID": 1126922,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.27948"
+    },
+    {
+        "DOCID": 1126923,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "55인치",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.20647"
+    },
+    {
+        "DOCID": 1126924,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "ES8090",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22606"
+    },
+    {
+        "DOCID": 1126925,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.19006"
+    },
+    {
+        "DOCID": 1126926,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "1호점",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15169"
+    },
+    {
+        "DOCID": 1126927,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1126928,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "구리시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1126929,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "6월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126930,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1126931,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.16297"
+    },
+    {
+        "DOCID": 1126932,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.26067"
+    },
+    {
+        "DOCID": 1126933,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "ES8090",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21003"
+    },
+    {
+        "DOCID": 1126934,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126935,
+        "MAIN_OBJ": "독일",
+        "SUB_OBJ": "경기도",
+        "RELATION": "하위 행정구역",
+        "weight": "0.21403"
+    },
+    {
+        "DOCID": 1126936,
+        "MAIN_OBJ": "독일",
+        "SUB_OBJ": "구리시",
+        "RELATION": "하위 행정구역",
+        "weight": "0.19796"
+    },
+    {
+        "DOCID": 1126937,
+        "MAIN_OBJ": "독일",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.11802"
+    },
+    {
+        "DOCID": 1126938,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "1호점",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.09834"
+    },
+    {
+        "DOCID": 1126939,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.10612"
+    },
+    {
+        "DOCID": 1126940,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 1126941,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1126942,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.11526"
+    },
+    {
+        "DOCID": 1126943,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "1호점",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.13895"
+    },
+    {
+        "DOCID": 1126944,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "경기도",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1126945,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "구리시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1126946,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.14944"
+    },
+    {
+        "DOCID": 1126947,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.16166"
+    },
+    {
+        "DOCID": 1126948,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1126949,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.24102"
+    },
+    {
+        "DOCID": 1126950,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "ES8090",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.19339"
+    },
+    {
+        "DOCID": 1126951,
+        "MAIN_OBJ": "55인치",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.16166"
+    },
+    {
+        "DOCID": 1126952,
+        "MAIN_OBJ": "스마트TV",
+        "SUB_OBJ": "55인치",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.19155"
+    },
+    {
+        "DOCID": 1126953,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "1호점",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12583"
+    },
+    {
+        "DOCID": 1126954,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.13548"
+    },
+    {
+        "DOCID": 1126955,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14674"
+    },
+    {
+        "DOCID": 1126956,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1126957,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 1126958,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "55인치",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.16007"
+    },
+    {
+        "DOCID": 1126959,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14674"
+    },
+    {
+        "DOCID": 1126960,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "경기도",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1126961,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "구리시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1126962,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "6월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126963,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "스마트TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126964,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1126965,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.26067"
+    },
+    {
+        "DOCID": 1126966,
+        "MAIN_OBJ": "오디오 비전",
+        "SUB_OBJ": "55인치",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12612"
+    },
+    {
+        "DOCID": 1126967,
+        "MAIN_OBJ": "ES8090",
+        "SUB_OBJ": "LED TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1126968,
+        "MAIN_OBJ": "LED TV",
+        "SUB_OBJ": "오디오 비전",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.15209"
+    },
+    {
+        "DOCID": 1126969,
+        "MAIN_OBJ": "LED TV",
+        "SUB_OBJ": "55인치",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1126970,
+        "MAIN_OBJ": "LED TV",
+        "SUB_OBJ": "사용자",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "1.1444"
+    },
+    {
+        "DOCID": 1126971,
+        "MAIN_OBJ": "LED TV",
+        "SUB_OBJ": "TV",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126972,
+        "MAIN_OBJ": "LED TV",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.09067"
+    },
+    {
+        "DOCID": 1126973,
+        "MAIN_OBJ": "손",
+        "SUB_OBJ": "LED TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.04745"
+    },
+    {
+        "DOCID": 1126974,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "ES8090",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21003"
+    },
+    {
+        "DOCID": 1126975,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "사용자",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 1126976,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "손",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 1126977,
+        "MAIN_OBJ": "TV",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.16297"
+    },
+    {
+        "DOCID": 1126978,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "LED TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.3174"
+    },
+    {
+        "DOCID": 1126979,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "손",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.00741"
+    },
+    {
+        "DOCID": 1126980,
+        "MAIN_OBJ": "600개사",
+        "SUB_OBJ": "대한상공회의소",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1126981,
+        "MAIN_OBJ": "현대로지스틱스",
+        "SUB_OBJ": "굿마트",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.1339"
+    },
+    {
+        "DOCID": 1126982,
+        "MAIN_OBJ": "현대로지스틱스",
+        "SUB_OBJ": "현대그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126983,
+        "MAIN_OBJ": "현대로지스틱스",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1126984,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "현대로지스틱스",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126985,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "현대그룹",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126986,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "11일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.13128"
+    },
+    {
+        "DOCID": 1126987,
+        "MAIN_OBJ": "현대그룹",
+        "SUB_OBJ": "현대로지스틱스",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 1126988,
+        "MAIN_OBJ": "현대그룹",
+        "SUB_OBJ": "굿마트",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.06176"
+    },
+    {
+        "DOCID": 1126989,
+        "MAIN_OBJ": "11일",
+        "SUB_OBJ": "현대그룹",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 1126990,
+        "MAIN_OBJ": "현대로지스틱스",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1126991,
+        "MAIN_OBJ": "현대로지스틱스",
+        "SUB_OBJ": "70만 개 이상",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126992,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "현대로지스틱스",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126993,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1126994,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "70만 개 이상",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.42093"
+    },
+    {
+        "DOCID": 1126995,
+        "MAIN_OBJ": "300여 점포",
+        "SUB_OBJ": "70만 개 이상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1126996,
+        "MAIN_OBJ": "연간",
+        "SUB_OBJ": "70만 개 이상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 1126997,
+        "MAIN_OBJ": "70만 개 이상",
+        "SUB_OBJ": "300여 점포",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1126998,
+        "MAIN_OBJ": "70만 개 이상",
+        "SUB_OBJ": "연간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 1126999,
+        "MAIN_OBJ": "굿마트",
+        "SUB_OBJ": "150여 점포",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.27697"
+    },
+    {
+        "DOCID": 1127000,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "대전",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1127001,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "기공식",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1127002,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "대전시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1127003,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1127004,
+        "MAIN_OBJ": "대전",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1127005,
+        "MAIN_OBJ": "대전",
+        "SUB_OBJ": "컨",
+        "RELATION": "하위 행정구역",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1127006,
+        "MAIN_OBJ": "기공식",
+        "SUB_OBJ": "대전",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.39392"
+    },
+    {
+        "DOCID": 1127007,
+        "MAIN_OBJ": "기공식",
+        "SUB_OBJ": "대전시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127008,
+        "MAIN_OBJ": "기공식",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1127009,
+        "MAIN_OBJ": "기공식",
+        "SUB_OBJ": "대전",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.39392"
+    },
+    {
+        "DOCID": 1127010,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "롯데시티호텔",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.13128"
+    },
+    {
+        "DOCID": 1127011,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "대전",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1127012,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1127013,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "12일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1127014,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "대전시",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1127015,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1127016,
+        "MAIN_OBJ": "롯데호텔",
+        "SUB_OBJ": "컨",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1127017,
+        "MAIN_OBJ": "12일",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1127018,
+        "MAIN_OBJ": "12일",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 1127019,
+        "MAIN_OBJ": "12일",
+        "SUB_OBJ": "대전",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127020,
+        "MAIN_OBJ": "대전시",
+        "SUB_OBJ": "롯데시티호텔",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.08131"
+    },
+    {
+        "DOCID": 1127021,
+        "MAIN_OBJ": "대전시",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1127022,
+        "MAIN_OBJ": "대전시",
+        "SUB_OBJ": "컨",
+        "RELATION": "하위 행정구역",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 1127023,
+        "MAIN_OBJ": "대전시",
+        "SUB_OBJ": "대전",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 1127024,
+        "MAIN_OBJ": "도룡동",
+        "SUB_OBJ": "대전",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1127025,
+        "MAIN_OBJ": "도룡동",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127026,
+        "MAIN_OBJ": "도룡동",
+        "SUB_OBJ": "12일",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1127027,
+        "MAIN_OBJ": "도룡동",
+        "SUB_OBJ": "대전시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127028,
+        "MAIN_OBJ": "도룡동",
+        "SUB_OBJ": "컨",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127029,
+        "MAIN_OBJ": "컨",
+        "SUB_OBJ": "대전",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1127030,
+        "MAIN_OBJ": "컨",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127031,
+        "MAIN_OBJ": "컨",
+        "SUB_OBJ": "12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 1127032,
+        "MAIN_OBJ": "컨",
+        "SUB_OBJ": "대전시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127033,
+        "MAIN_OBJ": "컨",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127034,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "대전",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1127035,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1127036,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "12일",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1127037,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32732"
+    },
+    {
+        "DOCID": 1127038,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "대전시",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1127039,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "도룡동",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.22847"
+    },
+    {
+        "DOCID": 1127040,
+        "MAIN_OBJ": "벤션복",
+        "SUB_OBJ": "롯데시티호텔",
+        "RELATION": "해당 개체의 운영 주체(operator)",
+        "weight": "0.13128"
+    },
+    {
+        "DOCID": 1127041,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "기공식",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1127042,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "12일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.41388"
+    },
+    {
+        "DOCID": 1127043,
+        "MAIN_OBJ": "대전",
+        "SUB_OBJ": "12일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127044,
+        "MAIN_OBJ": "700억원",
+        "SUB_OBJ": "2014년 3월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1127045,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "서울",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.19155"
+    },
+    {
+        "DOCID": 1127046,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "마포",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1127047,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "김포공항",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.29682"
+    },
+    {
+        "DOCID": 1127048,
+        "MAIN_OBJ": "롯데시티호텔",
+        "SUB_OBJ": "제주",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.3452"
+    },
+    {
+        "DOCID": 1127049,
+        "MAIN_OBJ": "2009년",
+        "SUB_OBJ": "올해",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127050,
+        "MAIN_OBJ": "2009년",
+        "SUB_OBJ": "2013년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127051,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "롯데시티호텔",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.16166"
+    },
+    {
+        "DOCID": 1127052,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "마포",
+        "RELATION": "하위 행정구역",
+        "weight": "0.64338"
+    },
+    {
+        "DOCID": 1127053,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "올해",
+        "RELATION": "자매 결연 도시(twinned administrative body)",
+        "weight": "0.76738"
+    },
+    {
+        "DOCID": 1127054,
+        "MAIN_OBJ": "서울",
+        "SUB_OBJ": "김포공항",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.27521"
+    },
+    {
+        "DOCID": 1127055,
+        "MAIN_OBJ": "마포",
+        "SUB_OBJ": "2009년",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127056,
+        "MAIN_OBJ": "마포",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.23265"
+    },
+    {
+        "DOCID": 1127057,
+        "MAIN_OBJ": "마포",
+        "SUB_OBJ": "올해",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.46278"
+    },
+    {
+        "DOCID": 1127058,
+        "MAIN_OBJ": "마포",
+        "SUB_OBJ": "제주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.38369"
+    },
+    {
+        "DOCID": 1127059,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "2009년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127060,
+        "MAIN_OBJ": "올해",
+        "SUB_OBJ": "2013년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127061,
+        "MAIN_OBJ": "김포공항",
+        "SUB_OBJ": "롯데시티호텔",
+        "RELATION": "해당 개체의 운영 주체(operator)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 1127062,
+        "MAIN_OBJ": "김포공항",
+        "SUB_OBJ": "서울",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1127063,
+        "MAIN_OBJ": "김포공항",
+        "SUB_OBJ": "마포",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127064,
+        "MAIN_OBJ": "김포공항",
+        "SUB_OBJ": "마포",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127065,
+        "MAIN_OBJ": "김포공항",
+        "SUB_OBJ": "제주",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 1127066,
+        "MAIN_OBJ": "2013년",
+        "SUB_OBJ": "2009년",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127067,
+        "MAIN_OBJ": "2013년",
+        "SUB_OBJ": "올해",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127068,
+        "MAIN_OBJ": "제주",
+        "SUB_OBJ": "서울",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.2277"
+    },
+    {
+        "DOCID": 1127069,
+        "MAIN_OBJ": "제주",
+        "SUB_OBJ": "마포",
+        "RELATION": "해당 국가의 수도가 다음 지역임(capital)",
+        "weight": "0.38369"
+    },
+    {
+        "DOCID": 1127070,
+        "MAIN_OBJ": "제주",
+        "SUB_OBJ": "올해",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.47734"
+    },
+    {
+        "DOCID": 1127071,
+        "MAIN_OBJ": "제주",
+        "SUB_OBJ": "김포공항",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.14732"
+    }
+]

@@ -1,0 +1,912 @@
+[
+    {
+        "DOCID": 973657,
+        "MAIN_OBJ": "교육과학기술부",
+        "SUB_OBJ": "경제협력개발기구",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973658,
+        "MAIN_OBJ": "교육과학기술부",
+        "SUB_OBJ": "OECD",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 973659,
+        "MAIN_OBJ": "교육과학기술부",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973660,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "경제협력개발기구",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973661,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "OECD",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973662,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "5315 달러",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 973663,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.50809"
+    },
+    {
+        "DOCID": 973664,
+        "MAIN_OBJ": "경제협력개발기구",
+        "SUB_OBJ": "교육과학기술부",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973665,
+        "MAIN_OBJ": "경제협력개발기구",
+        "SUB_OBJ": "OECD",
+        "RELATION": "해당 개체가 다음의 산하 기관임(parent organization)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 973666,
+        "MAIN_OBJ": "경제협력개발기구",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973667,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "교육과학기술부",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973668,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "경제협력개발기구",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973669,
+        "MAIN_OBJ": "5315 달러",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 973670,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체에게 있었던 주목할 만한 사건(significant event)",
+        "weight": "0.20195"
+    },
+    {
+        "DOCID": 973671,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "경제협력개발기구",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973672,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "OECD",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 973673,
+        "MAIN_OBJ": "둘째",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.13248"
+    },
+    {
+        "DOCID": 973674,
+        "MAIN_OBJ": "6%",
+        "SUB_OBJ": "학생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973675,
+        "MAIN_OBJ": "6%",
+        "SUB_OBJ": "5.4%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973676,
+        "MAIN_OBJ": "6%",
+        "SUB_OBJ": "11.4%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 973677,
+        "MAIN_OBJ": "6%",
+        "SUB_OBJ": "8.9%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973678,
+        "MAIN_OBJ": "5.4%",
+        "SUB_OBJ": "학생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 973679,
+        "MAIN_OBJ": "5.4%",
+        "SUB_OBJ": "11.4%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973680,
+        "MAIN_OBJ": "5.4%",
+        "SUB_OBJ": "8.9%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973681,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "6%",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 973682,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "5.4%",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973683,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "11.4%",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 973684,
+        "MAIN_OBJ": "OECD",
+        "SUB_OBJ": "8.9%",
+        "RELATION": "해당 개체의 산하 기관(subsidiary)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973685,
+        "MAIN_OBJ": "11.4%",
+        "SUB_OBJ": "학생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973686,
+        "MAIN_OBJ": "11.4%",
+        "SUB_OBJ": "8.9%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973687,
+        "MAIN_OBJ": "8.9%",
+        "SUB_OBJ": "6%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973688,
+        "MAIN_OBJ": "8.9%",
+        "SUB_OBJ": "학생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 973689,
+        "MAIN_OBJ": "8.9%",
+        "SUB_OBJ": "5.4%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973690,
+        "MAIN_OBJ": "학생",
+        "SUB_OBJ": "자녀",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.10474"
+    },
+    {
+        "DOCID": 973691,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "학생",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.51786"
+    },
+    {
+        "DOCID": 973692,
+        "MAIN_OBJ": "부모",
+        "SUB_OBJ": "자녀",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.20671"
+    },
+    {
+        "DOCID": 973693,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "학생",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.91759"
+    },
+    {
+        "DOCID": 973694,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "부모",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.76632"
+    },
+    {
+        "DOCID": 973695,
+        "MAIN_OBJ": "아버지",
+        "SUB_OBJ": "자녀",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.10575"
+    },
+    {
+        "DOCID": 973696,
+        "MAIN_OBJ": "53세",
+        "SUB_OBJ": "자녀",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 973697,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "아버지",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.92175"
+    },
+    {
+        "DOCID": 973698,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "부부",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.98363"
+    },
+    {
+        "DOCID": 973699,
+        "MAIN_OBJ": "부부",
+        "SUB_OBJ": "자녀",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.12178"
+    },
+    {
+        "DOCID": 973700,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "신",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.54984"
+    },
+    {
+        "DOCID": 973701,
+        "MAIN_OBJ": "최근 3년",
+        "SUB_OBJ": "109%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 973702,
+        "MAIN_OBJ": "최근 3년",
+        "SUB_OBJ": "68%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973703,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "최근 3년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.49"
+    },
+    {
+        "DOCID": 973704,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "109%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.3784"
+    },
+    {
+        "DOCID": 973705,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "68%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 973706,
+        "MAIN_OBJ": "68%",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.02746"
+    },
+    {
+        "DOCID": 973707,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "한국투자네비게이터주식1",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 973708,
+        "MAIN_OBJ": "한국투자네비게이터주식1",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 973709,
+        "MAIN_OBJ": "한국투자네비게이터주식1",
+        "SUB_OBJ": "3년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973710,
+        "MAIN_OBJ": "한국투자네비게이터주식1",
+        "SUB_OBJ": "94%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973711,
+        "MAIN_OBJ": "3년",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.04906"
+    },
+    {
+        "DOCID": 973712,
+        "MAIN_OBJ": "3년",
+        "SUB_OBJ": "한국투자네비게이터주식1",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973713,
+        "MAIN_OBJ": "94%",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.04906"
+    },
+    {
+        "DOCID": 973714,
+        "MAIN_OBJ": "94%",
+        "SUB_OBJ": "한국투자네비게이터주식1",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973715,
+        "MAIN_OBJ": "미래에셋우리아이3억만들기G1주식",
+        "SUB_OBJ": "45%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973716,
+        "MAIN_OBJ": "미래에셋우리아이3억만들기G1주식",
+        "SUB_OBJ": "일반펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 973717,
+        "MAIN_OBJ": "45%",
+        "SUB_OBJ": "일반펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 973718,
+        "MAIN_OBJ": "45%",
+        "SUB_OBJ": "54%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973719,
+        "MAIN_OBJ": "일반펀드",
+        "SUB_OBJ": "미래에셋우리아이3억만들기G1주식",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 973720,
+        "MAIN_OBJ": "일반펀드",
+        "SUB_OBJ": "45%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 973721,
+        "MAIN_OBJ": "일반펀드",
+        "SUB_OBJ": "미래에셋3억만들기솔로몬주식1",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973722,
+        "MAIN_OBJ": "일반펀드",
+        "SUB_OBJ": "54%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973723,
+        "MAIN_OBJ": "미래에셋3억만들기솔로몬주식1",
+        "SUB_OBJ": "45%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973724,
+        "MAIN_OBJ": "미래에셋3억만들기솔로몬주식1",
+        "SUB_OBJ": "일반펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973725,
+        "MAIN_OBJ": "미래에셋3억만들기솔로몬주식1",
+        "SUB_OBJ": "54%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973726,
+        "MAIN_OBJ": "54%",
+        "SUB_OBJ": "45%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973727,
+        "MAIN_OBJ": "54%",
+        "SUB_OBJ": "일반펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973728,
+        "MAIN_OBJ": "54%",
+        "SUB_OBJ": "미래에셋3억만들기솔로몬주식1",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973729,
+        "MAIN_OBJ": "배성진",
+        "SUB_OBJ": "어린이펀드",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 973730,
+        "MAIN_OBJ": "배성진",
+        "SUB_OBJ": "1순위",
+        "RELATION": "해당 선수가 맡은 포지션(position played on team / speciality)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 973731,
+        "MAIN_OBJ": "현대증권",
+        "SUB_OBJ": "배성진",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 973732,
+        "MAIN_OBJ": "연구위원",
+        "SUB_OBJ": "어린이펀드",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 973733,
+        "MAIN_OBJ": "어린이펀드",
+        "SUB_OBJ": "배성진",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 973734,
+        "MAIN_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "SUB_OBJ": "1년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 973735,
+        "MAIN_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "SUB_OBJ": "-5.5%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973736,
+        "MAIN_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 973737,
+        "MAIN_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "SUB_OBJ": "-10.3%",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973738,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 973739,
+        "MAIN_OBJ": "1년",
+        "SUB_OBJ": "-5.5%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973740,
+        "MAIN_OBJ": "-5.5%",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.02746"
+    },
+    {
+        "DOCID": 973741,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "하나UBS i-사랑적립식1[채권혼합]",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 973742,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "1년",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.49"
+    },
+    {
+        "DOCID": 973743,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "-5.5%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 973744,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "-10.3%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 973745,
+        "MAIN_OBJ": "-10.3%",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.02746"
+    },
+    {
+        "DOCID": 973746,
+        "MAIN_OBJ": "32%",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.04906"
+    },
+    {
+        "DOCID": 973747,
+        "MAIN_OBJ": "32%",
+        "SUB_OBJ": "68%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973748,
+        "MAIN_OBJ": "일반주식형 펀드",
+        "SUB_OBJ": "32%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.49"
+    },
+    {
+        "DOCID": 973749,
+        "MAIN_OBJ": "절반",
+        "SUB_OBJ": "일반주식형 펀드",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.02746"
+    },
+    {
+        "DOCID": 973750,
+        "MAIN_OBJ": "이연주",
+        "SUB_OBJ": "에프앤가이드",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973751,
+        "MAIN_OBJ": "이연주",
+        "SUB_OBJ": "연구원",
+        "RELATION": "직업(occupation)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 973752,
+        "MAIN_OBJ": "이연주",
+        "SUB_OBJ": "어린이펀드",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973753,
+        "MAIN_OBJ": "이연주",
+        "SUB_OBJ": "투자자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973754,
+        "MAIN_OBJ": "에프앤가이드",
+        "SUB_OBJ": "투자자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973755,
+        "MAIN_OBJ": "연구원",
+        "SUB_OBJ": "어린이펀드",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 973756,
+        "MAIN_OBJ": "연구원",
+        "SUB_OBJ": "투자자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.49807"
+    },
+    {
+        "DOCID": 973757,
+        "MAIN_OBJ": "어린이펀드",
+        "SUB_OBJ": "이연주",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973758,
+        "MAIN_OBJ": "어린이펀드",
+        "SUB_OBJ": "연구원",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.29101"
+    },
+    {
+        "DOCID": 973759,
+        "MAIN_OBJ": "투자자",
+        "SUB_OBJ": "연구원",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.21473"
+    },
+    {
+        "DOCID": 973760,
+        "MAIN_OBJ": "어린이펀드",
+        "SUB_OBJ": "15%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 973761,
+        "MAIN_OBJ": "세법",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "해당 개체가 영향력을 미치는 관할 구역(applies to jurisdiction)",
+        "weight": "0.05802"
+    },
+    {
+        "DOCID": 973762,
+        "MAIN_OBJ": "만 19세",
+        "SUB_OBJ": "10년",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973763,
+        "MAIN_OBJ": "만 19세",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973764,
+        "MAIN_OBJ": "만 19세",
+        "SUB_OBJ": "증여세",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 973765,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "만 19세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973766,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "1500만원씩",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973767,
+        "MAIN_OBJ": "10년",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973768,
+        "MAIN_OBJ": "1500만원씩",
+        "SUB_OBJ": "10년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973769,
+        "MAIN_OBJ": "1500만원씩",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973770,
+        "MAIN_OBJ": "1500만원씩",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973771,
+        "MAIN_OBJ": "1500만원씩",
+        "SUB_OBJ": "3000만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973772,
+        "MAIN_OBJ": "20세 이후",
+        "SUB_OBJ": "세법",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 973773,
+        "MAIN_OBJ": "20세 이후",
+        "SUB_OBJ": "만 19세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973774,
+        "MAIN_OBJ": "20세 이후",
+        "SUB_OBJ": "10년",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.21912"
+    },
+    {
+        "DOCID": 973775,
+        "MAIN_OBJ": "20세 이후",
+        "SUB_OBJ": "1500만원씩",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973776,
+        "MAIN_OBJ": "3000만원",
+        "SUB_OBJ": "1500만원씩",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973777,
+        "MAIN_OBJ": "3000만원",
+        "SUB_OBJ": "20세 이후",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973778,
+        "MAIN_OBJ": "3000만원",
+        "SUB_OBJ": "증여세",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 973779,
+        "MAIN_OBJ": "자녀",
+        "SUB_OBJ": "부모",
+        "RELATION": "반대 속성(inverse property)",
+        "weight": "0.76632"
+    },
+    {
+        "DOCID": 973780,
+        "MAIN_OBJ": "국세청",
+        "SUB_OBJ": "증여세",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 973781,
+        "MAIN_OBJ": "김석동",
+        "SUB_OBJ": "금융위원장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973782,
+        "MAIN_OBJ": "금융위원장",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 973783,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "김석동",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 973784,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "학자금펀드",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 973785,
+        "MAIN_OBJ": "학자금펀드",
+        "SUB_OBJ": "김석동",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973786,
+        "MAIN_OBJ": "고란",
+        "SUB_OBJ": "기자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    }
+]

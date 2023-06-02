@@ -1,0 +1,191 @@
+[
+    {
+        "DOCID": 973946,
+        "MAIN_OBJ": "배우",
+        "SUB_OBJ": "박시연",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 973947,
+        "MAIN_OBJ": "배우",
+        "SUB_OBJ": "박시연",
+        "RELATION": "해당 작품에 출연한 배우(cast member)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 973948,
+        "MAIN_OBJ": "배우",
+        "SUB_OBJ": "남규리",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973949,
+        "MAIN_OBJ": "배우",
+        "SUB_OBJ": "조여정",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973950,
+        "MAIN_OBJ": "박시연",
+        "SUB_OBJ": "배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 973951,
+        "MAIN_OBJ": "박시연",
+        "SUB_OBJ": "남규리",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 973952,
+        "MAIN_OBJ": "박시연",
+        "SUB_OBJ": "조여정",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.20925"
+    },
+    {
+        "DOCID": 973953,
+        "MAIN_OBJ": "남규리",
+        "SUB_OBJ": "배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973954,
+        "MAIN_OBJ": "조여정",
+        "SUB_OBJ": "배우",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973955,
+        "MAIN_OBJ": "조여정",
+        "SUB_OBJ": "박시연",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.14732"
+    },
+    {
+        "DOCID": 973956,
+        "MAIN_OBJ": "조여정",
+        "SUB_OBJ": "남규리",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973957,
+        "MAIN_OBJ": "조여정",
+        "SUB_OBJ": "남규리",
+        "RELATION": "해당 개체의 친형제자매(sibling)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973958,
+        "MAIN_OBJ": "남규리",
+        "SUB_OBJ": "박시연",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 973959,
+        "MAIN_OBJ": "남규리",
+        "SUB_OBJ": "조여정",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973960,
+        "MAIN_OBJ": "박시연",
+        "SUB_OBJ": "블랙",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.50043"
+    },
+    {
+        "DOCID": 973961,
+        "MAIN_OBJ": "박시연",
+        "SUB_OBJ": "하의",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 973962,
+        "MAIN_OBJ": "자줏빛 컬러",
+        "SUB_OBJ": "박시연",
+        "RELATION": "연주자·가수(performer)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 973963,
+        "MAIN_OBJ": "자줏빛 컬러",
+        "SUB_OBJ": "하의",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973964,
+        "MAIN_OBJ": "블랙",
+        "SUB_OBJ": "하의",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.14098"
+    },
+    {
+        "DOCID": 973965,
+        "MAIN_OBJ": "하의",
+        "SUB_OBJ": "박시연",
+        "RELATION": "연주자·가수(performer)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 973966,
+        "MAIN_OBJ": "하의",
+        "SUB_OBJ": "박시연",
+        "RELATION": "해당 작품에 출연한 배우(cast member)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 973967,
+        "MAIN_OBJ": "하의",
+        "SUB_OBJ": "블랙",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57107"
+    },
+    {
+        "DOCID": 973968,
+        "MAIN_OBJ": "베이지그레이",
+        "SUB_OBJ": "베라왕",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973969,
+        "MAIN_OBJ": "베이지그레이",
+        "SUB_OBJ": "패셔니스타",
+        "RELATION": "해당 개체의 장르(genre)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973970,
+        "MAIN_OBJ": "베라왕",
+        "SUB_OBJ": "베이지그레이",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973971,
+        "MAIN_OBJ": "베라왕",
+        "SUB_OBJ": "패셔니스타",
+        "RELATION": "해당 개체의 장르(genre)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973972,
+        "MAIN_OBJ": "패셔니스타",
+        "SUB_OBJ": "베라왕",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    }
+]

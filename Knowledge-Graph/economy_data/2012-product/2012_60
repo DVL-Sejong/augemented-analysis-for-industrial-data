@@ -1,0 +1,723 @@
+[
+    {
+        "DOCID": 973787,
+        "MAIN_OBJ": "10일",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 973788,
+        "MAIN_OBJ": "10일",
+        "SUB_OBJ": "아바타",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973789,
+        "MAIN_OBJ": "10일",
+        "SUB_OBJ": "생명나무",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973790,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "라스베이거스",
+        "RELATION": "하위 행정구역",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 973791,
+        "MAIN_OBJ": "라스베이거스",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 973792,
+        "MAIN_OBJ": "라스베이거스",
+        "SUB_OBJ": "CES",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 973793,
+        "MAIN_OBJ": "라스베이거스",
+        "SUB_OBJ": "모뉴엘",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.07742"
+    },
+    {
+        "DOCID": 973794,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "10일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973795,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 973796,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "생명나무",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 973797,
+        "MAIN_OBJ": "600㎡",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973798,
+        "MAIN_OBJ": "600㎡",
+        "SUB_OBJ": "생명나무",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973799,
+        "MAIN_OBJ": "아바타",
+        "SUB_OBJ": "10일",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973800,
+        "MAIN_OBJ": "아바타",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973801,
+        "MAIN_OBJ": "생명나무",
+        "SUB_OBJ": "10일",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973802,
+        "MAIN_OBJ": "생명나무",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973803,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "10일",
+        "RELATION": "해당 기관·단체의 본부·본사가 있거나 있었던 곳(headquarters location)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 973804,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 973805,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "600㎡",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 973806,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "생명나무",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 973807,
+        "MAIN_OBJ": "PC",
+        "SUB_OBJ": "로봇청소기",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973808,
+        "MAIN_OBJ": "PC",
+        "SUB_OBJ": "모뉴엘",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 973809,
+        "MAIN_OBJ": "로봇청소기",
+        "SUB_OBJ": "모뉴엘",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 973810,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "PC",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 973811,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "로봇청소기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 973812,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "CES",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.22044"
+    },
+    {
+        "DOCID": 973813,
+        "MAIN_OBJ": "모뉴엘",
+        "SUB_OBJ": "5년 동안",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.45683"
+    },
+    {
+        "DOCID": 973814,
+        "MAIN_OBJ": "6년",
+        "SUB_OBJ": "5년 동안",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973815,
+        "MAIN_OBJ": "6년",
+        "SUB_OBJ": "CES 혁신상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973816,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "로봇청소기",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 973817,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "모뉴엘",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.13927"
+    },
+    {
+        "DOCID": 973818,
+        "MAIN_OBJ": "CES",
+        "SUB_OBJ": "CES 혁신상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 973819,
+        "MAIN_OBJ": "5년 동안",
+        "SUB_OBJ": "6년",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973820,
+        "MAIN_OBJ": "5년 동안",
+        "SUB_OBJ": "CES 혁신상",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973821,
+        "MAIN_OBJ": "CES 혁신상",
+        "SUB_OBJ": "PC",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973822,
+        "MAIN_OBJ": "CES 혁신상",
+        "SUB_OBJ": "CES",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 973823,
+        "MAIN_OBJ": "2010년",
+        "SUB_OBJ": "2970억원",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973824,
+        "MAIN_OBJ": "2010년",
+        "SUB_OBJ": "260명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973825,
+        "MAIN_OBJ": "2970억원",
+        "SUB_OBJ": "직원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 973826,
+        "MAIN_OBJ": "260명",
+        "SUB_OBJ": "직원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 973827,
+        "MAIN_OBJ": "롯데마트",
+        "SUB_OBJ": "통큰TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 973828,
+        "MAIN_OBJ": "삼성",
+        "SUB_OBJ": "LG전자",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973829,
+        "MAIN_OBJ": "삼성",
+        "SUB_OBJ": "박홍석",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 973830,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "삼성",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 973831,
+        "MAIN_OBJ": "LG전자",
+        "SUB_OBJ": "박홍석",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973832,
+        "MAIN_OBJ": "박홍석",
+        "SUB_OBJ": "LG전자",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973833,
+        "MAIN_OBJ": "박홍석",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.04449"
+    },
+    {
+        "DOCID": 973834,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "50",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 973835,
+        "MAIN_OBJ": "애플",
+        "SUB_OBJ": "아이팟",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973836,
+        "MAIN_OBJ": "아이팟",
+        "SUB_OBJ": "애플",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973837,
+        "MAIN_OBJ": "MP3",
+        "SUB_OBJ": "아이튠즈",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973838,
+        "MAIN_OBJ": "아이튠즈",
+        "SUB_OBJ": "MP3",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973839,
+        "MAIN_OBJ": "애호가",
+        "SUB_OBJ": "MP3",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973840,
+        "MAIN_OBJ": "애호가",
+        "SUB_OBJ": "아이튠즈",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 973841,
+        "MAIN_OBJ": "홈시어터PC",
+        "SUB_OBJ": "모뉴엘",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.05468"
+    },
+    {
+        "DOCID": 973842,
+        "MAIN_OBJ": "리모컨",
+        "SUB_OBJ": "로봇청소기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973843,
+        "MAIN_OBJ": "리모컨",
+        "SUB_OBJ": "로봇공기청정기",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973844,
+        "MAIN_OBJ": "로봇청소기",
+        "SUB_OBJ": "로봇공기청정기",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973845,
+        "MAIN_OBJ": "로봇공기청정기",
+        "SUB_OBJ": "리모컨",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973846,
+        "MAIN_OBJ": "로봇공기청정기",
+        "SUB_OBJ": "로봇청소기",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973847,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.23179"
+    },
+    {
+        "DOCID": 973848,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "평판TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 973849,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "평판TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "1.42142"
+    },
+    {
+        "DOCID": 973850,
+        "MAIN_OBJ": "디지",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 창작자(creator)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 973851,
+        "MAIN_OBJ": "디지",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.06329"
+    },
+    {
+        "DOCID": 973852,
+        "MAIN_OBJ": "디지",
+        "SUB_OBJ": "평판TV",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 973853,
+        "MAIN_OBJ": "삼성",
+        "SUB_OBJ": "중국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "1.25019"
+    },
+    {
+        "DOCID": 973854,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "원덕연",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.20307"
+    },
+    {
+        "DOCID": 973855,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.38246"
+    },
+    {
+        "DOCID": 973856,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.46369"
+    },
+    {
+        "DOCID": 973857,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "미주법인",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.5208"
+    },
+    {
+        "DOCID": 973858,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "원덕연",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.29681"
+    },
+    {
+        "DOCID": 973859,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "41",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 973860,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.57222"
+    },
+    {
+        "DOCID": 973861,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "미주법인",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973862,
+        "MAIN_OBJ": "삼성전자",
+        "SUB_OBJ": "원덕연",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 973863,
+        "MAIN_OBJ": "미주법인",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 973864,
+        "MAIN_OBJ": "미주법인",
+        "SUB_OBJ": "원덕연",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.08335"
+    },
+    {
+        "DOCID": 973865,
+        "MAIN_OBJ": "원덕연",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.1521"
+    },
+    {
+        "DOCID": 973866,
+        "MAIN_OBJ": "원덕연",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.09862"
+    },
+    {
+        "DOCID": 973867,
+        "MAIN_OBJ": "원덕연",
+        "SUB_OBJ": "삼성전자",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 973868,
+        "MAIN_OBJ": "원덕연",
+        "SUB_OBJ": "미주법인",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 973869,
+        "MAIN_OBJ": "원덕연",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 973870,
+        "MAIN_OBJ": "41",
+        "SUB_OBJ": "미주법인",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 973871,
+        "MAIN_OBJ": "원",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.30227"
+    },
+    {
+        "DOCID": 973872,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "홈시어터PC",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.33876"
+    },
+    {
+        "DOCID": 973873,
+        "MAIN_OBJ": "홈시어터PC",
+        "SUB_OBJ": "부사장",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.08336"
+    },
+    {
+        "DOCID": 973874,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "산업디자인",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 973875,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "원",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.58264"
+    },
+    {
+        "DOCID": 973876,
+        "MAIN_OBJ": "산업디자인",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 973877,
+        "MAIN_OBJ": "산업디자인",
+        "SUB_OBJ": "원",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 973878,
+        "MAIN_OBJ": "산업디자인",
+        "SUB_OBJ": "부사장",
+        "RELATION": "다음이 이것을 실천함(practiced by)",
+        "weight": "0.11652"
+    },
+    {
+        "DOCID": 973879,
+        "MAIN_OBJ": "원",
+        "SUB_OBJ": "대표",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17"
+    },
+    {
+        "DOCID": 973880,
+        "MAIN_OBJ": "원",
+        "SUB_OBJ": "산업디자인",
+        "RELATION": "전문 분야(field of work)",
+        "weight": "0.21911"
+    },
+    {
+        "DOCID": 973881,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.2332"
+    },
+    {
+        "DOCID": 973882,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "산업디자인",
+        "RELATION": "직업의 분야(field of this occupation)",
+        "weight": "0.25826"
+    },
+    {
+        "DOCID": 973883,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "부사장",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.57222"
+    },
+    {
+        "DOCID": 973884,
+        "MAIN_OBJ": "원",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.27291"
+    },
+    {
+        "DOCID": 973885,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "대표",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.2332"
+    },
+    {
+        "DOCID": 973886,
+        "MAIN_OBJ": "부사장",
+        "SUB_OBJ": "원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.40509"
+    },
+    {
+        "DOCID": 973887,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "신입사원",
+        "RELATION": "직업(occupation)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 973888,
+        "MAIN_OBJ": "대표",
+        "SUB_OBJ": "신입사원",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.71993"
+    },
+    {
+        "DOCID": 973889,
+        "MAIN_OBJ": "신입사원",
+        "SUB_OBJ": "대표",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.02484"
+    }
+]

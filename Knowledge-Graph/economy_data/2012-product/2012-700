@@ -1,0 +1,625 @@
+[
+    {
+        "DOCID": 1127072,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "박재영",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1127073,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.09162"
+    },
+    {
+        "DOCID": 1127074,
+        "MAIN_OBJ": "박재영",
+        "SUB_OBJ": "대리",
+        "RELATION": "관련 스포츠 종목(related sports)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1127075,
+        "MAIN_OBJ": "대리",
+        "SUB_OBJ": "32",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1127076,
+        "MAIN_OBJ": "지난해 7월",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.01932"
+    },
+    {
+        "DOCID": 1127077,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "32",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "1.52963"
+    },
+    {
+        "DOCID": 1127078,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "32",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "1.52963"
+    },
+    {
+        "DOCID": 1127079,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "지난해 7월",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.81266"
+    },
+    {
+        "DOCID": 1127080,
+        "MAIN_OBJ": "가나",
+        "SUB_OBJ": "케냐",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.47696"
+    },
+    {
+        "DOCID": 1127081,
+        "MAIN_OBJ": "가나",
+        "SUB_OBJ": "남아프리카공화국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127082,
+        "MAIN_OBJ": "가나",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.10627"
+    },
+    {
+        "DOCID": 1127083,
+        "MAIN_OBJ": "케냐",
+        "SUB_OBJ": "가나",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.28892"
+    },
+    {
+        "DOCID": 1127084,
+        "MAIN_OBJ": "케냐",
+        "SUB_OBJ": "남아프리카공화국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127085,
+        "MAIN_OBJ": "남아프리카공화국",
+        "SUB_OBJ": "가나",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1127086,
+        "MAIN_OBJ": "남아프리카공화국",
+        "SUB_OBJ": "케냐",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127087,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "가나",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.75706"
+    },
+    {
+        "DOCID": 1127088,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "케냐",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.98554"
+    },
+    {
+        "DOCID": 1127089,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "남아프리카공화국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.60195"
+    },
+    {
+        "DOCID": 1127090,
+        "MAIN_OBJ": "이창규",
+        "SUB_OBJ": "사장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1127091,
+        "MAIN_OBJ": "이창규",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127092,
+        "MAIN_OBJ": "이창규",
+        "SUB_OBJ": "중남미",
+        "RELATION": "태어난 곳(place of birth)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127093,
+        "MAIN_OBJ": "56",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1127094,
+        "MAIN_OBJ": "56",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.03477"
+    },
+    {
+        "DOCID": 1127095,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "이창규",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1127096,
+        "MAIN_OBJ": "사장",
+        "SUB_OBJ": "지난해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.15089"
+    },
+    {
+        "DOCID": 1127097,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "56",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127098,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "중남미",
+        "RELATION": "하위 행정구역",
+        "weight": "0.41763"
+    },
+    {
+        "DOCID": 1127099,
+        "MAIN_OBJ": "지난해",
+        "SUB_OBJ": "두 명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127100,
+        "MAIN_OBJ": "중남미",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127101,
+        "MAIN_OBJ": "중남미",
+        "SUB_OBJ": "지난해",
+        "RELATION": "다음 행정구역에 위치함(located in)",
+        "weight": "0.2465"
+    },
+    {
+        "DOCID": 1127102,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "56",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60195"
+    },
+    {
+        "DOCID": 1127103,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "중남미",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "1.01976"
+    },
+    {
+        "DOCID": 1127104,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "두 명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60195"
+    },
+    {
+        "DOCID": 1127105,
+        "MAIN_OBJ": "두 명",
+        "SUB_OBJ": "사장",
+        "RELATION": "직업(occupation)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1127106,
+        "MAIN_OBJ": "두 명",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127107,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "대리",
+        "RELATION": "직업(occupation)",
+        "weight": "0.30235"
+    },
+    {
+        "DOCID": 1127108,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "SK",
+        "RELATION": "해당 개체의 현재 또는 과거의 소속 팀(member of sports team)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1127109,
+        "MAIN_OBJ": "대리",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.0956"
+    },
+    {
+        "DOCID": 1127110,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.70739"
+    },
+    {
+        "DOCID": 1127111,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "대리",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.71502"
+    },
+    {
+        "DOCID": 1127112,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "SK",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.81266"
+    },
+    {
+        "DOCID": 1127113,
+        "MAIN_OBJ": "아프리카",
+        "SUB_OBJ": "맨몸",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.81266"
+    },
+    {
+        "DOCID": 1127114,
+        "MAIN_OBJ": "SK",
+        "SUB_OBJ": "맨몸",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127115,
+        "MAIN_OBJ": "맨몸",
+        "SUB_OBJ": "아프리카",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.01932"
+    },
+    {
+        "DOCID": 1127116,
+        "MAIN_OBJ": "대리",
+        "SUB_OBJ": "지난주",
+        "RELATION": "공간적 배경(narrative location)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1127117,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1127118,
+        "MAIN_OBJ": "300명",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1127119,
+        "MAIN_OBJ": "5년간",
+        "SUB_OBJ": "칠레",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1127120,
+        "MAIN_OBJ": "5년간",
+        "SUB_OBJ": "50개국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1127121,
+        "MAIN_OBJ": "5년간",
+        "SUB_OBJ": "300명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1127122,
+        "MAIN_OBJ": "라오스",
+        "SUB_OBJ": "에콰도르",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.39722"
+    },
+    {
+        "DOCID": 1127123,
+        "MAIN_OBJ": "라오스",
+        "SUB_OBJ": "칠레",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1127124,
+        "MAIN_OBJ": "에콰도르",
+        "SUB_OBJ": "라오스",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.39722"
+    },
+    {
+        "DOCID": 1127125,
+        "MAIN_OBJ": "에콰도르",
+        "SUB_OBJ": "칠레",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1127126,
+        "MAIN_OBJ": "칠레",
+        "SUB_OBJ": "라오스",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127127,
+        "MAIN_OBJ": "칠레",
+        "SUB_OBJ": "에콰도르",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127128,
+        "MAIN_OBJ": "칠레",
+        "SUB_OBJ": "SK네트웍스",
+        "RELATION": "다음 공동체의 구성원임(member of)",
+        "weight": "0.12669"
+    },
+    {
+        "DOCID": 1127129,
+        "MAIN_OBJ": "칠레",
+        "SUB_OBJ": "300명",
+        "RELATION": "다음은 해당 개체의 민족에 속함(ethnic group)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1127130,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "에콰도르",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1127131,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "칠레",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1127132,
+        "MAIN_OBJ": "SK네트웍스",
+        "SUB_OBJ": "50개국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.24006"
+    },
+    {
+        "DOCID": 1127133,
+        "MAIN_OBJ": "50개국",
+        "SUB_OBJ": "라오스",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127134,
+        "MAIN_OBJ": "50개국",
+        "SUB_OBJ": "에콰도르",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127135,
+        "MAIN_OBJ": "50개국",
+        "SUB_OBJ": "칠레",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127136,
+        "MAIN_OBJ": "50개국",
+        "SUB_OBJ": "300명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1127137,
+        "MAIN_OBJ": "직원",
+        "SUB_OBJ": "에콰도르",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.34809"
+    },
+    {
+        "DOCID": 1127138,
+        "MAIN_OBJ": "직원",
+        "SUB_OBJ": "칠레",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1127139,
+        "MAIN_OBJ": "직원",
+        "SUB_OBJ": "50개국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.14019"
+    },
+    {
+        "DOCID": 1127140,
+        "MAIN_OBJ": "3개월",
+        "SUB_OBJ": "6개월",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127141,
+        "MAIN_OBJ": "3개월",
+        "SUB_OBJ": "9개월",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127142,
+        "MAIN_OBJ": "6개월",
+        "SUB_OBJ": "3개월",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127143,
+        "MAIN_OBJ": "6개월",
+        "SUB_OBJ": "9개월",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127144,
+        "MAIN_OBJ": "9개월",
+        "SUB_OBJ": "3개월",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127145,
+        "MAIN_OBJ": "9개월",
+        "SUB_OBJ": "6개월",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127146,
+        "MAIN_OBJ": "연수자",
+        "SUB_OBJ": "멘토",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1127147,
+        "MAIN_OBJ": "연수자",
+        "SUB_OBJ": "임원",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127148,
+        "MAIN_OBJ": "임원",
+        "SUB_OBJ": "연수자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127149,
+        "MAIN_OBJ": "임원",
+        "SUB_OBJ": "멘토",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1127150,
+        "MAIN_OBJ": "SK 네트웍스",
+        "SUB_OBJ": "최태원",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127151,
+        "MAIN_OBJ": "SK 네트웍스",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1127152,
+        "MAIN_OBJ": "해외지역전문가",
+        "SUB_OBJ": "회장",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1127153,
+        "MAIN_OBJ": "최태원",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "직업(occupation)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127154,
+        "MAIN_OBJ": "최태원",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1127155,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "해외지역전문가",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127156,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "최태원",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.291"
+    },
+    {
+        "DOCID": 1127157,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "52",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "1.05902"
+    },
+    {
+        "DOCID": 1127158,
+        "MAIN_OBJ": "최",
+        "SUB_OBJ": "회장",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.13852"
+    },
+    {
+        "DOCID": 1127159,
+        "MAIN_OBJ": "회장",
+        "SUB_OBJ": "최",
+        "RELATION": "해당 개체와 같이 등장하는 개념(see also)",
+        "weight": "0.74797"
+    },
+    {
+        "DOCID": 1127160,
+        "MAIN_OBJ": "해외지역전문가",
+        "SUB_OBJ": "관계자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.81143"
+    }
+]

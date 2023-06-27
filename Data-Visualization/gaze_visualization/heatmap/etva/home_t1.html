@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="{{url_for('static', filename='logo/dvl.ico')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/custom.css')}}">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  
+  <!-- specific plugin -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-contour.v1.min.js"></script>
+</head>
+
+<body>
+  <div style="width:1920px; height:1310px; border:1px solid black; background-color:#fff">
+    <div style="width:810px; height:1310px; float:left;">
+      <canvas id="visCanvas"></canvas>
+      <div id="featSelection" style="width:800px; height:600px">
+        <button id="btn_f_color" class="button">color</button>
+        <button id="btn_f_intensity" class="button">intensity</button>
+        <button id="btn_f_orientation" class="button">orientation</button>
+        <button id="btn_f_hog" class="button">hog</button>
+        <form>
+          <label for="thr_color">Color threshold</label>
+          <input type="text" id="thr_color" name="thr_color" value="0.5"><br>
+          <label for="thr_intensity">Intensity threshold</label>
+          <input type="text" id="thr_intensity" name="thr_intensity" value="0.5"><br>
+          <label for="thr_orientation">Orientation threshold</label>
+          <input type="text" id="thr_orientation" name="thr_orientation" value="0.5"><br>
+          <label for="thr_hog">HOG threshold</label>
+          <input type="text" id="thr_hog" name="thr_hog" value="0.5">
+        </form>
+      </div>
+    </div>
+    <div id="AUC_field" style="float: right;">
+    </div>
+  </div>
+</body>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="{{url_for('static', filename='js/func/general_funcs.js')}}"></script>
+
+<script src="{{url_for('static', filename='js/draw/draw.js')}}"></script>
+<script src="{{url_for('static', filename='js/func/interaction.js')}}"></script>
+
+<script src="{{url_for('static', filename='js/draw/canvas/canvas_gaze_points.js')}}"></script>
+
+<script>
+  rawEyeData = {{rawEyeData|safe}};
+  stiData = {{stiData|safe}};
+  console.log(rawEyeData);
+  console.log(stiData);
+  var df_color = [];
+  var df_intensity = [];
+  var df_orientation = [];
+  var df_hog = [];
+  
+
+  var w = 800;
+  var h = 600;
+  var caux = document.getElementById("AUC_field");
+  caux.width = 1000;
+  caux.height = 1300;
+  var fixations = [];
+  var feat_flag = [false, false, false, false];
+
+
+  var c = document.getElementById("visCanvas");
+  var ctx = c.getContext("2d");
+  c.width = w;
+  c.height = h;
+
+  drawImage(c);
+</script>

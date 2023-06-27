@@ -9,7 +9,6 @@ import platform
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
-
 #시스템 판별 Windows Linux Darwin
 OS_system = platform.system()
 
@@ -22,34 +21,28 @@ def load_dir_list(direc):
         resdic.append(di.split('.')[0])
     return resdic
 
-print(OS_system)
-if OS_system == "Windows":
-    raw_data = load_dir_list(os.getcwd()+'\\static\\data\\eye_features')
-    #stimulus = load_dir_list(os.getcwd()+'\\static\\data\\stimulus')
-elif OS_system == "Darwin":
-    raw_data = load_dir_list(os.getcwd()+'/static/data/eye_features')
-    #stimulus = load_dir_list(os.getcwd()+'/static/data/stimulus')
+#print(OS_system)
+#if OS_system == "Windows":
+#    raw_data = load_dir_list(os.getcwd()+'\\static\\data\\eye_features')
+#elif OS_system == "Darwin":
+#    raw_data = load_dir_list(os.getcwd()+'/static/data/eye_features')
 
-# rawEyeData = {}
-# df = pd.read_csv('static/data/eye_features/'+"U0121_1RTE_0"+'.csv',sep=",", dtype='unicode',header=0)
-# rawEyeData["gaze"] = {'x':df['x'].tolist(), 'y':df['y'].tolist()}
+#rawEyeData = {}
+#df = pd.read_csv('static/data/eye_features/'+"U0121_1RTE_0"+'.csv',sep=",", dtype='unicode',header=0)
+#rawEyeData["gaze"] = {'x':df['x'].tolist(), 'y':df['y'].tolist()}
 
-# stiData = {}
-# sdf = pd.read_csv('static/data/eye_features/'+"sti"+'.csv',sep=",", dtype='unicode',header=0)
-# stiData = {'id':sdf['id'].tolist(), 'center':sdf['center'].tolist(), 'conc':sdf['conc'].tolist(), 'cono':sdf['cono'].tolist(), 'curr':sdf['curr'].tolist()}
+#stiData = {}
+#sdf = pd.read_csv('static/data/eye_features/'+"sti"+'.csv',sep=",", dtype='unicode',header=0)
+#stiData = {'id':sdf['id'].tolist(), 'center':sdf['center'].tolist(), 'conc':sdf['conc'].tolist(), 'cono':sdf['cono'].tolist(), 'curr':sdf['curr'].tolist()}
 
-# featData = {}
-# fdf = pd.read_csv('static/data/features/U0121_1RTE_intensity.csv',sep=",", dtype='unicode',header=0)
-
-
-# @app.route("/")
-# def home():
-#     print(fdf)
-#     return render_template('home_test.html', rawEyeData=rawEyeData, stiData=stiData)
+#@app.route("/")
+#def home():
+#    return render_template('home.html', rawEyeData=rawEyeData, stiData=stiData)
 
 @app.route("/")
 def home():
-    return render_template('home_test.html')
+    return render_template('home.html')
+
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0',port=8888)
+    app.run(debug=True,host='0.0.0.0',port=5000)

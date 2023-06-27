@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="{{url_for('static', filename='logo/dvl.ico')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/custom.css')}}">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  
+  <!-- specific plugin -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-contour.v1.min.js"></script>
+</head>
+
+<body>
+  <div style="width:9%; height:1310px; float:left; border:1px solid black; background-color:#FFF">
+    <button id="drawbutton" type="button">
+      run
+    </button>
+  </div>
+  <div id="my_dataviz" style="width:89%; height:1310px; float:right; border:1px solid black; background-color:#CCC">
+  </div>
+</body>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+<script src="{{url_for('static', filename='js/func/general_funcs.js')}}"></script>
+
+<script src="{{url_for('static', filename='js/draw/draw_points.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_x.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_y.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_dx.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_dy.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_dx_pn.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_dy_pn.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_duration.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_scanpath.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_heatmap.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_heatmap_grid.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_saccade_len.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_dist_from_center.js')}}"></script>
+<script src="{{url_for('static', filename='js/draw/draw_par_coords.js')}}"></script>
+
+<script src="{{url_for('static', filename='js/draw/draw.js')}}"></script>
+<script src="{{url_for('static', filename='js/func/interaction.js')}}"></script>
+
+<script>
+  rawEyeData = {{rawEyeData|safe}};
+  stiData = {{stiData|safe}};
+  console.log(rawEyeData);
+  console.log(stiData);
+  var w = 800;
+  var h = 600;
+  
+</script>

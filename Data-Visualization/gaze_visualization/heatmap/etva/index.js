@@ -1,5 +1,4 @@
-export { default as Home } from './Home';
-// export { default as Data } from './Data';
-// export { default as SpatialVariance } from './SpatialVariance';
-// export { default as Analysis } from './Analysis';
-// export { default as Visualization } from './Visualization';
+// export { default as Menu } from './Menu';
+// export { default as MenuItem } from './MenuItem';
+// // export { default as Aside } from './Aside';
+// export { default as Footer } from './Footer';

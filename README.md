@@ -24,7 +24,6 @@ Development of automatic data semantic information composition/expression techno
 - Changyoung Jung
 - SeokHwan Choi
 - Seongbum Seo
-- Jungsoo Park
 - Seongwon Choi
 
 # Instituions

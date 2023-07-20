@@ -31,7 +31,7 @@ Development of automatic data semantic information composition/expression techno
 
 # Prjoects
 - IITP, Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and amaximizing improvement
-- 
+- IITP, Development of heterogeneous fusion data detection and tracking technologies
 
 # Contacts
 - vis.sejong.ac.kr

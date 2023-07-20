@@ -30,7 +30,8 @@ Development of automatic data semantic information composition/expression techno
 - Sejong University, Seoul, South Korea
 
 # Prjoects
-
+- IITP, Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and amaximizing improvement
+- 
 
 # Contacts
 - vis.sejong.ac.kr

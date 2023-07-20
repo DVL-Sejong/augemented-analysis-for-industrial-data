@@ -29,5 +29,8 @@ Development of automatic data semantic information composition/expression techno
 # Instituions
 - Sejong University, Seoul, South Korea
 
+# Prjoects
+
+
 # Contacts
 - vis.sejong.ac.kr

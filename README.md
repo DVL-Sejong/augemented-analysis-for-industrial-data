@@ -35,7 +35,7 @@ Development of automatic data semantic information composition/expression techno
 # Projects (completed)
 - Green Energy ...
 - IITP, ETRI, Development of City Traffic Brain Technology based on Cloud Edges, 2022.04.01~2022.11.30
-- IITP, Development of a Big Data Augmeneted Analysis Profiling Platform for Maximizing Reliablilty and Utilization of Big Data
+- IITP, Development of a Big Data Augmeneted Analysis Profiling Platform for Maximizing Reliablilty and Utilization of Big Data, 2019.04.01~2021.12.31
 
 # Instituions
 - Sejong University, Seoul, South Korea

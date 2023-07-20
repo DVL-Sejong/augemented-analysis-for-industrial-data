@@ -26,12 +26,12 @@ Development of automatic data semantic information composition/expression techno
 - Seongbum Seo
 - Seongwon Choi
 
-# Instituions
-- Sejong University, Seoul, South Korea
-
 # Prjoects
 - IITP, Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and amaximizing improvement, 2022.04.01~2025.12.31
 - IITP, Development of heterogeneous fusion data detection and tracking technologies, 2021.04.01~2023.12.31
+
+# Instituions
+- Sejong University, Seoul, South Korea
 
 # Contacts
 - vis.sejong.ac.kr

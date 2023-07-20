@@ -19,7 +19,6 @@ Development of automatic data semantic information composition/expression techno
 - Yun Jang
 - Jiyun Jung
 - Sangbong Yoo
-- Hyein Hong
 - Changyoung Yoon
 - Soobin Yim
 - Changyoung Jung

@@ -26,7 +26,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongbum Seo
 - Seongwon Choi
 
-# Prjoects
+# Prjoects (on-going)
 - IITP, Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and amaximizing improvement, 2022.04.01~2025.12.31
 - IITP, Development of heterogeneous fusion data detection and tracking technologies, 2021.04.01~2023.12.31
 - IITP, Developing Reasoning AI Engine in Complex Systems (REX) and its Applications, 2021.07.01~2024.12.31

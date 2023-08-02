@@ -28,7 +28,6 @@ Development of automatic data semantic information composition/expression techno
 
 # Prjoects (on-going)
 - IITP, 
-- IITP, Development of heterogeneous fusion data detection and tracking technologies, 2021.04.01~2023.12.31
 - IITP, Developing Reasoning AI Engine in Complex Systems (REX) and its Applications, 2021.07.01~2024.12.31
 - IITP (ETRI), Development of City Traffic Brain Technology based on Cloud Edges, 2023.04.01~2023.11.30
 

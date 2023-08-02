@@ -27,8 +27,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongwon Choi
 
 # Prjoects (on-going)
-- IITP, 
-- IITP, Developing Reasoning AI Engine in Complex Systems (REX) and its Applications, 2021.07.01~2024.1
+- IITP, 1
 
 # Projects (completed)
 - Green Energy Institute, ...

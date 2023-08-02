@@ -26,7 +26,6 @@ Development of automatic data semantic information composition/expression techno
 - Seongbum Seo
 - Seongwon Choi
 
-# Prjoect
 
 # Projects (completed)
 - Green Energy Institute, ...

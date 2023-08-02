@@ -29,7 +29,6 @@ Development of automatic data semantic information composition/expression techno
 
 # Projects (completed)
 - Green Energy Instituent of City Traffic Brain Technology based on Cloud Edges, 2022ng Reliablilty and Utilization of Big Data, 2019.04.01~2021.12.31
-- IITP, Development of integrated cross-model dta processing platform supporting a unified analysis of various big data models, 2019.04.01~2021.12.31
 
 # Instituions
 - Sejong University, Seoul, South Korea

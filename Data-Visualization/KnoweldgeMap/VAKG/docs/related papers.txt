@@ -44,3 +44,4 @@ LinSets.zip: Compressing Linear Set Diagrams
 NFTVis: Visual Analysis of NFT Performance
 Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns
 Visualizing Interaction Networks and Evidence in Biomedical Corpora
+A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks

@@ -54,3 +54,4 @@ Understanding 3D Data Videos: From Screens to Virtual Reality
 LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations
 Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query
+Dimensionality Explorer for Single-Cell Analysis

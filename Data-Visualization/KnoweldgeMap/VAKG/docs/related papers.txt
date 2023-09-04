@@ -1,3 +1,5 @@
+Search -ing a paper
+
 Seminar (Jan to Sep, 2023): 29 papers
 ```
 Visual Gaze Labeling for Augmented Reality Studies

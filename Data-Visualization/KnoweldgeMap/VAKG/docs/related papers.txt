@@ -30,7 +30,7 @@ DendroMap
 Omnidirectional_Galvanic_Vestibular_Stimulation_in_Virtual_Reality
 Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 ```
-non-related papers
+not-related papers
 ```
 ```
 
@@ -60,4 +60,7 @@ LabelVizier: Interactive Validation and Relabeling for Technical Text Annotation
 Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query
 Dimensionality Explorer for Single-Cell Analysis
+```
+not-related papers
+```
 ```

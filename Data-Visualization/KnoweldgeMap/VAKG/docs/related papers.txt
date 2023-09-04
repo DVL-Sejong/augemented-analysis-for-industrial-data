@@ -49,3 +49,4 @@ Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Ed
 Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
 Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control
 Neural Stream Functions
+How Does Attention Work in Vision Transformers? A Visual Analytics Attempt

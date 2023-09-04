@@ -1,1 +1,1 @@
-dir for documents
+Directory for documents

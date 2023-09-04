@@ -47,3 +47,4 @@ Visualizing Interaction Networks and Evidence in Biomedical Corpora
 A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks
 Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History
 Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
+Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control

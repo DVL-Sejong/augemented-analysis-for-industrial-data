@@ -42,3 +42,4 @@ Investigating Animal Infectious Diseases with Visual Analytics
 MySemCloud: Semantic-aware Word Cloud Editing
 LinSets.zip: Compressing Linear Set Diagrams
 NFTVis: Visual Analysis of NFT Performance
+Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns

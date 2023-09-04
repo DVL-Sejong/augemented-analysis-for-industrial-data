@@ -41,3 +41,4 @@ SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling
 Investigating Animal Infectious Diseases with Visual Analytics
 MySemCloud: Semantic-aware Word Cloud Editing
 LinSets.zip: Compressing Linear Set Diagrams
+NFTVis: Visual Analysis of NFT Performance

@@ -33,6 +33,7 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 
 PV 2023
+```
 FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance
 An Empirical Guide for Visualization Consistency in Multiple Coordinated Views
 Parallel Assemblies Plot, a visualization tool to explore categorical and quantitative data: application to digital mobility outcomes
@@ -55,3 +56,4 @@ LabelVizier: Interactive Validation and Relabeling for Technical Text Annotation
 Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query
 Dimensionality Explorer for Single-Cell Analysis
+```

@@ -36,3 +36,4 @@ PV 2023
 FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance
 An Empirical Guide for Visualization Consistency in Multiple Coordinated Views
 Parallel Assemblies Plot, a visualization tool to explore categorical and quantitative data: application to digital mobility outcomes
+GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions

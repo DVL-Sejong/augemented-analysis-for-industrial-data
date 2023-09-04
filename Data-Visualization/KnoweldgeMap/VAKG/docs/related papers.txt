@@ -34,3 +34,4 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023
 FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance
+An Empirical Guide for Visualization Consistency in Multiple Coordinated Views

@@ -1,8 +1,9 @@
 Search -ing a paper
-Visual analsis knowledge map?
+Visual analsis (process) knowledge map?
 node-link?
 workflow?
 evaluation (system?)
+
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```

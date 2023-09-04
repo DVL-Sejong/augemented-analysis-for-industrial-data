@@ -40,3 +40,4 @@ GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions
 SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling
 Investigating Animal Infectious Diseases with Visual Analytics
 MySemCloud: Semantic-aware Word Cloud Editing
+LinSets.zip: Compressing Linear Set Diagrams

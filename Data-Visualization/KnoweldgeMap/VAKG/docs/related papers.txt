@@ -36,7 +36,7 @@ non-related papers
 
 
 
-PV 2023: 22
+PV 2023: 22 papers
 ```
 FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance
 An Empirical Guide for Visualization Consistency in Multiple Coordinated Views

@@ -81,3 +81,4 @@ A multi-method approach to building causal performance maps from expert knowledg
 Discovering, Visualizing, and Sharing Knowledge through Personalized Learning Knowledge Maps
 Design and Evaluation of a Layered Thematic Knowledge Map System
 A framework for designing a workflow‐based knowledge map
+A knowledge-based system for visualization design

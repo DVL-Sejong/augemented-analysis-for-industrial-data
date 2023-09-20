@@ -79,3 +79,4 @@ Usability Attributes Revisited: A Time-Framed Knowledge Map
 Concept maps: A useful and usable tool for computer-based knowledge assessment? A literature review with a focus on usability
 A multi-method approach to building causal performance maps from expert knowledge
 Discovering, Visualizing, and Sharing Knowledge through Personalized Learning Knowledge Maps
+Design and Evaluation of a Layered Thematic Knowledge Map System

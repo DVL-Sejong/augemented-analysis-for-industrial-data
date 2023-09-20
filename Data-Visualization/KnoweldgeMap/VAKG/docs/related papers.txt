@@ -75,3 +75,4 @@ not-related papers
 
 Paper list (searching)
 Effects of knowledge map characteristics on information processing
+Usability Attributes Revisited: A Time-Framed Knowledge Map

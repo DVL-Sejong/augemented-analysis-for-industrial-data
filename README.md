@@ -13,7 +13,7 @@ Development of automatic data semantic information composition/expression techno
 - Causal Modeling and Analysis
 - Traffic Analysis
 - EEG Analysis
-- Konwledge map
+- Knowledge map
 
 # Members
 - Yun Jang

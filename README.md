@@ -26,7 +26,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongbum Seo
 - Seongwon Choi
 
-#
+# Alumni
 
 
 # Instituions

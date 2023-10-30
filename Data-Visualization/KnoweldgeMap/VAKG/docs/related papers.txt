@@ -7,7 +7,7 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-GestureLens Visual Analysis of Gestures in Presentation Videos
+
 Understanding_how_Designers_Find_and_Use_Data_Visualization_Examples
 PromotionLens_Inspecting_Promotion_Strategies_of_Online_E-commerce_via_Visual_Analytics
 OBTracker_Visual_Analytics_of_Off-ball_Movements_in_Basketball
@@ -39,6 +39,7 @@ A_Comparison_of_Spatiotemporal_Visualizations_for_3D_Urban_Analytics
 FlowNL_Asking_the_Flow_Data_in_Natural_Languages
 A_Scanner_Deeply_Predicting_Gaze_Heatmaps_on_Visualizations_Using_Crowdsourced_Eye_Movement_Data
 ClinicalPath_a_Visualization_tool_to_Improve_the_Evaluation_of_Electronic_Health_Records_in_Clinical_Decision-Making
+GestureLens Visual Analysis of Gestures in Presentation Videos
 ```
 
 

@@ -17,7 +17,7 @@ Development of automatic data semantic information composition/expression techno
 
 # Members
 - (Professor) Yun Jang
-- Jiyun Jung
+- (Staff) Jiyun Jung
 - Sangbong Yoo
 - Changyoung Yoon
 - Soobin Yim

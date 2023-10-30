@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 Geo-Storylines_Integrating_Maps_into_Storyline_Visualizations
 DendroMap
 Omnidirectional_Galvanic_Vestibular_Stimulation_in_Virtual_Reality

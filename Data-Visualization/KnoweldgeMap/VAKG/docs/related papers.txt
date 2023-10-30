@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 Visualizing Interaction Networks and Evidence in Biomedical Corpora
 A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks
 Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History

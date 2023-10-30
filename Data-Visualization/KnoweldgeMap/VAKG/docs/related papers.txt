@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query
 Dimensionality Explorer for Single-Cell Analysis
 ```

@@ -43,7 +43,7 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-MySemCloud: Semantic-aware Word Cloud Editing
+
 LinSets.zip: Compressing Linear Set Diagrams
 NFTVis: Visual Analysis of NFT Performance
 Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns
@@ -68,6 +68,7 @@ Parallel Assemblies Plot, a visualization tool to explore categorical and quanti
 GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions
 SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling
 Investigating Animal Infectious Diseases with Visual Analytics
+MySemCloud: Semantic-aware Word Cloud Editing
 ```
 
 

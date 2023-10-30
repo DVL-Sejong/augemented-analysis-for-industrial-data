@@ -29,7 +29,9 @@ Development of automatic data semantic information composition/expression techno
 # Alumni
 - Hanbyul Yeon
 - Seokyeon Kim
-- 
+- Seongmin Jeong
+
+  
 # Instituions
 - Sejong University, Seoul, South Korea
 

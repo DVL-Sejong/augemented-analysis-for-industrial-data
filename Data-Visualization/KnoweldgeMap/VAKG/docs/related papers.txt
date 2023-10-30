@@ -44,7 +44,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 PV 2023: 22 papers
 ```
 
-Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query
 Dimensionality Explorer for Single-Cell Analysis
 ```
@@ -69,6 +68,7 @@ Neural Stream Functions
 How Does Attention Work in Vision Transformers? A Visual Analytics Attempt
 Understanding 3D Data Videos: From Screens to Virtual Reality
 LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations
+Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 ```
 
 

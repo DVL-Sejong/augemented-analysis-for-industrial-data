@@ -7,7 +7,7 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-A_Comparison_of_Spatiotemporal_Visualizations_for_3D_Urban_Analytics
+
 FlowNL_Asking_the_Flow_Data_in_Natural_Languages
 A_Scanner_Deeply_Predicting_Gaze_Heatmaps_on_Visualizations_Using_Crowdsourced_Eye_Movement_Data
 ClinicalPath_a_Visualization_tool_to_Improve_the_Evaluation_of_Electronic_Health_Records_in_Clinical_Decision-Making
@@ -39,6 +39,7 @@ Designing with Pictographs Envision Topics without Sacrificing Understanding
 DXplorer
 Revealing_the_Semantics_of_Data_Wrangling_Scripts_With_Comantics
 Exploring_Interactions_with_Printed_Data_Visualizations_in_Augmented_Reality
+A_Comparison_of_Spatiotemporal_Visualizations_for_3D_Urban_Analytics
 ```
 
 

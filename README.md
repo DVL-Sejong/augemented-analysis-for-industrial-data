@@ -27,7 +27,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongwon Choi
 
 # Alumni
-- Hanbyul Yeon
+- (PhD) Hanbyul Yeon
 - Seokyeon Kim
 - Seongmin Jeong
 - Mingyu Pi

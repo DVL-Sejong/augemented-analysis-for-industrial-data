@@ -21,7 +21,7 @@ Development of automatic data semantic information composition/expression techno
 - (PostDoc) Sangbong Yoo
 - (PhD student) Changyoung Yoon
 - (MS student) Soobin Yim
-- Changyoung Jung
+- (MS student) Changyoung Jung
 - SeokHwan Choi
 - Seongbum Seo
 - Seongwon Choi

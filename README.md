@@ -27,7 +27,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongwon Choi
 
 # Alumni
-
+- (PhD) Hanbyul Yeon
 
 # Instituions
 - Sejong University, Seoul, South Korea

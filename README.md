@@ -31,6 +31,7 @@ Development of automatic data semantic information composition/expression techno
 - Seokyeon Kim
 - Seongmin Jeong
 - Mingyu Pi
+- Daekyo Jeong
 
   
 # Instituions

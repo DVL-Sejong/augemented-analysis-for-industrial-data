@@ -73,7 +73,6 @@ Dimensionality Explorer for Single-Cell Analysis
 Paper list (searching)
 ```
 
-
 A multi-method approach to building causal performance maps from expert knowledge
 Discovering, Visualizing, and Sharing Knowledge through Personalized Learning Knowledge Maps
 Design and Evaluation of a Layered Thematic Knowledge Map System

@@ -46,7 +46,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 An Empirical Guide for Visualization Consistency in Multiple Coordinated Views
 Parallel Assemblies Plot, a visualization tool to explore categorical and quantitative data: application to digital mobility outcomes
 GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions

@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations
 Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
 Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query

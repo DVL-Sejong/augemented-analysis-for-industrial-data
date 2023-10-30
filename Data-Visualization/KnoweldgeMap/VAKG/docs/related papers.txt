@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 Exploring_Interactions_with_Printed_Data_Visualizations_in_Augmented_Reality
 A_Comparison_of_Spatiotemporal_Visualizations_for_3D_Urban_Analytics
 FlowNL_Asking_the_Flow_Data_in_Natural_Languages

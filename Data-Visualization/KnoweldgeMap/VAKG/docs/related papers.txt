@@ -70,7 +70,6 @@ Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Que
 Dimensionality Explorer for Single-Cell Analysis
 ```
 
-
 Paper list (searching)
 Effects of knowledge map characteristics on information processing
 Usability Attributes Revisited: A Time-Framed Knowledge Map

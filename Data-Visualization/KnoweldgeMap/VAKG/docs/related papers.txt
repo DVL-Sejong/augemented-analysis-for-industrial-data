@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 GestureLens Visual Analysis of Gestures in Presentation Videos
 Understanding_how_Designers_Find_and_Use_Data_Visualization_Examples
 PromotionLens_Inspecting_Promotion_Strategies_of_Online_E-commerce_via_Visual_Analytics

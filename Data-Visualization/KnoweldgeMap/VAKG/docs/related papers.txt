@@ -43,7 +43,7 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-How Does Attention Work in Vision Transformers? A Visual Analytics Attempt
+
 Understanding 3D Data Videos: From Screens to Virtual Reality
 LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations
 Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates
@@ -68,6 +68,7 @@ Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Ed
 Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
 Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control
 Neural Stream Functions
+How Does Attention Work in Vision Transformers? A Visual Analytics Attempt
 ```
 
 

@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 Dimensionality Explorer for Single-Cell Analysis
 ```
 not-related papers

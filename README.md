@@ -36,6 +36,7 @@ Development of automatic data semantic information composition/expression techno
 - Giwoong Park
 - Hyein Hong
 - Heewon Baek
+- Hyunjin Kang
   
 # Instituions
 - Sejong University, Seoul, South Korea

@@ -44,7 +44,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 PV 2023: 22 papers
 ```
 
-SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling
 Investigating Animal Infectious Diseases with Visual Analytics
 MySemCloud: Semantic-aware Word Cloud Editing
 LinSets.zip: Compressing Linear Set Diagrams
@@ -69,6 +68,7 @@ FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insuranc
 An Empirical Guide for Visualization Consistency in Multiple Coordinated Views
 Parallel Assemblies Plot, a visualization tool to explore categorical and quantitative data: application to digital mobility outcomes
 GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions
+SDRQuerier: A Visual Querying Framework for Cross-National Survey Data Recycling
 ```
 
 

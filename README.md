@@ -16,7 +16,7 @@ Development of automatic data semantic information composition/expression techno
 - Knowledge map
 
 # Members
-- Yun Jang
+- (Professor) Yun Jang
 - Jiyun Jung
 - Sangbong Yoo
 - Changyoung Yoon

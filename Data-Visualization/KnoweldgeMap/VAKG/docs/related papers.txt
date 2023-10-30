@@ -72,7 +72,6 @@ Dimensionality Explorer for Single-Cell Analysis
 
 Paper list (searching)
 ```
-
 Discovering, Visualizing, and Sharing Knowledge through Personalized Learning Knowledge Maps
 Design and Evaluation of a Layered Thematic Knowledge Map System
 A framework for designing a workflow‐based knowledge map

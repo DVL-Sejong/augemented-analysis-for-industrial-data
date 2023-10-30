@@ -32,6 +32,7 @@ Development of automatic data semantic information composition/expression techno
 - Seongmin Jeong
 - Mingyu Pi
 - Daekyo Jeong
+- Hyesook Son
 
   
 # Instituions

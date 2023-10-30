@@ -28,7 +28,7 @@ Development of automatic data semantic information composition/expression techno
 
 # Alumni
 - (PhD) Hanbyul Yeon
-- Seokyeon Kim
+- (PhD) Seokyeon Kim
 - Seongmin Jeong
 - Mingyu Pi
 - Daekyo Jeong

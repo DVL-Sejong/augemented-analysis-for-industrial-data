@@ -43,7 +43,7 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
+
 Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control
 Neural Stream Functions
 How Does Attention Work in Vision Transformers? A Visual Analytics Attempt
@@ -68,6 +68,7 @@ Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extractio
 Visualizing Interaction Networks and Evidence in Biomedical Corpora
 A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks
 Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History
+Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
 ```
 
 

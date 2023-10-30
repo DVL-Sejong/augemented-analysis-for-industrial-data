@@ -32,7 +32,7 @@ Development of automatic data semantic information composition/expression techno
 - (MS) Seongmin Jeong
 - (MS) Mingyu Pi
 - (MS) Daekyo Jeong
-- Hyesook Son
+- (MS) Hyesook Son
 - Giwoong Park
 - Hyein Hong
 - Heewon Baek

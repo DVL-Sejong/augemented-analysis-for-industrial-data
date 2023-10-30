@@ -30,7 +30,7 @@ Development of automatic data semantic information composition/expression techno
 - (PhD) Hanbyul Yeon
 - (PhD) Seokyeon Kim
 - (MS) Seongmin Jeong
-- Mingyu Pi
+- (MS) Mingyu Pi
 - Daekyo Jeong
 - Hyesook Son
 - Giwoong Park

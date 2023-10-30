@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 MySemCloud: Semantic-aware Word Cloud Editing
 LinSets.zip: Compressing Linear Set Diagrams
 NFTVis: Visual Analysis of NFT Performance

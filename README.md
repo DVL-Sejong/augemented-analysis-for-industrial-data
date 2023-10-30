@@ -23,7 +23,7 @@ Development of automatic data semantic information composition/expression techno
 - (MS student) Soobin Yim
 - (MS student) Changyoung Jung
 - (MS student) SeokHwan Choi
-- Seongbum Seo
+- (MS student) Seongbum Seo
 - Seongwon Choi
 
 # Alumni

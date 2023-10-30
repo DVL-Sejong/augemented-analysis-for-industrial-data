@@ -33,7 +33,7 @@ Development of automatic data semantic information composition/expression techno
 - Mingyu Pi
 - Daekyo Jeong
 - Hyesook Son
-
+- Giwoong Park
   
 # Instituions
 - Sejong University, Seoul, South Korea

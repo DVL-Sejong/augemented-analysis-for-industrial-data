@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces
 Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control
 Neural Stream Functions

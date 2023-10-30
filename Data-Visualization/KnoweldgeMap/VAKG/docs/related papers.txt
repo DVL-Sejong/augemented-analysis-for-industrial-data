@@ -43,7 +43,6 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-
 How Does Attention Work in Vision Transformers? A Visual Analytics Attempt
 Understanding 3D Data Videos: From Screens to Virtual Reality
 LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations

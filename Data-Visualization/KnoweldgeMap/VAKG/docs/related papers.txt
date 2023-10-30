@@ -1,9 +1,6 @@
 Last update: 2023.10.30
-Search -ing a paper
-Visual analsis (process) knowledge map?
-node-link?
-workflow?
-evaluation (system?)
+
+Search -ing a paper // Visual analsis (process) knowledge map? // node-link? // workflow? // evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```

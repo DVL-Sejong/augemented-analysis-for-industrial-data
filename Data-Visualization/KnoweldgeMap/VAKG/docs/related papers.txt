@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 VERTIGo_A_Visual_Platform_for_Querying_and_Exploring_Large_Multilayer_Networks
 ECoalVis_Visual_Analysis_of_Control_Strategies_in_Coal-fired_Power_Plants
 Fuzzy_Spreadsheet_Understanding_and_Exploring_Uncertainties_in_Tabular_Calculations

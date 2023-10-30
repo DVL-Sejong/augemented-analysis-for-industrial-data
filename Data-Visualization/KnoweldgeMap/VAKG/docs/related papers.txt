@@ -43,7 +43,7 @@ Exploring_D3_Implementation_Challenges_on_Stack_Overflow
 
 PV 2023: 22 papers
 ```
-Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns
+
 Visualizing Interaction Networks and Evidence in Biomedical Corpora
 A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks
 Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History
@@ -68,6 +68,7 @@ Investigating Animal Infectious Diseases with Visual Analytics
 MySemCloud: Semantic-aware Word Cloud Editing
 LinSets.zip: Compressing Linear Set Diagrams
 NFTVis: Visual Analysis of NFT Performance
+Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns
 ```
 
 

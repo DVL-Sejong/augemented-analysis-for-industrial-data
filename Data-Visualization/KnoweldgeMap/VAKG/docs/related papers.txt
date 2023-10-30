@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 HetVis A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning
 Geo-Storylines_Integrating_Maps_into_Storyline_Visualizations
 DendroMap

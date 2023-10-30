@@ -36,7 +36,7 @@ Development of automatic data semantic information composition/expression techno
 - (MS) Giwoong Park
 - (MS) Hyein Hong
 - (BS) Heewon Baek
-- Hyunjin Kang
+- (BS) Hyunjin Kang
 - Hyunjoo Lee
   
 # Instituions

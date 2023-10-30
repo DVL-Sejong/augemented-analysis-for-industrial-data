@@ -7,7 +7,6 @@ evaluation (system?)
 
 Seminar (Jan to Sep, 2023): 29 papers
 ```
-
 DXplorer
 Revealing_the_Semantics_of_Data_Wrangling_Scripts_With_Comantics
 Exploring_Interactions_with_Printed_Data_Visualizations_in_Augmented_Reality

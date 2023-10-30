@@ -12,7 +12,7 @@ Seminar (Jan to Sep, 2023): 29 papers
 
 
 
-Calibrate_Interactive_Analysis_of_Probabilistic_Model_Output
+
 ASTF_Visual Abstractions of Time-Varying Patterns in Radio Signals
 VERTIGo_A_Visual_Platform_for_Querying_and_Exploring_Large_Multilayer_Networks
 ECoalVis_Visual_Analysis_of_Control_Strategies_in_Coal-fired_Power_Plants
@@ -44,6 +44,7 @@ Exploring Interpersonal Relationships in Historical Voting Records
 Evaluating View Management for Situated Visualization in Web-based Handheld AR
 Effectiveness_Error_Measuring_and_Improving_RadViz_Visual_Effectiveness
 Measuring_Effects_of_Spatial_Visualization_and_Domain_on_Visualization_Task_Performance_A_Comparative_Study
+Calibrate_Interactive_Analysis_of_Probabilistic_Model_Output
 ```
 
 

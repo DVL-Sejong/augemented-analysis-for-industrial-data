@@ -1,6 +1,6 @@
 Paper list for updating dimensional reduction issues
 
-UMATO__for_VIS_2022_Short_paper
+Uniform Manifold Approximation with Two-phase Optimization
 Visualizing Data using t-SNE
 An Analysis of the t-SNE Algorithm for Data Visualization
 Initialization is critical for preserving global data structure in both t-SNE and UMAP
@@ -10,3 +10,5 @@ Volume_Puzzle_visual_analysis_of_segmented_volume_data_with_multivariate_attribu
 Application_of_Mathematical_Optimization_in_Data_Visualization_and_Visual_Analytics_A_Survey
 Facetto_Combining_Unsupervised_and_Supervised_Learning_for_Hierarchical_Phenotype_Analysis_in_Multi-Channel_Image_Data
 Differentiable_Design_Galleries_A_Differentiable_Approach_to_Explore_the_Design_Space_of_Transfer_Functions
+
+Discussion: Uniform Manifold Approximation with Two-phase Optimization

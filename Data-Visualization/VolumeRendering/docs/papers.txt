@@ -15,3 +15,6 @@ Discussion
 - Uniform Manifold Approximation with Two-phase Optimization
 UMAP example: 
 - Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
+Edit direction:
+- UMAP for global structure
+- t-SNE for local structure

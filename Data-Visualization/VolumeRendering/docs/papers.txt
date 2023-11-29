@@ -9,7 +9,7 @@ RadVolViz: An Information Display-Inspired Transfer Function Editor for Multivar
 Volume Puzzle: visual analysis of segmented volume data with multivariate attributes
 Application of Mathematical Optimization in Data Visualization and Visual Analytics: A Survey
 Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
-Differentiable_Design_Galleries_A_Differentiable_Approach_to_Explore_the_Design_Space_of_Transfer_Functions
+Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions
 
 Discussion
 - Uniform Manifold Approximation with Two-phase Optimization

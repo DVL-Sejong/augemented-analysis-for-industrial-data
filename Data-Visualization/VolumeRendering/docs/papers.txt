@@ -20,5 +20,5 @@ Edit direction:
 - t-SNE for local structure
 
 References:
-- t-SNE: already cited
-- UMAP: 
+- t-SNE: already cited (Visualizing Data using t-SNE)
+- UMAP: arXiv paper (UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction)

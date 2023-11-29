@@ -5,7 +5,7 @@ Visualizing Data using t-SNE
 An Analysis of the t-SNE Algorithm for Data Visualization
 Initialization is critical for preserving global data structure in both t-SNE and UMAP
 Interactive Volume Rendering Module using Two-Dimensional Transfer Function on Cone-Beam Computed Tomography Data
-RadVolViz_An_Information_Display-Inspired_Transfer_Function_Editor_for_Multivariate_Volume_Visualization
+RadVolViz: An Information Display-Inspired Transfer Function Editor for Multivariate Volume Visualization
 Volume_Puzzle_visual_analysis_of_segmented_volume_data_with_multivariate_attributes
 Application_of_Mathematical_Optimization_in_Data_Visualization_and_Visual_Analytics_A_Survey
 Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data

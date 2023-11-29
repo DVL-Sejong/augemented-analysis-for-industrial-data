@@ -18,3 +18,7 @@ UMAP example:
 Edit direction:
 - UMAP for global structure
 - t-SNE for local structure
+
+References:
+- t-SNE: already cited
+- UMAP: 

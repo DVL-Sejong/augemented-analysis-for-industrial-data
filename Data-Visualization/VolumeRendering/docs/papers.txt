@@ -4,3 +4,4 @@ UMATO__for_VIS_2022_Short_paper
 Visualizing Data using t-SNE
 An Analysis of the t-SNE Algorithm for Data Visualization
 Initialization is critical for preserving global data structure in both t-SNE and UMAP
+Interactive Volume Rendering Module using Two-Dimensional Transfer Function on Cone-Beam Computed Tomography Data

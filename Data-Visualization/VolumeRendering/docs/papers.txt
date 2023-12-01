@@ -1,0 +1,24 @@
+Paper list for updating dimensional reduction issues
+
+Uniform Manifold Approximation with Two-phase Optimization
+Visualizing Data using t-SNE
+An Analysis of the t-SNE Algorithm for Data Visualization
+Initialization is critical for preserving global data structure in both t-SNE and UMAP
+Interactive Volume Rendering Module using Two-Dimensional Transfer Function on Cone-Beam Computed Tomography Data
+RadVolViz: An Information Display-Inspired Transfer Function Editor for Multivariate Volume Visualization
+Volume Puzzle: visual analysis of segmented volume data with multivariate attributes
+Application of Mathematical Optimization in Data Visualization and Visual Analytics: A Survey
+Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
+Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions
+
+Discussion
+- Uniform Manifold Approximation with Two-phase Optimization
+UMAP example: 
+- Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
+Edit direction:
+- UMAP for global structure
+- t-SNE for local structure
+
+References:
+- t-SNE: already cited (Visualizing Data using t-SNE)
+- UMAP: arXiv paper (UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction)

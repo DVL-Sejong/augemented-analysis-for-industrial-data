@@ -32,3 +32,4 @@ tp 수정 가능
 polygonColor: 색상
 polygonFlag 1: visible, 0: unvisible
 
+md_sparse_D19.append([i/vecLength,j/vecLength,k/vecLength,np_voldata[c_idx][0],np_voldata[c_idx][1], r, l, u, d, f, b, gr,gl,gu,gd,gf,gb,LHarray[c_idx][0], LHarray[c_idx][1]])

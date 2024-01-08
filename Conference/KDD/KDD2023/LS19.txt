@@ -10,3 +10,5 @@ Direction 1. Multi-Modal Assistant
 Direction 2. Context-Aware Assistant
 Direction 3. Assistant ??
 Direction 4.  ??
+
+Recap: How is this relevant to KDD audience 

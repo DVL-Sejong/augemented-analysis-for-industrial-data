@@ -6,3 +6,4 @@ sub-systems for speech and dialog
 speech: speech recognition
 dialog: conversational AI (semantic, parsing, entity, linking, …)
 
+Direction 1. Multi-Modal Assistant

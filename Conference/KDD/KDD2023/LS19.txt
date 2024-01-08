@@ -50,3 +50,5 @@ End-to-End framework
 -- Going beyond language-only
 --- reasoning
 --- acting
+
+End-to-End model drawbacks

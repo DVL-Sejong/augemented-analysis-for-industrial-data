@@ -35,6 +35,7 @@ NLU
 - slot filling: sequence labeling
 - Joint Model
 -- implicit joint model
+-- explicit joint model
 DST: dialog state tracking
 DPL: dialog policy planning
 NLG: natural language generation

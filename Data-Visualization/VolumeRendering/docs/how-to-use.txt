@@ -20,3 +20,4 @@ interaction (LASSO)
 컨트롤 누르고 오른쪽 클릭하면 글리프 완성(컨트롤 없이는 취소)>
 (뒷배경에 흰색 박스 오른쪽 클릭으로 축소하고 치울 수 있음, 또 뜨면 반복)>
 cluster view type 아래 버튼(set picked tsne box color)>
+(color 수정/굳이 안닫아도 됨)>

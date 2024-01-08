@@ -10,3 +10,4 @@ Dimensionality Reduction for Active Learning with Nearest Neighbour Classifier i
 Enhancing_Text_Analysis_via_Dimensionality_Reduction
 Exploration_of_dimensionality_reduction_for_text_visualization
 Feature Reduction for Neural Network Based Text Categorization
+Hybrid dimension reduction by integrating feature selection with feature extraction method for text clustering

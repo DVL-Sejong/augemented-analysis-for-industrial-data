@@ -7,3 +7,5 @@ Application of fuzzy clustering for text data dimensionality reduction
 Comparing and Combining Dimension Reduction Techniques for Efficient Text Clustering
 Dimension Reduction in Text Classification with Support Vector Machines
 Dimensionality Reduction for Active Learning with Nearest Neighbour Classifier in Text Categorisation Problems
+Enhancing_Text_Analysis_via_Dimensionality_Reduction
+Exploration_of_dimensionality_reduction_for_text_visualization

@@ -25,3 +25,4 @@ Cognitive friction measurement: Interaction assessment of interface information 
 Evaluation of the impact of visual decoration on the memorable effect in big data visualization: The example of bar chart
 
 [Artificial Intelligence Symbiosis]
+Artificial intelligence in healthcare: The explainability ethical paradox

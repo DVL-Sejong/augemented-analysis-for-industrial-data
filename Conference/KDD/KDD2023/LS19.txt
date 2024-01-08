@@ -58,3 +58,4 @@ LLM’s influence on task-oriented dialogs
 
 
 “Multimodal” Context-Aware Conversational AI by Seungwhan (Shane) Moon
+(tinyurl.com/kdd-tutorial-assistant)

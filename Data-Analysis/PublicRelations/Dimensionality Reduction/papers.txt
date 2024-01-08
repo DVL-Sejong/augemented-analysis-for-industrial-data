@@ -6,3 +6,4 @@ A three-stage unsupervised dimension reduction method for text clustering
 Application of fuzzy clustering for text data dimensionality reduction
 Comparing and Combining Dimension Reduction Techniques for Efficient Text Clustering
 Dimension Reduction in Text Classification with Support Vector Machines
+Dimensionality Reduction for Active Learning with Nearest Neighbour Classifier in Text Categorisation Problems

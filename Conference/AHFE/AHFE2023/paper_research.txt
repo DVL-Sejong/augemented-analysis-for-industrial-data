@@ -23,3 +23,5 @@ Exploring interactive design strategies of online learning platform based on cog
 The design of mid-air ultrasonic haptic interfaces based on the perception of lines
 Cognitive friction measurement: Interaction assessment of interface information in complex information systems
 Evaluation of the impact of visual decoration on the memorable effect in big data visualization: The example of bar chart
+
+[Artificial Intelligence Symbiosis]

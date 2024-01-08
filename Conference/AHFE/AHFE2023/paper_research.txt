@@ -50,3 +50,8 @@ Synchronous vs. asynchronous coupling in the HUNTER dynamic human reliability an
 Design and usability evaluation of visual perception game-based training system for children with developmental delays
 Analysis of user interaction behavior on Sina Weibo under the context of intelligent technology
 A bibliometrics-based study of visualizing design narratives
+
+[Human Factors in Software and Systems Engineering I]
+Explaining algorithmic decisions: design guidelines for explanations in User Interfaces
+Finding the balance: Human factors integration for commercial-off-the-shelf (COTS) systems
+Analysis of the behavior of the floating systems used for boundary of river-sea recreational activities area

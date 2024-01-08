@@ -15,3 +15,4 @@ Transfer fucntion tool에서 TF mode 3번째 mapping type 아무거나 바꾸기
 clustertviewtype>TNSE로 선택>
 
 interaction (LASSO)
+가장 많이보이는 파란색부터>

@@ -15,3 +15,6 @@ User requirement matching model for distributed conferencing systems in the post
 [Usability and User Experience Applications I]
 User experience elements of data visualization large screenThe example of electricity industry
 Visual variable perception in time series dynamic visualization
+Exploring the correlation between campus map representation and wayfinding behavior through virtual environment
+
+[Perception, Behavior and Cognitive Workload]

@@ -9,3 +9,4 @@ dialog: conversational AI (semantic, parsing, entity, linking, …)
 Direction 1. Multi-Modal Assistant
 Direction 2. Context-Aware Assistant
 Direction 3. Assistant ??
+Direction 4.  ??

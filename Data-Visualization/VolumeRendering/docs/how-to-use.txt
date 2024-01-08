@@ -23,3 +23,4 @@ cluster view type 아래 버튼(set picked tsne box color)>
 (color 수정/굳이 안닫아도 됨)>
 ...반복...>
 (글리프 선택: 가운데 스크롤버튼)>
+set picked tf box color: HISTOGRAM (TF) 색상 변경용

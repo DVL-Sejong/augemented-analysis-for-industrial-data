@@ -18,3 +18,4 @@ Visual variable perception in time series dynamic visualization
 Exploring the correlation between campus map representation and wayfinding behavior through virtual environment
 
 [Perception, Behavior and Cognitive Workload]
+Measures for human design of mental stress factors of digital work in public administrations

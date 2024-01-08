@@ -33,3 +33,4 @@ Task-oriented …
 NLU
 DST: dialog state tracking
 DPL: dialog policy planning
+NLG: natural language generation

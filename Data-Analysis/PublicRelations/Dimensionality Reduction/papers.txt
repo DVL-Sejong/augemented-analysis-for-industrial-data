@@ -1,1 +1,2 @@
 A Comparative Approach of Dimensionality Reduction Techniques in Text Classification
+A Comparison of Dimensionality Reduction Techniques for Text Retrieval

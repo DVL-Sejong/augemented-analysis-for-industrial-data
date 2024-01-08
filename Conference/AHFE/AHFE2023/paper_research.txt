@@ -28,3 +28,7 @@ Evaluation of the impact of visual decoration on the memorable effect in big dat
 Artificial intelligence in healthcare: The explainability ethical paradox
 Expanding our grasp: Artificial intelligence as the next leap forward in healthcare quality
 Augmented reality in heat stroke emergency medical developing design
+
+[System Design and Usability]
+The power to be seen: A study on the accessibility design of live stream system for the visually impaired
+Ergo4workers: Usability testing of the first prototype of an app for the ergonomic assessment of healthcare professionals

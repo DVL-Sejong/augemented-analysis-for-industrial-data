@@ -16,3 +16,4 @@ Recap: How is this relevant to KDD audience
 Section Structure
 Problem definition
 
+Two goals for the tutorial

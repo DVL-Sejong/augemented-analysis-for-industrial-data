@@ -32,3 +32,9 @@ Augmented reality in heat stroke emergency medical developing design
 [System Design and Usability]
 The power to be seen: A study on the accessibility design of live stream system for the visually impaired
 Ergo4workers: Usability testing of the first prototype of an app for the ergonomic assessment of healthcare professionals
+
+[Advancing the Science of Human-Agent Teaming]
+Beyond the tool vs. teammate debate: Exploring the sidekick metaphor in human-AI dyads
+Measurement and manipulation in human-agent teams: A review
+Measuring trust in a simulated human agent team task
+The role of artificial theory of mind in supporting human-agent teaming interactions

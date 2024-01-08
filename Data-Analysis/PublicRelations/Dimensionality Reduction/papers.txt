@@ -3,3 +3,4 @@ A Comparison of Dimensionality Reduction Techniques for Text Retrieval
 A Comparison of Dimensionality Reduction Techniques for Unstructured Clinical Text
 A Systematic Study on Document Representation and Dimensionality Reduction for Text Clustering
 A three-stage unsupervised dimension reduction method for text clustering
+Application of fuzzy clustering for text data dimensionality reduction

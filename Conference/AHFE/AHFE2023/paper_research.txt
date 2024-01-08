@@ -26,3 +26,4 @@ Evaluation of the impact of visual decoration on the memorable effect in big dat
 
 [Artificial Intelligence Symbiosis]
 Artificial intelligence in healthcare: The explainability ethical paradox
+Expanding our grasp: Artificial intelligence as the next leap forward in healthcare quality

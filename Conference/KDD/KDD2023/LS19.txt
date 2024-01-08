@@ -7,3 +7,4 @@ speech: speech recognition
 dialog: conversational AI (semantic, parsing, entity, linking, …)
 
 Direction 1. Multi-Modal Assistant
+Direction 2. Context-Aware Assistant

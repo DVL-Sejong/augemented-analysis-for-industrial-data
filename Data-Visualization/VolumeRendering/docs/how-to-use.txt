@@ -33,3 +33,5 @@ polygonColor: 색상
 polygonFlag 1: visible, 0: unvisible
 
 md_sparse_D19.append([i/vecLength,j/vecLength,k/vecLength,np_voldata[c_idx][0],np_voldata[c_idx][1], r, l, u, d, f, b, gr,gl,gu,gd,gf,gb,LHarray[c_idx][0], LHarray[c_idx][1]])
+
+tsnecuda (석연 사용 라이브러리), gpumap (최근 검색에서 같이 본 라이브러리)과 같은 gpu를 사용하는 라이브러리들은 에러로 사용이 안됨(안정성 낮음)

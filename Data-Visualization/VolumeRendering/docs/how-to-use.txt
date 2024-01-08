@@ -41,3 +41,4 @@ cuML 문제 없이 동작
 
 Last used settings
 2D TF selected area: (43.401.105.475)(280.398.309.480)(309.341.417.480)
+Abdomen, UMAP (neighbors=100, min_dist=0.1)

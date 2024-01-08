@@ -33,6 +33,7 @@ Task-oriented …
 NLU
 - intent detection: classification task
 - slot filling: sequence labeling
+- Joint Model
 DST: dialog state tracking
 DPL: dialog policy planning
 NLG: natural language generation

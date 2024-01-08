@@ -8,3 +8,4 @@ Evaluation of the effect of viewing paintings with different objects and methods
 Effects of field-of-view expansion using a wide-field HMD on sensibility during straight-line video viewing
 
 [Human-Centered Ergonomics and Service Design]
+Integrated human factors in the systematic mechanical design of NPU-Wrist rehabilitation robot

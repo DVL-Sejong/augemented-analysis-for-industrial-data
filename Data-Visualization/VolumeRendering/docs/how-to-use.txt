@@ -16,3 +16,4 @@ clustertviewtype>TNSE로 선택>
 
 interaction (LASSO)
 가장 많이보이는 파란색부터>
+컨트롤 누르고 클릭하면 점 찍힘>

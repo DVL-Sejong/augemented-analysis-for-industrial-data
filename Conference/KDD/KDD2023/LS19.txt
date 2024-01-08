@@ -3,3 +3,4 @@ LS19 - Towards Next-Generation Intelligent Assistants Leveraging LLM Techniques
 
 meta-assistant
 sub-systems for speech and dialog
+speech: speech recognition

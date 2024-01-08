@@ -53,3 +53,8 @@ End-to-End framework
 
 End-to-End model drawbacks
 LLM’s influence on task-oriented dialogs
+
+
+
+
+“Multimodal” Context-Aware Conversational AI by Seungwhan (Shane) Moon

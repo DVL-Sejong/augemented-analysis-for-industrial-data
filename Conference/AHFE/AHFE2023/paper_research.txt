@@ -21,3 +21,4 @@ Exploring the correlation between campus map representation and wayfinding behav
 Measures for human design of mental stress factors of digital work in public administrations
 Exploring interactive design strategies of online learning platform based on cognitive load theory
 The design of mid-air ultrasonic haptic interfaces based on the perception of lines
+Cognitive friction measurement: Interaction assessment of interface information in complex information systems

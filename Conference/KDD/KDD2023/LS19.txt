@@ -24,3 +24,4 @@ Two goals for the tutorial
 Different types of dialog systems
 Task-oriented systems
 Social chatbots
+Dialog system types

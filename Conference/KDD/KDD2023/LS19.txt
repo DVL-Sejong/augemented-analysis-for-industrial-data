@@ -61,3 +61,5 @@ LLM’s influence on task-oriented dialogs
 (tinyurl.com/kdd-tutorial-assistant)
 
 Voice-only assistant
+
+Examples of Multimodal assistant

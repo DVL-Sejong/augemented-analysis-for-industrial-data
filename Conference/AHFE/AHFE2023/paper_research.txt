@@ -45,3 +45,8 @@ A critical analysis of the concept of resilience skills from an enactivist persp
 Human reliability analysis in aviation accidents: A review
 Digital twin verification for advanced reactor remote operations
 Synchronous vs. asynchronous coupling in the HUNTER dynamic human reliability analysis framework
+
+[Usability Evaluation I]
+Design and usability evaluation of visual perception game-based training system for children with developmental delays
+Analysis of user interaction behavior on Sina Weibo under the context of intelligent technology
+A bibliometrics-based study of visualizing design narratives

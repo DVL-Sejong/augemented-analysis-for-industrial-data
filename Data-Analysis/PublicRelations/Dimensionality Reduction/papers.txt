@@ -9,3 +9,4 @@ Dimension Reduction in Text Classification with Support Vector Machines
 Dimensionality Reduction for Active Learning with Nearest Neighbour Classifier in Text Categorisation Problems
 Enhancing_Text_Analysis_via_Dimensionality_Reduction
 Exploration_of_dimensionality_reduction_for_text_visualization
+Feature Reduction for Neural Network Based Text Categorization

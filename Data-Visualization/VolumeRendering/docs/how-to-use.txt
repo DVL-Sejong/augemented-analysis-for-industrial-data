@@ -9,4 +9,4 @@ continue (F5)
 STEP
 Data: A
 volumeData>raw load>(rendering)>Dimension XYZ (256,256,128)>Load Data>
-Data:TSNE>
+Data:TSNE>umap load>

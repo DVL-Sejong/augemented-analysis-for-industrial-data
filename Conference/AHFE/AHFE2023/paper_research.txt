@@ -4,3 +4,4 @@ LINK: https://acii-conf.net/2023/
 Neuroergonomics: Towards ubiquitous and continuous measurement of brain function during everyday life
 
 [Sensory Engineering and Emotion I]
+Evaluation of the effect of viewing paintings with different objects and methods of expression on stress

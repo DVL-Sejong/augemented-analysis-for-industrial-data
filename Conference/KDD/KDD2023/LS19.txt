@@ -43,4 +43,4 @@ NLG: natural language generation
 
 Modular Framework Drawbacks
 End-to-End framework
-LLM 101
+- LLM 101

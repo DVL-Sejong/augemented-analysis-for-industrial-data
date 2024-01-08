@@ -22,3 +22,4 @@ Two goals for the tutorial
 
 “Conversational AI” by Xin Luna Dong
 Different types of dialog systems
+Task-oriented systems

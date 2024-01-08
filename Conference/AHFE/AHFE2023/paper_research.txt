@@ -9,3 +9,4 @@ Effects of field-of-view expansion using a wide-field HMD on sensibility during 
 
 [Human-Centered Ergonomics and Service Design]
 Integrated human factors in the systematic mechanical design of NPU-Wrist rehabilitation robot
+Assessment of wine bottle packaging based on design aesthetics: An eye-tracking experiment

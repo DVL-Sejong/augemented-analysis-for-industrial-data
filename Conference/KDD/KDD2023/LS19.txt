@@ -32,3 +32,4 @@ Dialog system types
 Task-oriented …
 NLU
 DST: dialog state tracking
+DPL: dialog policy planning

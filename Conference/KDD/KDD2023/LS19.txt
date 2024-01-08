@@ -17,3 +17,5 @@ Section Structure
 Problem definition
 
 Two goals for the tutorial
+
+“Conversational AI” by Xin Luna Dong

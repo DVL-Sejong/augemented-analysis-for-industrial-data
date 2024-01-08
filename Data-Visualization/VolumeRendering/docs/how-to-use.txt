@@ -13,3 +13,5 @@ Data:TSNE>umap load>histogram 영역 아무거나(왼쪽클릭 드래그)>
 156 활성화(브레이크)>tranFunction>BoxStartPtr//end 수정>우측하단 포인트제거>F5>
 Transfer fucntion tool에서 TF mode 3번째 mapping type 아무거나 바꾸기(ex. uniforms)>
 clustertviewtype>TNSE로 선택>
+
+interaction (LASSO)

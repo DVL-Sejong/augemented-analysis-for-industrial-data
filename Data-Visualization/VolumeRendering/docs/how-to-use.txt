@@ -10,4 +10,4 @@ STEP
 Data: A
 volumeData>raw load>(rendering)>Dimension XYZ (256,256,128)>Load Data>
 Data:TSNE>umap load>histogram 영역 아무거나(왼쪽클릭 드래그)>
-156 활성화(브레이크)>
+156 활성화(브레이크)>tranFunction>

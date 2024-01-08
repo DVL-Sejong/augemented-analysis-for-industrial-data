@@ -16,3 +16,4 @@ On the Effects of Dimensionality Reduction on High Dimensional Similarity Search
 Random projection in dimensionality reduction Applications to image and text data
 Text comparison using word vector representations and dimensionality reduction
 Text Document Preprocessing and Dimension Reduction Techniques for Text Document Clustering
+Trace-Oriented Feature Analysis for Large-Scale Text Data Dimension Reduction

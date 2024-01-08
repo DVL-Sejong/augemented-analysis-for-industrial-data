@@ -13,3 +13,4 @@ Feature Reduction for Neural Network Based Text Categorization
 Hybrid dimension reduction by integrating feature selection with feature extraction method for text clustering
 Multi-label Text Classification using Semantic Features and Dimensionality Reduction with Autoencoders
 On the Effects of Dimensionality Reduction on High Dimensional Similarity Search
+Random projection in dimensionality reduction Applications to image and text data

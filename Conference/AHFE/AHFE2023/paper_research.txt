@@ -42,3 +42,6 @@ The role of artificial theory of mind in supporting human-agent teaming interact
 [Human Reliability Analysis]
 Human error and performance modeling with virtual operator model (HUNTER) synchronously coupled to Rancor Microworld Nuclear Power Plant simulator
 A critical analysis of the concept of resilience skills from an enactivist perspective
+Human reliability analysis in aviation accidents: A review
+Digital twin verification for advanced reactor remote operations
+Synchronous vs. asynchronous coupling in the HUNTER dynamic human reliability analysis framework

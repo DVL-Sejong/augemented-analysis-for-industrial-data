@@ -24,3 +24,6 @@ cluster view type 아래 버튼(set picked tsne box color)>
 ...반복...>
 (글리프 선택: 가운데 스크롤버튼)>
 set picked tf box color: HISTOGRAM (TF) 색상 변경용
+TF 수정 후 update stne color from igmtf 버튼: tsne 부분이 igmtf 색상으로 업데이트
+
+

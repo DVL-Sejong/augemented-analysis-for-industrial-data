@@ -30,3 +30,4 @@ TF 수정 후 update stne color from igmtf 버튼: tsne 부분이 igmtf 색상�
 1037 break
 tp 수정 가능
 polygonColor: 색상
+polygonFlag 1: visible, 0: unvisible

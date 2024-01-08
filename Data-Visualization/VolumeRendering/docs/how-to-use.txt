@@ -10,4 +10,4 @@ STEP
 Data: A
 volumeData>raw load>(rendering)>Dimension XYZ (256,256,128)>Load Data>
 Data:TSNE>umap load>histogram 영역 아무거나(왼쪽클릭 드래그)>
-156 활성화(브레이크)>tranFunction>BoxStartPtr//end 수정>우측하단 포인트제거>
+156 활성화(브레이크)>tranFunction>BoxStartPtr//end 수정>우측하단 포인트제거>F5>

@@ -14,3 +14,5 @@ Direction 4.  ??
 Recap: How is this relevant to KDD audience 
 
 Section Structure
+Problem definition
+

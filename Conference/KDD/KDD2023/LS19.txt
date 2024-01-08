@@ -31,6 +31,7 @@ Dialog system types
 
 Task-oriented …
 NLU
+- intent detection: classification task
 DST: dialog state tracking
 DPL: dialog policy planning
 NLG: natural language generation

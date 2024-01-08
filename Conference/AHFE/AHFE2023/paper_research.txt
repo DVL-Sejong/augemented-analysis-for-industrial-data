@@ -13,3 +13,4 @@ Assessment of wine bottle packaging based on design aesthetics: An eye-tracking 
 User requirement matching model for distributed conferencing systems in the post-epidemic era
 
 [Usability and User Experience Applications I]
+User experience elements of data visualization large screenThe example of electricity industry

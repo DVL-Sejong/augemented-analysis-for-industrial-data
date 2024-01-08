@@ -38,3 +38,7 @@ Beyond the tool vs. teammate debate: Exploring the sidekick metaphor in human-AI
 Measurement and manipulation in human-agent teams: A review
 Measuring trust in a simulated human agent team task
 The role of artificial theory of mind in supporting human-agent teaming interactions
+
+[Human Reliability Analysis]
+Human error and performance modeling with virtual operator model (HUNTER) synchronously coupled to Rancor Microworld Nuclear Power Plant simulator
+A critical analysis of the concept of resilience skills from an enactivist perspective

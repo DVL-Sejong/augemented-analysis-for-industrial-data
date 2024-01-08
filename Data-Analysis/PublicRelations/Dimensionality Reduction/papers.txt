@@ -5,3 +5,4 @@ A Systematic Study on Document Representation and Dimensionality Reduction for T
 A three-stage unsupervised dimension reduction method for text clustering
 Application of fuzzy clustering for text data dimensionality reduction
 Comparing and Combining Dimension Reduction Techniques for Efficient Text Clustering
+Dimension Reduction in Text Classification with Support Vector Machines

@@ -1,0 +1,10 @@
+2023-08-21 20:55:01,760 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821205501/
+2023-08-21 20:55:01,852 - model.att.dcrnn_supervisor - INFO - Model created
+2023-08-21 21:01:01,563 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821210101/
+2023-08-21 21:01:01,673 - model.att.dcrnn_supervisor - INFO - Model created
+2023-08-21 21:01:07,049 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821210107/
+2023-08-21 21:01:07,129 - model.att.dcrnn_supervisor - INFO - Model created
+2023-08-21 21:23:58,700 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821212358/
+2023-08-21 21:23:58,876 - model.att.dcrnn_supervisor - INFO - Model created
+2023-08-21 21:30:56,911 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821213056/
+2023-08-21 21:30:57,007 - model.att.dcrnn_supervisor - INFO - Model created

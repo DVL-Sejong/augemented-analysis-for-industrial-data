@@ -238,6 +238,7 @@ Objects guide human gaze behavior in dynamic real-world scenes
 journal={International journal of occupational safety and ergonomics}
 
 Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task
+journal = {PLOS Computational Biology}
 
 The area-of-interest problem in eyetracking research: A noise-robust solution for face and sparse stimuli
 

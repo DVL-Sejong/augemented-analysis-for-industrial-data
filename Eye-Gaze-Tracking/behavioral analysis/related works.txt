@@ -13,3 +13,4 @@ Identifying Fixations and Saccades in Eye-Tracking Protocols
 Automated classification and scoring of smooth pursuit eye movements in the presence of fixations and saccades
 1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits
 Saliency-Based Gaze Visualization for Eye Movement Analysis
+Bayesian Identification of Fixations, Saccades, and Smooth Pursuits

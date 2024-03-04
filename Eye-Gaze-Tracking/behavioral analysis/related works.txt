@@ -211,6 +211,7 @@ Searching in the dark: Cognitive relevance drives attention in real-world scenes
 journal={Psychonomic bulletin \& review}
 
 Application of eye tracking in medicine: A survey, research issues and challenges
+journal = {Computerized Medical Imaging and Graphics}
 
 Visual Analytics Methodology for Eye Movement Studies
 

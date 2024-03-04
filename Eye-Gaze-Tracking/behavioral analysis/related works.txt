@@ -79,3 +79,4 @@ Abnormality in face scanning by children with autism spectrum disorder is limite
 Typicality aids search for an unspecified target, but only in identification and not in attentional guidance
 Influence of semantic cues on hazard-inspection performance: a case in construction safety
 Objects guide human gaze behavior in dynamic real-world scenes
+Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task

@@ -17,3 +17,4 @@ Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
 CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research
 Eye tracking in user experience design
 An improved tiny-yolov3 pedestrian detection algorithm
+Mask R-CNN

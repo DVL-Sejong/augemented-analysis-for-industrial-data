@@ -193,6 +193,7 @@ State-of-the-Art in Visual Attention Modeling
 journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}
 
 AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
+journal = {Computer Graphics Forum}
 
 Gaze Stripes: Image-Based Visualization of Eye Tracking Data
 

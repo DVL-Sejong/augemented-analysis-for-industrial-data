@@ -23,3 +23,4 @@ Top-down control of eye movements: Yarbus revisited
 Joint attention difficulties in autistic adults: an interactive eye-tracking study
 Joint Attention Simulation Using Eye-Tracking and Virtual Humans
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
+EyeSwipe: Dwell-Free Text Entry Using Gaze Paths

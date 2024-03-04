@@ -196,6 +196,7 @@ AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
 journal = {Computer Graphics Forum}
 
 Gaze Stripes: Image-Based Visualization of Eye Tracking Data
+journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics
 

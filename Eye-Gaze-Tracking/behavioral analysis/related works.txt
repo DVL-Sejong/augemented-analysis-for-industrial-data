@@ -181,6 +181,7 @@ Saliency detection: A spectral residual approach
 booktitle={2007 IEEE Conference on computer vision and pattern recognition}
 
 Modeling the shape of the scene: A holistic representation of the spatial envelope
+journal={International journal of computer vision}
 
 Neuroanatomy, visual cortex
 

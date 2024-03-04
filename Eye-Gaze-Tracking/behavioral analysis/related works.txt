@@ -54,3 +54,4 @@ Brief communication: Three errors and two problems in a recent paper: gazeNet: E
 A feature-integration theory of attention
 A model of saliency-based visual attention for rapid scene analysis
 Human gaze control during real-world scene perception
+VOCUS: A visual attention system for object detection and goal-directed search

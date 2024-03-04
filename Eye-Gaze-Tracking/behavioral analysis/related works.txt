@@ -16,6 +16,7 @@ journal={Statistical Analysis and Data Mining: The ASA Data Science Journal}
 journal={ACM Transactions on the Web (TWEB)}
 
 Gaze behavior in face comparison: The roles of sex, task, and symmetry
+journal={Attention, Perception, \& Psychophysics}
 
 Algorithms for defining visual regions-of-interest: Comparison with eye fixations
 

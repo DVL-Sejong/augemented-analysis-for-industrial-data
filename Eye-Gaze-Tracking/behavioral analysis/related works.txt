@@ -43,6 +43,7 @@ Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
 booktitle = {Proceedings of the Ninth Biennial ACM Symposium on Eye Tracking Research \& Applications}
 
 CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research
+journal={ArXiv}
 
 Eye tracking in user experience design
 

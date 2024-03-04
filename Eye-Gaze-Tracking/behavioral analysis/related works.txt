@@ -166,6 +166,7 @@ VOCUS: A visual attention system for object detection and goal-directed search
 publisher={Springer}
 
 A saliency map in primary visual cortex
+journal={Trends in cognitive sciences}
 
 Curvature is a basic feature for visual search tasks
 

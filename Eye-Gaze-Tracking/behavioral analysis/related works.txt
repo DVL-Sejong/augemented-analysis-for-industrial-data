@@ -214,6 +214,7 @@ Application of eye tracking in medicine: A survey, research issues and challenge
 journal = {Computerized Medical Imaging and Graphics}
 
 Visual Analytics Methodology for Eye Movement Studies
+journal={Frontiers in human neuroscience}
 
 Exploring eye-tracking searching strategies for construction hazard recognition in a laboratory scene
 

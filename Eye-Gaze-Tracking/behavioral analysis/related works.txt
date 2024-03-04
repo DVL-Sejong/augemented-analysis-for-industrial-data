@@ -28,6 +28,7 @@ Eye tracking: A comprehensive guide to methods and measures
 publisher={Oxford University Press}
 
 Identifying Fixations and Saccades in Eye-Tracking Protocols
+booktitle = {Proceedings of the 2000 Symposium on Eye Tracking Research \& Applications}
 
 Automated classification and scoring of smooth pursuit eye movements in the presence of fixations and saccades
 

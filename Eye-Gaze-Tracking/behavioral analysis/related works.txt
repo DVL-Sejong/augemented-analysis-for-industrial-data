@@ -70,6 +70,7 @@ The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-
 journal={IEEE Access}
 
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}
 
 Clustered Eye Movement Similarity Matrices
 

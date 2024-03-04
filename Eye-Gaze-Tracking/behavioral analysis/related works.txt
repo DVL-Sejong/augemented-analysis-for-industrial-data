@@ -14,3 +14,4 @@ Automated classification and scoring of smooth pursuit eye movements in the pres
 1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits
 Saliency-Based Gaze Visualization for Eye Movement Analysis
 Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
+CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research

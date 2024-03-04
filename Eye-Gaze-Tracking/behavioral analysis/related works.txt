@@ -139,6 +139,7 @@ SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences wit
 journal={Sensors}
 
 Similarity measures for identifying material parameters from hysteresis loops using inverse analysis
+journal={International Journal of Material Forming}
 
 Sur quelques points du calcul fonctionnel
 

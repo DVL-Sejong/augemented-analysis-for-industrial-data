@@ -38,3 +38,4 @@ Intrinsic and extrinsic effects on image memorability
 New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm
 Learning to predict where humans look
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes

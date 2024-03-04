@@ -64,3 +64,4 @@ Modeling the shape of the scene: A holistic representation of the spatial envelo
 Neuroanatomy, visual cortex
 Decorrelation and distinctiveness provide with human-like saliency
 State-of-the-Art in Visual Attention Modeling
+AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies

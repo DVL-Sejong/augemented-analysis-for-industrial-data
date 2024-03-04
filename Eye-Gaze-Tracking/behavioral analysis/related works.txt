@@ -202,6 +202,7 @@ Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics
 booktitle = {Computer Vision – {ECCV} 2018}
 
 A review of eye tracking for understanding and improving diagnostic interpretation
+journal={Cognitive research: principles and implications}
 
 Active Vision: The Psychology of Looking and Seeing
 

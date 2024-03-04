@@ -4,3 +4,4 @@ Chapter 25 - Visual saliency does not account for eye movements during visual se
 Meaning-based guidance of attention in scenes as revealed by meaning maps
 State-of-the-Art of Visualization for Eye Tracking Data
 Markov chain to analyze web usability of a university website using eye tracking data
+“The Best of Both Worlds!” Integration of Web Page and Eye Tracking Data Driven Approaches for Automatic AOI Detection

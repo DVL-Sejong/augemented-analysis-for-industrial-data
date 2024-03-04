@@ -112,6 +112,7 @@ Learning to predict where humans look
 booktitle={2009 IEEE 12th International Conference on Computer Vision}
 
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}
 
 Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes
 

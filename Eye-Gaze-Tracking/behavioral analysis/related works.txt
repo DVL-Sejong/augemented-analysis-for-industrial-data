@@ -67,6 +67,7 @@ Joint Attention Simulation Using Eye-Tracking and Virtual Humans
 journal={IEEE Transactions on Affective Computing}
 
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
+journal={IEEE Access}
 
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
 

@@ -50,3 +50,4 @@ Similarity measures for identifying material parameters from hysteresis loops us
 Sur quelques points du calcul fonctionnel
 Using hierarchical time series clustering algorithm and wavelet classifier for biometric voice classification
 Distance between sets
+Brief communication: Three errors and two problems in a recent paper: gazeNet: End-to-end eye-movement event detection with deep neural networks (Zemblys, Niehorster, and Holmqvist, 2019)

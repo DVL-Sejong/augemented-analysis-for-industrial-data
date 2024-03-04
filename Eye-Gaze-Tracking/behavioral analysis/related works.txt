@@ -47,3 +47,4 @@ Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning
 COCO-Search18 fixation dataset for predicting goal-directed attention control
 SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences with Fractal Curves
 Similarity measures for identifying material parameters from hysteresis loops using inverse analysis
+Sur quelques points du calcul fonctionnel

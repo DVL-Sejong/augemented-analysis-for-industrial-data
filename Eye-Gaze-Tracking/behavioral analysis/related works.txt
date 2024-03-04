@@ -100,6 +100,7 @@ Modelling search for people in 900 scenes: A combined source model of eye guidan
 journal = {Visual Cognition}
 
 REMoDNaV: robust eye-movement classification for dynamic stimulation
+journal = {Behavior Research Methods}
 
 Intrinsic and extrinsic effects on image memorability
 

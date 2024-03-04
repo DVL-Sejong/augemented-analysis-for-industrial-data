@@ -10,6 +10,7 @@ State-of-the-Art of Visualization for Eye Tracking Data
 booktitle = {EuroVis - STARs}
 
 Markov chain to analyze web usability of a university website using eye tracking data
+journal={Statistical Analysis and Data Mining: The ASA Data Science Journal}
 
 “The Best of Both Worlds!” Integration of Web Page and Eye Tracking Data Driven Approaches for Automatic AOI Detection
 

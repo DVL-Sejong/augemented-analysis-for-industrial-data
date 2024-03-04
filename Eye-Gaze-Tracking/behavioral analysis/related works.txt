@@ -49,3 +49,4 @@ SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences wit
 Similarity measures for identifying material parameters from hysteresis loops using inverse analysis
 Sur quelques points du calcul fonctionnel
 Using hierarchical time series clustering algorithm and wavelet classifier for biometric voice classification
+Distance between sets

@@ -184,6 +184,7 @@ Modeling the shape of the scene: A holistic representation of the spatial envelo
 journal={International journal of computer vision}
 
 Neuroanatomy, visual cortex
+journal={StatPearls [Internet]}
 
 Decorrelation and distinctiveness provide with human-like saliency
 

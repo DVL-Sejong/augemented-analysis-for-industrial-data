@@ -24,3 +24,4 @@ Joint attention difficulties in autistic adults: an interactive eye-tracking stu
 Joint Attention Simulation Using Eye-Tracking and Virtual Humans
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+Clustered Eye Movement Similarity Matrices

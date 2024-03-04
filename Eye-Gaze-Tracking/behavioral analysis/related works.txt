@@ -121,6 +121,7 @@ Evaluating Eye Movement Event Detection: A Review of the State of the Art
 Journal = {Behavior research methods}
 
 The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking
+booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
 
 Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Participants' Verbalizations
 

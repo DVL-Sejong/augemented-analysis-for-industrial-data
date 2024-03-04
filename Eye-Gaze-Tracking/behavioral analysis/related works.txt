@@ -217,6 +217,7 @@ Visual Analytics Methodology for Eye Movement Studies
 journal={Frontiers in human neuroscience}
 
 Exploring eye-tracking searching strategies for construction hazard recognition in a laboratory scene
+journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Visual face perception of adults with unilateral cleft lip and palate in comparison to controls—an eye-tracking study
 

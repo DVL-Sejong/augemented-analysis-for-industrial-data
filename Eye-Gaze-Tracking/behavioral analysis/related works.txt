@@ -15,3 +15,4 @@ Automated classification and scoring of smooth pursuit eye movements in the pres
 Saliency-Based Gaze Visualization for Eye Movement Analysis
 Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
 CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research
+Eye tracking in user experience design

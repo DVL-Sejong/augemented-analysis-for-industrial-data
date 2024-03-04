@@ -25,6 +25,7 @@ Robust Clustering of Eye Movement Recordings for Quantification of Visual Intere
 booktitle = {Proceedings of the 2004 Symposium on Eye Tracking Research \& Applications}
 
 Eye tracking: A comprehensive guide to methods and measures
+publisher={Oxford University Press}
 
 Identifying Fixations and Saccades in Eye-Tracking Protocols
 

@@ -57,3 +57,4 @@ Human gaze control during real-world scene perception
 VOCUS: A visual attention system for object detection and goal-directed search
 A saliency map in primary visual cortex
 Curvature is a basic feature for visual search tasks
+Measuring visual saliency by site entropy rate

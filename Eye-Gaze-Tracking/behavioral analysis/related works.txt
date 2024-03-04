@@ -19,3 +19,4 @@ Eye tracking in user experience design
 An improved tiny-yolov3 pedestrian detection algorithm
 Mask R-CNN
 gazeNet: End-to-end eye-movement event detection with deep neural networks
+Top-down control of eye movements: Yarbus revisited

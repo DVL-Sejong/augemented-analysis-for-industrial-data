@@ -74,3 +74,4 @@ Application of eye tracking in medicine: A survey, research issues and challenge
 Visual Analytics Methodology for Eye Movement Studies
 Exploring eye-tracking searching strategies for construction hazard recognition in a laboratory scene
 Visual face perception of adults with unilateral cleft lip and palate in comparison to controls—an eye-tracking study
+How to choose the size of facial areas of interest in interactive eye tracking

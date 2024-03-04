@@ -77,3 +77,4 @@ Visual face perception of adults with unilateral cleft lip and palate in compari
 How to choose the size of facial areas of interest in interactive eye tracking
 Abnormality in face scanning by children with autism spectrum disorder is limited to the eye region: Evidence from multi-method analyses of eye tracking data
 Typicality aids search for an unspecified target, but only in identification and not in attentional guidance
+Influence of semantic cues on hazard-inspection performance: a case in construction safety

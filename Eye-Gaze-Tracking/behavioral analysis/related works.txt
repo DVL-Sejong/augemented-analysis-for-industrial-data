@@ -34,6 +34,7 @@ Automated classification and scoring of smooth pursuit eye movements in the pres
 journal={Behavior research methods}
 
 1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits
+journal={Behavior Research Methods}
 
 Saliency-Based Gaze Visualization for Eye Movement Analysis
 

@@ -109,6 +109,7 @@ New Insights into Ambient and Focal Visual Fixations using an Automatic Classifi
 journal = {i-Perception}
 
 Learning to predict where humans look
+booktitle={2009 IEEE 12th International Conference on Computer Vision}
 
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
 

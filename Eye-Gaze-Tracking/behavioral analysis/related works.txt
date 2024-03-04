@@ -190,6 +190,7 @@ Decorrelation and distinctiveness provide with human-like saliency
 booktitle={International Conference on Advanced Concepts for Intelligent Vision Systems}
 
 State-of-the-Art in Visual Attention Modeling
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}
 
 AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
 

@@ -31,3 +31,4 @@ Detection of saccades and postsaccadic oscillations in the presence of smooth pu
 Using machine learning to detect events in eye-tracking data
 Human-level saccade detection performance using deep neural networks
 U-Net: Convolutional Networks for Biomedical Image Segmentation
+Hummer: Text Entry by Gaze and Hum

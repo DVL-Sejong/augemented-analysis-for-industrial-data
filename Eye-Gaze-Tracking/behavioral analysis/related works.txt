@@ -163,6 +163,7 @@ Human gaze control during real-world scene perception
 journal={Trends in cognitive sciences}
 
 VOCUS: A visual attention system for object detection and goal-directed search
+publisher={Springer}
 
 A saliency map in primary visual cortex
 

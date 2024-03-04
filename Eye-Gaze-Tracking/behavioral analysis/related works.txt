@@ -7,3 +7,4 @@ Markov chain to analyze web usability of a university website using eye tracking
 “The Best of Both Worlds!” Integration of Web Page and Eye Tracking Data Driven Approaches for Automatic AOI Detection
 Gaze behavior in face comparison: The roles of sex, task, and symmetry
 Algorithms for defining visual regions-of-interest: Comparison with eye fixations
+Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest

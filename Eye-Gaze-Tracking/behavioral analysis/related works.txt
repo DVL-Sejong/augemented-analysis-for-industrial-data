@@ -66,3 +66,4 @@ Decorrelation and distinctiveness provide with human-like saliency
 State-of-the-Art in Visual Attention Modeling
 AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
 Gaze Stripes: Image-Based Visualization of Eye Tracking Data
+Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics

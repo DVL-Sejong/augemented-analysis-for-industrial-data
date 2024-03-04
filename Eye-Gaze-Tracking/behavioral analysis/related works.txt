@@ -199,6 +199,7 @@ Gaze Stripes: Image-Based Visualization of Eye Tracking Data
 journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics
+booktitle = {Computer Vision – {ECCV} 2018}
 
 A review of eye tracking for understanding and improving diagnostic interpretation
 

@@ -43,3 +43,4 @@ Evaluating Eye Movement Event Detection: A Review of the State of the Art
 The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking
 Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Participants' Verbalizations
 VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
+Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning

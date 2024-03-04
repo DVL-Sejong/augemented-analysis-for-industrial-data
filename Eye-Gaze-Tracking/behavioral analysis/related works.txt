@@ -55,6 +55,7 @@ Mask R-CNN
 booktitle={2017 IEEE International Conference on Computer Vision (ICCV)}
 
 gazeNet: End-to-end eye-movement event detection with deep neural networks
+journal={Behavior research methods}
 
 Top-down control of eye movements: Yarbus revisited
 

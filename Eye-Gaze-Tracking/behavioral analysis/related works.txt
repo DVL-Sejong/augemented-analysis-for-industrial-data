@@ -82,3 +82,4 @@ Objects guide human gaze behavior in dynamic real-world scenes
 Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task
 The area-of-interest problem in eyetracking research: A noise-robust solution for face and sparse stimuli
 Eye movement and pupil measures: A review
+A Complete System for Analysis of Video Lecture Based on Eye Tracking

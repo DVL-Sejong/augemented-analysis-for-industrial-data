@@ -64,6 +64,7 @@ Joint attention difficulties in autistic adults: an interactive eye-tracking stu
 journal={Visual Cognition}
 
 Joint Attention Simulation Using Eye-Tracking and Virtual Humans
+journal={IEEE Transactions on Affective Computing}
 
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
 

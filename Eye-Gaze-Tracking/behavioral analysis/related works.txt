@@ -130,6 +130,7 @@ VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
 journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
 
 COCO-Search18 fixation dataset for predicting goal-directed attention control
 

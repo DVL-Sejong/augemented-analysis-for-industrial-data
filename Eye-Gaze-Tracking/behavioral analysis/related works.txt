@@ -40,3 +40,4 @@ Learning to predict where humans look
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
 Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes
 Evaluating Eye Movement Event Detection: A Review of the State of the Art
+The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking

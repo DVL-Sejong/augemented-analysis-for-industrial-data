@@ -1,86 +1,169 @@
 Related works
 
 Chapter 25 - Visual saliency does not account for eye movements during visual search in real-world scenes
+
 Meaning-based guidance of attention in scenes as revealed by meaning maps
+
 State-of-the-Art of Visualization for Eye Tracking Data
+
 Markov chain to analyze web usability of a university website using eye tracking data
+
 “The Best of Both Worlds!” Integration of Web Page and Eye Tracking Data Driven Approaches for Automatic AOI Detection
+
 Gaze behavior in face comparison: The roles of sex, task, and symmetry
+
 Algorithms for defining visual regions-of-interest: Comparison with eye fixations
+
 Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest
+
 Eye tracking: A comprehensive guide to methods and measures
+
 Identifying Fixations and Saccades in Eye-Tracking Protocols
+
 Automated classification and scoring of smooth pursuit eye movements in the presence of fixations and saccades
+
 1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits
+
 Saliency-Based Gaze Visualization for Eye Movement Analysis
+
 Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
+
 CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research
+
 Eye tracking in user experience design
+
 An improved tiny-yolov3 pedestrian detection algorithm
+
 Mask R-CNN
+
 gazeNet: End-to-end eye-movement event detection with deep neural networks
+
 Top-down control of eye movements: Yarbus revisited
+
 Joint attention difficulties in autistic adults: an interactive eye-tracking study
+
 Joint Attention Simulation Using Eye-Tracking and Virtual Humans
+
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
+
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+
 Clustered Eye Movement Similarity Matrices
+
 Eye Tracking the Visual Search of Click-down Menus
+
 Gaze Behavior Effect on Gaze Data Visualization at Different Abstraction Levels
+
 Detection of saccades and postsaccadic oscillations in the presence of smooth pursuit
+
 Using machine learning to detect events in eye-tracking data
+
 Human-level saccade detection performance using deep neural networks
+
 U-Net: Convolutional Networks for Biomedical Image Segmentation
+
 Hummer: Text Entry by Gaze and Hum
+
 Modelling search for people in 900 scenes: A combined source model of eye guidance
+
 REMoDNaV: robust eye-movement classification for dynamic stimulation
+
 Intrinsic and extrinsic effects on image memorability
+
 New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm
+
 Learning to predict where humans look
+
 EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
+
 Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes
+
 Evaluating Eye Movement Event Detection: A Review of the State of the Art
+
 The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking
+
 Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Participants' Verbalizations
+
 VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
+
 Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning
+
 COCO-Search18 fixation dataset for predicting goal-directed attention control
+
 SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences with Fractal Curves
+
 Similarity measures for identifying material parameters from hysteresis loops using inverse analysis
+
 Sur quelques points du calcul fonctionnel
+
 Using hierarchical time series clustering algorithm and wavelet classifier for biometric voice classification
+
 Distance between sets
+
 Brief communication: Three errors and two problems in a recent paper: gazeNet: End-to-end eye-movement event detection with deep neural networks (Zemblys, Niehorster, and Holmqvist, 2019)
+
 A feature-integration theory of attention
+
 A model of saliency-based visual attention for rapid scene analysis
+
 Human gaze control during real-world scene perception
+
 VOCUS: A visual attention system for object detection and goal-directed search
+
 A saliency map in primary visual cortex
+
 Curvature is a basic feature for visual search tasks
+
 Measuring visual saliency by site entropy rate
+
 Saliency estimation using a non-parametric low-level vision model
+
 Saliency detection: A spectral residual approach
+
 Modeling the shape of the scene: A holistic representation of the spatial envelope
+
 Neuroanatomy, visual cortex
+
 Decorrelation and distinctiveness provide with human-like saliency
+
 State-of-the-Art in Visual Attention Modeling
+
 AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
+
 Gaze Stripes: Image-Based Visualization of Eye Tracking Data
+
 Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics
+
 A review of eye tracking for understanding and improving diagnostic interpretation
+
 Active Vision: The Psychology of Looking and Seeing
+
 Searching in the dark: Cognitive relevance drives attention in real-world scenes
+
 Application of eye tracking in medicine: A survey, research issues and challenges
+
 Visual Analytics Methodology for Eye Movement Studies
+
 Exploring eye-tracking searching strategies for construction hazard recognition in a laboratory scene
+
 Visual face perception of adults with unilateral cleft lip and palate in comparison to controls—an eye-tracking study
+
 How to choose the size of facial areas of interest in interactive eye tracking
+
 Abnormality in face scanning by children with autism spectrum disorder is limited to the eye region: Evidence from multi-method analyses of eye tracking data
+
 Typicality aids search for an unspecified target, but only in identification and not in attentional guidance
+
 Influence of semantic cues on hazard-inspection performance: a case in construction safety
+
 Objects guide human gaze behavior in dynamic real-world scenes
+
 Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task
+
 The area-of-interest problem in eyetracking research: A noise-robust solution for face and sparse stimuli
+
 Eye movement and pupil measures: A review
+
 A Complete System for Analysis of Video Lecture Based on Eye Tracking
+
 Automated filtering of eye movements using dynamic aoi in multiple granularity levels

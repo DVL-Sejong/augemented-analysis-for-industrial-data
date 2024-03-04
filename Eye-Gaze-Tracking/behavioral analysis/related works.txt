@@ -85,6 +85,7 @@ Detection of saccades and postsaccadic oscillations in the presence of smooth pu
 journal={IEEE Transactions on biomedical engineering}
 
 Using machine learning to detect events in eye-tracking data
+journal={Behavior research methods}
 
 Human-level saccade detection performance using deep neural networks
 

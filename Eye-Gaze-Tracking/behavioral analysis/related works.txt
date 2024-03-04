@@ -145,6 +145,7 @@ Sur quelques points du calcul fonctionnel
 journal={Rendiconti del Circolo Matematico di Palermo (1884-1940)}
 
 Using hierarchical time series clustering algorithm and wavelet classifier for biometric voice classification
+journal={Journal of Biomedicine and Biotechnology}
 
 Distance between sets
 

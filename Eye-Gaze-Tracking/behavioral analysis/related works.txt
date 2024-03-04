@@ -178,6 +178,7 @@ Saliency estimation using a non-parametric low-level vision model
 booktitle={CVPR 2011}
 
 Saliency detection: A spectral residual approach
+booktitle={2007 IEEE Conference on computer vision and pattern recognition}
 
 Modeling the shape of the scene: A holistic representation of the spatial envelope
 

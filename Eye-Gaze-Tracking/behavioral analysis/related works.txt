@@ -169,6 +169,7 @@ A saliency map in primary visual cortex
 journal={Trends in cognitive sciences}
 
 Curvature is a basic feature for visual search tasks
+journal={Perception}
 
 Measuring visual saliency by site entropy rate
 

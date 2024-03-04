@@ -44,3 +44,4 @@ The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by E
 Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Participants' Verbalizations
 VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
 Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning
+COCO-Search18 fixation dataset for predicting goal-directed attention control

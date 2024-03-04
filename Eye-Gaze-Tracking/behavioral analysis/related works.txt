@@ -172,6 +172,7 @@ Curvature is a basic feature for visual search tasks
 journal={Perception}
 
 Measuring visual saliency by site entropy rate
+booktitle={2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition}
 
 Saliency estimation using a non-parametric low-level vision model
 

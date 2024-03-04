@@ -22,6 +22,7 @@ Algorithms for defining visual regions-of-interest: Comparison with eye fixation
 journal={IEEE Transactions on pattern analysis and machine intelligence}
 
 Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest
+booktitle = {Proceedings of the 2004 Symposium on Eye Tracking Research \& Applications}
 
 Eye tracking: A comprehensive guide to methods and measures
 

@@ -37,3 +37,4 @@ REMoDNaV: robust eye-movement classification for dynamic stimulation
 Intrinsic and extrinsic effects on image memorability
 New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm
 Learning to predict where humans look
+EyeSwipe: Dwell-Free Text Entry Using Gaze Paths

@@ -118,6 +118,7 @@ Characterizing and automatically detecting smooth pursuit in a large-scale groun
 journal = {Journal of Vision}
 
 Evaluating Eye Movement Event Detection: A Review of the State of the Art
+Journal = {Behavior research methods}
 
 The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking
 

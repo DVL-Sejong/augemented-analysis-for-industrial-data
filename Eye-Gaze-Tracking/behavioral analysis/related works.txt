@@ -76,6 +76,7 @@ Clustered Eye Movement Similarity Matrices
 booktitle = {Proceedings of the 11th ACM Symposium on Eye Tracking Research \& Applications}
 
 Eye Tracking the Visual Search of Click-down Menus
+booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
 
 Gaze Behavior Effect on Gaze Data Visualization at Different Abstraction Levels
 

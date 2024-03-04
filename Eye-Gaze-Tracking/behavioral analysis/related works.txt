@@ -136,6 +136,7 @@ COCO-Search18 fixation dataset for predicting goal-directed attention control
 journal={Scientific reports}
 
 SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences with Fractal Curves
+journal={Sensors}
 
 Similarity measures for identifying material parameters from hysteresis loops using inverse analysis
 

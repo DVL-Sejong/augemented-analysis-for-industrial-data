@@ -154,6 +154,7 @@ Brief communication: Three errors and two problems in a recent paper: gazeNet: E
 journal={Behavior Research Methods}
 
 A feature-integration theory of attention
+journal = {Cognitive Psychology}
 
 A model of saliency-based visual attention for rapid scene analysis
 

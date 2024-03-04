@@ -232,6 +232,7 @@ Typicality aids search for an unspecified target, but only in identification and
 journal={Journal of vision}
 
 Influence of semantic cues on hazard-inspection performance: a case in construction safety
+journal={Psychonomic Bulletin \& Review}
 
 Objects guide human gaze behavior in dynamic real-world scenes
 

@@ -73,6 +73,7 @@ EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
 booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}
 
 Clustered Eye Movement Similarity Matrices
+booktitle = {Proceedings of the 11th ACM Symposium on Eye Tracking Research \& Applications}
 
 Eye Tracking the Visual Search of Click-down Menus
 

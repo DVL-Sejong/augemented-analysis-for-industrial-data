@@ -71,3 +71,4 @@ A review of eye tracking for understanding and improving diagnostic interpretati
 Active Vision: The Psychology of Looking and Seeing
 Searching in the dark: Cognitive relevance drives attention in real-world scenes
 Application of eye tracking in medicine: A survey, research issues and challenges
+Visual Analytics Methodology for Eye Movement Studies

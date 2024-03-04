@@ -49,6 +49,7 @@ Eye tracking in user experience design
 publisher={Elsevier}
 
 An improved tiny-yolov3 pedestrian detection algorithm
+journal={Optik}
 
 Mask R-CNN
 

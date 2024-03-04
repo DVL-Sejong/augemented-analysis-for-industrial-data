@@ -151,6 +151,7 @@ Distance between sets
 journal={Nature}
 
 Brief communication: Three errors and two problems in a recent paper: gazeNet: End-to-end eye-movement event detection with deep neural networks (Zemblys, Niehorster, and Holmqvist, 2019)
+journal={Behavior Research Methods}
 
 A feature-integration theory of attention
 

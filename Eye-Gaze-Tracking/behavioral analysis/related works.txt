@@ -63,3 +63,4 @@ Saliency detection: A spectral residual approach
 Modeling the shape of the scene: A holistic representation of the spatial envelope
 Neuroanatomy, visual cortex
 Decorrelation and distinctiveness provide with human-like saliency
+State-of-the-Art in Visual Attention Modeling

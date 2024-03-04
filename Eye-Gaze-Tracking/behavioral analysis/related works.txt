@@ -82,6 +82,7 @@ Gaze Behavior Effect on Gaze Data Visualization at Different Abstraction Levels
 journal={Sensors}
 
 Detection of saccades and postsaccadic oscillations in the presence of smooth pursuit
+journal={IEEE Transactions on biomedical engineering}
 
 Using machine learning to detect events in eye-tracking data
 

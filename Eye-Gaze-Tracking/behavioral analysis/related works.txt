@@ -11,3 +11,4 @@ Robust Clustering of Eye Movement Recordings for Quantification of Visual Intere
 Eye tracking: A comprehensive guide to methods and measures
 Identifying Fixations and Saccades in Eye-Tracking Protocols
 Automated classification and scoring of smooth pursuit eye movements in the presence of fixations and saccades
+1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits

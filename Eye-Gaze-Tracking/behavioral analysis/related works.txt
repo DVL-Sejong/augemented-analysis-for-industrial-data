@@ -115,6 +115,7 @@ EyeSwipe: Dwell-Free Text Entry Using Gaze Paths
 booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}
 
 Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes
+journal = {Journal of Vision}
 
 Evaluating Eye Movement Event Detection: A Review of the State of the Art
 

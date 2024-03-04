@@ -60,3 +60,4 @@ Curvature is a basic feature for visual search tasks
 Measuring visual saliency by site entropy rate
 Saliency estimation using a non-parametric low-level vision model
 Saliency detection: A spectral residual approach
+Modeling the shape of the scene: A holistic representation of the spatial envelope

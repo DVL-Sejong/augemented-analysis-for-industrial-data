@@ -235,6 +235,7 @@ Influence of semantic cues on hazard-inspection performance: a case in construct
 journal={Psychonomic Bulletin \& Review}
 
 Objects guide human gaze behavior in dynamic real-world scenes
+journal={International journal of occupational safety and ergonomics}
 
 Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task
 

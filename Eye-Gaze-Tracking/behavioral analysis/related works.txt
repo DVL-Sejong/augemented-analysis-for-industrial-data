@@ -46,6 +46,7 @@ CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research
 journal={ArXiv}
 
 Eye tracking in user experience design
+publisher={Elsevier}
 
 An improved tiny-yolov3 pedestrian detection algorithm
 

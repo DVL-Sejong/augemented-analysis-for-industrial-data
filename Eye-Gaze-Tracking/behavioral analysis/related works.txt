@@ -79,6 +79,7 @@ Eye Tracking the Visual Search of Click-down Menus
 booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
 
 Gaze Behavior Effect on Gaze Data Visualization at Different Abstraction Levels
+journal={Sensors}
 
 Detection of saccades and postsaccadic oscillations in the presence of smooth pursuit
 

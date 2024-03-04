@@ -8,3 +8,4 @@ Markov chain to analyze web usability of a university website using eye tracking
 Gaze behavior in face comparison: The roles of sex, task, and symmetry
 Algorithms for defining visual regions-of-interest: Comparison with eye fixations
 Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest
+Eye tracking: A comprehensive guide to methods and measures

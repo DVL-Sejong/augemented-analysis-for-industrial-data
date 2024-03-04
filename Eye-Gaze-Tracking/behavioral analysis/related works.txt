@@ -220,6 +220,7 @@ Exploring eye-tracking searching strategies for construction hazard recognition 
 journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Visual face perception of adults with unilateral cleft lip and palate in comparison to controls—an eye-tracking study
+journal={Safety Science}
 
 How to choose the size of facial areas of interest in interactive eye tracking
 

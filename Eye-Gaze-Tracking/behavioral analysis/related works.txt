@@ -37,6 +37,7 @@ journal={Behavior research methods}
 journal={Behavior Research Methods}
 
 Saliency-Based Gaze Visualization for Eye Movement Analysis
+journal={Sensors}
 
 Bayesian Identification of Fixations, Saccades, and Smooth Pursuits
 

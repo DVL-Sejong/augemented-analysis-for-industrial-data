@@ -208,6 +208,7 @@ Active Vision: The Psychology of Looking and Seeing
 publisher = {Oxford University Press}
 
 Searching in the dark: Cognitive relevance drives attention in real-world scenes
+journal={Psychonomic bulletin \& review}
 
 Application of eye tracking in medicine: A survey, research issues and challenges
 

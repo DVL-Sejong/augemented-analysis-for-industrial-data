@@ -36,3 +36,4 @@ Modelling search for people in 900 scenes: A combined source model of eye guidan
 REMoDNaV: robust eye-movement classification for dynamic stimulation
 Intrinsic and extrinsic effects on image memorability
 New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm
+Learning to predict where humans look

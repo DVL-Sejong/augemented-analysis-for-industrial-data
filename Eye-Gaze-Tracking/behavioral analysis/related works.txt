@@ -19,6 +19,7 @@ Gaze behavior in face comparison: The roles of sex, task, and symmetry
 journal={Attention, Perception, \& Psychophysics}
 
 Algorithms for defining visual regions-of-interest: Comparison with eye fixations
+journal={IEEE Transactions on pattern analysis and machine intelligence}
 
 Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest
 

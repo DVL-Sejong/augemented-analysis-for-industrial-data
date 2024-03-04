@@ -97,6 +97,7 @@ Hummer: Text Entry by Gaze and Hum
 booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems}
 
 Modelling search for people in 900 scenes: A combined source model of eye guidance
+journal = {Visual Cognition}
 
 REMoDNaV: robust eye-movement classification for dynamic stimulation
 

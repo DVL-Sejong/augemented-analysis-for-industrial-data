@@ -21,3 +21,4 @@ Mask R-CNN
 gazeNet: End-to-end eye-movement event detection with deep neural networks
 Top-down control of eye movements: Yarbus revisited
 Joint attention difficulties in autistic adults: an interactive eye-tracking study
+Joint Attention Simulation Using Eye-Tracking and Virtual Humans

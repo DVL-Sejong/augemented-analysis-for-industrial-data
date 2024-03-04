@@ -58,9 +58,10 @@ gazeNet: End-to-end eye-movement event detection with deep neural networks
 journal={Behavior research methods}
 
 Top-down control of eye movements: Yarbus revisited
-journal={Visual Cognition}
+journal={Autism}
 
 Joint attention difficulties in autistic adults: an interactive eye-tracking study
+journal={Visual Cognition}
 
 Joint Attention Simulation Using Eye-Tracking and Virtual Humans
 

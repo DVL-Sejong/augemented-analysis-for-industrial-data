@@ -205,6 +205,7 @@ A review of eye tracking for understanding and improving diagnostic interpretati
 journal={Cognitive research: principles and implications}
 
 Active Vision: The Psychology of Looking and Seeing
+publisher = {Oxford University Press}
 
 Searching in the dark: Cognitive relevance drives attention in real-world scenes
 

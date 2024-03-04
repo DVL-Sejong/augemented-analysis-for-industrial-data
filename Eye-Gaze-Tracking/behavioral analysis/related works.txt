@@ -68,3 +68,4 @@ AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies
 Gaze Stripes: Image-Based Visualization of Eye Tracking Data
 Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics
 A review of eye tracking for understanding and improving diagnostic interpretation
+Active Vision: The Psychology of Looking and Seeing

@@ -187,6 +187,7 @@ Neuroanatomy, visual cortex
 journal={StatPearls [Internet]}
 
 Decorrelation and distinctiveness provide with human-like saliency
+booktitle={International Conference on Advanced Concepts for Intelligent Vision Systems}
 
 State-of-the-Art in Visual Attention Modeling
 

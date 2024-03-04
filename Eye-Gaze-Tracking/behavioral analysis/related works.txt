@@ -160,6 +160,7 @@ A model of saliency-based visual attention for rapid scene analysis
 journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}
 
 Human gaze control during real-world scene perception
+journal={Trends in cognitive sciences}
 
 VOCUS: A visual attention system for object detection and goal-directed search
 

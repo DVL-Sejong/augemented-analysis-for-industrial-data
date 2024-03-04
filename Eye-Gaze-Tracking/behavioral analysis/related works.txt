@@ -103,6 +103,7 @@ REMoDNaV: robust eye-movement classification for dynamic stimulation
 journal = {Behavior Research Methods}
 
 Intrinsic and extrinsic effects on image memorability
+journal = {Vision Research}
 
 New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm
 

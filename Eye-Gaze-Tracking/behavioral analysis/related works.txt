@@ -127,6 +127,7 @@ Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Partic
 booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems}
 
 VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
+journal={IEEE Transactions on Visualization and Computer Graphics}
 
 Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning
 

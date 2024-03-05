@@ -251,3 +251,1014 @@ journal={IEEE Access}
 
 Automated filtering of eye movements using dynamic aoi in multiple granularity levels
 journal={International Journal of Multimedia Data Engineering and Management (IJMDEM)}
+
+
+%Entries
+@incollection{henderson2007visual,
+	title = {Chapter 25 - Visual saliency does not account for eye movements during visual search in real-world scenes},
+	editor = {Roger P.G. {Van Gompel} and Martin H. Fischer and Wayne S. Murray and Robin L. Hill},
+	booktitle = {Eye Movements},
+	publisher = {Elsevier},
+	address = {Oxford},
+	pages = {537-III},
+	year = {2007},
+	isbn = {978-0-08-044980-7},
+	doi = {https://doi.org/10.1016/B978-008044980-7/50027-6},
+	url = {https://www.sciencedirect.com/science/article/pii/B9780080449807500276},
+	author = {John M. Henderson and James R. Brockmole and Monica S. Castelhano and Michael Mack},
+	abstract = {Publisher Summary
+	This chapter presents testing of the hypothesis that fixation locations during scene viewing are primarily determined by visual salience. Eye movements were collected from participants who viewed photographs of real-world scenes during an active search task. Visual salience as determined by a popular computational model did not predict region-to-region saccades or saccade sequences any better than did a random model. Consistent with other reports in the literature, intensity, contrast, and edge density differed at fixated scene regions compared to regions that were not fixated, but these fixated regions also differ in rated semantic informativeness. Therefore, any observed correlations between fixation locations and image statistics cannot be unambiguously attributed to these image statistics. The chapter concludes that visual saliency does not account for eye movements during active search. The existing evidence is consistent with the hypothesis that cognitive factors play the dominant role in active gaze control.}
+}
+
+@article{henderson2017meaning,
+	title={Meaning-based guidance of attention in scenes as revealed by meaning maps},
+	author={Henderson, John M and Hayes, Taylor R},
+	journal={Nature human behaviour},
+	volume={1},
+	number={10},
+	pages={743--747},
+	year={2017},
+	publisher={Nature Publishing Group}
+}
+
+@inproceedings{blascheck2014state,
+	booktitle = {EuroVis - STARs},
+	editor = {R. Borgo and R. Maciejewski and I. Viola},
+	title = {State-of-the-Art of Visualization for Eye Tracking Data},
+	author = {Blascheck, T. and Kurzhals, K. and Raschke, M. and Burch, M. and Weiskopf, D. and Ertl, T.},
+	year = {2014},
+	publisher = {The Eurographics Association},
+	ISBN = {978-3-03868-028-4},
+	DOI = {10.2312/eurovisstar.20141173},
+        address = {Swansea, Wales, UK}
+}
+
+@article{zammarchi2021markov,
+	title={Markov chain to analyze web usability of a university website using eye tracking data},
+	author={Zammarchi, Gianpaolo and Frigau, Luca and Mola, Francesco},
+	journal={Statistical Analysis and Data Mining: The ASA Data Science Journal},
+	volume={14},
+	number={4},
+	pages={331--341},
+	year={2021},
+	publisher={Wiley Online Library}
+}
+
+@article{eraslan2020best,
+	title={“The Best of Both Worlds!” Integration of Web Page and Eye Tracking Data Driven Approaches for Automatic AOI Detection},
+	author={Eraslan, Sukru and Yesilada, Yeliz and Harper, Simon},
+	journal={ACM Transactions on the Web (TWEB)},
+	volume={14},
+	number={1},
+	pages={1--31},
+	year={2020},
+	publisher={ACM New York, NY, USA}
+}
+
+@article{armann2009gaze,
+	title={Gaze behavior in face comparison: The roles of sex, task, and symmetry},
+	author={Armann, Regine and B{\"u}lthoff, Isabelle},
+	journal={Attention, Perception, \& Psychophysics},
+	volume={71},
+	number={5},
+	pages={1107--1126},
+	year={2009},
+	publisher={Springer}
+}
+
+@article{privitera2000algorithms,
+	title={Algorithms for defining visual regions-of-interest: Comparison with eye fixations},
+	author={Privitera, Claudio M. and Stark, Lawrence W.},
+	journal={IEEE Transactions on pattern analysis and machine intelligence},
+	volume={22},
+	number={9},
+	pages={970--982},
+	year={2000},
+	publisher={IEEE}
+}
+
+@inproceedings{santella2004robust,
+    title = {Robust Clustering of Eye Movement Recordings for Quantification of Visual Interest},
+    author = {Santella, Anthony and DeCarlo, Doug},
+    year = {2004},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    booktitle = {Proceedings of the 2004 Symposium on Eye Tracking Research \& Applications},
+    pages = {27–34},
+    numpages = {8},
+    keywords = {measures of visual interest, clustering, mean shift, eye movement analysis},
+    location = {San Antonio, Texas},
+    series = {ETRA '04}
+}
+
+@book{holmqvist2011eye,
+    title={Eye tracking: A comprehensive guide to methods and measures},
+    author={Holmqvist, Kenneth and Nystr{\"o}m, Marcus and Andersson, Richard and Dewhurst, Richard and Jarodzka, Halszka and Van de Weijer, Joost},
+    year={2011},
+    address={United Kingdom},
+    isbn={9780199697083},
+    publisher={Oxford University Press}
+}
+
+@inproceedings{salvucci2000identifying,
+	title = {Identifying Fixations and Saccades in Eye-Tracking Protocols},
+	author = {Salvucci, Dario D. and Goldberg, Joseph H.},
+	year = {2000},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	abstract = {The process of fixation identification—separating and labeling fixations and saccades in eye-tracking protocols—is an essential part of eye-movement data analysis and can have a dramatic impact on higher-level analyses. However, algorithms for performing fixation identification are often described informally and rarely compared in a meaningful way. In this paper we propose a taxonomy of fixation identification algorithms that classifies algorithms in terms of how they utilize spatial and temporal information in eye-tracking protocols. Using this taxonomy, we describe five algorithms that are representative of different classes in the taxonomy and are based on commonly employed techniques. We then evaluate and compare these algorithms with respect to a number of qualitative characteristics. The results of these comparisons offer interesting implications for the use of the various algorithms in future work.},
+	booktitle = {Proceedings of the 2000 Symposium on Eye Tracking Research \& Applications},
+	pages = {71–78},
+	numpages = {8},
+	keywords = {fixation identification, data analysis algorithms, eye tracking},
+	location = {Palm Beach Gardens, Florida, USA},
+	series = {ETRA '00}
+}
+
+
+@article{komogortsev2013automated,
+	title={Automated classification and scoring of smooth pursuit eye movements in the presence of fixations and saccades},
+	author={Komogortsev, Oleg V and Karpov, Alex},
+	journal={Behavior research methods},
+	volume={45},
+	number={1},
+	pages={203--215},
+	year={2013},
+	publisher={Springer}
+}
+
+@article{startsev20191d,
+    title={1D CNN with BLSTM for automated classification of fixations, saccades, and smooth pursuits},
+    author={Startsev, Mikhail and Agtzidis, Ioannis and Dorr, Michael},
+    journal={Behavior Research Methods},
+    volume={51},
+    number={2},
+    pages={556--572},
+    year={2019},
+    publisher={Springer}
+}
+
+@article{yoo2021saliency,
+	title={Saliency-Based Gaze Visualization for Eye Movement Analysis},
+	author={Yoo, Sangbong and Jeong, Seongmin and Kim, Seokyeon and Jang, Yun},
+	journal={Sensors},
+	volume={21},
+	number={15},
+	pages={5178},
+	year={2021},
+	publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{santini2016bayesian,
+	title = {Bayesian Identification of Fixations, Saccades, and Smooth Pursuits},
+	author = {Santini, Thiago and Fuhl, Wolfgang and K\"{u}bler, Thomas and Kasneci, Enkelejda},
+	year = {2016},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	abstract = {Smooth pursuit eye movements provide meaningful insights and information on subject's behavior and health and may, in particular situations, disturb the performance of typical fixation/saccade classification algorithms. Thus, an automatic and efficient algorithm to identify these eye movements is paramount for eye-tracking research involving dynamic stimuli. In this paper, we propose the Bayesian Decision Theory Identification (I-BDT) algorithm, a novel algorithm for ternary classification of eye movements that is able to reliably separate fixations, saccades, and smooth pursuits in an online fashion, even for low-resolution eye trackers. The proposed algorithm is evaluated on four datasets with distinct mixtures of eye movements, including fixations, saccades, as well as straight and circular smooth pursuits; data was collected with a sample rate of 30 Hz from six subjects, totaling 24 evaluation datasets. The algorithm exhibits high and consistent performance across all datasets and movements relative to a manual annotation by a domain expert (recall: μ = 91.42%, σ = 9.52%; precision: μ = 95.60%, σ = 5.29%; specificity μ = 95.41%, σ = 7.02%) and displays a significant improvement when compared to I-VDT, an state-of-the-art algorithm (recall: μ = 87.67%, σ = 14.73%; precision: μ = 89.57%, σ = 8.05%; specificity μ = 92.10%, σ = 11.21%). Algorithm implementation and annotated datasets are openly available at www.ti.uni-tuebingen.de/perception},
+	booktitle = {Proceedings of the Ninth Biennial ACM Symposium on Eye Tracking Research \& Applications},
+	pages = {163–170},
+	numpages = {8},
+	keywords = {model, online, dynamic stimuli, eye-tracking, open-source, probabilistic, classification, smooth pursuit},
+	location = {Charleston, South Carolina},
+	series = {ETRA '16}
+}
+
+@article{borji2015CAT,
+	title={CAT2000: A Large Scale Fixation Dataset for Boosting Saliency Research},
+	author={Ali Borji and Laurent Itti},
+	journal={ArXiv},
+	year={2015},
+	pages={},
+	volume={abs/1505.03581}
+}
+
+
+@book{bergstrom2014eye,
+    title={Eye tracking in user experience design},
+    author={Bergstrom, Jennifer Romano and Schall, Andrew},
+    year={2014},
+    address = {Boston},
+    publisher={Elsevier}
+}
+
+@article{yi2019improved,
+	title={An improved tiny-yolov3 pedestrian detection algorithm},
+	author={Yi, Zhang and Yongliang, Shen and Jun, Zhang},
+	journal={Optik},
+	volume={183},
+	pages={17--23},
+	year={2019},
+	publisher={Elsevier}
+}
+
+
+@inproceedings{he2017mask,
+	title={Mask R-CNN}, 
+	author={He, Kaiming and Gkioxari, Georgia and Dollár, Piotr and Girshick, Ross},
+	booktitle={2017 IEEE International Conference on Computer Vision (ICCV)}, 
+	year={2017},
+	pages={2980-2988},
+	doi={10.1109/ICCV.2017.322},
+	publisher={IEEE},
+        address={Venice, Italy}
+}
+
+@article{zemblys2019gazenet,
+    title={gazeNet: End-to-end eye-movement event detection with deep neural networks},
+    author={Zemblys, Raimondas and Niehorster, Diederick C and Holmqvist, Kenneth},
+    journal={Behavior research methods},
+    volume={51},
+    number={2},
+    pages={840--864},
+    year={2019},
+    publisher={Springer}
+}
+
+@article{deangelus2009top,
+	title={Top-down control of eye movements: Yarbus revisited},
+	author={DeAngelus, Marianne and Pelz, Jeff B},
+	journal={Visual Cognition},
+	volume={17},
+	number={6-7},
+	pages={790--811},
+	year={2009},
+	publisher={Taylor \& Francis}
+}
+
+@article{caruana2018joint,
+	title={Joint attention difficulties in autistic adults: an interactive eye-tracking study},
+	author={Caruana, Nathan and Stieglitz Ham, Heidi and Brock, Jon and Woolgar, Alexandra and Kloth, Nadine and Palermo, Romina and McArthur, Genevieve},
+	journal={Autism},
+	volume={22},
+	number={4},
+	pages={502--512},
+	year={2018},
+	publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{courgeon2014joint,
+	author={Courgeon, Matthieu and Rautureau, Gilles and Martin, Jean-Claude and Grynszpan, Ouriel},
+	journal={IEEE Transactions on Affective Computing}, 
+	title={Joint Attention Simulation Using Eye-Tracking and Virtual Humans}, 
+	year={2014},
+	volume={5},
+	number={3},
+	pages={238-250},
+	doi={10.1109/TAFFC.2014.2335740}
+}
+
+@article{yoo2019study,
+	author={Yoo, Sangbong and Jeong, Dae Kyo and Jang, Yun},
+	journal={IEEE Access}, 
+	title={The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface}, 
+	year={2019},
+	volume={7},
+	number={},
+	pages={49125-49134},
+	doi={10.1109/ACCESS.2019.2909573}
+}
+
+@inproceedings{kurauchi2016eyeswipe,
+	author = {Kurauchi, Andrew and Feng, Wenxin and Joshi, Ajjen and Morimoto, Carlos and Betke, Margrit},
+	title = {EyeSwipe: Dwell-Free Text Entry Using Gaze Paths},
+	year = {2016},
+	isbn = {9781450333627},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/2858036.2858335},
+	doi = {10.1145/2858036.2858335},
+	abstract = {Text entry using gaze-based interaction is a vital communication tool for people with motor impairments. Most solutions require the user to fixate on a key for a given dwell time to select it, thus limiting the typing speed. In this paper we introduce EyeSwipe, a dwell-time-free gaze-typing method. With EyeSwipe, the user gaze-types the first and last characters of a word using the novel selection mechanism "reverse crossing." To gaze-type the characters in the middle of the word, the user only needs to glance at the vicinity of the respective keys. We compared the performance of EyeSwipe with that of a dwell-time-based virtual keyboard. EyeSwipe afforded statistically significantly higher typing rates and more comfortable interaction in experiments with ten participants who reached 11.7 words per minute (wpm) after 30 min typing with EyeSwipe.},
+	booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+	pages = {1952–1956},
+	numpages = {5},
+	keywords = {target selection, text entry, dwell-free typing, eye typing, eye tracking},
+	location = {San Jose, California, USA},
+	series = {CHI '16}
+}
+
+@inproceedings{kumar2019clustered,
+	author = {Kumar, Ayush and Timmermans, Neil and Burch, Michael and Mueller, Klaus},
+	title = {Clustered Eye Movement Similarity Matrices},
+	year = {2019},
+	isbn = {9781450367097},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3317958.3319811},
+	doi = {10.1145/3317958.3319811},
+	abstract = {Eye movements recorded for many study participants are difficult to interpret, in particular when the task is to identify similar scanning strategies over space, time, and participants. In this paper we describe an approach in which we first compare scanpaths, not only based on Jaccard (JD) and bounding box (BB) similarities, but also on more complex approaches like longest common subsequence (LCS), Frechet distance (FD), dynamic time warping (DTW), and edit distance (ED). The results of these algorithms generate a weighted comparison matrix while each entry encodes the pairwise participant scanpath comparison strength. To better identify participant groups of similar eye movement behavior we reorder this matrix by hierarchical clustering, optimal-leaf ordering, dimensionality reduction, or a spectral approach. The matrix visualization is linked to the original stimulus overplotted with visual attention maps and gaze plots on which typical interactions like temporal, spatial, or participant-based filtering can be applied.},
+	booktitle = {Proceedings of the 11th ACM Symposium on Eye Tracking Research \& Applications},
+	articleno = {82},
+	numpages = {9},
+	keywords = {matrix reordering, information visualization, eye tracking, visual analytics, scanpath comparison},
+	location = {Denver, Colorado},
+	series = {ETRA '19}
+}
+
+
+@inproceedings{byrne1999eye,
+	author = {Byrne, Michael D. and Anderson, John R. and Douglass, Scott and Matessa, Michael},
+	title = {Eye Tracking the Visual Search of Click-down Menus},
+	year = {1999},
+	isbn = {0201485591},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/302979.303118},
+	doi = {10.1145/302979.303118},
+	abstract = {Click-down (or pull-down) menus have long been a key component of graphical user interfaces, yet we know surprisingly little about how users actually interact with such menus. Nilsens [8] study on menu selection has led to the development of a number of models of how users perform the task [6, 21. However, the validity of these models has not been empirically assessed with respect to eye movements (though [l] presents some interesting data that bear on these models). The present study is an attempt to provide data that can help refine our understanding of how users interact with such menus.},
+	booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+	pages = {402–409},
+	numpages = {8},
+	keywords = {menu selection, eye tracking, visual search, cognitive models},
+	location = {Pittsburgh, Pennsylvania, USA},
+	series = {CHI '99}
+}
+
+@article{yoo2021gaze,
+	title={Gaze Behavior Effect on Gaze Data Visualization at Different Abstraction Levels},
+	author={Yoo, Sangbong and Jeong, Seongmin and Jang, Yun},
+	journal={Sensors},
+	volume={21},
+	number={14},
+	pages={4686},
+	year={2021},
+	publisher={MDPI}
+}
+
+@article{larsson2013detection,
+	title={Detection of saccades and postsaccadic oscillations in the presence of smooth pursuit},
+	author={Larsson, Linn{\'e}a and Nystr{\"o}m, Marcus and Stridh, Martin},
+	journal={IEEE Transactions on biomedical engineering},
+	volume={60},
+	number={9},
+	pages={2484--2493},
+	year={2013},
+	publisher={IEEE}
+}
+
+@article{zemblys2018using,
+	title={Using machine learning to detect events in eye-tracking data},
+	author={Zemblys, Raimondas and Niehorster, Diederick C and Komogortsev, Oleg and Holmqvist, Kenneth},
+	journal={Behavior research methods},
+	volume={50},
+	number={1},
+	pages={160--181},
+	year={2018},
+	publisher={Springer}
+}
+
+@article{bellet2019human,
+    title={Human-level saccade detection performance using deep neural networks},
+    author={Bellet, Marie E and Bellet, Joachim and Nienborg, Hendrikje and Hafed, Ziad M and Berens, Philipp},
+    journal={Journal of neurophysiology},
+    volume={121},
+    number={2},
+    pages={646--661},
+    year={2019},
+    publisher={American Physiological Society Bethesda, MD}
+}
+
+@inproceedings{ronneberger2015u,
+	author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+	editor={Navab, Nassir and Hornegger, Joachim and Wells, William M. and Frangi, Alejandro F.},
+	title={U-Net: Convolutional Networks for Biomedical Image Segmentation},
+	booktitle={Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015},
+	year={2015},
+	publisher={Springer International Publishing},
+	address={Cham},
+	pages={234--241},
+	abstract={"There is large consent that successful training of deep networks requires many thousand annotated training samples. In this paper, we present a network and training strategy that relies on the strong use of data augmentation to use the available annotated samples more efficiently. The architecture consists of a contracting path to capture context and a symmetric expanding path that enables precise localization. We show that such a network can be trained end-to-end from very few images and outperforms the prior best method (a sliding-window convolutional network) on the ISBI challenge for segmentation of neuronal structures in electron microscopic stacks. Using the same network trained on transmitted light microscopy images (phase contrast and DIC) we won the ISBI cell tracking challenge 2015 in these categories by a large margin. Moreover, the network is fast. Segmentation of a 512x512 image takes less than a second on a recent GPU. The full implementation (based on Caffe) and the trained networks are available at http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net."},
+	isbn={978-3-319-24574-4}
+}
+
+
+@inproceedings{hedeshy2021hummer,
+	author = {Hedeshy, Ramin and Kumar, Chandan and Menges, Raphael and Staab, Steffen},
+	title = {Hummer: Text Entry by Gaze and Hum},
+	year = {2021},
+	isbn = {9781450380966},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3411764.3445501},
+	doi = {10.1145/3411764.3445501},
+	abstract = {Text entry by gaze is a useful means of hands-free interaction that is applicable in settings where dictation suffers from poor voice recognition or where spoken words and sentences jeopardize privacy or confidentiality. However, text entry by gaze still shows inferior performance and it quickly exhausts its users. We introduce text entry by gaze and hum as a novel hands-free text entry. We review related literature to converge to word-level text entry by analysis of gaze paths that are temporally constrained by humming. We develop and evaluate two design choices: “HumHum” and “Hummer.” The first method requires short hums to indicate the start and end of a word. The second method interprets one continuous humming as an indication of the start and end of a word. In an experiment with 12 participants, Hummer achieved a commendable text entry rate of 20.45 words per minute, and outperformed HumHum and the gaze-only method EyeSwipe in both quantitative and qualitative measures.},
+	booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+	articleno = {741},
+	numpages = {11},
+	keywords = {eye tracking, eye typing, humming, swipe, hands-free interaction},
+	location = {Yokohama, Japan},
+	series = {CHI '21}
+}
+
+@article{ehinger2009modelling,
+	author = {Krista A. Ehinger and Barbara Hidalgo-Sotelo and Antonio Torralba and Aude Oliva},
+	title = {Modelling search for people in 900 scenes: A combined source model of eye guidance},
+	journal = {Visual Cognition},
+	volume = {17},
+	number = {6-7},
+	pages = {945-978},
+	year  = {2009},
+	publisher = {Routledge},
+	doi = {10.1080/13506280902834720},
+	note ={PMID: 20011676},
+	URL = {https://doi.org/10.1080/13506280902834720},
+	eprint = {https://doi.org/10.1080/13506280902834720	}
+}
+
+@article{dar2020remodnav,
+	author = {Dar, Asim H. and Wagner, Adina S. and Hanke, Michael},
+	year = {2020},
+	month = {07},
+	pages = {},
+	title = {REMoDNaV: robust eye-movement classification for dynamic stimulation},
+	volume = {53},
+	journal = {Behavior Research Methods},
+	doi = {10.3758/s13428-020-01428-x}
+}
+
+@article{bylinkii2015intrinsic,
+	title = {Intrinsic and extrinsic effects on image memorability},
+	journal = {Vision Research},
+	volume = {116},
+	pages = {165-178},
+	year = {2015},
+	note = {Computational Models of Visual Attention},
+	issn = {0042-6989},
+	doi = {https://doi.org/10.1016/j.visres.2015.03.005},
+	url = {https://www.sciencedirect.com/science/article/pii/S0042698915000930},
+	author = {Zoya Bylinskii and Phillip Isola and Constance Bainbridge and Antonio Torralba and Aude Oliva},
+	keywords = {Image memorability, Eye movements, Scene dataset, Fine-grained categories, Visual distinctiveness, Context},
+	abstract = {Previous studies have identified that images carry the attribute of memorability, a predictive value of whether a novel image will be later remembered or forgotten. Here we investigate the interplay between intrinsic and extrinsic factors that affect image memorability. First, we find that intrinsic differences in memorability exist at a finer-grained scale than previously documented. Second, we test two extrinsic factors: image context and observer behavior. Building on prior findings that images that are distinct with respect to their context are better remembered, we propose an information-theoretic model of image distinctiveness. Our model can automatically predict how changes in context change the memorability of natural images. In addition to context, we study a second extrinsic factor: where an observer looks while memorizing an image. It turns out that eye movements provide additional information that can predict whether or not an image will be remembered, on a trial-by-trial basis. Together, by considering both intrinsic and extrinsic effects on memorability, we arrive at a more complete and fine-grained model of image memorability than previously available.}
+}
+
+@article{follet2011new,
+	author = {Brice Follet and Olivier Le Meur and Thierry Baccino},
+	title ={New Insights into Ambient and Focal Visual Fixations using an Automatic Classification Algorithm},
+	journal = {i-Perception},
+	volume = {2},
+	number = {6},
+	pages = {592-610},
+	year = {2011},
+	doi = {10.1068/i0414},
+	note ={PMID: 23145248},
+	URL = {https://doi.org/10.1068/i0414},
+	eprint = {https://doi.org/10.1068/i0414},
+	abstract = {Overt visual attention is the act of directing the eyes toward a given area. These eye movements are characterised by saccades and fixations. A debate currently surrounds the role of visual fixations. Do they all have the same role in the free viewing of natural scenes? Recent studies suggest that at least two types of visual fixations exist: focal and ambient. The former is believed to be used to inspect local areas accurately, whereas the latter is used to obtain the context of the scene. We investigated the use of an automated system to cluster visual fixations in two groups using four types of natural scene images. We found new evidence to support a focal-ambient dichotomy. Our data indicate that the determining factor is the saccade amplitude. The dependence on the low-level visual features and the time course of these two kinds of visual fixations were examined. Our results demonstrate that there is an interplay between both fixation populations and that focal fixations are more dependent on low-level visual features than are ambient fixations. }
+}
+
+@inproceedings{judd2009learning,
+	author={Judd, Tilke and Ehinger, Krista and Durand, Frédo and Torralba, Antonio},
+	booktitle={2009 IEEE 12th International Conference on Computer Vision}, 
+	title={Learning to predict where humans look}, 
+	year={2009},
+	volume={},
+	number={},
+	pages={2106-2113},
+	publisher={IEEE},
+	doi={10.1109/ICCV.2009.5459462},
+        address={Kyoto, Japan}
+}
+
+@inproceedings{kulauchi2016eyeswipe,
+	author = {Kurauchi, Andrew and Feng, Wenxin and Joshi, Ajjen and Morimoto, Carlos and Betke, Margrit},
+	title = {EyeSwipe: Dwell-Free Text Entry Using Gaze Paths},
+	year = {2016},
+	isbn = {9781450333627},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/2858036.2858335},
+	doi = {10.1145/2858036.2858335},
+	abstract = {Text entry using gaze-based interaction is a vital communication tool for people with motor impairments. Most solutions require the user to fixate on a key for a given dwell time to select it, thus limiting the typing speed. In this paper we introduce EyeSwipe, a dwell-time-free gaze-typing method. With EyeSwipe, the user gaze-types the first and last characters of a word using the novel selection mechanism "reverse crossing." To gaze-type the characters in the middle of the word, the user only needs to glance at the vicinity of the respective keys. We compared the performance of EyeSwipe with that of a dwell-time-based virtual keyboard. EyeSwipe afforded statistically significantly higher typing rates and more comfortable interaction in experiments with ten participants who reached 11.7 words per minute (wpm) after 30 min typing with EyeSwipe.},
+	booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+	pages = {1952–1956},
+	numpages = {5},
+	keywords = {text entry, target selection, eye typing, eye tracking, dwell-free typing},
+	location = {San Jose, California, USA},
+	series = {CHI '16}
+}
+
+@article{startsev2019characterizing,
+	author = {Startsev, Mikhail and Agtzidis, Ioannis and Dorr, Michael},
+	title = {Characterizing and automatically detecting smooth pursuit in a large-scale ground-truth data set of dynamic natural scenes},
+	journal = {Journal of Vision},
+	volume = {19},
+	number = {14},
+	pages = {10-10},
+	year = {2019},
+	month = {12},
+	abstract = {Eye movements are fundamental to our visual experience of the real world, and tracking smooth pursuit eye movements play an important role because of the dynamic nature of our environment. Static images, however, do not induce this class of eye movements, and commonly used synthetic moving stimuli lack ecological validity because of their low scene complexity compared to the real world. Traditionally, ground truth data for pursuit analyses with naturalistic stimuli are obtained via laborious hand-labelling. Therefore, previous studies typically remained small in scale. We here present the first large-scale quantitative characterization of human smooth pursuit. In order to achieve this, we first provide a methodological framework for such analyses by collecting a large set of manual annotations for eye movements in dynamic scenes and by examining the bias and variance of human annotators. To enable further research on even larger future data sets, we also describe, improve, and thoroughly analyze a novel algorithm to automatically classify eye movements. Our approach incorporates unsupervised learning techniques and thus demonstrates improved performance with the addition of unlabelled data. The code and data related to our manual and automated eye movement annotation are publicly available via https://web.gin.g-node.org/ioannis.agtzidis/gazecom\_annotations/. },
+	issn = {1534-7362},
+	doi = {10.1167/19.14.10},
+	url = {https://doi.org/10.1167/19.14.10},
+	eprint = {https://arvojournals.org/arvo/content\_public/journal/jov/938293/i1534-7362-19-14-10.pdf},
+}
+
+@article{startsev2022evaluating,
+	Title = {Evaluating Eye Movement Event Detection: A Review of the State of the Art},
+	Author = {Startsev, Mikhail and Zemblys, Raimondas},
+	DOI = {10.3758/s13428-021-01763-7},
+	Month = {June},
+	Year = {2022},
+	Journal = {Behavior research methods},
+	ISSN = {1554-351X},
+	Abstract = {Detecting eye movements in raw eye tracking data is a well-established research area by itself, as well as a common pre-processing step before any subsequent analysis. As in any field, however, progress and successful collaboration can only be achieved provided a shared understanding of the pursued goal. This is often formalised via defining metrics that express the quality of an approach to solving the posed problem. Both the big-picture intuition behind the evaluation strategies and seemingly small implementation details influence the resulting measures, making even studies with outwardly similar procedures essentially incomparable, impeding a common understanding. In this review, we systematically describe and analyse evaluation methods and measures employed in the eye movement event detection field to date. While recently developed evaluation strategies tend to quantify the detector's mistakes at the level of whole eye movement events rather than individual gaze samples, they typically do not separate establishing correspondences between true and predicted events from the quantification of the discovered errors. In our analysis we separate these two steps where possible, enabling their almost arbitrary combinations in an evaluation pipeline. We also present the first large-scale empirical analysis of event matching strategies in the literature, examining these various combinations both in practice and theoretically. We examine the particular benefits and downsides of the evaluation methods, providing recommendations towards more intuitive and informative assessment. We implemented the evaluation strategies on which this work focuses in a single publicly available library: https://github.com/r-zemblys/EM-event-detection-evaluation .},
+	URL = {https://doi.org/10.3758/s13428-021-01763-7},
+}
+
+@inproceedings{guan2006the,
+	author = {Guan, Zhiwei and Lee, Shirley and Cuddihy, Elisabeth and Ramey, Judith},
+	title = {The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking},
+	year = {2006},
+	isbn = {1595933727},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/1124772.1124961},
+	doi = {10.1145/1124772.1124961},
+	abstract = {Retrospective Think aloud (RTA) is a usability method that collects the verbalization of a user's performance after the performance is over. There has been little work done to investigate the validity and reliability of RTA. This paper reports on an experiment investigating these issues with a form of the method called stimulated RTA. By comparing subjects' verbalizations with their eye movements, we support the validity and reliability of stimulated RTA: the method provides a valid account of what people attended to in completing tasks, it has a low risk of introducing fabrications, and its validity isn't affected by task complexity. More detailed analysis of RTA shows that it also provides additional information about user's inferences and strategies in completing tasks. The findings of this study provide valuable support for usability practitioners to use RTA and to trust the users' performance information collected by this method in a usability study.},
+	booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+	pages = {1253–1262},
+	numpages = {10},
+	keywords = {reliability, validity, usability research, retrospective think aloud, verbalization, eye tracking},
+	location = {Montr\'{e}al, Qu\'{e}bec, Canada},
+	series = {CHI '06}
+}
+
+@inproceedings{elling2011retrospective,
+	author = {Elling, Sanne and Lentz, Leo and de Jong, Menno},
+	title = {Retrospective Think-Aloud Method: Using Eye Movements as an Extra Cue for Participants' Verbalizations},
+	year = {2011},
+	isbn = {9781450302289},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/1978942.1979116},
+	doi = {10.1145/1978942.1979116},
+	abstract = {The retrospective think-aloud method, in which participants work in silence and verbalize their thoughts afterwards while watching a recording of their performance, is often used for the evaluation of websites. However, participants may not always be able to recall what they thought, when they only see few visual cues that help them remembering their task execution process. In our study we complemented the recording of the performance with a gaze trail of the participant" eye movements, in order to elicit more verbalizations. A comparison was made between the traditional retrospective think-aloud protocols and the variant with eye movements. Contrary to our expectations, no differences were found between the two conditions on numbers of problems, the ways these problems were detected, and types of problems. Two possible explanations for this result are that eye movements might be rather confronting and distracting for participants, and the rather generic way of probing we used. The added value might be stronger when specific questions are asked, based on the observed eye movements. Implications for usability practitioners are discussed in the conclusions of this paper.},
+	booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+	pages = {1161–1170},
+	numpages = {10},
+	keywords = {retrospective think-aloud protocols, usability testing., verbalization, eye-tracking},
+	location = {Vancouver, BC, Canada},
+	series = {CHI '11}
+}
+
+@article{blascheck2016va,  
+	author={Blascheck, Tanja and John, Markus and Kurzhals, Kuno and Koch, Steffen and Ertl, Thomas},  
+	journal={IEEE Transactions on Visualization and Computer Graphics},   
+	title={VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications},   
+	year={2016}, 
+	volume={22},  
+	number={1},  
+	pages={61-70},  
+	doi={10.1109/TVCG.2015.2467871}
+}
+
+@InProceedings{yang2020predicting,
+	author = {Yang, Zhibo and Huang, Lihan and Chen, Yupei and Wei, Zijun and Ahn, Seoyoung and Samaras, Dimitris and Zelinsky, Gregory and and Hoai, Minh},
+	title = {Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+	month = {June},
+	year = {2020}
+}
+
+@article{chen2021coco,
+	title={COCO-Search18 fixation dataset for predicting goal-directed attention control},
+	author={Chen, Yupei and Yang, Zhibo and Ahn, Seoyoung and Samaras, Dimitris and Hoai, Minh and Zelinsky, Gregory},
+	journal={Scientific reports},
+	volume={11},
+	number={1},
+	pages={1--11},
+	year={2021},
+	publisher={Nature Publishing Group}
+}
+
+@article{newport2022softmatch,
+	title={SoftMatch: Comparing Scanpaths Using Combinatorial Spatio-Temporal Sequences with Fractal Curves},
+	author={Newport, Robert Ahadizad and Russo, Carlo and Liu, Sidong and Suman, Abdulla Al and Di Ieva, Antonio},
+	journal={Sensors},
+	volume={22},
+	number={19},
+	pages={7438},
+	year={2022},
+	publisher={MDPI}
+}
+
+@article{jekel2019similarity,
+	title={Similarity measures for identifying material parameters from hysteresis loops using inverse analysis},
+	author={Jekel, Charles F and Venter, Gerhard and Venter, Martin P and Stander, Nielen and Haftka, Raphael T},
+	journal={International Journal of Material Forming},
+	volume={12},
+	number={3},
+	pages={355--378},
+	year={2019},
+	publisher={Springer}
+}
+
+@article{frechet1906quelques,
+	title={Sur quelques points du calcul fonctionnel},
+	author={Fr{\'e}chet, M Maurice},
+	journal={Rendiconti del Circolo Matematico di Palermo (1884-1940)},
+	volume={22},
+	number={1},
+	pages={1--72},
+	year={1906},
+	publisher={Springer Milan}
+}
+
+@article{fong2012using,
+	title={Using hierarchical time series clustering algorithm and wavelet classifier for biometric voice classification},
+	author={Fong, Simon},
+	journal={Journal of Biomedicine and Biotechnology},
+	volume={2012},
+	year={2012},
+	publisher={Hindawi}
+}
+
+@article{levandowsky1971distance,
+	title={Distance between sets},
+	author={Levandowsky, Michael and Winter, David},
+	journal={Nature},
+	volume={234},
+	number={5323},
+	pages={34--35},
+	year={1971},
+	publisher={Nature Publishing Group}
+}
+
+@article{friedman2020brief,
+	title={Brief communication: Three errors and two problems in a recent paper: gazeNet: End-to-end eye-movement event detection with deep neural networks (Zemblys, Niehorster, and Holmqvist, 2019)},
+	author={Friedman, Lee},
+	journal={Behavior Research Methods},
+	volume={52},
+	number={4},
+	pages={1671--1680},
+	year={2020},
+	publisher={Springer}
+}
+
+@article{treisman1980fit,
+    title = {A feature-integration theory of attention},
+    journal = {Cognitive Psychology},
+    volume = {12},
+    number = {1},
+    pages = {97-136},
+    year = {1980},
+    issn = {0010-0285},
+    doi = {https://doi.org/10.1016/0010-0285(80)90005-5},
+    url = {https://www.sciencedirect.com/science/article/pii/0010028580900055},
+    author = {Anne M. Treisman and Garry Gelade},
+    abstract = {A new hypothesis about the role of focused attention is proposed. The feature-integration theory of attention suggests that attention must be directed serially to each stimulus in a display whenever conjunctions of more than one separable feature are needed to characterize or distinguish the possible objects presented. A number of predictions were tested in a variety of paradigms including visual search, texture segregation, identification and localization, and using both separable dimensions (shape and color) and local elements or parts of figures (lines, curves, etc. in letters) as the features to be integrated into complex wholes. The results were in general consistent with the hypothesis. They offer a new set of criteria for distinguishing separable from integral features and a new rationale for predicting which tasks will show attention limits and which will not.}
+}
+
+@article{koch1998amodel,
+	author={Itti, L. and Koch, C. and Niebur, E.},
+	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+	title={A model of saliency-based visual attention for rapid scene analysis}, 
+	year={1998},
+	volume={20},
+	number={11},
+	pages={1254-1259},
+	doi={10.1109/34.730558}
+}
+
+@article{henderson2003human,
+	title={Human gaze control during real-world scene perception},
+	author={Henderson, John M},
+	journal={Trends in cognitive sciences},
+	volume={7},
+	number={11},
+	pages={498--504},
+	year={2003},
+	publisher={Elsevier}
+}
+
+@book{frintrop2006vocus,
+	title={VOCUS: A visual attention system for object detection and goal-directed search},
+	author={Frintrop, Simone},
+	volume={3899},
+	year={2006},
+	publisher={Springer}
+}
+
+@article{li2002saliency,
+	title={A saliency map in primary visual cortex},
+	author={Li, Zhaoping},
+	journal={Trends in cognitive sciences},
+	volume={6},
+	number={1},
+	pages={9--16},
+	year={2002},
+	publisher={Elsevier}
+}
+
+@article{wolfe1992curvature,
+	title={Curvature is a basic feature for visual search tasks},
+	author={Wolfe, Jeremy M and Yee, Alice and Friedman-Hill, Stacia R},
+	journal={Perception},
+	volume={21},
+	number={4},
+	pages={465--480},
+	year={1992},
+	publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{wang2010measuring,
+	title={Measuring visual saliency by site entropy rate},
+	author={Wang, Wei and Wang, Yizhou and Huang, Qingming and Gao, Wen},
+	booktitle={2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition},
+	pages={2368--2375},
+	year={2010},
+	organization={IEEE}
+}
+
+@inproceedings{murray2011saliency,
+	title={Saliency estimation using a non-parametric low-level vision model},
+	author={Murray, Naila and Vanrell, Maria and Otazu, Xavier and Parraga, C Alejandro},
+	booktitle={CVPR 2011},
+	pages={433--440},
+	year={2011},
+	organization={IEEE}
+}
+
+@inproceedings{hou2007saliency,
+	title={Saliency detection: A spectral residual approach},
+	author={Hou, Xiaodi and Zhang, Liqing},
+	booktitle={2007 IEEE Conference on computer vision and pattern recognition},
+	pages={1--8},
+	year={2007},
+	organization={Ieee}
+}
+
+@article{oliva2001modeling,
+	title={Modeling the shape of the scene: A holistic representation of the spatial envelope},
+	author={Oliva, Aude and Torralba, Antonio},
+	journal={International journal of computer vision},
+	volume={42},
+	number={3},
+	pages={145--175},
+	year={2001},
+	publisher={Springer}
+}
+
+@article{huff2019neuroanatomy,
+	title={Neuroanatomy, visual cortex},
+	author={Huff, Trevor and Mahabadi, Navid and Tadi, Prasanna},
+	journal={StatPearls [Internet]},
+	year={2019},
+	publisher={StatPearls Publishing}
+}
+
+@inproceedings{garcia2009decorrelation,
+	title={Decorrelation and distinctiveness provide with human-like saliency},
+	author={Garcia-Diaz, Ant{\'o}n and Fdez-Vidal, Xos{\'e} R and Pardo, Xos{\'e} M and Dosil, Raquel},
+	booktitle={International Conference on Advanced Concepts for Intelligent Vision Systems},
+	pages={343--354},
+	year={2009},
+	organization={Springer}
+}
+
+@article{borji2013state,
+	author={Borji, Ali and Itti, Laurent},
+	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+	title={State-of-the-Art in Visual Attention Modeling}, 
+	year={2013},
+	volume={35},
+	number={1},
+	pages={185-207},
+	doi={10.1109/TPAMI.2012.89}
+}
+
+@article{burch2013aoi,
+	author = {Burch, Michael and Kull, Andreas and Weiskopf, Daniel},
+	title = {AOI Rivers for Visualizing Dynamic Eye Gaze Frequencies},
+	journal = {Computer Graphics Forum},
+	volume = {32},
+	number = {3pt3},
+	pages = {281-290},
+	keywords = {H.5.0 Information Interfaces and Presentation: General},
+	doi = {https://doi.org/10.1111/cgf.12115},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12115},
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12115},
+	abstract = {Abstract It is difficult to explore and analyze eye gaze trajectories for commonly applied visual task solution strategies because such data shows complex spatio-temporal structure. In particular, the traditional eye gaze plots of scan paths fail for a large number of study participants since these plots lead to much visual clutter. To address this problem we introduce the AOI Rivers technique as a novel interactive visualization method for investigating time-varying fixation frequencies, transitions between areas of interest (AOIs), and the sequential order of gaze visits to AOIs in a visual stimulus of an eye tracking experiment. To this end, we extend the ThemeRiver technique by influents, effluents, and transitions similar to the concept of Sankey diagrams. The AOI Rivers visualization is complemented by linked spatial views of the data in the form of heatmaps, gaze plots, or display of the visual stimulus. The usefulness of our technique is demonstrated for gaze trajectory data recorded in a previously conducted eye tracking experiment.},
+	year = {2013}
+}
+
+@article{kurzhals2016gaze,
+	author={Kurzhals, Kuno and Hlawatsch, Marcel and Heimerl, Florian and Burch, Michael and Ertl, Thomas and Weiskopf, Daniel},
+	journal={IEEE Transactions on Visualization and Computer Graphics}, 
+	title={Gaze Stripes: Image-Based Visualization of Eye Tracking Data}, 
+	year={2016},
+	volume={22},
+	number={1},
+	pages={1005-1014},
+	doi={10.1109/TVCG.2015.2468091}
+}
+
+@inproceedings{kummerer2018saliency,
+	title = {Saliency Benchmarking Made Easy: Separating Models, Maps and Metrics},
+	series = {Lecture Notes in Computer Science},
+	shorttitle = {Saliency Benchmarking Made Easy},
+	pages = {798--814},
+	booktitle = {Computer Vision – {ECCV} 2018},
+	publisher = {Springer International Publishing},
+	author = {K{\"u}mmerer, Matthias and Wallis, Thomas S. A. and Bethge, Matthias},
+	editor = {Ferrari, Vittorio and Hebert, Martial and Sminchisescu, Cristian and Weiss, Yair},
+	date = {2018},
+}
+
+@article{brunye2019review,
+    title={A review of eye tracking for understanding and improving diagnostic interpretation},
+    author={Bruny{\'e}, Tad T and Drew, Trafton and Weaver, Donald L and Elmore, Joann G},
+    journal={Cognitive research: principles and implications},
+    volume={4},
+    number={1},
+    pages={1--16},
+    year={2019},
+    publisher={SpringerOpen}
+}
+
+@book{findlay2003active,
+    author = {Findlay, John M and Gilchrist, Iain D},
+    title = {Active Vision: The Psychology of Looking and Seeing},
+    publisher = {Oxford University Press},
+    year = {2003},
+    month = {08},
+    abstract = "{More than one third of the human brain is devoted to the processes of seeing — vision is after all the main way in which we gather information about the world. But human vision is a dynamic process during which the eyes continually sample the environment. Where most books on vision consider it as a passive activity, this book focuses on vision as an ‘active’ process. It goes beyond most accounts of vision where the focus is on seeing, to provide an account of seeing AND looking. The book starts by pointing out the weaknesses in our traditional approaches to vision and the reason we need this new approach. It then gives a thorough description of basic details of the visual and oculomotor systems necessary to understand active vision. The book goes on to show how this approach can give a new perspective on visual attention, and how the approach has progressed in the areas of visual orienting, reading, visual search, scene perception, and neuropsychology. Finally, the book summarizes progress by showing how this approach sheds new light on the old problem of how we maintain perception of a stable visual world.}",
+    isbn = {9780198524793},
+    doi = {10.1093/acprof:oso/9780198524793.001.0001},
+    address = {the University of Oxford}
+}
+
+
+
+@article{henderson2009searching,
+    title={Searching in the dark: Cognitive relevance drives attention in real-world scenes},
+    author={Henderson, John M and Malcolm, George L and Schandl, Charles},
+    journal={Psychonomic bulletin \& review},
+    volume={16},
+    number={5},
+    pages={850--856},
+    year={2009},
+    publisher={Springer}
+}
+
+@article{harezlak2018application,
+    title = {Application of eye tracking in medicine: A survey, research issues and challenges},
+    author = {Katarzyna Harezlak and Pawel Kasprowski},
+    journal = {Computerized Medical Imaging and Graphics},
+    volume = {65},
+    pages = {176-190},
+    year = {2018},
+    note = {Advances in Biomedical Image Processing},
+    issn = {0895-6111},
+    doi = {https://doi.org/10.1016/j.compmedimag.2017.04.006}
+}
+
+@article{brouwer2017eeg,
+    title={EEG and eye tracking signatures of target encoding during structured visual search},
+    author={Brouwer, Anne-Marie and Hogervorst, Maarten A and Oudejans, Bob and Ries, Anthony J and Touryan, Jonathan},
+    journal={Frontiers in human neuroscience},
+    volume={11},
+    pages={264},
+    year={2017},
+    publisher={Frontiers Media SA}
+}
+
+
+@article{andrienko2012visual,
+    author={Andrienko, Gennady and Andrienko, Natalia and Burch, Michael and Weiskopf, Daniel},
+    journal={IEEE Transactions on Visualization and Computer Graphics}, 
+    title={Visual Analytics Methodology for Eye Movement Studies}, 
+    year={2012},
+    volume={18},
+    number={12},
+    pages={2889-2898},
+    doi={10.1109/TVCG.2012.276}
+}
+
+@article{xu2019exploring,
+    title={Exploring eye-tracking searching strategies for construction hazard recognition in a laboratory scene},
+    author={Xu, Qingwen and Chong, Heap-Yih and Liao, Pin-chao},
+    journal={Safety Science},
+    volume={120},
+    pages={824--832},
+    year={2019},
+    publisher={Elsevier}
+}
+
+@article{meyer2011visual,
+    title={Visual face perception of adults with unilateral cleft lip and palate in comparison to controls—an eye-tracking study},
+    author={Meyer-Marcotty, Philipp and Gerdes, Antje BM and Stellzig-Eisenhauer, Angelika and Alpers, Georg W},
+    journal={The Cleft palate-craniofacial journal},
+    volume={48},
+    number={2},
+    pages={210--216},
+    year={2011},
+    publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{vehlen2022choose,
+    title={How to choose the size of facial areas of interest in interactive eye tracking},
+    author={Vehlen, Antonia and Standard, William and Domes, Gregor},
+    journal={Plos one},
+    volume={17},
+    number={2},
+    pages={e0263594},
+    year={2022},
+    publisher={Public Library of Science}
+}
+
+@article{yi2013abnormality,
+    title={Abnormality in face scanning by children with autism spectrum disorder is limited to the eye region: Evidence from multi-method analyses of eye tracking data},
+    author={Yi, Li and Fan, Yuebo and Quinn, Paul C and Feng, Cong and Huang, Dan and Li, Jiao and Mao, Guoquan and Lee, Kang},
+    journal={Journal of vision},
+    volume={13},
+    number={10},
+    pages={5--5},
+    year={2013},
+    publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{castelhano2008typicality,
+    title={Typicality aids search for an unspecified target, but only in identification and not in attentional guidance},
+    author={Castelhano, Monica S and Pollatsek, Alexander and Cave, Kyle R},
+    journal={Psychonomic Bulletin \& Review},
+    volume={15},
+    pages={795--801},
+    year={2008},
+    publisher={Springer}
+}
+
+@article{liu2018influence,
+    title={Influence of semantic cues on hazard-inspection performance: a case in construction safety},
+    author={Liu, Mei and Liao, Pin-Chao and Wang, Xiao-Yun and Li, Sheng and Rau, Pei-Luen Patrick},
+    journal={International journal of occupational safety and ergonomics},
+    year={2018},
+    publisher={Taylor \& Francis}
+}
+
+@article{roth2023objects,
+    doi = {10.1371/journal.pcbi.1011512},
+    author = {Roth, Nicolas AND Rolfs, Martin AND Hellwich, Olaf AND Obermayer, Klaus},
+    journal = {PLOS Computational Biology},
+    publisher = {Public Library of Science},
+    title = {Objects guide human gaze behavior in dynamic real-world scenes},
+    year = {2023},
+    month = {10},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pcbi.1011512},
+    pages = {1-39},
+    abstract = {The complexity of natural scenes makes it challenging to experimentally study the mechanisms behind human gaze behavior when viewing dynamic environments. Historically, eye movements were believed to be driven primarily by space-based attention towards locations with salient features. Increasing evidence suggests, however, that visual attention does not select locations with high saliency but operates on attentional units given by the objects in the scene. We present a new computational framework to investigate the importance of objects for attentional guidance. This framework is designed to simulate realistic scanpaths for dynamic real-world scenes, including saccade timing and smooth pursuit behavior. Individual model components are based on psychophysically uncovered mechanisms of visual attention and saccadic decision-making. All mechanisms are implemented in a modular fashion with a small number of well-interpretable parameters. To systematically analyze the importance of objects in guiding gaze behavior, we implemented five different models within this framework: two purely spatial models, where one is based on low-level saliency and one on high-level saliency, two object-based models, with one incorporating low-level saliency for each object and the other one not using any saliency information, and a mixed model with object-based attention and selection but space-based inhibition of return. We optimized each model’s parameters to reproduce the saccade amplitude and fixation duration distributions of human scanpaths using evolutionary algorithms. We compared model performance with respect to spatial and temporal fixation behavior, including the proportion of fixations exploring the background, as well as detecting, inspecting, and returning to objects. A model with object-based attention and inhibition, which uses saliency information to prioritize between objects for saccadic selection, leads to scanpath statistics with the highest similarity to the human data. This demonstrates that scanpath models benefit from object-based attention and selection, suggesting that object-level attentional units play an important role in guiding attentional processing.},
+    number = {10},
+}
+
+@article{enders2021identification,
+  title={Identification of Target Objects from Gaze Behavior during a Virtual Navigation Task},
+  author={Enders, Leah R and Smith, Robert J and Gordon, Stephen M and Ries, Anthony J and Touryan, Jonathan},
+  journal={bioRxiv},
+  pages={2021--03},
+  year={2021},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{hessels2016area,
+  title={The area-of-interest problem in eyetracking research: A noise-robust solution for face and sparse stimuli},
+  author={Hessels, Roy S and Kemner, Chantal and van den Boomen, Carlijn and Hooge, Ignace TC},
+  journal={Behavior research methods},
+  volume={48},
+  pages={1694--1712},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{mahanama2022eye,
+  title={Eye movement and pupil measures: A review},
+  author={Mahanama, Bhanuka and Jayawardana, Yasith and Rengarajan, Sundararaman and Jayawardena, Gavindya and Chukoskie, Leanne and Snider, Joseph and Jayarathna, Sampath},
+  journal={frontiers in Computer Science},
+  volume={3},
+  pages={733531},
+  year={2022},
+  publisher={Frontiers Media SA}
+}
+
+@article{zhang2018complete,
+  author={Zhang, Xuebai and Yuan, Shyan-Ming and Chen, Ming-Dao and Liu, Xiaolong},
+  journal={IEEE Access}, 
+  title={A Complete System for Analysis of Video Lecture Based on Eye Tracking}, 
+  year={2018},
+  volume={6},
+  number={},
+  pages={49056-49066},
+  keywords={Gaze tracking;Tracking;Data visualization;Mice;Streaming media;Real-time systems;Games;Dynamic area of interest (AOI);dynamic stimuli;eye tracking;eye movement;video lecture},
+  doi={10.1109/ACCESS.2018.2865754}
+}
+
+@article{jayawardena2021automated,
+  title={Automated filtering of eye movements using dynamic aoi in multiple granularity levels},
+  author={Jayawardena, Gavindya and Jayarathna, Sampath},
+  journal={International Journal of Multimedia Data Engineering and Management (IJMDEM)},
+  volume={12},
+  number={1},
+  pages={49--64},
+  year={2021},
+  publisher={IGI Global}
+}

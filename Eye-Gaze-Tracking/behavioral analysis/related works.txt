@@ -244,8 +244,9 @@ The area-of-interest problem in eyetracking research: A noise-robust solution fo
 journal={bioRxiv}
 
 Eye movement and pupil measures: A review
-journal={Behavior research methods}
+journal={frontiers in Computer Science}
 
 A Complete System for Analysis of Video Lecture Based on Eye Tracking
+
 
 Automated filtering of eye movements using dynamic aoi in multiple granularity levels

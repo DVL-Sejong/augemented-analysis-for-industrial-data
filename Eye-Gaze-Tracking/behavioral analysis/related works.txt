@@ -250,3 +250,4 @@ A Complete System for Analysis of Video Lecture Based on Eye Tracking
 journal={IEEE Access}
 
 Automated filtering of eye movements using dynamic aoi in multiple granularity levels
+journal={International Journal of Multimedia Data Engineering and Management (IJMDEM)}

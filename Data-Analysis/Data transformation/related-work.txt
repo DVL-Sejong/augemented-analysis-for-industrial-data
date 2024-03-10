@@ -122,3 +122,4 @@ Single document automatic text summarization using term frequency-inverse docume
 
 Automatic labelling of documents based on ontology
 
+Toward generic title generation for clustered documents

@@ -30,3 +30,5 @@ Learning semantic correspondences with less supervision
 
 Learning to sportscast: a test of grounded language acquisition
 
+Effective Approaches to Attention-based Neural Machine Translation
+

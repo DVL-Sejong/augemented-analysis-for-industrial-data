@@ -62,3 +62,4 @@ Stepwise Extractive Summarization and Planning with Structured Transformers
 
 Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching
 
+Few-Shot Table-to-Text Generation with Prototype Memory

@@ -66,3 +66,4 @@ Few-Shot Table-to-Text Generation with Prototype Memory
 
 Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View
 
+Controlling Hallucinations at Word Level in Data-to-Text Generation

@@ -34,3 +34,4 @@ Effective Approaches to Attention-based Neural Machine Translation
 
 Challenges in Data-to-Document Generation
 
+Table-to-text generation by structure-aware seq2seq learning

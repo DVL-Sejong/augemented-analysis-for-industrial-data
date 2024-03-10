@@ -36,3 +36,4 @@ Challenges in Data-to-Document Generation
 
 Table-to-text generation by structure-aware seq2seq learning
 
+Order-planning neural text generation from structured data

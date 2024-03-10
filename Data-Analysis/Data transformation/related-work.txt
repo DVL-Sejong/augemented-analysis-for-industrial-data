@@ -42,3 +42,4 @@ Enhancing content planning for table-to-text generation with data understanding 
 
 Neural Text Generation from Structured Data with Application to the Biography Domain
 
+Data-to-text Generation with Entity Modeling

@@ -57,3 +57,4 @@ Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation
 Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation
 
 Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints
+

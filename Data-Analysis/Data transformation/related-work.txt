@@ -84,3 +84,4 @@ Domain-specific keyphrase extraction
 
 Automatic hypertext keyphrase detection
 
+Automatic keyphrase extraction from scientific articles

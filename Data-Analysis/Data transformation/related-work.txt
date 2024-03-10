@@ -99,3 +99,5 @@ A text feature based automatic keyword extraction method for single documents
 Improved automatic keyword extraction given more linguistic knowledge
 
 OILog: An online incremental log keyword extraction approach based on MDP-LSTM neural network
+
+Keyword extraction from online product reviews based on bi-directional LSTM recurrent neural network

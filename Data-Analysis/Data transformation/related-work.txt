@@ -114,3 +114,4 @@ Semantics-based topic inter-relationship extraction
 
 Topic aware neural response generation
 
+Discovering discrete latent topics with neural variational inference

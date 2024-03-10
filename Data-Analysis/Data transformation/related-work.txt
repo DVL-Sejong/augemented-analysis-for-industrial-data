@@ -18,3 +18,5 @@ CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data
 
 Alpaca: A Strong, Replicable Instruction-Following Model
 
+Hierarchical text-conditional image generation with clip latents
+

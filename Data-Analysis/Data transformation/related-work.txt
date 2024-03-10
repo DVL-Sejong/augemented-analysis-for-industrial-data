@@ -38,3 +38,4 @@ Table-to-text generation by structure-aware seq2seq learning
 
 Order-planning neural text generation from structured data
 
+Enhancing content planning for table-to-text generation with data understanding and verification

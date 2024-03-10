@@ -20,3 +20,5 @@ Alpaca: A Strong, Replicable Instruction-Following Model
 
 Hierarchical text-conditional image generation with clip latents
 
+Big-data: transformation from heterogeneous data to semantically-enriched simplified data
+

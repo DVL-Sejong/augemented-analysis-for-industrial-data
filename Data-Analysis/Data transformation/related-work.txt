@@ -52,3 +52,4 @@ ToTTo: A Controlled Table-To-Text Generation Dataset
 
 Towards Table-to-Text Generation with Numerical Reasoning
 
+Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation

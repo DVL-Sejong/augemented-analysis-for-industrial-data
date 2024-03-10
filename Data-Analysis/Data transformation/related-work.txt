@@ -91,3 +91,5 @@ Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Ge
 Guiding generation for abstractive text summarization based on key information guide network
 
 Keywords guided method name generation
+
+A statistical approach to mechanized encoding and searching of literary information

@@ -74,3 +74,4 @@ Keyword extraction using word co-occurrence
 
 Keyword extraction from a single document using word co-occurrence statistical information
 
+Automated keyword extraction using support vector machine from Arabic news documents

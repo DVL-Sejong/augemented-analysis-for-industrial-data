@@ -26,3 +26,5 @@ Heterogeneous data and big data analytics
 
 Data Fusion in Three Steps: Resolving Schema, Tuple, and Value Inconsistencies.
 
+Learning semantic correspondences with less supervision
+

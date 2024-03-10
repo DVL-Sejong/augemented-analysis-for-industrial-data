@@ -28,3 +28,5 @@ Data Fusion in Three Steps: Resolving Schema, Tuple, and Value Inconsistencies.
 
 Learning semantic correspondences with less supervision
 
+Learning to sportscast: a test of grounded language acquisition
+

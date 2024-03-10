@@ -124,3 +124,4 @@ Automatic labelling of documents based on ontology
 
 Toward generic title generation for clustered documents
 
+A template-based abstractive meeting summarization: Leveraging summary and source text relationships

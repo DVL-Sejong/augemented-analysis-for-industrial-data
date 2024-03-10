@@ -40,3 +40,4 @@ Order-planning neural text generation from structured data
 
 Enhancing content planning for table-to-text generation with data understanding and verification
 
+Neural Text Generation from Structured Data with Application to the Biography Domain

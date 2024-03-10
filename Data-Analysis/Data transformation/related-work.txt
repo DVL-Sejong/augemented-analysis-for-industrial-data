@@ -106,3 +106,4 @@ A density-based method for adaptive LDA model selection
 
 Indexing by latent semantic analysis
 
+Probabilistic latent semantic indexing

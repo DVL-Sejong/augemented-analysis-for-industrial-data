@@ -154,3 +154,4 @@ Incorporating Copying Mechanism in Sequence-to-Sequence Learning
 
 Pointing the Unknown Words
 
+Get To The Point: Summarization with Pointer-Generator Networks

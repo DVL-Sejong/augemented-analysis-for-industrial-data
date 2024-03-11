@@ -177,3 +177,4 @@ A survey of knowledge enhanced pre-trained models
 A Comprehensive Survey of Deep Learning for Image Captioning
 
 Nonparametric method for data-driven image captioning
+

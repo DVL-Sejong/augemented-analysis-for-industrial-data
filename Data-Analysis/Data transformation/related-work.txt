@@ -200,3 +200,4 @@ Mind's eye: A recurrent visual representation for image caption generation
 
 Show and tell: A neural image caption generator
 
+Long-term recurrent convolutional networks for visual recognition and description

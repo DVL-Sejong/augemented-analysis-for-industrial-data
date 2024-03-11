@@ -179,3 +179,4 @@ A Comprehensive Survey of Deep Learning for Image Captioning
 Nonparametric method for data-driven image captioning
 
 A distributed representation based query expansion approach for image captioning
+

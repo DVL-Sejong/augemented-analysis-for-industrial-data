@@ -185,3 +185,4 @@ Im2Text and Text2Im: Associating Images and Texts for Cross-Modal Retrieval
 The impact of frequency on summarization
 
 Corpus-guided sentence generation of natural images
+

@@ -181,3 +181,4 @@ Nonparametric method for data-driven image captioning
 A distributed representation based query expansion approach for image captioning
 
 Im2Text and Text2Im: Associating Images and Texts for Cross-Modal Retrieval
+

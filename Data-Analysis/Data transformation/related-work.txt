@@ -189,3 +189,4 @@ Corpus-guided sentence generation of natural images
 Composing simple image descriptions using web-scale n-grams
 
 Midge: Generating image descriptions from computer vision detections
+

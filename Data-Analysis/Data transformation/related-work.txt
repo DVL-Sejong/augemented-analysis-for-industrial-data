@@ -140,3 +140,4 @@ Neural Summarization by Extracting Sentences and Words
 
 Neural extractive summarization with side information
 
+Extractive summarization using multi-task learning with document classification

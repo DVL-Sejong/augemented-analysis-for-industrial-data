@@ -197,3 +197,4 @@ Explain images with multimodal recurrent neural networks
 Deep visual-semantic alignments for generating image descriptions
 
 Mind's eye: A recurrent visual representation for image caption generation
+

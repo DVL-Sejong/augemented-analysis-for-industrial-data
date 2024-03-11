@@ -146,3 +146,4 @@ Deep Communicating Agents for Abstractive Summarization
 
 Neural Document Summarization by Jointly Learning to Score and Select Sentences
 
+A unified model for extractive and abstractive summarization using inconsistency loss

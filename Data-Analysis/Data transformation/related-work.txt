@@ -192,3 +192,4 @@ Midge: Generating image descriptions from computer vision detections
 
 Multimodal Machine Learning: A Survey and Taxonomy
 
+Explain images with multimodal recurrent neural networks

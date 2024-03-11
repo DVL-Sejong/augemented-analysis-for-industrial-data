@@ -144,3 +144,4 @@ Extractive summarization using multi-task learning with document classification
 
 Deep Communicating Agents for Abstractive Summarization
 
+Neural Document Summarization by Jointly Learning to Score and Select Sentences

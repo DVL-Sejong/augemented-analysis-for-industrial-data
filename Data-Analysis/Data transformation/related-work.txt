@@ -164,3 +164,4 @@ Improving language understanding by generative pre-training
 
 Teaching machines to read and comprehend
 
+Summarunner: A recurrent neural network based sequence model for extractive summarization of documents

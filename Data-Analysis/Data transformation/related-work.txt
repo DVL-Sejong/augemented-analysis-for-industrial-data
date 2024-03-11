@@ -156,4 +156,4 @@ Pointing the Unknown Words
 
 Get To The Point: Summarization with Pointer-Generator Networks
 
-{BART}: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension

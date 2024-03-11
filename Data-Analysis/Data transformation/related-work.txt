@@ -187,3 +187,4 @@ The impact of frequency on summarization
 Corpus-guided sentence generation of natural images
 
 Composing simple image descriptions using web-scale n-grams
+

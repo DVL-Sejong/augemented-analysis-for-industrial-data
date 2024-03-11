@@ -194,3 +194,4 @@ Multimodal Machine Learning: A Survey and Taxonomy
 
 Explain images with multimodal recurrent neural networks
 
+Deep visual-semantic alignments for generating image descriptions

@@ -142,3 +142,4 @@ Neural extractive summarization with side information
 
 Extractive summarization using multi-task learning with document classification
 
+Deep Communicating Agents for Abstractive Summarization

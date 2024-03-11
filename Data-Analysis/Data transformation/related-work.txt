@@ -202,3 +202,4 @@ Show and tell: A neural image caption generator
 
 Long-term recurrent convolutional networks for visual recognition and description
 
+Image captioning with semantic attention

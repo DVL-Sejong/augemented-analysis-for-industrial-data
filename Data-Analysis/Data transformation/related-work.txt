@@ -470,3 +470,4 @@ Using convolutional neural networks for human activity classification on micro-D
 
 Wi-Fi-CSI-based Fall Detection by Spectrogram Analysis with CNN
 
+Wheelchair Accessibility Evaluation with Deep Learning using a Sensing Acceleration Data-Based Spectrogram

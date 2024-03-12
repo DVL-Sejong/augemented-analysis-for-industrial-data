@@ -472,3 +472,4 @@ Convolutional neural network based side-channel attacks in time-frequency repres
 
 MSIC: Malware Spectrogram Image Classification
 
+A deep learning based wearable system for food and drink intake recognition

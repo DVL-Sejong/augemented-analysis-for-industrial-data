@@ -382,3 +382,4 @@ The jester dataset: A large-scale video dataset of human gestures
 
 Ava: A video dataset of spatio-temporally localized atomic visual actions
 
+Action genome: Actions as compositions of spatio-temporal scene graphs

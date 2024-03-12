@@ -376,3 +376,4 @@ Localizing moments in video with natural language
 
 The something something video database for learning and evaluating visual common sense
 
+On the effectiveness of task granularity for transfer learning

@@ -388,3 +388,4 @@ SVD: A large-scale short video dataset for near-duplicate video retrieval
 
 DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture
 
+DeepInsight-FS: Selecting features for non-image data using convolutional neural network

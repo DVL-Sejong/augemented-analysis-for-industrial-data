@@ -322,3 +322,4 @@ One billion word benchmark for measuring progress in statistical language modeli
 
 Pointer sentinel mixture models
 
+Attribute-Graph: A Graph Based Approach to Image Ranking

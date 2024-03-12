@@ -219,3 +219,4 @@ Framing image description as a ranking task: Data, models and evaluation metrics
 From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions
 
 Microsoft coco: Common objects in context
+

@@ -242,3 +242,4 @@ Msr-vtt: A large video description dataset for bridging video and language
 
 LoL-V2T: Large-Scale Esports Video Description Dataset
 
+End-to-end dense video captioning with masked transformer

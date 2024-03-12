@@ -493,3 +493,4 @@ Generative adversarial text to image synthesis
 Learning what and where to draw
 
 Stackgan++: Realistic image synthesis with stacked generative adversarial networks
+

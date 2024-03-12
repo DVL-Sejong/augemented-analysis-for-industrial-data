@@ -426,3 +426,4 @@ Comparison between KNN and ANN Classification in Brain Balancing Application via
 
 EEG spectrogram classification employing ANN for IQ application
 
+Is it possible to detect cerebral dominance via EEG signals by using deep learning?

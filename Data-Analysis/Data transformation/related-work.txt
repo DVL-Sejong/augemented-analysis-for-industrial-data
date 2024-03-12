@@ -466,3 +466,4 @@ IQ-Data-Based WiFi Signal Classification Algorithm Using the Choi-Williams and M
 
 Ground Moving Radar Targets Classification Based on Spectrogram Images Using Convolutional Neural Networks
 
+Using convolutional neural networks for human activity classification on micro-Doppler radar spectrograms

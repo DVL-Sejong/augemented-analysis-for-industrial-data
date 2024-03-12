@@ -266,3 +266,4 @@ Hollywood in homes: Crowdsourcing data collection for activity understanding
 
 Dense-captioning events in videos
 
+Towards automatic learning of procedures from web instructional videos

@@ -482,3 +482,4 @@ Generative adversarial networks: An overview
 
 Generative adversarial nets
 
+Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks

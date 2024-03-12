@@ -417,3 +417,4 @@ EEG based multi-class seizure type classification using convolutional neural net
 An automated classification of EEG signals based on spectrogram and CNN for epilepsy diagnosis
 
 A novel deep learning approach for classification of {EEG} motor imagery signals
+

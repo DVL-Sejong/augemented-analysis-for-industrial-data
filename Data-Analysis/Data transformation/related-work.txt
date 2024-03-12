@@ -236,3 +236,4 @@ Integrating language and vision to generate natural language descriptions of vid
 
 Grounding action descriptions in videos
 
+Collecting highly parallel data for paraphrase evaluation

@@ -503,3 +503,4 @@ Adversarial learning of semantic relevance in text to image synthesis
 Semantics disentangling for text-to-image generation
 
 Attngan: Fine-grained text to image generation with attentional generative adversarial networks
+

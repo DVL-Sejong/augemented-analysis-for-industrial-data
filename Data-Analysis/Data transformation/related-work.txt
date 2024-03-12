@@ -513,3 +513,4 @@ Mirrorgan: Learning text-to-image generation by redescription
 Object-driven text-to-image synthesis via adversarial training
 
 Realistic image generation using region-phrase attention
+

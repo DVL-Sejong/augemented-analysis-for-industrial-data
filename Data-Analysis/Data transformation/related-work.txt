@@ -232,3 +232,4 @@ Translating video content to natural language descriptions
 
 Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition
 
+Integrating language and vision to generate natural language descriptions of videos in the wild

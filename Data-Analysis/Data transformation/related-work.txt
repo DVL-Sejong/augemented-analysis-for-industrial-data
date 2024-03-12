@@ -228,3 +228,4 @@ Show, control and tell: A framework for generating controllable and grounded cap
 
 Length-controllable image captioning
 
+Translating video content to natural language descriptions

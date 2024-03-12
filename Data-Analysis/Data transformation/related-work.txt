@@ -260,3 +260,4 @@ A dataset for movie description
 
 Sequence to sequence-video to text
 
+Coherent multi-sentence video description with variable level of detail

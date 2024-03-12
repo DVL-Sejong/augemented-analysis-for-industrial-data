@@ -273,3 +273,4 @@ Scaling egocentric vision: The epic-kitchens dataset
 Howto100m: Learning a text-video embedding by watching hundred million narrated video clips
 
 End-to-end let's play commentary generation using multi-modal video representations
+

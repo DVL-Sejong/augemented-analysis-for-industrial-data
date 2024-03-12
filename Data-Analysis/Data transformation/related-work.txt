@@ -420,3 +420,4 @@ A novel deep learning approach for classification of {EEG} motor imagery signals
 
 EEG Classification of Motor Imagery Using a Novel Deep Learning Framework
 
+Emotion Classification from EEG Signals in Convolutional Neural Networks

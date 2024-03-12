@@ -400,3 +400,4 @@ Automatic Classification of Motor Impairment Neural Disorders from EEG Signals U
 
 Decision support system for major depression detection using spectrogram and convolution neural network with EEG signals
 
+Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram Images of EEG Signals

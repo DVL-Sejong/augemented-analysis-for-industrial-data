@@ -222,3 +222,4 @@ Microsoft coco: Common objects in context
 
 Collecting Image Annotations Using Amazon's Mechanical Turk
 
+Learning Long-and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption

@@ -412,3 +412,4 @@ Multi-category EEG signal classification developing time-frequency texture featu
 
 Driver Fatigue Detection with Single EEG Channel Using Transfer Learning
 
+EEG based multi-class seizure type classification using convolutional neural network and transfer learning

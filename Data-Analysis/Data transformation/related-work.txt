@@ -244,3 +244,4 @@ LoL-V2T: Large-Scale Esports Video Description Dataset
 
 End-to-end dense video captioning with masked transformer
 
+{MART}: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning

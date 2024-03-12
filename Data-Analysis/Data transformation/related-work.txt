@@ -490,3 +490,4 @@ C4synth: Cross-caption cycle-consistent text-to-image synthesis
 
 Generative adversarial text to image synthesis
 
+Learning what and where to draw

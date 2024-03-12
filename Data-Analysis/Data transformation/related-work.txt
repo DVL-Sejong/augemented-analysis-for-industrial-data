@@ -436,3 +436,4 @@ Mel frequency cepstral coefficients for music modeling
 
 Noise robust audio surveillance using reduced spectrogram image feature and one-against-all SVM
 
+{GMM and CNN Hybrid Method for Short Utterance Speaker Recognition

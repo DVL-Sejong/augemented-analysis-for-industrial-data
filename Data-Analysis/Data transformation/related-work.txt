@@ -230,3 +230,4 @@ Length-controllable image captioning
 
 Translating video content to natural language descriptions
 
+Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition

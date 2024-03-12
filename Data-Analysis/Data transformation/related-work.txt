@@ -271,3 +271,4 @@ Towards automatic learning of procedures from web instructional videos
 Scaling egocentric vision: The epic-kitchens dataset
 
 Howto100m: Learning a text-video embedding by watching hundred million narrated video clips
+

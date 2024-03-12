@@ -354,3 +354,4 @@ Spatio-Temporal Graph for Video Captioning With Knowledge Distillation
 
 Temporal Reasoning Graph for Activity Recognition
 
+Object-Aware Aggregation With Bidirectional Temporal Graph for Video Captioning

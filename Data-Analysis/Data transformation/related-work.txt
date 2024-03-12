@@ -405,3 +405,4 @@ Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram 
 A spectrogram image based intelligent technique for automatic detection of autism spectrum disorder from EEG
 
 Patients’ EEG data analysis via spectrogram image with a convolution neural network
+

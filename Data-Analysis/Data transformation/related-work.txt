@@ -418,3 +418,4 @@ An automated classification of EEG signals based on spectrogram and CNN for epil
 
 A novel deep learning approach for classification of {EEG} motor imagery signals
 
+EEG Classification of Motor Imagery Using a Novel Deep Learning Framework

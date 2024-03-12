@@ -505,3 +505,5 @@ Semantics disentangling for text-to-image generation
 Attngan: Fine-grained text to image generation with attentional generative adversarial networks
 
 Controllable text-to-image generation
+
+Learn, imagine and create: Text-to-image generation from prior knowledge

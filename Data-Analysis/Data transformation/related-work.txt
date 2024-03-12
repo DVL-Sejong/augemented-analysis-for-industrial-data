@@ -430,3 +430,4 @@ Is it possible to detect cerebral dominance via EEG signals by using deep learni
 
 An Effective Hybrid Model for EEG-Based Drowsiness Detection
 
+An EEG spectrogram-based automatic sleep stage scoring method via data augmentation, ensemble convolution neural network, and expert knowledge

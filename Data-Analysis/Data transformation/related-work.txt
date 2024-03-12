@@ -227,3 +227,4 @@ Learning Long-and Short-Term User Literal-Preference with Multimodal Hierarchica
 Show, control and tell: A framework for generating controllable and grounded captions
 
 Length-controllable image captioning
+

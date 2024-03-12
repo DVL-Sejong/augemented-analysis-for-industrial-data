@@ -315,3 +315,5 @@ Exploiting constituent dependencies for tree kernel-based semantic relation extr
 Modeling relations and their mentions without labeled text
 
 Knowledge base population: Successful approaches and challenges
+
+Dbpedia-a crystallization point for the web of data

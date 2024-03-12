@@ -302,3 +302,4 @@ Infusion of labeled data into distant supervision for relation extraction
 
 Encoding relation requirements for relation extraction via joint inference
 
+Learning a health knowledge graph from electronic medical records

@@ -280,3 +280,4 @@ Building a PubMed knowledge graph
 
 Kernel Methods for Relation Extraction
 
+Exploring Various Knowledge in Relation Extraction

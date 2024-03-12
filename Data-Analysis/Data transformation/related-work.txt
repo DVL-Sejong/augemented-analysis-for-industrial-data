@@ -448,3 +448,4 @@ Speech and music classification using hybrid Form of spectrogram and fourier tra
 
 Robust sound event recognition using convolutional neural networks
 
+Acoustic Scene Classification Using a CNN-SuperVector System Trained with Auditory and Spectrogram Image Features.

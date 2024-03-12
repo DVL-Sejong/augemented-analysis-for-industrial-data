@@ -274,3 +274,4 @@ Howto100m: Learning a text-video embedding by watching hundred million narrated 
 
 End-to-end let's play commentary generation using multi-modal video representations
 
+Combining enterprise knowledge graph and news sentiment analysis for stock price prediction

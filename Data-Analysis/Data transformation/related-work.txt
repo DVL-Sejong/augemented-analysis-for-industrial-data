@@ -466,3 +466,4 @@ Spectrogram-Based Classification Of Spoken Foul Language Using Deep CNN
 
 Efficient Classification of Environmental Sounds through Multiple Features Aggregation and Data Enhancement Techniques for Spectrogram Images
 
+A Spectrogram Image-Based Network Anomaly Detection System Using Deep Convolutional Neural Network

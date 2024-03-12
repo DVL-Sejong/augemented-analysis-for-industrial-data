@@ -472,3 +472,4 @@ Wi-Fi-CSI-based Fall Detection by Spectrogram Analysis with CNN
 
 Wheelchair Accessibility Evaluation with Deep Learning using a Sensing Acceleration Data-Based Spectrogram
 
+CNN/Bi-LSTM-based deep learning algorithm for classification of power quality disturbances by using spectrogram images

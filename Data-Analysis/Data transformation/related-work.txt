@@ -415,3 +415,4 @@ Driver Fatigue Detection with Single EEG Channel Using Transfer Learning
 EEG based multi-class seizure type classification using convolutional neural network and transfer learning
 
 An automated classification of EEG signals based on spectrogram and CNN for epilepsy diagnosis
+

@@ -432,3 +432,4 @@ An Effective Hybrid Model for EEG-Based Drowsiness Detection
 
 An EEG spectrogram-based automatic sleep stage scoring method via data augmentation, ensemble convolution neural network, and expert knowledge
 
+Mel frequency cepstral coefficients for music modeling

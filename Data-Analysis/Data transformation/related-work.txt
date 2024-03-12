@@ -475,3 +475,4 @@ Wheelchair Accessibility Evaluation with Deep Learning using a Sensing Accelerat
 CNN/Bi-LSTM-based deep learning algorithm for classification of power quality disturbances by using spectrogram images
 
 Structural vibration-based classification and prediction of delamination in smart composite laminates using deep learning neural network
+

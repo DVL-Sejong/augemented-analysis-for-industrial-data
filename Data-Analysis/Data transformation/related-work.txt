@@ -460,3 +460,4 @@ Detection of nearby UAVs using CNN and Spectrograms
 
 Cough recognition based on mel-spectrogram and convolutional neural network
 
+An Empathy Evaluation System Using Spectrogram Image Features of Audio

@@ -446,3 +446,4 @@ Acoustic Characteristics of Emotional Speech Using Spectrogram Image Classificat
 
 Speech and music classification using hybrid Form of spectrogram and fourier transformation
 
+Robust sound event recognition using convolutional neural networks

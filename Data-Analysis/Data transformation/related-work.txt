@@ -476,3 +476,4 @@ CNN/Bi-LSTM-based deep learning algorithm for classification of power quality di
 
 Structural vibration-based classification and prediction of delamination in smart composite laminates using deep learning neural network
 
+Using CNN To Classify Spectrograms of Seismic Events From Llaima Volcano (Chile)

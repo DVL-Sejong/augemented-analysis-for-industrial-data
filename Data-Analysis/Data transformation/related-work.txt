@@ -210,3 +210,4 @@ Simple image description generator via a linear phrase-based approach
 
 Deep correlation for matching images and text
 
+The pascal visual object classes (voc) challenge

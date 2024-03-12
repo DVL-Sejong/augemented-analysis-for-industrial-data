@@ -264,3 +264,4 @@ Coherent multi-sentence video description with variable level of detail
 
 Hollywood in homes: Crowdsourcing data collection for activity understanding
 
+Dense-captioning events in videos

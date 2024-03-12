@@ -463,3 +463,4 @@ Deep Neural Network-Based Gait Classification Using Wearable Inertial Sensor Dat
 Application of CNN for Human Activity Recognition with FFT Spectrogram of Acceleration and Gyro Sensors
 
 IQ-Data-Based WiFi Signal Classification Algorithm Using the Choi-Williams and Margenau-Hill-Spectrogram Features: A Case in Human Activity Recognition
+

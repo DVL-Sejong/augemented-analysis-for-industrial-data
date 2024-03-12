@@ -292,3 +292,4 @@ Relation extraction with multi-instance multi-label convolutional neural network
 
 Neural relation extraction with selective attention over instances
 
+Incorporating Relation Paths in Neural Relation Extraction

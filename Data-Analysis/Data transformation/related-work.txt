@@ -399,3 +399,4 @@ Diagnosis of autism spectrum disorder from EEG using a time–frequency spectrog
 Automatic Classification of Motor Impairment Neural Disorders from EEG Signals Using Deep Convolutional Neural Networks
 
 Decision support system for major depression detection using spectrogram and convolution neural network with EEG signals
+

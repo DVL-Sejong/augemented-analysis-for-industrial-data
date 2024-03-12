@@ -478,3 +478,4 @@ Non-invasive monitoring of eating behavior using spectrogram analysis in a weara
 
 Recognition of Nutrition Intake Using Time-Frequency Decomposition in a Wearable Necklace Using a Piezoelectric Sensor
 
+ECG Arrhythmia Classification Using Transfer Learning from 2- Dimensional Deep CNN Features

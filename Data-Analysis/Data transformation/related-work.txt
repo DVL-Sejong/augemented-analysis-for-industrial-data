@@ -269,3 +269,4 @@ Dense-captioning events in videos
 Towards automatic learning of procedures from web instructional videos
 
 Scaling egocentric vision: The epic-kitchens dataset
+

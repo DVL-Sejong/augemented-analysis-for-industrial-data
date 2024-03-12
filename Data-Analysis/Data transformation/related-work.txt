@@ -391,3 +391,4 @@ DeepInsight: A methodology to transform a non-image data to an image for convolu
 DeepInsight-FS: Selecting features for non-image data using convolutional neural network
 
 Cybersickness Analysis with EEG Using Deep Learning Algorithms
+

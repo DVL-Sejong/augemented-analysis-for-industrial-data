@@ -478,3 +478,4 @@ Structural vibration-based classification and prediction of delamination in smar
 
 Using CNN To Classify Spectrograms of Seismic Events From Llaima Volcano (Chile)
 
+Generative adversarial networks: An overview

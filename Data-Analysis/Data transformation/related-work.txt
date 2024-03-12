@@ -489,3 +489,4 @@ I2t2i: Learning text to image synthesis with textual data augmentation
 C4synth: Cross-caption cycle-consistent text-to-image synthesis
 
 Generative adversarial text to image synthesis
+

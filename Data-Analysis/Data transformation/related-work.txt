@@ -509,3 +509,5 @@ Controllable text-to-image generation
 Learn, imagine and create: Text-to-image generation from prior knowledge
 
 Mirrorgan: Learning text-to-image generation by redescription
+
+Object-driven text-to-image synthesis via adversarial training

@@ -246,3 +246,4 @@ End-to-end dense video captioning with masked transformer
 
 MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning
 
+End-to-end Dense Video Captioning as Sequence Generation

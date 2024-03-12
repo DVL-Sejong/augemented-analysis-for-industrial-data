@@ -458,3 +458,4 @@ Detecting hypopnea and obstructive apnea events using convolutional neural netwo
 
 Combining 3d image and tabular data via the dynamic affine feature map transform
 
+Deep Neural Network-Based Gait Classification Using Wearable Inertial Sensor Data

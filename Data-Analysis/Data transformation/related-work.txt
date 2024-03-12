@@ -452,3 +452,4 @@ Acoustic Scene Classification Using a CNN-SuperVector System Trained with Audito
 
 A Cnn-Gru Approach to Capture Time-Frequency Pattern Interdependence for Snore Sound Classification
 
+Application of deep visualization in CNN-based tool condition monitoring for end milling

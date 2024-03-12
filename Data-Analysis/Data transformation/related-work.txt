@@ -221,3 +221,4 @@ From image descriptions to visual denotations: New similarity metrics for semant
 Microsoft coco: Common objects in context
 
 Collecting Image Annotations Using Amazon's Mechanical Turk
+

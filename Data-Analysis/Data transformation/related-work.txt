@@ -450,3 +450,4 @@ Robust sound event recognition using convolutional neural networks
 
 Acoustic Scene Classification Using a CNN-SuperVector System Trained with Auditory and Spectrogram Image Features
 
+A Cnn-Gru Approach to Capture Time-Frequency Pattern Interdependence for Snore Sound Classification

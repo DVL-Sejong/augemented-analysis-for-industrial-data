@@ -484,3 +484,4 @@ Generative adversarial nets
 
 Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks
 
+I2t2i: Learning text to image synthesis with textual data augmentation

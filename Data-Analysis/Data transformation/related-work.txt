@@ -220,3 +220,4 @@ From image descriptions to visual denotations: New similarity metrics for semant
 
 Microsoft coco: Common objects in context
 
+Collecting Image Annotations Using {A}mazon{'}s {M}echanical {T}urk

@@ -498,3 +498,4 @@ Photographic text-to-image synthesis with a hierarchically-nested adversarial ne
 
 Inferring semantic layout for hierarchical text-to-image synthesis
 
+Adversarial learning of semantic relevance in text to image synthesis

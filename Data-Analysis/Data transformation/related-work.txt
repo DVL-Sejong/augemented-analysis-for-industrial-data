@@ -468,3 +468,4 @@ Efficient Classification of Environmental Sounds through Multiple Features Aggre
 
 A Spectrogram Image-Based Network Anomaly Detection System Using Deep Convolutional Neural Network
 
+Convolutional neural network based side-channel attacks in time-frequency representations

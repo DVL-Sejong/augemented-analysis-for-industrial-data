@@ -408,3 +408,4 @@ Patients’ EEG data analysis via spectrogram image with a convolution neural ne
 
 Deep Learning With EEG Spectrograms in Rapid Eye Movement Behavior Disorder
 
+Multi-category EEG signal classification developing time-frequency texture features based Fisher Vector encoding method

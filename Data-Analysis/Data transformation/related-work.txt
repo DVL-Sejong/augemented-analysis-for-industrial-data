@@ -212,3 +212,4 @@ Deep correlation for matching images and text
 
 The pascal visual object classes (voc) challenge
 
+Im2text: Describing images using 1 million captioned photographs

@@ -424,3 +424,4 @@ Emotion Classification from EEG Signals in Convolutional Neural Networks
 
 Comparison between KNN and ANN Classification in Brain Balancing Application via Spectrogram Image
 
+EEG spectrogram classification employing ANN for IQ application

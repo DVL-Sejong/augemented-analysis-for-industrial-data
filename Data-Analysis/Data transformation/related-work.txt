@@ -208,3 +208,4 @@ Multimodal convolutional neural networks for matching image and sentence
 
 Simple image description generator via a linear phrase-based approach
 
+Deep correlation for matching images and text

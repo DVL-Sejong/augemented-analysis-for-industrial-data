@@ -402,3 +402,4 @@ Decision support system for major depression detection using spectrogram and con
 
 Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram Images of EEG Signals
 
+A spectrogram image based intelligent technique for automatic detection of autism spectrum disorder from EEG

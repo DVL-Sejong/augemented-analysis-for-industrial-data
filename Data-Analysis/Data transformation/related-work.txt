@@ -497,3 +497,4 @@ Stackgan++: Realistic image synthesis with stacked generative adversarial networ
 Photographic text-to-image synthesis with a hierarchically-nested adversarial network
 
 Inferring semantic layout for hierarchical text-to-image synthesis
+

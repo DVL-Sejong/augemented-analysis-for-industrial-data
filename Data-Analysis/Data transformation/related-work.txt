@@ -255,3 +255,4 @@ Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Capt
 Text With Knowledge Graph Augmented Transformer for Video Captioning
 
 Using descriptive video services to create a large data source for video annotation research
+

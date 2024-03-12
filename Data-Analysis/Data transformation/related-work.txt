@@ -392,3 +392,4 @@ DeepInsight-FS: Selecting features for non-image data using convolutional neural
 
 Cybersickness Analysis with EEG Using Deep Learning Algorithms
 
+Electroencephalography.

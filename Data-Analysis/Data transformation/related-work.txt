@@ -248,3 +248,4 @@ MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captio
 
 End-to-end Dense Video Captioning as Sequence Generation
 
+PaLI-X: On Scaling up a Multilingual Vision and Language Model

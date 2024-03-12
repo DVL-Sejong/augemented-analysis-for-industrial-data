@@ -253,3 +253,4 @@ PaLI-X: On Scaling up a Multilingual Vision and Language Model
 Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
 
 Text With Knowledge Graph Augmented Transformer for Video Captioning
+

@@ -456,3 +456,4 @@ Application of deep visualization in CNN-based tool condition monitoring for end
 
 A CNN-based method for infant cry detection and recognition
 
+Detection of nearby UAVs using CNN and Spectrograms

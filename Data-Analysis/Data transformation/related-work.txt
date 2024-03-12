@@ -341,3 +341,4 @@ Imagenet: A large-scale hierarchical image database
 A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics
 
 Ntire 2017 challenge on single image super-resolution: Methods and results
+

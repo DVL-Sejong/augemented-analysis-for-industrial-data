@@ -343,3 +343,4 @@ A Database of Human Segmented Natural Images and its Application to Evaluating S
 Ntire 2017 challenge on single image super-resolution: Methods and results
 
 Visual genome: Connecting language and vision using crowdsourced dense image annotations
+

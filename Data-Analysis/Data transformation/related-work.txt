@@ -476,3 +476,4 @@ A deep learning based wearable system for food and drink intake recognition
 
 Non-invasive monitoring of eating behavior using spectrogram analysis in a wearable necklace
 
+Recognition of Nutrition Intake Using Time-Frequency Decomposition in a Wearable Necklace Using a Piezoelectric Sensor

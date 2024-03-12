@@ -217,3 +217,4 @@ Im2text: Describing images using 1 million captioned photographs
 Framing image description as a ranking task: Data, models and evaluation metrics
 
 From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions
+

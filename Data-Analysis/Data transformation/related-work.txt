@@ -494,3 +494,4 @@ Learning what and where to draw
 
 Stackgan++: Realistic image synthesis with stacked generative adversarial networks
 
+Photographic text-to-image synthesis with a hierarchically-nested adversarial network

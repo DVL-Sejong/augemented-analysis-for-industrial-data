@@ -263,3 +263,4 @@ Sequence to sequence-video to text
 Coherent multi-sentence video description with variable level of detail
 
 Hollywood in homes: Crowdsourcing data collection for activity understanding
+

@@ -338,3 +338,6 @@ Describing objects by their attributes
 
 Imagenet: A large-scale hierarchical image database
 
+A Database of Human Segmented Natural Images and its
+           Application to Evaluating Segmentation Algorithms and
+           Measuring Ecological Statistics

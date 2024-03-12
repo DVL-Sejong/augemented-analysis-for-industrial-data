@@ -287,3 +287,4 @@ A feature-enriched tree kernel for relation extraction
 Deep learning-based knowledge graph generation for COVID-19
 
 Typed tensor decomposition of knowledge bases for relation extraction
+

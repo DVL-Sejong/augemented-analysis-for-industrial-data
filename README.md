@@ -24,6 +24,7 @@ Development of automatic data semantic information composition/expression techno
 - (MS student) Changyoung Jung
 - (MS student) SeokHwan Choi
 - (MS student) Seongbum Seo
+- (BS student) Gyuri Lee
 
 # Leave of Absence
 - (MS student) Seongwon Choi

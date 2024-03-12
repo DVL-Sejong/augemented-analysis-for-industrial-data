@@ -324,3 +324,4 @@ Pointer sentinel mixture models
 
 Attribute-Graph: A Graph Based Approach to Image Ranking
 
+Graph Convolutional Networks for Hyperspectral Image Classification

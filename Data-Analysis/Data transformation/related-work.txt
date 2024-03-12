@@ -306,3 +306,4 @@ Learning a health knowledge graph from electronic medical records
 
 Knowedu: A system to construct knowledge graph for education
 
+Semantic relation extraction using sequential and tree-structured LSTM with attention

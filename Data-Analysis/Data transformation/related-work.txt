@@ -360,3 +360,4 @@ Unified Graph Structured Models for Video Understanding
 
 Pyramid regional graph representation learning for content-based video retrieval
 
+The 2017 davis challenge on video object segmentation

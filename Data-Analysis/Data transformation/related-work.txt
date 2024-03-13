@@ -609,3 +609,4 @@ Cross-Domain Analysis of ML and DL: Evaluating their Impact in Diverse Domains
 Improved techniques for training gans
 
 Pros and cons of gan evaluation measures
+

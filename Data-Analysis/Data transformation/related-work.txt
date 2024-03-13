@@ -522,3 +522,4 @@ Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthes
 
 Simgan: Photo-realistic semantic image manipulation using generative adversarial networks
 
+Visual-relation conscious image generation from structured-text

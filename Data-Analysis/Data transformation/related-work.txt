@@ -612,3 +612,4 @@ Pros and cons of gan evaluation measures
 
 Speech and language processing
 
+Enriching word vectors with subword information

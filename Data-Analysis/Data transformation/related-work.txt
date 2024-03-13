@@ -536,3 +536,4 @@ Text-to-image synthesis via visual-memory creative adversarial network
 
 Caltech-UCSD Birds 200
 
+"Automated Flower Classification over a Large Number of Classes"

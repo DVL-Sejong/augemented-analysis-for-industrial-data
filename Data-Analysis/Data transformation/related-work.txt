@@ -614,4 +614,4 @@ Speech and language processing
 
 Enriching word vectors with subword information
 
-"Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference"
+Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference

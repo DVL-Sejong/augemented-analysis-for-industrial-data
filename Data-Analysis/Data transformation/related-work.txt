@@ -533,3 +533,4 @@ Text-to-image synthesis via symmetrical distillation networks
 Semantically invariant text-to-image generation
 
 Text-to-image synthesis via visual-memory creative adversarial network
+

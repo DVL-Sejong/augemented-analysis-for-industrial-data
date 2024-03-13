@@ -596,3 +596,4 @@ Speak - The speaking app that actually talks
 
 ELSA Speak
 
+Siri - Apple

@@ -525,3 +525,4 @@ Simgan: Photo-realistic semantic image manipulation using generative adversarial
 Visual-relation conscious image generation from structured-text
 
 Text-adaptive generative adversarial networks: manipulating images with natural language
+

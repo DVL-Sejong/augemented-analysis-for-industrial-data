@@ -520,3 +520,4 @@ Hierarchically-fused generative adversarial network for text to realistic image 
 
 Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis
 
+Simgan: Photo-realistic semantic image manipulation using generative adversarial networks

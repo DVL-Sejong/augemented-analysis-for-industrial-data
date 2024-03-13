@@ -518,3 +518,4 @@ Semantics-enhanced adversarial nets for text-to-image synthesis
 
 Hierarchically-fused generative adversarial network for text to realistic image synthesis
 
+Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis

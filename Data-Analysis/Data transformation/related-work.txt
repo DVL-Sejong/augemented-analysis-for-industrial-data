@@ -558,3 +558,4 @@ MBrain: A Multi-Channel Self-Supervised Learning Framework for Brain Signals
 
 The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
 
+Gaze Stripes: Image-Based Visualization of Eye Tracking Data

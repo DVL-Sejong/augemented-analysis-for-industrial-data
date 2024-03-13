@@ -534,4 +534,4 @@ Semantically invariant text-to-image generation
 
 Text-to-image synthesis via visual-memory creative adversarial network
 
-Caltech-UCSD Birds 200}
+Caltech-UCSD Birds 200

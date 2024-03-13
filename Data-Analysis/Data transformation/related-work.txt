@@ -590,4 +590,4 @@ Limitations of information extraction methods and techniques for heterogeneous u
 
 CLOVA
 
-Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce conversations.
+Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce conversations

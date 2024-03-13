@@ -552,3 +552,4 @@ Table-to-Text Natural Language Generation with Unseen Schemas
 
 Hierarchical encoder with auxiliary supervision for neural table-to-text generation: Learning better representation for tables
 
+{Fundamentals of EEG measurement

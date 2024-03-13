@@ -530,3 +530,4 @@ Semantic object accuracy for generative text-to-image synthesis
 
 Text-to-image synthesis via symmetrical distillation networks
 
+Semantically invariant text-to-image generation

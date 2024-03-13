@@ -572,3 +572,4 @@ Image Captioning with Attention for Smart Local Tourism using EfficientNet
 
 Reconciling Image Captioning and User’s Comments for Urban Tourism
 
+Mask r-cnn

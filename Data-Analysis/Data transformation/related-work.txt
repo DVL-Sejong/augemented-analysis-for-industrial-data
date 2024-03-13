@@ -616,4 +616,4 @@ Enriching word vectors with subword information
 
 Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
 
-"Neural Text Generation from Structured Data with Application to the Biography Domain"
+Neural Text Generation from Structured Data with Application to the Biography Domain

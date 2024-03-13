@@ -592,3 +592,4 @@ CLOVA
 
 Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce conversations
 
+Speak - The speaking app that actually talks

@@ -595,3 +595,4 @@ Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce c
 Speak - The speaking app that actually talks
 
 ELSA Speak
+

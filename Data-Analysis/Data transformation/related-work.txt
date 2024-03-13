@@ -550,3 +550,4 @@ Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structure
 
 Table-to-Text Natural Language Generation with Unseen Schemas
 
+Hierarchical encoder with auxiliary supervision for neural table-to-text generation: Learning better representation for tables

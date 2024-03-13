@@ -564,3 +564,4 @@ Llama: Open and efficient foundation language models
 
 Llama 2: Open foundation and fine-tuned chat models
 
+Fashion-Oriented Image Captioning with External Knowledge Retrieval and Fully Attentive Gates

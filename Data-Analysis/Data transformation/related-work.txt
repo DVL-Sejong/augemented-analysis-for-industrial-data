@@ -576,3 +576,4 @@ Mask r-cnn
 
 Addressing semantic heterogeneity through multiple knowledge base assisted merging of domain-specific ontologies
 
+Document Understanding Conference - publications data

@@ -529,3 +529,4 @@ Text-adaptive generative adversarial networks: manipulating images with natural 
 Semantic object accuracy for generative text-to-image synthesis
 
 Text-to-image synthesis via symmetrical distillation networks
+

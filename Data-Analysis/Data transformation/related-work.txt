@@ -584,3 +584,4 @@ Stockwell transform and semi-supervised feature selection from deep features for
 
 Rectification of the bias in the wavelet power spectrum
 
+A practical guide to wavelet analysis

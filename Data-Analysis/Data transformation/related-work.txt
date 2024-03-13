@@ -574,3 +574,4 @@ Reconciling Image Captioning and User’s Comments for Urban Tourism
 
 Mask r-cnn
 
+Addressing semantic heterogeneity through multiple knowledge base assisted merging of domain-specific ontologies

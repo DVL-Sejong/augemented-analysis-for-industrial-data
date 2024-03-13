@@ -569,3 +569,4 @@ Fashion-Oriented Image Captioning with External Knowledge Retrieval and Fully At
 Attribute Conditioned Fashion Image Captioning
 
 Image Captioning with Attention for Smart Local Tourism using EfficientNet
+

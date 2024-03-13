@@ -516,3 +516,4 @@ Realistic image generation using region-phrase attention
 
 Semantics-enhanced adversarial nets for text-to-image synthesis
 
+Hierarchically-fused generative adversarial network for text to realistic image synthesis

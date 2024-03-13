@@ -515,3 +515,4 @@ Object-driven text-to-image synthesis via adversarial training
 Realistic image generation using region-phrase attention
 
 Semantics-enhanced adversarial nets for text-to-image synthesis
+

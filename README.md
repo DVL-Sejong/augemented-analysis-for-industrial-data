@@ -18,7 +18,7 @@ Development of automatic data semantic information composition/expression techno
 - Human-like AI
 
 # Target Conferences
-- IEEE VIS
+- IEEE Visualization Conference (IEEE VIS)
 - IEEE PacificVis
 - PacificGraphics
 - EuroVis

@@ -18,6 +18,7 @@ Development of automatic data semantic information composition/expression techno
 - Human-like AI
 
 # Related Conferences and Journals
+- IEEE VIS
 
 
 # Members

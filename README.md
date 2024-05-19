@@ -14,6 +14,7 @@ Development of automatic data semantic information composition/expression techno
 - Traffic Analysis
 - EEG Analysis
 - Knowledge map
+- Human-like AI
 
 # Members
 - (Professor) Yun Jang

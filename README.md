@@ -22,12 +22,13 @@ Development of automatic data semantic information composition/expression techno
 - IEEE PacificVis
 - EuroVis
 - CHI
+- 
 
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Computer Graphics Forum (CGF)
 - IEEE Computer Graphics and Applications (CG&A)
-
+- Nature Human Behaviour
 
 # Members
 - (Professor) Yun Jang

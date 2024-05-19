@@ -17,6 +17,7 @@ Development of automatic data semantic information composition/expression techno
 - Knowledge map
 - Human-like AI
 
+
 # Target Conferences
 - IEEE Visualization Conference (IEEE VIS)
 - IEEE PacificVis
@@ -34,6 +35,7 @@ Development of automatic data semantic information composition/expression techno
 - SIGRAPH
 - SIGRAPH Asia
 - Cognitive Science Society (CogSci)
+
 
 # Target Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)

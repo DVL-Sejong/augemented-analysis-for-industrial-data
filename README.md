@@ -25,6 +25,7 @@ Development of automatic data semantic information composition/expression techno
 - Hawaii International Conference on System Sciences (HICSS)
 - IEEE BigData
 - CHI
+- User Interface Software and Technology (UIST)
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - European Conference on Artificial Intelligence (ECAI)

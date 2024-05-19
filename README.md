@@ -17,7 +17,7 @@ Development of automatic data semantic information composition/expression techno
 - Knowledge map
 - Human-like AI
 
-# Related Conferences
+# Target Conferences
 - IEEE VIS
 - IEEE PacificVis
 - EuroVis
@@ -37,6 +37,7 @@ Development of automatic data semantic information composition/expression techno
 - Expert Systems with Applications
 - ACM Computing Surveys (CSUR)
 - ACM Transactions on Computer-Human Interaction (TOCHI)
+
 
 
 # Members

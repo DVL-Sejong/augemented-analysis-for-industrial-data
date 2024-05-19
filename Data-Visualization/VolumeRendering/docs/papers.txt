@@ -27,4 +27,4 @@ References:
 ADDED (Reivision)
 iLAMP: Exploring high-dimensional spacing through backward multidimensional projection (https://ieeexplore.ieee.org/document/6400489)
 Deep Feature Annotation by Iterative Meta-Pseudo-Labeling on 2D Projection (2023) B. Benato, A. Telea, A. Falcao. Pattern Recognition 141 (https://www.sciencedirect.com/science/article/pii/S0031320323003503?via%3Dihub)
-Jarke J. van Wijk, Cornelius W.A.M. van Overveld, Preset Based Interaction with High Dimensional Parameter Spaces, In: F.H. Post, G.M. Nielson. G.-P. Bonneau (eds.), Data Visualization - The State of the Art. Kluwer Academic Publishers, 2003, p. 391-406
+Jarke J. van Wijk, Cornelius W.A.M. van Overveld, Preset Based Interaction with High Dimensional Parameter Spaces, In: F.H. Post, G.M. Nielson. G.-P. Bonneau (eds.), Data Visualization - The State of the Art. Kluwer Academic Publishers, 2003, p. 391-406 (https://link.springer.com/chapter/10.1007/978-1-4615-1177-9_27)

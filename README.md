@@ -43,7 +43,7 @@ Development of automatic data semantic information composition/expression techno
 - Expert Systems with Applications
 - ACM Computing Surveys (CSUR)
 - ACM Transactions on Computer-Human Interaction (TOCHI)
-
+- ACM Transactions on Graphics (ToG)
 
 
 # Members

@@ -29,7 +29,7 @@ Development of automatic data semantic information composition/expression techno
 - SIGRAPH
 - SIGRAPH Asia
 
-# Related Journals
+# Target Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Computer Graphics Forum (CGF)
 - IEEE Computer Graphics and Applications (CG&A)

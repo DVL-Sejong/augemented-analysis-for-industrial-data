@@ -27,6 +27,7 @@ Development of automatic data semantic information composition/expression techno
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - European Conference on Artificial Intelligence (ECAI)
+- Annual Meeting of the Association for Computational Linguistics (ACL)
 - SIGRAPH
 - SIGRAPH Asia
 

@@ -21,6 +21,7 @@ Development of automatic data semantic information composition/expression techno
 - IEEE VIS
 - IEEE PacificVis
 - EuroVis
+- IEEE BigData
 - CHI
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - Conference on Neural Information Processing Systems (NeurIPS)

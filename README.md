@@ -22,6 +22,7 @@ Development of automatic data semantic information composition/expression techno
 - IEEE PacificVis
 - PacificGraphics
 - EuroVis
+- Hawaii International Conference on System Sciences (HICSS)
 - IEEE BigData
 - CHI
 - International Joint Conference on Artificial Intelligence (IJCAI)

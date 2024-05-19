@@ -27,6 +27,7 @@ Development of automatic data semantic information composition/expression techno
 - Conference on Neural Information Processing Systems (NeurIPS)
 - European Conference on Artificial Intelligence (ECAI)
 - SIGRAPH
+- SIGRAPH Asia
 
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)

@@ -1,4 +1,4 @@
-# Augemented analysis for industrial data
+# Augemented analysis for industrial data: SEJONG UNIVERISTY
 Development of automatic data semantic information composition/expression technology based on augmented analysis for diagnosing industrial data status and maximizing improvement
 2022.04.01 ~ 2024.12.31
 

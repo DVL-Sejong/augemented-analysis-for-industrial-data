@@ -29,6 +29,7 @@ Development of automatic data semantic information composition/expression techno
 - Computer Graphics Forum (CGF)
 - IEEE Computer Graphics and Applications (CG&A)
 - Nature Human Behaviour
+- Expert Systems with Applications
 
 # Members
 - (Professor) Yun Jang

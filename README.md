@@ -26,6 +26,7 @@ Development of automatic data semantic information composition/expression techno
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Computer Graphics Forum (CGF)
+- IEEE Computer Graphics and Applications (CG&A)
 
 
 # Members

@@ -36,7 +36,6 @@ Development of automatic data semantic information composition/expression techno
 - SIGRAPH Asia
 - Cognitive Science Society (CogSci)
 
-
 # Target Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Computer Graphics Forum (CGF)

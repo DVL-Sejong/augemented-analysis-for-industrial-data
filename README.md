@@ -20,6 +20,7 @@ Development of automatic data semantic information composition/expression techno
 # Target Conferences
 - IEEE VIS
 - IEEE PacificVis
+- PacificGraphics
 - EuroVis
 - IEEE BigData
 - CHI

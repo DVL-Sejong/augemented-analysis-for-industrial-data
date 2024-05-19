@@ -21,7 +21,7 @@ Development of automatic data semantic information composition/expression techno
 - IEEE VIS
 - IEEE PacificVis
 - EuroVis
-- 
+- CHI
 
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)

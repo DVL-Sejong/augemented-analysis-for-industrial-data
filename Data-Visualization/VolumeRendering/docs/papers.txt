@@ -26,3 +26,4 @@ References:
 
 ADDED (Reivision)
 https://ieeexplore.ieee.org/document/6400489
+Deep Feature Annotation by Iterative Meta-Pseudo-Labeling on 2D Projection (2023) B. Benato, A. Telea, A. Falcao. Pattern Recognition 141

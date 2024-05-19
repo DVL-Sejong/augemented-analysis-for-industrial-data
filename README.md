@@ -17,11 +17,13 @@ Development of automatic data semantic information composition/expression techno
 - Knowledge map
 - Human-like AI
 
-# Related Conferences and Journals
+# Related Conferences
 - IEEE VIS
 - IEEE PacificVis
 - EuroVis
+- 
 
+# Related Journals
 
 # Members
 - (Professor) Yun Jang

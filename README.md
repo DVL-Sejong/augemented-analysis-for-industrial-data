@@ -32,6 +32,7 @@ Development of automatic data semantic information composition/expression techno
 - IEEE Computer Graphics and Applications (CG&A)
 - Nature Human Behaviour
 - Expert Systems with Applications
+- ACM Computing Surveys (CSUR)
 
 # Members
 - (Professor) Yun Jang

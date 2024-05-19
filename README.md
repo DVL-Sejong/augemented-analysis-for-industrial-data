@@ -33,6 +33,7 @@ Development of automatic data semantic information composition/expression techno
 - ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
 - SIGRAPH
 - SIGRAPH Asia
+- Cognitive Science Society (CogSci)
 
 # Target Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)

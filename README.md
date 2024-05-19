@@ -25,6 +25,8 @@ Development of automatic data semantic information composition/expression techno
 
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- Computer Graphics Forum (CGF)
+
 
 # Members
 - (Professor) Yun Jang

@@ -30,6 +30,7 @@ Development of automatic data semantic information composition/expression techno
 - Conference on Neural Information Processing Systems (NeurIPS)
 - European Conference on Artificial Intelligence (ECAI)
 - Annual Meeting of the Association for Computational Linguistics (ACL)
+- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
 - SIGRAPH
 - SIGRAPH Asia
 

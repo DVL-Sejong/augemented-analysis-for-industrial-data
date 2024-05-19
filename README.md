@@ -20,6 +20,7 @@ Development of automatic data semantic information composition/expression techno
 # Related Conferences and Journals
 - IEEE VIS
 - IEEE PacificVis
+- EuroVis
 
 
 # Members

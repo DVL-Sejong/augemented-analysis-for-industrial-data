@@ -22,7 +22,7 @@ Development of automatic data semantic information composition/expression techno
 - IEEE PacificVis
 - EuroVis
 - CHI
-- 
+- International Joint Conference on Artificial Intelligence (IJCAI)
 
 # Related Journals
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)

@@ -21,3 +21,14 @@ _FLOW_FIELDS = [
     "src_tx",
     "dst_tx",
 ]
+
+_POPULAR_PORTS = {
+    80: 'http',
+    8080: 'http',
+    443: 'ssl',
+    22: 'ssh',
+    53: 'dns',
+    123: 'ntp',
+    143: 'imap',
+    993: 'imap-ssl',
+}

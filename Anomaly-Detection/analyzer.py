@@ -32,3 +32,9 @@ _POPULAR_PORTS = {
     143: 'imap',
     993: 'imap-ssl',
 }
+
+_INTERESTING_PORTS = {
+    0: 'reserved',
+    81: 'Tor',
+    82: 'Tor-control',
+}

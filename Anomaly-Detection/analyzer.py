@@ -64,3 +64,8 @@ class Flow(collections.namedtuple("Flow", _FLOW_FIELDS)):
                     dst_port=int(e[6]),
                     src_tx=int(e[7]),
                     dst_tx=int(e[8]))
+
+_ALERT_FIELDS = [
+    "name",
+    "evidence",
+]

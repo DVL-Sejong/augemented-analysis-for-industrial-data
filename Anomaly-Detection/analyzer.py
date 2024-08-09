@@ -47,3 +47,20 @@ _INTERESTING_PORTS = {
 
 class Flow(collections.namedtuple("Flow", _FLOW_FIELDS)):
     __slots__ = ()
+
+    @staticmethod
+    def from_csv(e):
+        """
+        Factory method.
+
+        Construct Flow instances from a CSV-representation of a flow.
+        """
+        return Flow(ts=datetime.datetime.strptime(e[0], "%Y-%m-%d %H:%M:%S"),
+                    ip_protocol=e[1],
+                    state=e[2],
+                    src_ip=ipaddr.IPAddress(e[3]),
+                    src_port=int(e[4]),
+                    dst_ip=ipaddr.IPAddress(e[5]),
+                    dst_port=int(e[6]),
+                    src_tx=int(e[7]),
+                    dst_tx=int(e[8]))

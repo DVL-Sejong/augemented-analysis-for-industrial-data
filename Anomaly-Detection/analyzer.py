@@ -44,3 +44,6 @@ _INTERESTING_PORTS = {
     81: 'Tor',
     82: 'Tor-control',
 }
+
+class Flow(collections.namedtuple("Flow", _FLOW_FIELDS)):
+    __slots__ = ()

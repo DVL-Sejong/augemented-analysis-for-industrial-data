@@ -69,3 +69,5 @@ _ALERT_FIELDS = [
     "name",
     "evidence",
 ]
+
+Alert = collections.namedtuple("Alert", _ALERT_FIELDS)

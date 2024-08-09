@@ -38,3 +38,9 @@ _INTERESTING_PORTS = {
     81: 'Tor',
     82: 'Tor-control',
 }
+
+_INTERESTING_PORTS = {
+    0: 'reserved',
+    81: 'Tor',
+    82: 'Tor-control',
+}

@@ -91,3 +91,4 @@ class Analyzer(object):
         self.flow_list = []
     
     def __load_blacklist(self):
+        with open('blacklist_ips.csv', 'r') as blacklistcsv:

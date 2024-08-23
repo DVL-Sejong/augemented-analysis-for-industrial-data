@@ -94,3 +94,5 @@ class Analyzer(object):
         with open('blacklist_ips.csv', 'r') as blacklistcsv:
             self.__blacklist = set(list(csv.reader(blacklistcsv))[0])
         print("load blacklist")
+    
+    def alert_basic_checks(self, flow):

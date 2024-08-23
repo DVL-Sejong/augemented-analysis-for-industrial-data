@@ -84,3 +84,8 @@ class Analyzer(object):
         self.__port_stats = {}
         self.__ip_stats = {}
         self.__num_ports_average = 5
+
+        self.__T = 10   # seconds to aggregate and load in memory
+        self.__refresh_ports_cycle = 60     # cycles to refresh dst_ports
+        self.__refresh_ports_counter = 0
+        self.flow_list = []

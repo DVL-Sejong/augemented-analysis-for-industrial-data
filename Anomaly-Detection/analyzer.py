@@ -80,3 +80,7 @@ class Analyzer(object):
 
         self.__safe_ips = set()
         self.__load_blacklist()
+
+        self.__port_stats = {}
+        self.__ip_stats = {}
+        self.__num_ports_average = 5

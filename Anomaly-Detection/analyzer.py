@@ -96,3 +96,4 @@ class Analyzer(object):
         print("load blacklist")
     
     def alert_basic_checks(self, flow):
+        src_ip = flow.src_ip.exploded

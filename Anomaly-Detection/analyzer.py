@@ -71,3 +71,9 @@ _ALERT_FIELDS = [
 ]
 
 Alert = collections.namedtuple("Alert", _ALERT_FIELDS)
+
+class Analyzer(object):
+
+    def __init__(self):
+        self.__num_flows = 0
+        self.__alerts = []

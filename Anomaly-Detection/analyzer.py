@@ -89,3 +89,5 @@ class Analyzer(object):
         self.__refresh_ports_cycle = 60     # cycles to refresh dst_ports
         self.__refresh_ports_counter = 0
         self.flow_list = []
+    
+    def __load_blacklist(self):

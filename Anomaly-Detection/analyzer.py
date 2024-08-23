@@ -92,3 +92,4 @@ class Analyzer(object):
     
     def __load_blacklist(self):
         with open('blacklist_ips.csv', 'r') as blacklistcsv:
+            self.__blacklist = set(list(csv.reader(blacklistcsv))[0])

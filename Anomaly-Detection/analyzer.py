@@ -77,3 +77,6 @@ class Analyzer(object):
     def __init__(self):
         self.__num_flows = 0
         self.__alerts = []
+
+        self.__safe_ips = set()
+        self.__load_blacklist()

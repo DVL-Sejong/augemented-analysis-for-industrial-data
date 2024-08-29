@@ -102,3 +102,6 @@ class Analyzer(object):
         if flow.dst_port in _INTERESTING_PORTS:
             self.__alerts.append(Alert(name="Using interesting port number "+str(flow.dst_port),
                                        evidence=[flow]))
+        
+        if (src_ip is "0.0.0.0" and dst_ip is "255.255.255.255") or\
+                (src_ip is not "0.0.0.0" and dst_ip is "255.255.255.255"):

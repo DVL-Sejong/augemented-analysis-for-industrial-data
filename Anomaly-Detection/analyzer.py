@@ -100,3 +100,5 @@ class Analyzer(object):
         dst_ip = flow.dst_ip.exploded
 
         if flow.dst_port in _INTERESTING_PORTS:
+            self.__alerts.append(Alert(name="Using interesting port number "+str(flow.dst_port),
+                                       evidence=[flow]))

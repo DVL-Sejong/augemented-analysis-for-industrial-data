@@ -98,3 +98,5 @@ class Analyzer(object):
     def alert_basic_checks(self, flow):
         src_ip = flow.src_ip.exploded
         dst_ip = flow.dst_ip.exploded
+
+        if flow.dst_port in _INTERESTING_PORTS:

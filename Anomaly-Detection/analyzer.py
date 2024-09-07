@@ -107,3 +107,5 @@ class Analyzer(object):
                 (src_ip is not "0.0.0.0" and dst_ip is "255.255.255.255"):
             self.__alerts.append(Alert(name="Malformed DHCP or local gateway flow",
                                         evidence=[flow]))
+
+        if flow.src_tx == 0 and flow.dst_tx == 0:

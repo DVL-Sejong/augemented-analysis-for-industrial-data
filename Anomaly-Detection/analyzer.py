@@ -113,3 +113,6 @@ class Analyzer(object):
 
         if flow.src_ip.is_private and flow.dst_ip.is_private:
             pass
+
+    def alert_ip_blacklist(self, flow):
+        

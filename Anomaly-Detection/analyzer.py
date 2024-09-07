@@ -110,5 +110,6 @@ class Analyzer(object):
 
         if flow.src_tx == 0 and flow.dst_tx == 0:
             pass
-            
+
         if flow.src_ip.is_private and flow.dst_ip.is_private:
+            pass

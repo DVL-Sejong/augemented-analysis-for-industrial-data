@@ -109,3 +109,4 @@ class Analyzer(object):
                                         evidence=[flow]))
 
         if flow.src_tx == 0 and flow.dst_tx == 0:
+            pass

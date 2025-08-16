@@ -48,3 +48,6 @@ class VAE(nn.Module):
         eps = torch.randn_like(std)
         return mu + eps * std
     
+    def decode(self, z):
+        return self.decoder(z)
+    

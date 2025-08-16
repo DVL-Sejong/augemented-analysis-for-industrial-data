@@ -39,3 +39,7 @@ class VAE(nn.Module):
             nn.Sigmoid()
         )
     
+    def encode(self, x):
+        h = self.encoder(x)
+        return self.mu(h), self.logvar(h)
+    

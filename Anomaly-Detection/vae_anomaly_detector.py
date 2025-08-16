@@ -80,3 +80,19 @@ class VAEAnomalyDetector:
             day_of_week = flow.ts.weekday()
             feature.extend([hour, day_of_week])
             
+            # IP 프로토콜 인코딩
+            if 'ip_protocol' not in self.label_encoders:
+                self.label_encoders['ip_protocol'] = LabelEncoder()
+            
+            # 상태 인코딩
+            if 'state' not in self.label_encoders:
+                self.label_encoders['state'] = LabelEncoder()
+            
+            # 포트 번호 (정규화를 위해 로그 변환)
+            src_port_log = np.log(flow.src_port + 1)
+            dst_port_log = np.log(flow.dst_port + 1)
+            
+            # 전송 바이트 (로그 변환)
+            src_tx_log = np.log(flow.src_tx + 1)
+            dst_tx_log = np.log(flow.dst_tx + 1)
+            

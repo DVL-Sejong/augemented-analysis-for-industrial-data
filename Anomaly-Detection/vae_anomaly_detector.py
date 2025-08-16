@@ -68,3 +68,15 @@ class VAEAnomalyDetector:
         self.model = None
         self.threshold = None
         
+    def preprocess_flow_data(self, flows):
+        """네트워크 플로우 데이터를 VAE 입력용으로 전처리"""
+        features = []
+        
+        for flow in flows:
+            feature = []
+            
+            # 시간 특성 추출
+            hour = flow.ts.hour
+            day_of_week = flow.ts.weekday()
+            feature.extend([hour, day_of_week])
+            

@@ -57,3 +57,14 @@ class VAE(nn.Module):
         return self.decode(z), mu, logvar
 
 
+class VAEAnomalyDetector:
+    def __init__(self, hidden_dim=128, latent_dim=20, learning_rate=1e-3):
+        self.hidden_dim = hidden_dim
+        self.latent_dim = latent_dim
+        self.learning_rate = learning_rate
+        self.scaler = StandardScaler()
+        self.label_encoders = {}
+        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        self.model = None
+        self.threshold = None
+        

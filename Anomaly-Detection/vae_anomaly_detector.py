@@ -96,3 +96,15 @@ class VAEAnomalyDetector:
             src_tx_log = np.log(flow.src_tx + 1)
             dst_tx_log = np.log(flow.dst_tx + 1)
             
+            # IP 주소 특성 (private/public)
+            src_is_private = 1 if flow.src_ip.is_private else 0
+            dst_is_private = 1 if flow.dst_ip.is_private else 0
+            
+            feature.extend([
+                src_port_log, dst_port_log,
+                src_tx_log, dst_tx_log,
+                src_is_private, dst_is_private
+            ])
+            
+            features.append(feature)
+        

@@ -108,3 +108,18 @@ class VAEAnomalyDetector:
             
             features.append(feature)
         
+        # 범주형 변수들을 따로 처리
+        protocols = [flow.ip_protocol for flow in flows]
+        states = [flow.state for flow in flows]
+        
+        # 라벨 인코딩
+        if hasattr(self.label_encoders['ip_protocol'], 'classes_'):
+            encoded_protocols = self.label_encoders['ip_protocol'].transform(protocols)
+        else:
+            encoded_protocols = self.label_encoders['ip_protocol'].fit_transform(protocols)
+            
+        if hasattr(self.label_encoders['state'], 'classes_'):
+            encoded_states = self.label_encoders['state'].transform(states)
+        else:
+            encoded_states = self.label_encoders['state'].fit_transform(states)
+        

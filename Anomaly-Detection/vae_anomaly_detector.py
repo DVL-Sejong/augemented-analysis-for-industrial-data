@@ -123,3 +123,8 @@ class VAEAnomalyDetector:
         else:
             encoded_states = self.label_encoders['state'].fit_transform(states)
         
+        # 최종 특성 벡터 생성
+        features = np.array(features)
+        encoded_protocols = encoded_protocols.reshape(-1, 1)
+        encoded_states = encoded_states.reshape(-1, 1)
+        

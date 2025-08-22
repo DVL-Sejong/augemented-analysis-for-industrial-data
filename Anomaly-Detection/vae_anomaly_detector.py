@@ -158,3 +158,8 @@ class VAEAnomalyDetector:
         X = self.preprocess_flow_data(flows)
         X_scaled = self.scaler.fit_transform(X)
         
+        # PyTorch 텐서로 변환
+        X_tensor = torch.FloatTensor(X_scaled).to(self.device)
+        dataset = TensorDataset(X_tensor)
+        dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
+        

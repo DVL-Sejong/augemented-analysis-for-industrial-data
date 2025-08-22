@@ -152,3 +152,9 @@ class VAEAnomalyDetector:
         KLD = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
         return BCE + KLD
     
+    def fit(self, flows, epochs=100, batch_size=32):
+        """VAE 모델 훈련"""
+        # 데이터 전처리
+        X = self.preprocess_flow_data(flows)
+        X_scaled = self.scaler.fit_transform(X)
+        

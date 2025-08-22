@@ -139,3 +139,10 @@ class VAEAnomalyDetector:
             for line in f:
                 try:
                     parts = line.strip().split(',')
+                    if len(parts) == len(_FLOW_FIELDS):
+                        flow = Flow.from_csv(parts)
+                        flows.append(flow)
+                except Exception as e:
+                    continue
+        return flows
+    

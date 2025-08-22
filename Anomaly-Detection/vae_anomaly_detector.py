@@ -146,3 +146,6 @@ class VAEAnomalyDetector:
                     continue
         return flows
     
+    def vae_loss(self, recon_x, x, mu, logvar):
+        """VAE 손실 함수"""
+        BCE = nn.functional.binary_cross_entropy(recon_x, x, reduction='sum')

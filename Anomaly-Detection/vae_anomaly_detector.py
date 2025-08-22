@@ -132,3 +132,10 @@ class VAEAnomalyDetector:
         
         return final_features
     
+    def load_data_from_csv(self, csv_file):
+        """CSV 파일로부터 플로우 데이터 로드"""
+        flows = []
+        with open(csv_file, 'r') as f:
+            for line in f:
+                try:
+                    parts = line.strip().split(',')

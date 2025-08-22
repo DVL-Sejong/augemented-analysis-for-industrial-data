@@ -128,3 +128,7 @@ class VAEAnomalyDetector:
         encoded_protocols = encoded_protocols.reshape(-1, 1)
         encoded_states = encoded_states.reshape(-1, 1)
         
+        final_features = np.concatenate([features, encoded_protocols, encoded_states], axis=1)
+        
+        return final_features
+    

@@ -163,3 +163,8 @@ class VAEAnomalyDetector:
         dataset = TensorDataset(X_tensor)
         dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
         
+        # 모델 초기화
+        input_dim = X_scaled.shape[1]
+        self.model = VAE(input_dim, self.hidden_dim, self.latent_dim).to(self.device)
+        optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate)
+        

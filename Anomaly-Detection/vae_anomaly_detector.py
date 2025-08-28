@@ -171,3 +171,6 @@ class VAEAnomalyDetector:
         # 훈련
         self.model.train()
         losses = []
+        
+        for epoch in range(epochs):
+            total_loss = 0

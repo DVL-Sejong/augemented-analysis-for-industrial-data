@@ -191,3 +191,5 @@ class VAEAnomalyDetector:
             if epoch % 10 == 0:
                 print(f'Epoch {epoch}, Loss: {avg_loss:.4f}')
         
+        # 임계값 설정 (정상 데이터의 재구성 오차 기반)
+        self.model.eval()

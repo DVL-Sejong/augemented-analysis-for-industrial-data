@@ -188,3 +188,6 @@ class VAEAnomalyDetector:
             avg_loss = total_loss / len(dataloader.dataset)
             losses.append(avg_loss)
             
+            if epoch % 10 == 0:
+                print(f'Epoch {epoch}, Loss: {avg_loss:.4f}')
+        

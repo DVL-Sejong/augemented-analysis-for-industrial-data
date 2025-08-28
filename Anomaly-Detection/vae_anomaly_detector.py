@@ -195,3 +195,6 @@ class VAEAnomalyDetector:
         self.model.eval()
         with torch.no_grad():
             recon_errors = []
+            for batch_idx, (data,) in enumerate(dataloader):
+                data = data.to(self.device)
+                recon_batch, _, _ = self.model(data)

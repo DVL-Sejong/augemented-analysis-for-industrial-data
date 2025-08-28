@@ -174,3 +174,7 @@ class VAEAnomalyDetector:
         
         for epoch in range(epochs):
             total_loss = 0
+            for batch_idx, (data,) in enumerate(dataloader):
+                data = data.to(self.device)
+                optimizer.zero_grad()
+                

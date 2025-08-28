@@ -178,3 +178,6 @@ class VAEAnomalyDetector:
                 data = data.to(self.device)
                 optimizer.zero_grad()
                 
+                recon_batch, mu, logvar = self.model(data)
+                loss = self.vae_loss(recon_batch, data, mu, logvar)
+                

@@ -168,3 +168,6 @@ class VAEAnomalyDetector:
         self.model = VAE(input_dim, self.hidden_dim, self.latent_dim).to(self.device)
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate)
         
+        # 훈련
+        self.model.train()
+        losses = []

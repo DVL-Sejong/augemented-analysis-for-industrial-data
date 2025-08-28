@@ -185,3 +185,6 @@ class VAEAnomalyDetector:
                 optimizer.step()
                 total_loss += loss.item()
             
+            avg_loss = total_loss / len(dataloader.dataset)
+            losses.append(avg_loss)
+            

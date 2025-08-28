@@ -193,3 +193,5 @@ class VAEAnomalyDetector:
         
         # 임계값 설정 (정상 데이터의 재구성 오차 기반)
         self.model.eval()
+        with torch.no_grad():
+            recon_errors = []

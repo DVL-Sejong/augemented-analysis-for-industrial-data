@@ -181,3 +181,7 @@ class VAEAnomalyDetector:
                 recon_batch, mu, logvar = self.model(data)
                 loss = self.vae_loss(recon_batch, data, mu, logvar)
                 
+                loss.backward()
+                optimizer.step()
+                total_loss += loss.item()
+            

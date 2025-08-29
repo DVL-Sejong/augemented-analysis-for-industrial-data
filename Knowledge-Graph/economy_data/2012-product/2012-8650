@@ -1,0 +1,744 @@
+[
+    {
+        "DOCID": 1373488,
+        "MAIN_OBJ": "58세",
+        "SUB_OBJ": "올해부터",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1373489,
+        "MAIN_OBJ": "58세",
+        "SUB_OBJ": "60세",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373490,
+        "MAIN_OBJ": "60세",
+        "SUB_OBJ": "올해부터",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1373491,
+        "MAIN_OBJ": "60세",
+        "SUB_OBJ": "58세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373492,
+        "MAIN_OBJ": "2년",
+        "SUB_OBJ": "59~60세",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373493,
+        "MAIN_OBJ": "2년",
+        "SUB_OBJ": "근로자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373494,
+        "MAIN_OBJ": "59~60세",
+        "SUB_OBJ": "근로자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1373495,
+        "MAIN_OBJ": "80%만",
+        "SUB_OBJ": "근로자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1373496,
+        "MAIN_OBJ": "현대중공업",
+        "SUB_OBJ": "홈플러스",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373497,
+        "MAIN_OBJ": "현대중공업",
+        "SUB_OBJ": "60세",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373498,
+        "MAIN_OBJ": "홈플러스",
+        "SUB_OBJ": "현대중공업",
+        "RELATION": "해당 개체의 제조사(manufacturer)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1373499,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "홈플러스",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.60186"
+    },
+    {
+        "DOCID": 1373500,
+        "MAIN_OBJ": "300개",
+        "SUB_OBJ": "89%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1373501,
+        "MAIN_OBJ": "300개",
+        "SUB_OBJ": "60세 미만",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1373502,
+        "MAIN_OBJ": "300개",
+        "SUB_OBJ": "56.4세",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1373503,
+        "MAIN_OBJ": "89%",
+        "SUB_OBJ": "300개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1373504,
+        "MAIN_OBJ": "60세 미만",
+        "SUB_OBJ": "56.4세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373505,
+        "MAIN_OBJ": "56.4세",
+        "SUB_OBJ": "300개",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1373506,
+        "MAIN_OBJ": "당선인",
+        "SUB_OBJ": "박",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.52222"
+    },
+    {
+        "DOCID": 1373507,
+        "MAIN_OBJ": "당선인",
+        "SUB_OBJ": "대통령",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.59064"
+    },
+    {
+        "DOCID": 1373508,
+        "MAIN_OBJ": "대통령",
+        "SUB_OBJ": "당선인",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.27004"
+    },
+    {
+        "DOCID": 1373509,
+        "MAIN_OBJ": "15~64세",
+        "SUB_OBJ": "64.5%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373510,
+        "MAIN_OBJ": "70%",
+        "SUB_OBJ": "15~64세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373511,
+        "MAIN_OBJ": "70%",
+        "SUB_OBJ": "64.5%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373512,
+        "MAIN_OBJ": "64.5%",
+        "SUB_OBJ": "15~64세",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373513,
+        "MAIN_OBJ": "박",
+        "SUB_OBJ": "영어",
+        "RELATION": "해당 저작물이나 명칭에서 사용한 언어(language of work or name)",
+        "weight": "0.8174"
+    },
+    {
+        "DOCID": 1373514,
+        "MAIN_OBJ": "비정규직",
+        "SUB_OBJ": "정규직",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1373515,
+        "MAIN_OBJ": "2015년까지",
+        "SUB_OBJ": "비정규직",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1373516,
+        "MAIN_OBJ": "2015년까지",
+        "SUB_OBJ": "정규직",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373517,
+        "MAIN_OBJ": "정규직",
+        "SUB_OBJ": "비정규직",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1373518,
+        "MAIN_OBJ": "비정규직",
+        "SUB_OBJ": "34만 명",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1373519,
+        "MAIN_OBJ": "비정규직",
+        "SUB_OBJ": "근로자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1373520,
+        "MAIN_OBJ": "34만 명",
+        "SUB_OBJ": "비정규직",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1373521,
+        "MAIN_OBJ": "근로자",
+        "SUB_OBJ": "비정규직",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1373522,
+        "MAIN_OBJ": "근로자",
+        "SUB_OBJ": "34만 명",
+        "RELATION": "위키데이터 속성(Wikidata property)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373523,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "한양대",
+        "RELATION": "해당 인물을 고용한 곳(employer)",
+        "weight": "1.21573"
+    },
+    {
+        "DOCID": 1373524,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "교수",
+        "RELATION": "직업(occupation)",
+        "weight": "0.39492"
+    },
+    {
+        "DOCID": 1373525,
+        "MAIN_OBJ": "교수",
+        "SUB_OBJ": "내년",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.72446"
+    },
+    {
+        "DOCID": 1373526,
+        "MAIN_OBJ": "내년",
+        "SUB_OBJ": "한양대",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1373527,
+        "MAIN_OBJ": "집주인",
+        "SUB_OBJ": "세입자",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.37853"
+    },
+    {
+        "DOCID": 1373528,
+        "MAIN_OBJ": "세입자",
+        "SUB_OBJ": "집주인",
+        "RELATION": "반대 개념(opposite of)",
+        "weight": "0.37853"
+    },
+    {
+        "DOCID": 1373529,
+        "MAIN_OBJ": "70만원",
+        "SUB_OBJ": "농민",
+        "RELATION": "직업(occupation)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1373530,
+        "MAIN_OBJ": "70만원",
+        "SUB_OBJ": "100만원",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373531,
+        "MAIN_OBJ": "100만원",
+        "SUB_OBJ": "70만원",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1373532,
+        "MAIN_OBJ": "400곳",
+        "SUB_OBJ": "하나",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1373533,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "1469만 표",
+        "RELATION": "대표 작품(notable work)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1373534,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "미",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.25592"
+    },
+    {
+        "DOCID": 1373535,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "러",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.27096"
+    },
+    {
+        "DOCID": 1373536,
+        "MAIN_OBJ": "이영",
+        "SUB_OBJ": "대사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.81806"
+    },
+    {
+        "DOCID": 1373537,
+        "MAIN_OBJ": "교수",
+        "SUB_OBJ": "문재인",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.11962"
+    },
+    {
+        "DOCID": 1373538,
+        "MAIN_OBJ": "교수",
+        "SUB_OBJ": "4강",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.1081"
+    },
+    {
+        "DOCID": 1373539,
+        "MAIN_OBJ": "교수",
+        "SUB_OBJ": "미",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.22988"
+    },
+    {
+        "DOCID": 1373540,
+        "MAIN_OBJ": "교수",
+        "SUB_OBJ": "러",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.23805"
+    },
+    {
+        "DOCID": 1373541,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "교수",
+        "RELATION": "직업(occupation)",
+        "weight": "0.25247"
+    },
+    {
+        "DOCID": 1373542,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "손",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1373543,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "박근혜",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1373544,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "미",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373545,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "중",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.35813"
+    },
+    {
+        "DOCID": 1373546,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "일",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1373547,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "러",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.19574"
+    },
+    {
+        "DOCID": 1373548,
+        "MAIN_OBJ": "문재인",
+        "SUB_OBJ": "대사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.64488"
+    },
+    {
+        "DOCID": 1373549,
+        "MAIN_OBJ": "1469만 표",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10104"
+    },
+    {
+        "DOCID": 1373550,
+        "MAIN_OBJ": "1469만 표",
+        "SUB_OBJ": "대사",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1373551,
+        "MAIN_OBJ": "손",
+        "SUB_OBJ": "대사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.30234"
+    },
+    {
+        "DOCID": 1373552,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "미",
+        "RELATION": "해당 인물이 대표하는 국가(country for sport)",
+        "weight": "0.26639"
+    },
+    {
+        "DOCID": 1373553,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "중",
+        "RELATION": "해당 인물이 대표하는 국가(country for sport)",
+        "weight": "0.49363"
+    },
+    {
+        "DOCID": 1373554,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "일",
+        "RELATION": "해당 인물이 대표하는 국가(country for sport)",
+        "weight": "0.45641"
+    },
+    {
+        "DOCID": 1373555,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "러",
+        "RELATION": "해당 인물이 대표하는 국가(country for sport)",
+        "weight": "0.29193"
+    },
+    {
+        "DOCID": 1373556,
+        "MAIN_OBJ": "커터칼",
+        "SUB_OBJ": "교수",
+        "RELATION": "해당 인물의 현재 또는 과거의 직위(position held)",
+        "weight": "0.14733"
+    },
+    {
+        "DOCID": 1373557,
+        "MAIN_OBJ": "커터칼",
+        "SUB_OBJ": "문재인",
+        "RELATION": "해당 개체의 배우자(spouse)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1373558,
+        "MAIN_OBJ": "커터칼",
+        "SUB_OBJ": "미",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.09903"
+    },
+    {
+        "DOCID": 1373559,
+        "MAIN_OBJ": "커터칼",
+        "SUB_OBJ": "대사",
+        "RELATION": "직업(occupation)",
+        "weight": "0.43919"
+    },
+    {
+        "DOCID": 1373560,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "미",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.26639"
+    },
+    {
+        "DOCID": 1373561,
+        "MAIN_OBJ": "박근혜",
+        "SUB_OBJ": "이영",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.3816"
+    },
+    {
+        "DOCID": 1373562,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "1469만 표",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.48999"
+    },
+    {
+        "DOCID": 1373563,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "손",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 1373564,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "박근혜",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.21455"
+    },
+    {
+        "DOCID": 1373565,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1373566,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1373567,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "미",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.19339"
+    },
+    {
+        "DOCID": 1373568,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "중",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.3869"
+    },
+    {
+        "DOCID": 1373569,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.32121"
+    },
+    {
+        "DOCID": 1373570,
+        "MAIN_OBJ": "4강",
+        "SUB_OBJ": "대사",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.68402"
+    },
+    {
+        "DOCID": 1373571,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "이영",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.38093"
+    },
+    {
+        "DOCID": 1373572,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "문재인",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373573,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.29581"
+    },
+    {
+        "DOCID": 1373574,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "박근혜",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.32184"
+    },
+    {
+        "DOCID": 1373575,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "4강",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.16007"
+    },
+    {
+        "DOCID": 1373576,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "중",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.55048"
+    },
+    {
+        "DOCID": 1373577,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "일",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.49148"
+    },
+    {
+        "DOCID": 1373578,
+        "MAIN_OBJ": "미",
+        "SUB_OBJ": "러",
+        "RELATION": "경계를 접하고 있음(shares border with)",
+        "weight": "0.37681"
+    },
+    {
+        "DOCID": 1373579,
+        "MAIN_OBJ": "중",
+        "SUB_OBJ": "4강",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.06965"
+    },
+    {
+        "DOCID": 1373580,
+        "MAIN_OBJ": "중",
+        "SUB_OBJ": "미",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.14264"
+    },
+    {
+        "DOCID": 1373581,
+        "MAIN_OBJ": "중",
+        "SUB_OBJ": "러",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.15686"
+    },
+    {
+        "DOCID": 1373582,
+        "MAIN_OBJ": "일",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1373583,
+        "MAIN_OBJ": "일",
+        "SUB_OBJ": "4강",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.0893"
+    },
+    {
+        "DOCID": 1373584,
+        "MAIN_OBJ": "일",
+        "SUB_OBJ": "미",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.19069"
+    },
+    {
+        "DOCID": 1373585,
+        "MAIN_OBJ": "일",
+        "SUB_OBJ": "중",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.35138"
+    },
+    {
+        "DOCID": 1373586,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "이영",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.33609"
+    },
+    {
+        "DOCID": 1373587,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "문재인",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.15807"
+    },
+    {
+        "DOCID": 1373588,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "박근혜",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.29193"
+    },
+    {
+        "DOCID": 1373589,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "커터칼",
+        "RELATION": "해당 개체의 명칭은 다음에서 유래되었음(named after)",
+        "weight": "0.26883"
+    },
+    {
+        "DOCID": 1373590,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "미",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.31491"
+    },
+    {
+        "DOCID": 1373591,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "중",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.50538"
+    },
+    {
+        "DOCID": 1373592,
+        "MAIN_OBJ": "러",
+        "SUB_OBJ": "일",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.44084"
+    },
+    {
+        "DOCID": 1373593,
+        "MAIN_OBJ": "대사",
+        "SUB_OBJ": "4강",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.02746"
+    }
+]

@@ -1,0 +1,335 @@
+2023-08-21 18:42:22,032 - model.att.dcrnn_supervisor - INFO - Log directory: data/model\dcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0821184222/
+2023-08-21 18:42:22,956 - model.att.dcrnn_supervisor - INFO - Model created
+2023-08-21 18:42:22,957 - model.att.dcrnn_supervisor - INFO - Start training ...
+2023-08-21 18:42:22,957 - model.att.dcrnn_supervisor - INFO - num_batches:32
+2023-08-21 18:42:23,995 - model.att.dcrnn_supervisor - INFO - Total trainable parameters 371393
+2023-08-21 18:42:41,132 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:42:41,134 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:42:42,483 - model.att.dcrnn_supervisor - INFO - Epoch [0/100] (32) train_mae: 4.4651, val_mae: 2.8341, lr: 0.010000, 19.5s
+2023-08-21 18:42:42,488 - model.att.dcrnn_supervisor - INFO - Saved model at 0
+2023-08-21 18:42:42,488 - model.att.dcrnn_supervisor - INFO - Val loss decrease from inf to 2.8341, saving to models/0per/epo0.tar
+2023-08-21 18:43:00,107 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:43:00,107 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:43:01,451 - model.att.dcrnn_supervisor - INFO - Epoch [1/100] (64) train_mae: 2.3833, val_mae: 3.0112, lr: 0.010000, 19.0s
+2023-08-21 18:43:18,860 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:43:18,861 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:43:20,196 - model.att.dcrnn_supervisor - INFO - Epoch [2/100] (96) train_mae: 2.3346, val_mae: 2.4590, lr: 0.010000, 18.7s
+2023-08-21 18:43:20,199 - model.att.dcrnn_supervisor - INFO - Saved model at 2
+2023-08-21 18:43:20,199 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.8341 to 2.4590, saving to models/0per/epo2.tar
+2023-08-21 18:43:37,621 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:43:37,622 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:43:38,951 - model.att.dcrnn_supervisor - INFO - Epoch [3/100] (128) train_mae: 2.3254, val_mae: 2.4002, lr: 0.010000, 18.8s
+2023-08-21 18:43:38,955 - model.att.dcrnn_supervisor - INFO - Saved model at 3
+2023-08-21 18:43:38,955 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.4590 to 2.4002, saving to models/0per/epo3.tar
+2023-08-21 18:43:56,763 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:43:56,763 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:43:58,126 - model.att.dcrnn_supervisor - INFO - Epoch [4/100] (160) train_mae: 2.3235, val_mae: 2.3598, lr: 0.010000, 19.2s
+2023-08-21 18:43:58,130 - model.att.dcrnn_supervisor - INFO - Saved model at 4
+2023-08-21 18:43:58,130 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.4002 to 2.3598, saving to models/0per/epo4.tar
+2023-08-21 18:44:15,832 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:44:15,832 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:44:17,178 - model.att.dcrnn_supervisor - INFO - Epoch [5/100] (192) train_mae: 2.3172, val_mae: 2.3581, lr: 0.010000, 19.0s
+2023-08-21 18:44:17,182 - model.att.dcrnn_supervisor - INFO - Saved model at 5
+2023-08-21 18:44:17,182 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.3598 to 2.3581, saving to models/0per/epo5.tar
+2023-08-21 18:44:34,884 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:44:34,884 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:44:36,319 - model.att.dcrnn_supervisor - INFO - Epoch [6/100] (224) train_mae: 2.3137, val_mae: 2.3944, lr: 0.010000, 19.1s
+2023-08-21 18:44:53,954 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:44:53,954 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:44:55,286 - model.att.dcrnn_supervisor - INFO - Epoch [7/100] (256) train_mae: 2.3096, val_mae: 2.3503, lr: 0.010000, 19.0s
+2023-08-21 18:44:55,289 - model.att.dcrnn_supervisor - INFO - Saved model at 7
+2023-08-21 18:44:55,289 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.3581 to 2.3503, saving to models/0per/epo7.tar
+2023-08-21 18:45:14,252 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:45:14,253 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:45:15,644 - model.att.dcrnn_supervisor - INFO - Epoch [8/100] (288) train_mae: 2.3085, val_mae: 2.3206, lr: 0.010000, 20.4s
+2023-08-21 18:45:15,649 - model.att.dcrnn_supervisor - INFO - Saved model at 8
+2023-08-21 18:45:15,649 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.3503 to 2.3206, saving to models/0per/epo8.tar
+2023-08-21 18:45:33,276 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:45:33,276 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:45:34,615 - model.att.dcrnn_supervisor - INFO - Epoch [9/100] (320) train_mae: 2.3091, val_mae: 2.6400, lr: 0.010000, 19.0s
+2023-08-21 18:45:37,046 - model.att.dcrnn_supervisor - INFO - Epoch [9/100] (320) train_mae: 2.3091, test_mae: 2.3680,  lr: 0.010000, 19.0s
+2023-08-21 18:45:55,084 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:45:55,085 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:45:56,450 - model.att.dcrnn_supervisor - INFO - Epoch [10/100] (352) train_mae: 2.3055, val_mae: 2.5679, lr: 0.010000, 19.4s
+2023-08-21 18:46:14,676 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:46:14,677 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:46:16,086 - model.att.dcrnn_supervisor - INFO - Epoch [11/100] (384) train_mae: 2.3009, val_mae: 2.5841, lr: 0.010000, 19.6s
+2023-08-21 18:46:34,751 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:46:34,751 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:46:36,166 - model.att.dcrnn_supervisor - INFO - Epoch [12/100] (416) train_mae: 2.3019, val_mae: 2.5333, lr: 0.010000, 20.1s
+2023-08-21 18:46:55,018 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:46:55,018 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:46:56,460 - model.att.dcrnn_supervisor - INFO - Epoch [13/100] (448) train_mae: 2.2990, val_mae: 2.5350, lr: 0.010000, 20.3s
+2023-08-21 18:47:15,478 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:47:15,478 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:47:16,907 - model.att.dcrnn_supervisor - INFO - Epoch [14/100] (480) train_mae: 2.2966, val_mae: 2.4212, lr: 0.010000, 20.4s
+2023-08-21 18:47:35,915 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:47:35,915 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:47:37,305 - model.att.dcrnn_supervisor - INFO - Epoch [15/100] (512) train_mae: 2.2922, val_mae: 2.4122, lr: 0.010000, 20.4s
+2023-08-21 18:47:56,360 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:47:56,360 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:47:57,747 - model.att.dcrnn_supervisor - INFO - Epoch [16/100] (544) train_mae: 2.2913, val_mae: 2.5486, lr: 0.010000, 20.4s
+2023-08-21 18:48:15,778 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:48:15,778 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:48:17,122 - model.att.dcrnn_supervisor - INFO - Epoch [17/100] (576) train_mae: 2.2872, val_mae: 2.6484, lr: 0.010000, 19.4s
+2023-08-21 18:48:35,228 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:48:35,228 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:48:36,574 - model.att.dcrnn_supervisor - INFO - Epoch [18/100] (608) train_mae: 2.2860, val_mae: 2.6398, lr: 0.010000, 19.5s
+2023-08-21 18:48:54,847 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:48:54,847 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:48:56,199 - model.att.dcrnn_supervisor - INFO - Epoch [19/100] (640) train_mae: 2.2853, val_mae: 2.6459, lr: 0.000100, 19.6s
+2023-08-21 18:48:58,733 - model.att.dcrnn_supervisor - INFO - Epoch [19/100] (640) train_mae: 2.2853, test_mae: 2.5075,  lr: 0.000100, 19.6s
+2023-08-21 18:49:16,861 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:49:16,861 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:49:18,342 - model.att.dcrnn_supervisor - INFO - Epoch [20/100] (672) train_mae: 2.2820, val_mae: 2.5323, lr: 0.001000, 19.6s
+2023-08-21 18:49:36,308 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:49:36,308 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:49:37,659 - model.att.dcrnn_supervisor - INFO - Epoch [21/100] (704) train_mae: 2.2794, val_mae: 2.7619, lr: 0.001000, 19.3s
+2023-08-21 18:49:55,388 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:49:55,388 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:49:56,722 - model.att.dcrnn_supervisor - INFO - Epoch [22/100] (736) train_mae: 2.2798, val_mae: 2.5604, lr: 0.001000, 19.1s
+2023-08-21 18:50:14,354 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:50:14,354 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:50:15,738 - model.att.dcrnn_supervisor - INFO - Epoch [23/100] (768) train_mae: 2.2757, val_mae: 2.5974, lr: 0.001000, 19.0s
+2023-08-21 18:50:33,788 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:50:33,788 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:50:35,255 - model.att.dcrnn_supervisor - INFO - Epoch [24/100] (800) train_mae: 2.2705, val_mae: 2.5010, lr: 0.001000, 19.5s
+2023-08-21 18:50:53,313 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:50:53,313 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:50:54,655 - model.att.dcrnn_supervisor - INFO - Epoch [25/100] (832) train_mae: 2.2670, val_mae: 2.4631, lr: 0.001000, 19.4s
+2023-08-21 18:51:12,815 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:51:12,815 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:51:14,168 - model.att.dcrnn_supervisor - INFO - Epoch [26/100] (864) train_mae: 2.2636, val_mae: 2.5641, lr: 0.001000, 19.5s
+2023-08-21 18:51:32,700 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:51:32,700 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:51:34,050 - model.att.dcrnn_supervisor - INFO - Epoch [27/100] (896) train_mae: 2.2603, val_mae: 2.5746, lr: 0.001000, 19.9s
+2023-08-21 18:51:51,762 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:51:51,762 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:51:53,112 - model.att.dcrnn_supervisor - INFO - Epoch [28/100] (928) train_mae: 2.2575, val_mae: 2.3969, lr: 0.001000, 19.1s
+2023-08-21 18:52:10,908 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:52:10,908 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:52:12,244 - model.att.dcrnn_supervisor - INFO - Epoch [29/100] (960) train_mae: 2.2505, val_mae: 2.5444, lr: 0.000010, 19.1s
+2023-08-21 18:52:14,678 - model.att.dcrnn_supervisor - INFO - Epoch [29/100] (960) train_mae: 2.2505, test_mae: 2.4188,  lr: 0.000010, 19.1s
+2023-08-21 18:52:32,998 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:52:32,998 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:52:34,338 - model.att.dcrnn_supervisor - INFO - Epoch [30/100] (992) train_mae: 2.2461, val_mae: 2.5088, lr: 0.000100, 19.7s
+2023-08-21 18:52:52,090 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:52:52,090 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:52:53,440 - model.att.dcrnn_supervisor - INFO - Epoch [31/100] (1024) train_mae: 2.2412, val_mae: 2.5739, lr: 0.000100, 19.1s
+2023-08-21 18:53:12,028 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:53:12,029 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:53:13,465 - model.att.dcrnn_supervisor - INFO - Epoch [32/100] (1056) train_mae: 2.2369, val_mae: 2.4253, lr: 0.000100, 20.0s
+2023-08-21 18:53:31,371 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:53:31,372 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:53:32,717 - model.att.dcrnn_supervisor - INFO - Epoch [33/100] (1088) train_mae: 2.2283, val_mae: 2.3691, lr: 0.000100, 19.3s
+2023-08-21 18:53:51,784 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:53:51,785 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:53:53,370 - model.att.dcrnn_supervisor - INFO - Epoch [34/100] (1120) train_mae: 2.2221, val_mae: 2.5787, lr: 0.000100, 20.7s
+2023-08-21 18:54:12,463 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:54:12,463 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:54:13,921 - model.att.dcrnn_supervisor - INFO - Epoch [35/100] (1152) train_mae: 2.2178, val_mae: 2.4379, lr: 0.000100, 20.5s
+2023-08-21 18:54:32,542 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:54:32,542 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:54:33,910 - model.att.dcrnn_supervisor - INFO - Epoch [36/100] (1184) train_mae: 2.2089, val_mae: 2.4014, lr: 0.000100, 20.0s
+2023-08-21 18:54:51,783 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:54:51,784 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:54:53,148 - model.att.dcrnn_supervisor - INFO - Epoch [37/100] (1216) train_mae: 2.2087, val_mae: 2.5478, lr: 0.000100, 19.2s
+2023-08-21 18:55:10,776 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:55:10,776 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:55:12,112 - model.att.dcrnn_supervisor - INFO - Epoch [38/100] (1248) train_mae: 2.2033, val_mae: 2.5461, lr: 0.000100, 19.0s
+2023-08-21 18:55:30,212 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:55:30,212 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:55:31,571 - model.att.dcrnn_supervisor - INFO - Epoch [39/100] (1280) train_mae: 2.1892, val_mae: 2.4363, lr: 0.000001, 19.5s
+2023-08-21 18:55:33,987 - model.att.dcrnn_supervisor - INFO - Epoch [39/100] (1280) train_mae: 2.1892, test_mae: 2.4289,  lr: 0.000001, 19.5s
+2023-08-21 18:55:52,586 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:55:52,586 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:55:53,941 - model.att.dcrnn_supervisor - INFO - Epoch [40/100] (1312) train_mae: 2.1798, val_mae: 2.4340, lr: 0.000010, 20.0s
+2023-08-21 18:56:12,936 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:56:12,937 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:56:14,388 - model.att.dcrnn_supervisor - INFO - Epoch [41/100] (1344) train_mae: 2.1754, val_mae: 2.2641, lr: 0.000010, 20.4s
+2023-08-21 18:56:14,393 - model.att.dcrnn_supervisor - INFO - Saved model at 41
+2023-08-21 18:56:14,393 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.3206 to 2.2641, saving to models/0per/epo41.tar
+2023-08-21 18:56:32,777 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:56:32,777 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:56:34,217 - model.att.dcrnn_supervisor - INFO - Epoch [42/100] (1376) train_mae: 2.1714, val_mae: 2.5550, lr: 0.000010, 19.8s
+2023-08-21 18:56:52,525 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:56:52,526 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:56:53,888 - model.att.dcrnn_supervisor - INFO - Epoch [43/100] (1408) train_mae: 2.1589, val_mae: 2.4728, lr: 0.000010, 19.7s
+2023-08-21 18:57:12,142 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:57:12,142 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:57:13,562 - model.att.dcrnn_supervisor - INFO - Epoch [44/100] (1440) train_mae: 2.1502, val_mae: 2.4383, lr: 0.000010, 19.7s
+2023-08-21 18:57:31,773 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:57:31,774 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:57:33,148 - model.att.dcrnn_supervisor - INFO - Epoch [45/100] (1472) train_mae: 2.1335, val_mae: 2.4171, lr: 0.000010, 19.6s
+2023-08-21 18:57:51,001 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:57:51,001 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:57:52,353 - model.att.dcrnn_supervisor - INFO - Epoch [46/100] (1504) train_mae: 2.1222, val_mae: 2.3822, lr: 0.000010, 19.2s
+2023-08-21 18:58:10,455 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:58:10,455 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:58:11,832 - model.att.dcrnn_supervisor - INFO - Epoch [47/100] (1536) train_mae: 2.1117, val_mae: 2.4593, lr: 0.000010, 19.5s
+2023-08-21 18:58:30,574 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:58:30,575 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:58:31,964 - model.att.dcrnn_supervisor - INFO - Epoch [48/100] (1568) train_mae: 2.1034, val_mae: 2.3527, lr: 0.000010, 20.1s
+2023-08-21 18:58:50,584 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:58:50,584 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:58:51,970 - model.att.dcrnn_supervisor - INFO - Epoch [49/100] (1600) train_mae: 2.0979, val_mae: 2.2884, lr: 0.000000, 20.0s
+2023-08-21 18:58:54,449 - model.att.dcrnn_supervisor - INFO - Epoch [49/100] (1600) train_mae: 2.0979, test_mae: 2.4011,  lr: 0.000000, 20.0s
+2023-08-21 18:59:12,911 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:59:12,911 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:59:14,431 - model.att.dcrnn_supervisor - INFO - Epoch [50/100] (1632) train_mae: 2.0904, val_mae: 2.4531, lr: 0.000001, 20.0s
+2023-08-21 18:59:33,878 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:59:33,878 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:59:35,257 - model.att.dcrnn_supervisor - INFO - Epoch [51/100] (1664) train_mae: 2.0783, val_mae: 2.2873, lr: 0.000001, 20.8s
+2023-08-21 18:59:53,608 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 18:59:53,608 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 18:59:54,986 - model.att.dcrnn_supervisor - INFO - Epoch [52/100] (1696) train_mae: 2.0539, val_mae: 2.3733, lr: 0.000001, 19.7s
+2023-08-21 19:00:12,778 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:00:12,778 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:00:14,156 - model.att.dcrnn_supervisor - INFO - Epoch [53/100] (1728) train_mae: 2.0436, val_mae: 2.2326, lr: 0.000001, 19.2s
+2023-08-21 19:00:14,159 - model.att.dcrnn_supervisor - INFO - Saved model at 53
+2023-08-21 19:00:14,159 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.2641 to 2.2326, saving to models/0per/epo53.tar
+2023-08-21 19:00:32,658 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:00:32,658 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:00:33,995 - model.att.dcrnn_supervisor - INFO - Epoch [54/100] (1760) train_mae: 2.0364, val_mae: 2.3537, lr: 0.000001, 19.8s
+2023-08-21 19:00:52,184 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:00:52,184 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:00:53,525 - model.att.dcrnn_supervisor - INFO - Epoch [55/100] (1792) train_mae: 2.0169, val_mae: 2.3595, lr: 0.000001, 19.5s
+2023-08-21 19:01:11,791 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:01:11,791 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:01:13,205 - model.att.dcrnn_supervisor - INFO - Epoch [56/100] (1824) train_mae: 2.0123, val_mae: 2.3779, lr: 0.000001, 19.7s
+2023-08-21 19:01:31,570 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:01:31,570 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:01:33,033 - model.att.dcrnn_supervisor - INFO - Epoch [57/100] (1856) train_mae: 1.9932, val_mae: 2.2745, lr: 0.000001, 19.8s
+2023-08-21 19:01:50,936 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:01:50,936 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:01:52,319 - model.att.dcrnn_supervisor - INFO - Epoch [58/100] (1888) train_mae: 1.9844, val_mae: 2.3702, lr: 0.000001, 19.3s
+2023-08-21 19:02:10,431 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:02:10,431 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:02:11,791 - model.att.dcrnn_supervisor - INFO - Epoch [59/100] (1920) train_mae: 1.9803, val_mae: 2.4317, lr: 0.000001, 19.5s
+2023-08-21 19:02:14,332 - model.att.dcrnn_supervisor - INFO - Epoch [59/100] (1920) train_mae: 1.9803, test_mae: 2.4695,  lr: 0.000001, 19.5s
+2023-08-21 19:02:32,873 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:02:32,873 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:02:34,244 - model.att.dcrnn_supervisor - INFO - Epoch [60/100] (1952) train_mae: 1.9683, val_mae: 2.5005, lr: 0.000001, 19.9s
+2023-08-21 19:02:52,222 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:02:52,222 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:02:53,555 - model.att.dcrnn_supervisor - INFO - Epoch [61/100] (1984) train_mae: 1.9531, val_mae: 2.5346, lr: 0.000001, 19.3s
+2023-08-21 19:03:11,124 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:03:11,124 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:03:12,587 - model.att.dcrnn_supervisor - INFO - Epoch [62/100] (2016) train_mae: 1.9423, val_mae: 2.3722, lr: 0.000001, 19.0s
+2023-08-21 19:03:31,102 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:03:31,102 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:03:32,460 - model.att.dcrnn_supervisor - INFO - Epoch [63/100] (2048) train_mae: 1.9353, val_mae: 2.5497, lr: 0.000001, 19.9s
+2023-08-21 19:03:50,234 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:03:50,234 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:03:51,575 - model.att.dcrnn_supervisor - INFO - Epoch [64/100] (2080) train_mae: 1.9313, val_mae: 2.3768, lr: 0.000001, 19.1s
+2023-08-21 19:04:09,543 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:04:09,544 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:04:10,873 - model.att.dcrnn_supervisor - INFO - Epoch [65/100] (2112) train_mae: 1.9249, val_mae: 2.3152, lr: 0.000001, 19.3s
+2023-08-21 19:04:28,680 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:04:28,680 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:04:30,114 - model.att.dcrnn_supervisor - INFO - Epoch [66/100] (2144) train_mae: 1.8968, val_mae: 2.2699, lr: 0.000001, 19.2s
+2023-08-21 19:04:48,875 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:04:48,875 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:04:50,274 - model.att.dcrnn_supervisor - INFO - Epoch [67/100] (2176) train_mae: 1.8802, val_mae: 2.2338, lr: 0.000001, 20.2s
+2023-08-21 19:05:08,384 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:05:08,384 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:05:09,806 - model.att.dcrnn_supervisor - INFO - Epoch [68/100] (2208) train_mae: 1.8731, val_mae: 2.2903, lr: 0.000001, 19.5s
+2023-08-21 19:05:28,145 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:05:28,145 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:05:29,525 - model.att.dcrnn_supervisor - INFO - Epoch [69/100] (2240) train_mae: 1.8749, val_mae: 2.2154, lr: 0.000001, 19.7s
+2023-08-21 19:05:32,004 - model.att.dcrnn_supervisor - INFO - Epoch [69/100] (2240) train_mae: 1.8749, test_mae: 2.3882,  lr: 0.000001, 19.7s
+2023-08-21 19:05:32,008 - model.att.dcrnn_supervisor - INFO - Saved model at 69
+2023-08-21 19:05:32,008 - model.att.dcrnn_supervisor - INFO - Val loss decrease from 2.2326 to 2.2154, saving to models/0per/epo69.tar
+2023-08-21 19:05:50,481 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:05:50,482 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:05:52,005 - model.att.dcrnn_supervisor - INFO - Epoch [70/100] (2272) train_mae: 1.8720, val_mae: 2.3651, lr: 0.000001, 20.0s
+2023-08-21 19:06:10,240 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:06:10,240 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:06:11,604 - model.att.dcrnn_supervisor - INFO - Epoch [71/100] (2304) train_mae: 1.8549, val_mae: 2.3145, lr: 0.000001, 19.6s
+2023-08-21 19:06:29,448 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:06:29,448 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:06:30,786 - model.att.dcrnn_supervisor - INFO - Epoch [72/100] (2336) train_mae: 1.8333, val_mae: 2.3747, lr: 0.000001, 19.2s
+2023-08-21 19:06:49,187 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:06:49,187 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:06:50,547 - model.att.dcrnn_supervisor - INFO - Epoch [73/100] (2368) train_mae: 1.8117, val_mae: 2.5032, lr: 0.000001, 19.8s
+2023-08-21 19:07:08,530 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:07:08,530 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:07:09,872 - model.att.dcrnn_supervisor - INFO - Epoch [74/100] (2400) train_mae: 1.7974, val_mae: 2.4471, lr: 0.000001, 19.3s
+2023-08-21 19:07:28,233 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:07:28,233 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:07:29,602 - model.att.dcrnn_supervisor - INFO - Epoch [75/100] (2432) train_mae: 1.7962, val_mae: 2.4337, lr: 0.000001, 19.7s
+2023-08-21 19:07:48,287 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:07:48,287 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:07:49,763 - model.att.dcrnn_supervisor - INFO - Epoch [76/100] (2464) train_mae: 1.7902, val_mae: 2.2238, lr: 0.000001, 20.2s
+2023-08-21 19:08:07,946 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:08:07,947 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:08:09,328 - model.att.dcrnn_supervisor - INFO - Epoch [77/100] (2496) train_mae: 1.7790, val_mae: 2.2792, lr: 0.000001, 19.6s
+2023-08-21 19:08:28,464 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:08:28,464 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:08:29,863 - model.att.dcrnn_supervisor - INFO - Epoch [78/100] (2528) train_mae: 1.7702, val_mae: 2.2880, lr: 0.000001, 20.5s
+2023-08-21 19:08:49,144 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:08:49,145 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:08:50,590 - model.att.dcrnn_supervisor - INFO - Epoch [79/100] (2560) train_mae: 1.7606, val_mae: 2.3073, lr: 0.000001, 20.7s
+2023-08-21 19:08:53,060 - model.att.dcrnn_supervisor - INFO - Epoch [79/100] (2560) train_mae: 1.7606, test_mae: 2.4196,  lr: 0.000001, 20.7s
+2023-08-21 19:09:11,318 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:09:11,319 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:09:12,689 - model.att.dcrnn_supervisor - INFO - Epoch [80/100] (2592) train_mae: 1.7515, val_mae: 2.2480, lr: 0.000001, 19.6s
+2023-08-21 19:09:31,265 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:09:31,266 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:09:32,614 - model.att.dcrnn_supervisor - INFO - Epoch [81/100] (2624) train_mae: 1.7309, val_mae: 2.2718, lr: 0.000001, 19.9s
+2023-08-21 19:09:50,212 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:09:50,213 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:09:51,549 - model.att.dcrnn_supervisor - INFO - Epoch [82/100] (2656) train_mae: 1.7319, val_mae: 2.3002, lr: 0.000001, 18.9s
+2023-08-21 19:10:09,357 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:10:09,358 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:10:10,687 - model.att.dcrnn_supervisor - INFO - Epoch [83/100] (2688) train_mae: 1.7421, val_mae: 2.3217, lr: 0.000001, 19.1s
+2023-08-21 19:10:28,168 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:10:28,169 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:10:29,499 - model.att.dcrnn_supervisor - INFO - Epoch [84/100] (2720) train_mae: 1.7275, val_mae: 2.2244, lr: 0.000001, 18.8s
+2023-08-21 19:10:46,946 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:10:46,946 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:10:48,324 - model.att.dcrnn_supervisor - INFO - Epoch [85/100] (2752) train_mae: 1.7105, val_mae: 2.2342, lr: 0.000001, 18.8s
+2023-08-21 19:11:05,812 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:11:05,812 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:11:07,154 - model.att.dcrnn_supervisor - INFO - Epoch [86/100] (2784) train_mae: 1.6990, val_mae: 2.3084, lr: 0.000001, 18.8s
+2023-08-21 19:11:25,933 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:11:25,934 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:11:27,291 - model.att.dcrnn_supervisor - INFO - Epoch [87/100] (2816) train_mae: 1.6946, val_mae: 2.4383, lr: 0.000001, 20.1s
+2023-08-21 19:11:46,782 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:11:46,783 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:11:48,167 - model.att.dcrnn_supervisor - INFO - Epoch [88/100] (2848) train_mae: 1.6920, val_mae: 2.3700, lr: 0.000001, 20.9s
+2023-08-21 19:12:05,674 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:12:05,674 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:12:07,013 - model.att.dcrnn_supervisor - INFO - Epoch [89/100] (2880) train_mae: 1.6949, val_mae: 2.3271, lr: 0.000001, 18.8s
+2023-08-21 19:12:09,414 - model.att.dcrnn_supervisor - INFO - Epoch [89/100] (2880) train_mae: 1.6949, test_mae: 2.5040,  lr: 0.000001, 18.8s
+2023-08-21 19:12:27,007 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:12:27,008 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:12:28,335 - model.att.dcrnn_supervisor - INFO - Epoch [90/100] (2912) train_mae: 1.6869, val_mae: 2.3967, lr: 0.000001, 18.9s
+2023-08-21 19:12:46,238 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:12:46,238 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:12:47,663 - model.att.dcrnn_supervisor - INFO - Epoch [91/100] (2944) train_mae: 1.6786, val_mae: 2.2800, lr: 0.000001, 19.3s
+2023-08-21 19:13:05,274 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:13:05,274 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:13:06,610 - model.att.dcrnn_supervisor - INFO - Epoch [92/100] (2976) train_mae: 1.6721, val_mae: 2.2922, lr: 0.000001, 18.9s
+2023-08-21 19:13:24,287 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:13:24,287 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:13:25,629 - model.att.dcrnn_supervisor - INFO - Epoch [93/100] (3008) train_mae: 1.6647, val_mae: 2.5264, lr: 0.000001, 19.0s
+2023-08-21 19:13:43,438 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:13:43,438 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:13:44,800 - model.att.dcrnn_supervisor - INFO - Epoch [94/100] (3040) train_mae: 1.6657, val_mae: 2.4121, lr: 0.000001, 19.2s
+2023-08-21 19:14:02,389 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:14:02,389 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:14:03,727 - model.att.dcrnn_supervisor - INFO - Epoch [95/100] (3072) train_mae: 1.6736, val_mae: 2.3839, lr: 0.000001, 18.9s
+2023-08-21 19:14:21,255 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:14:21,256 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:14:22,665 - model.att.dcrnn_supervisor - INFO - Epoch [96/100] (3104) train_mae: 1.6554, val_mae: 2.4296, lr: 0.000001, 18.9s
+2023-08-21 19:14:40,160 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:14:40,161 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:14:41,492 - model.att.dcrnn_supervisor - INFO - Epoch [97/100] (3136) train_mae: 1.6443, val_mae: 2.3989, lr: 0.000001, 18.8s
+2023-08-21 19:14:59,112 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:14:59,113 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:15:00,464 - model.att.dcrnn_supervisor - INFO - Epoch [98/100] (3168) train_mae: 1.6465, val_mae: 2.4131, lr: 0.000001, 19.0s
+2023-08-21 19:15:17,987 - model.att.dcrnn_supervisor - INFO - epoch complete
+2023-08-21 19:15:17,987 - model.att.dcrnn_supervisor - INFO - evaluating now!
+2023-08-21 19:15:19,317 - model.att.dcrnn_supervisor - INFO - Epoch [99/100] (3200) train_mae: 1.6227, val_mae: 2.3275, lr: 0.000001, 18.9s
+2023-08-21 19:15:21,718 - model.att.dcrnn_supervisor - INFO - Epoch [99/100] (3200) train_mae: 1.6227, test_mae: 2.4988,  lr: 0.000001, 18.9s

@@ -1,0 +1,30 @@
+Paper list for updating dimensional reduction issues
+
+Uniform Manifold Approximation with Two-phase Optimization
+Visualizing Data using t-SNE
+An Analysis of the t-SNE Algorithm for Data Visualization
+Initialization is critical for preserving global data structure in both t-SNE and UMAP
+Interactive Volume Rendering Module using Two-Dimensional Transfer Function on Cone-Beam Computed Tomography Data
+RadVolViz: An Information Display-Inspired Transfer Function Editor for Multivariate Volume Visualization
+Volume Puzzle: visual analysis of segmented volume data with multivariate attributes
+Application of Mathematical Optimization in Data Visualization and Visual Analytics: A Survey
+Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
+Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions
+
+Discussion
+- Uniform Manifold Approximation with Two-phase Optimization
+UMAP example: 
+- Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data
+Edit direction:
+- UMAP for global structure
+- t-SNE for local structure
+
+References:
+- t-SNE: already cited (Visualizing Data using t-SNE)
+- UMAP: arXiv paper (UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction)
+
+
+ADDED (Reivision)
+iLAMP: Exploring high-dimensional spacing through backward multidimensional projection (https://ieeexplore.ieee.org/document/6400489)
+Deep Feature Annotation by Iterative Meta-Pseudo-Labeling on 2D Projection (2023) B. Benato, A. Telea, A. Falcao. Pattern Recognition 141 (https://www.sciencedirect.com/science/article/pii/S0031320323003503?via%3Dihub)
+Jarke J. van Wijk, Cornelius W.A.M. van Overveld, Preset Based Interaction with High Dimensional Parameter Spaces, In: F.H. Post, G.M. Nielson. G.-P. Bonneau (eds.), Data Visualization - The State of the Art. Kluwer Academic Publishers, 2003, p. 391-406 (https://link.springer.com/chapter/10.1007/978-1-4615-1177-9_27)

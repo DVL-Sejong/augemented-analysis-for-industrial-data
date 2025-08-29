@@ -1,0 +1,79 @@
+[
+    {
+        "DOCID": 1276740,
+        "MAIN_OBJ": "하이투자증권",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276741,
+        "MAIN_OBJ": "2013년 말까지",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    },
+    {
+        "DOCID": 1276742,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "스마트하이",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276743,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "태블릿PC",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276744,
+        "MAIN_OBJ": "스마트폰",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276745,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "하이투자증권",
+        "RELATION": "해당 개체를 개발한 주체(developer)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276746,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276747,
+        "MAIN_OBJ": "스마트하이",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.36786"
+    },
+    {
+        "DOCID": 1276748,
+        "MAIN_OBJ": "태블릿PC",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276749,
+        "MAIN_OBJ": "태블릿PC",
+        "SUB_OBJ": "스마트하이T",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276750,
+        "MAIN_OBJ": "스마트하이T",
+        "SUB_OBJ": "스마트폰",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.07467"
+    }
+]

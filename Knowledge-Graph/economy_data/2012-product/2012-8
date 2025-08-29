@@ -1,0 +1,443 @@
+[
+    {
+        "DOCID": 1276441,
+        "MAIN_OBJ": "연초",
+        "SUB_OBJ": "이번 주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276442,
+        "MAIN_OBJ": "이번 주",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276443,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "29일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276444,
+        "MAIN_OBJ": "지난주",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276445,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276446,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "29일",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276447,
+        "MAIN_OBJ": "사흘",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276448,
+        "MAIN_OBJ": "29일",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276449,
+        "MAIN_OBJ": "29일",
+        "SUB_OBJ": "한 해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276450,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "지난주",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276451,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "사흘",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276452,
+        "MAIN_OBJ": "한 해",
+        "SUB_OBJ": "29일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276453,
+        "MAIN_OBJ": "한 주간",
+        "SUB_OBJ": "2.22%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276454,
+        "MAIN_OBJ": "한 주간",
+        "SUB_OBJ": "1825.74",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276455,
+        "MAIN_OBJ": "2.22%",
+        "SUB_OBJ": "한 주간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276456,
+        "MAIN_OBJ": "2.22%",
+        "SUB_OBJ": "1825.74",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276457,
+        "MAIN_OBJ": "1825.74",
+        "SUB_OBJ": "한 주간",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276458,
+        "MAIN_OBJ": "1825.74",
+        "SUB_OBJ": "2.22%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276459,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.5965"
+    },
+    {
+        "DOCID": 1276460,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.25184"
+    },
+    {
+        "DOCID": 1276461,
+        "MAIN_OBJ": "2일",
+        "SUB_OBJ": "새해",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276462,
+        "MAIN_OBJ": "새해",
+        "SUB_OBJ": "2일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276463,
+        "MAIN_OBJ": "중국",
+        "SUB_OBJ": "일본",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.5904"
+    },
+    {
+        "DOCID": 1276464,
+        "MAIN_OBJ": "일본",
+        "SUB_OBJ": "중국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.26989"
+    },
+    {
+        "DOCID": 1276465,
+        "MAIN_OBJ": "2~3일",
+        "SUB_OBJ": "중국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1276466,
+        "MAIN_OBJ": "곽병열",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276467,
+        "MAIN_OBJ": "곽병열",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276468,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276469,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.09971"
+    },
+    {
+        "DOCID": 1276470,
+        "MAIN_OBJ": "유진투자증권",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체가 속한 대륙(continent)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276471,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 개체의 저자(author)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276472,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "유진투자증권",
+        "RELATION": "해당 개체의 발행 주체(publisher)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276473,
+        "MAIN_OBJ": "스트래티지스트",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.09972"
+    },
+    {
+        "DOCID": 1276474,
+        "MAIN_OBJ": "연초",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.14597"
+    },
+    {
+        "DOCID": 1276475,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "곽병열",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.38179"
+    },
+    {
+        "DOCID": 1276476,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "스트래티지스트",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.29416"
+    },
+    {
+        "DOCID": 1276477,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.62026"
+    },
+    {
+        "DOCID": 1276478,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.4138"
+    },
+    {
+        "DOCID": 1276479,
+        "MAIN_OBJ": "독일",
+        "SUB_OBJ": "메르켈",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.35402"
+    },
+    {
+        "DOCID": 1276480,
+        "MAIN_OBJ": "메르켈",
+        "SUB_OBJ": "독일",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.35402"
+    },
+    {
+        "DOCID": 1276481,
+        "MAIN_OBJ": "총리",
+        "SUB_OBJ": "독일",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.49772"
+    },
+    {
+        "DOCID": 1276482,
+        "MAIN_OBJ": "총리",
+        "SUB_OBJ": "5일",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276483,
+        "MAIN_OBJ": "5일",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276484,
+        "MAIN_OBJ": "5일",
+        "SUB_OBJ": "연말",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.12833"
+    },
+    {
+        "DOCID": 1276485,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "독일",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.54313"
+    },
+    {
+        "DOCID": 1276486,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "5일",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.23734"
+    },
+    {
+        "DOCID": 1276487,
+        "MAIN_OBJ": "유럽",
+        "SUB_OBJ": "주 후반부터",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.95263"
+    },
+    {
+        "DOCID": 1276488,
+        "MAIN_OBJ": "스탠더드 앤드 푸어스",
+        "SUB_OBJ": "S&P",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276489,
+        "MAIN_OBJ": "S&P",
+        "SUB_OBJ": "스탠더드 앤드 푸어스",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276490,
+        "MAIN_OBJ": "전문가",
+        "SUB_OBJ": "S&P",
+        "RELATION": "다음과 다르지만 같은 의미인 것처럼 혼동되는 항목(different from)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276491,
+        "MAIN_OBJ": "무디스",
+        "SUB_OBJ": "S&P",
+        "RELATION": "해당 개체의 소유자(owned by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276492,
+        "MAIN_OBJ": "프랑스",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.19418"
+    },
+    {
+        "DOCID": 1276493,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "중국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.70473"
+    },
+    {
+        "DOCID": 1276494,
+        "MAIN_OBJ": "중국",
+        "SUB_OBJ": "미국",
+        "RELATION": "수교국(diplomatic relation)",
+        "weight": "0.17964"
+    },
+    {
+        "DOCID": 1276495,
+        "MAIN_OBJ": "김정훈",
+        "SUB_OBJ": "미국",
+        "RELATION": "국적(country of citizenship)",
+        "weight": "0.04014"
+    },
+    {
+        "DOCID": 1276496,
+        "MAIN_OBJ": "한국투자증권",
+        "SUB_OBJ": "김정훈",
+        "RELATION": "해당 개체의 설립자(founded by)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1276497,
+        "MAIN_OBJ": "한국투자증권",
+        "SUB_OBJ": "미국",
+        "RELATION": "다음 국가의 것임(country)",
+        "weight": "0.07095"
+    },
+    {
+        "DOCID": 1276498,
+        "MAIN_OBJ": "미국",
+        "SUB_OBJ": "김정훈",
+        "RELATION": "해당 행정부 또는 지자체의 수장(head of government)",
+        "weight": "0.5541"
+    },
+    {
+        "DOCID": 1276499,
+        "MAIN_OBJ": "연말",
+        "SUB_OBJ": "미국",
+        "RELATION": "해당 개체가 처음 유래되거나 만들어진 국가(country of origin)",
+        "weight": "0.19219"
+    },
+    {
+        "DOCID": 1276500,
+        "MAIN_OBJ": "4분기",
+        "SUB_OBJ": "연초",
+        "RELATION": "하위 행정구역",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276501,
+        "MAIN_OBJ": "4분기",
+        "SUB_OBJ": "연초",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1276502,
+        "MAIN_OBJ": "정보기술",
+        "SUB_OBJ": "IT",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1276503,
+        "MAIN_OBJ": "김수연",
+        "SUB_OBJ": "기자",
+        "RELATION": "직업(occupation)",
+        "weight": "0.60085"
+    }
+]

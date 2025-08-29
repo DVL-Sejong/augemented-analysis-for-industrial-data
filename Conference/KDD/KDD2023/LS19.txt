@@ -1,0 +1,65 @@
+LS19 - Towards Next-Generation Intelligent Assistants Leveraging LLM Techniques
+
+
+meta-assistant
+sub-systems for speech and dialog
+speech: speech recognition
+dialog: conversational AI (semantic, parsing, entity, linking, …)
+
+Direction 1. Multi-Modal Assistant
+Direction 2. Context-Aware Assistant
+Direction 3. Assistant ??
+Direction 4.  ??
+
+Recap: How is this relevant to KDD audience 
+
+Section Structure
+Problem definition
+
+Two goals for the tutorial
+
+
+
+“Conversational AI” by Xin Luna Dong
+Different types of dialog systems
+Task-oriented systems
+Social chatbots
+Dialog system types
+
+
+
+
+Task-oriented …
+NLU
+- intent detection: classification task
+- slot filling: sequence labeling
+- Joint Model
+-- implicit joint model
+-- explicit joint model
+DST: dialog state tracking
+DPL: dialog policy planning
+NLG: natural language generation
+
+
+Modular Framework Drawbacks
+End-to-End framework
+- LLM 101
+-- GPT evolution
+-- From GPT3 to ChatGPT
+-- Additional LLMs
+-- Going beyond language-only
+--- reasoning
+--- acting
+
+End-to-End model drawbacks
+LLM’s influence on task-oriented dialogs
+
+
+
+
+“Multimodal” Context-Aware Conversational AI by Seungwhan (Shane) Moon
+(tinyurl.com/kdd-tutorial-assistant)
+
+Voice-only assistant
+
+Examples of Multimodal assistant

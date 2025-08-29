@@ -1,0 +1,58 @@
+Related topics on AHFE 2023
+(https://acii-conf.net/2023/)
+
+[Plenary:Neuroergonomics & Cognitive Engineering]
+Neuroergonomics: Towards ubiquitous and continuous measurement of brain function during everyday life
+
+[Sensory Engineering and Emotion I]
+Evaluation of the effect of viewing paintings with different objects and methods of expression on stress
+Effects of field-of-view expansion using a wide-field HMD on sensibility during straight-line video viewing
+
+[Human-Centered Ergonomics and Service Design]
+Integrated human factors in the systematic mechanical design of NPU-Wrist rehabilitation robot
+Assessment of wine bottle packaging based on design aesthetics: An eye-tracking experiment
+User requirement matching model for distributed conferencing systems in the post-epidemic era
+
+[Usability and User Experience Applications I]
+User experience elements of data visualization large screenThe example of electricity industry
+Visual variable perception in time series dynamic visualization
+Exploring the correlation between campus map representation and wayfinding behavior through virtual environment
+
+[Perception, Behavior and Cognitive Workload]
+Measures for human design of mental stress factors of digital work in public administrations
+Exploring interactive design strategies of online learning platform based on cognitive load theory
+The design of mid-air ultrasonic haptic interfaces based on the perception of lines
+Cognitive friction measurement: Interaction assessment of interface information in complex information systems
+Evaluation of the impact of visual decoration on the memorable effect in big data visualization: The example of bar chart
+
+[Artificial Intelligence Symbiosis]
+Artificial intelligence in healthcare: The explainability ethical paradox
+Expanding our grasp: Artificial intelligence as the next leap forward in healthcare quality
+Augmented reality in heat stroke emergency medical developing design
+
+[System Design and Usability]
+The power to be seen: A study on the accessibility design of live stream system for the visually impaired
+Ergo4workers: Usability testing of the first prototype of an app for the ergonomic assessment of healthcare professionals
+
+[Advancing the Science of Human-Agent Teaming]
+Beyond the tool vs. teammate debate: Exploring the sidekick metaphor in human-AI dyads
+Measurement and manipulation in human-agent teams: A review
+Measuring trust in a simulated human agent team task
+The role of artificial theory of mind in supporting human-agent teaming interactions
+
+[Human Reliability Analysis]
+Human error and performance modeling with virtual operator model (HUNTER) synchronously coupled to Rancor Microworld Nuclear Power Plant simulator
+A critical analysis of the concept of resilience skills from an enactivist perspective
+Human reliability analysis in aviation accidents: A review
+Digital twin verification for advanced reactor remote operations
+Synchronous vs. asynchronous coupling in the HUNTER dynamic human reliability analysis framework
+
+[Usability Evaluation I]
+Design and usability evaluation of visual perception game-based training system for children with developmental delays
+Analysis of user interaction behavior on Sina Weibo under the context of intelligent technology
+A bibliometrics-based study of visualizing design narratives
+
+[Human Factors in Software and Systems Engineering I]
+Explaining algorithmic decisions: design guidelines for explanations in User Interfaces
+Finding the balance: Human factors integration for commercial-off-the-shelf (COTS) systems
+Analysis of the behavior of the floating systems used for boundary of river-sea recreational activities area

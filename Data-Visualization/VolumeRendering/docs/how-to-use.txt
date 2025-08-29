@@ -1,0 +1,44 @@
+vs 2017 실행
+D:\build\uniRender_shadow_rev1084_build_win64 실행
+
+break points
+(1037) glwidget_tf2.cpp 
+(156)
+continue (F5)
+
+STEP
+Data: A
+volumeData>raw load>(rendering)>Dimension XYZ (256,256,128)>Load Data>
+Data:TSNE>umap load>histogram 영역 아무거나(왼쪽클릭 드래그)>
+156 활성화(브레이크)>tranFunction>BoxStartPtr//end 수정>우측하단 포인트제거>F5>
+Transfer fucntion tool에서 TF mode 3번째 mapping type 아무거나 바꾸기(ex. uniforms)>
+clustertviewtype>TNSE로 선택>
+
+interaction (LASSO)
+가장 많이보이는 파란색부터>
+컨트롤 누르고 클릭하면 점 찍힘>
+컨트롤 누르고 오른쪽 클릭하면 글리프 완성(컨트롤 없이는 취소)>
+(뒷배경에 흰색 박스 오른쪽 클릭으로 축소하고 치울 수 있음, 또 뜨면 반복)>
+cluster view type 아래 버튼(set picked tsne box color)>
+(color 수정/굳이 안닫아도 됨)>
+...반복...>
+(글리프 선택: 가운데 스크롤버튼)>
+set picked tf box color: HISTOGRAM (TF) 색상 변경용
+TF 수정 후 update stne color from igmtf 버튼: tsne 부분이 igmtf 색상으로 업데이트
+
+
+1037 break
+tp 수정 가능
+polygonColor: 색상
+polygonFlag 1: visible, 0: unvisible
+
+md_sparse_D19.append([i/vecLength,j/vecLength,k/vecLength,np_voldata[c_idx][0],np_voldata[c_idx][1], r, l, u, d, f, b, gr,gl,gu,gd,gf,gb,LHarray[c_idx][0], LHarray[c_idx][1]])
+
+tsnecuda (석연 사용 라이브러리), gpumap (최근 검색에서 같이 본 라이브러리)과 같은 gpu를 사용하는 라이브러리들은 에러로 사용이 안됨(안정성 낮음)
+논문에서는 cuML을 사용한다고 언급되어 있어 해당 라이브러리로 수정하여 코드 작성
+cuML 문제 없이 동작
+
+
+Last used settings
+2D TF selected area: (43.401.105.475)(280.398.309.480)(309.341.417.480)
+Abdomen, UMAP (neighbors=100, min_dist=0.1)

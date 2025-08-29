@@ -1,0 +1,632 @@
+Classifying schematic and data heterogeneity in multidatabase systems
+
+A survey on machine learning for data fusion
+
+A Methodology for Data Schema Integration in the Entity Relationship Model
+
+Data fusion
+
+Data integration for heterogenous datasets
+
+Quantitative data cleaning for large databases
+
+Data cleaning: Problems and current approaches
+
+How Can We Improve Data Quality for Machine Learning? A Visual Analytics System using Data and Process-driven Strategies
+
+CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data
+
+Alpaca: A Strong, Replicable Instruction-Following Model
+
+Hierarchical text-conditional image generation with clip latents
+
+Big-data: transformation from heterogeneous data to semantically-enriched simplified data
+
+Heterogeneous data and big data analytics
+
+Data Fusion in Three Steps: Resolving Schema, Tuple, and Value Inconsistencies.
+
+Learning semantic correspondences with less supervision
+
+Learning to sportscast: a test of grounded language acquisition
+
+Effective Approaches to Attention-based Neural Machine Translation
+
+Challenges in Data-to-Document Generation
+
+Table-to-text generation by structure-aware seq2seq learning
+
+Order-planning neural text generation from structured data
+
+Enhancing content planning for table-to-text generation with data understanding and verification
+
+Neural Text Generation from Structured Data with Application to the Biography Domain
+
+Data-to-text Generation with Entity Modeling
+
+Table-to-text: Describing table region with natural language
+
+Describing a Knowledge Base
+
+ToTTo: A Controlled Table-To-Text Generation Dataset
+
+Towards Table-to-Text Generation with Numerical Reasoning
+
+Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation
+
+Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation
+
+Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints
+
+Stepwise Extractive Summarization and Planning with Structured Transformers
+
+Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching
+
+Few-Shot Table-to-Text Generation with Prototype Memory
+
+Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View
+
+Controlling Hallucinations at Word Level in Data-to-Text Generation
+
+Using tf-idf to determine word relevance in document queries
+
+Keyword extraction using word co-occurrence
+
+Keyword extraction from a single document using word co-occurrence statistical information
+
+Automated keyword extraction using support vector machine from Arabic news documents
+
+Text classification and keyword extraction by learning decision trees
+
+Finding advertising keywords on web pages
+
+Domain-specific keyphrase extraction
+
+Automatic hypertext keyphrase detection
+
+Automatic keyphrase extraction from scientific articles
+
+Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation
+
+Guiding generation for abstractive text summarization based on key information guide network
+
+Keywords guided method name generation
+
+A statistical approach to mechanized encoding and searching of literary information
+
+A text feature based automatic keyword extraction method for single documents
+
+Improved automatic keyword extraction given more linguistic knowledge
+
+OILog: An online incremental log keyword extraction approach based on MDP-LSTM neural network
+
+Keyword extraction from online product reviews based on bi-directional LSTM recurrent neural network
+
+A density-based method for adaptive LDA model selection
+
+Indexing by latent semantic analysis
+
+Probabilistic latent semantic indexing
+
+Word2vec-based latent semantic analysis (W2V-LSA) for topic modeling: A study on blockchain technology trend analysis
+
+Semantics-based topic inter-relationship extraction
+
+Topic aware neural response generation
+
+Discovering discrete latent topics with neural variational inference
+
+Translating with bilingual topic knowledge for neural machine translation
+
+Single document automatic text summarization using term frequency-inverse document frequency (TF-IDF)
+
+Automatic labelling of documents based on ontology
+
+Toward generic title generation for clustered documents
+
+A template-based abstractive meeting summarization: Leveraging summary and source text relationships
+
+Abstractive summarization of product reviews using discourse structure
+
+Lexrank: Graph-based lexical centrality as salience in text summarization
+
+Textrank: Bringing order into text
+
+A Neural Attention Model for Abstractive Sentence Summarization
+
+Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond
+
+Neural Summarization by Extracting Sentences and Words
+
+Neural extractive summarization with side information
+
+Extractive summarization using multi-task learning with document classification
+
+Deep Communicating Agents for Abstractive Summarization
+
+Neural Document Summarization by Jointly Learning to Score and Select Sentences
+
+A unified model for extractive and abstractive summarization using inconsistency loss
+
+Bottom-Up Abstractive Summarization
+
+Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+
+Pointing the Unknown Words
+
+Get To The Point: Summarization with Pointer-Generator Networks
+
+BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+
+BERT: Pre-training of deep bidirectional transformers for language understanding
+
+Improving language understanding by generative pre-training
+
+Teaching machines to read and comprehend
+
+Summarunner: A recurrent neural network based sequence model for extractive summarization of documents
+
+Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints
+
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+
+A Survey of Knowledge-Enhanced Text Generation
+
+A survey of knowledge enhanced pre-trained models
+
+A Comprehensive Survey of Deep Learning for Image Captioning
+
+Nonparametric method for data-driven image captioning
+
+A distributed representation based query expansion approach for image captioning
+
+Im2Text and Text2Im: Associating Images and Texts for Cross-Modal Retrieval
+
+The impact of frequency on summarization
+
+Corpus-guided sentence generation of natural images
+
+Composing simple image descriptions using web-scale n-grams
+
+Midge: Generating image descriptions from computer vision detections
+
+Multimodal Machine Learning: A Survey and Taxonomy
+
+Explain images with multimodal recurrent neural networks
+
+Deep visual-semantic alignments for generating image descriptions
+
+Mind's eye: A recurrent visual representation for image caption generation
+
+Show and tell: A neural image caption generator
+
+Long-term recurrent convolutional networks for visual recognition and description
+
+Image captioning with semantic attention
+
+Multimodal convolutional neural networks for matching image and sentence
+
+Simple image description generator via a linear phrase-based approach
+
+Deep correlation for matching images and text
+
+The pascal visual object classes (voc) challenge
+
+Im2text: Describing images using 1 million captioned photographs
+
+Framing image description as a ranking task: Data, models and evaluation metrics
+
+From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions
+
+Microsoft coco: Common objects in context
+
+Collecting Image Annotations Using Amazon's Mechanical Turk
+
+Learning Long-and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption
+
+Show, control and tell: A framework for generating controllable and grounded captions
+
+Length-controllable image captioning
+
+Translating video content to natural language descriptions
+
+Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition
+
+Integrating language and vision to generate natural language descriptions of videos in the wild
+
+Grounding action descriptions in videos
+
+Collecting highly parallel data for paraphrase evaluation
+
+Msr-vtt: A large video description dataset for bridging video and language
+
+LoL-V2T: Large-Scale Esports Video Description Dataset
+
+End-to-end dense video captioning with masked transformer
+
+MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning
+
+End-to-end Dense Video Captioning as Sequence Generation
+
+PaLI-X: On Scaling up a Multilingual Vision and Language Model
+
+Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
+
+Text With Knowledge Graph Augmented Transformer for Video Captioning
+
+Using descriptive video services to create a large data source for video annotation research
+
+A dataset for movie description
+
+Sequence to sequence-video to text
+
+Coherent multi-sentence video description with variable level of detail
+
+Hollywood in homes: Crowdsourcing data collection for activity understanding
+
+Dense-captioning events in videos
+
+Towards automatic learning of procedures from web instructional videos
+
+Scaling egocentric vision: The epic-kitchens dataset
+
+Howto100m: Learning a text-video embedding by watching hundred million narrated video clips
+
+End-to-end let's play commentary generation using multi-modal video representations
+
+Combining enterprise knowledge graph and news sentiment analysis for stock price prediction
+
+Building a PubMed knowledge graph
+
+Kernel Methods for Relation Extraction
+
+Exploring Various Knowledge in Relation Extraction
+
+A feature-enriched tree kernel for relation extraction
+
+Deep learning-based knowledge graph generation for COVID-19
+
+Typed tensor decomposition of knowledge bases for relation extraction
+
+Relation extraction with multi-instance multi-label convolutional neural networks
+
+Neural relation extraction with selective attention over instances
+
+Incorporating Relation Paths in Neural Relation Extraction
+
+Combining distant and partial supervision for relation extraction
+
+Semantic consistency: A local subspace based method for distant supervised relation extraction
+
+Infusion of labeled data into distant supervision for relation extraction
+
+Encoding relation requirements for relation extraction via joint inference
+
+Learning a health knowledge graph from electronic medical records
+
+Knowedu: A system to construct knowledge graph for education
+
+Semantic relation extraction using sequential and tree-structured LSTM with attention
+
+Toward an architecture for never-ending language learning
+
+Exploiting constituent dependencies for tree kernel-based semantic relation extraction
+
+Modeling relations and their mentions without labeled text
+
+Knowledge base population: Successful approaches and challenges
+
+Dbpedia-a crystallization point for the web of data
+
+One billion word benchmark for measuring progress in statistical language modeling
+
+Pointer sentinel mixture models
+
+Attribute-Graph: A Graph Based Approach to Image Ranking
+
+Graph Convolutional Networks for Hyperspectral Image Classification
+
+Unpaired Image Captioning via Scene Graph Alignments
+
+Cross-Scale Internal Graph Neural Network for Image Super-Resolution
+
+Hyperspectral Image Classification With Context-Aware Dynamic Graph Convolutional Network
+
+220 Band AVIRIS Hyperspectral Image Data Set: June 12, 1992 Indian Pine Test Site 3
+
+Describing objects by their attributes
+
+Imagenet: A large-scale hierarchical image database
+
+A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics
+
+Ntire 2017 challenge on single image super-resolution: Methods and results
+
+Visual genome: Connecting language and vision using crowdsourced dense image annotations
+
+Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning
+
+Video Representation Learning with Graph Contrastive Augmentation
+
+VLG-Net: Video-Language Graph Matching Network for Video Grounding
+
+Spatio-Temporal Graph for Video Captioning With Knowledge Distillation
+
+Temporal Reasoning Graph for Activity Recognition
+
+Object-Aware Aggregation With Bidirectional Temporal Graph for Video Captioning
+
+Unified Graph Structured Models for Video Understanding
+
+Pyramid regional graph representation learning for content-based video retrieval
+
+The 2017 davis challenge on video object segmentation
+
+Adaptive temporal encoding network for video instance-level human parsing
+
+Towards understanding action recognition
+
+The kinetics human action video dataset
+
+UCF101: A dataset of 101 human actions classes from videos in the wild
+
+HMDB: a large video database for human motion recognition
+
+Localizing moments in video with natural language
+
+The something something video database for learning and evaluating visual common sense
+
+On the effectiveness of task granularity for transfer learning
+
+The jester dataset: A large-scale video dataset of human gestures
+
+Ava: A video dataset of spatio-temporally localized atomic visual actions
+
+Action genome: Actions as compositions of spatio-temporal scene graphs
+
+SVD: A large-scale short video dataset for near-duplicate video retrieval
+
+DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture
+
+DeepInsight-FS: Selecting features for non-image data using convolutional neural network
+
+Cybersickness Analysis with EEG Using Deep Learning Algorithms
+
+Electroencephalography
+
+Diagnosis of autism spectrum disorder from EEG using a time–frequency spectrogram image-based approach
+
+Automatic Classification of Motor Impairment Neural Disorders from EEG Signals Using Deep Convolutional Neural Networks
+
+Decision support system for major depression detection using spectrogram and convolution neural network with EEG signals
+
+Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram Images of EEG Signals
+
+A spectrogram image based intelligent technique for automatic detection of autism spectrum disorder from EEG
+
+Patients’ EEG data analysis via spectrogram image with a convolution neural network
+
+Deep Learning With EEG Spectrograms in Rapid Eye Movement Behavior Disorder
+
+Multi-category EEG signal classification developing time-frequency texture features based Fisher Vector encoding method
+
+Driver Fatigue Detection with Single EEG Channel Using Transfer Learning
+
+EEG based multi-class seizure type classification using convolutional neural network and transfer learning
+
+An automated classification of EEG signals based on spectrogram and CNN for epilepsy diagnosis
+
+A novel deep learning approach for classification of {EEG} motor imagery signals
+
+EEG Classification of Motor Imagery Using a Novel Deep Learning Framework
+
+Emotion Classification from EEG Signals in Convolutional Neural Networks
+
+Comparison between KNN and ANN Classification in Brain Balancing Application via Spectrogram Image
+
+EEG spectrogram classification employing ANN for IQ application
+
+Is it possible to detect cerebral dominance via EEG signals by using deep learning?
+
+An Effective Hybrid Model for EEG-Based Drowsiness Detection
+
+An EEG spectrogram-based automatic sleep stage scoring method via data augmentation, ensemble convolution neural network, and expert knowledge
+
+Mel frequency cepstral coefficients for music modeling
+
+Noise robust audio surveillance using reduced spectrogram image feature and one-against-all SVM
+
+GMM and CNN Hybrid Method for Short Utterance Speaker Recognition
+
+Speech Emotion Recognition Using Spectrogram \& Phoneme Embedding
+
+Song/Instrumental Classification Using Spectrogram Based Contextual Features
+
+Acoustic Characteristics of Emotional Speech Using Spectrogram Image Classification
+
+Speech and music classification using hybrid Form of spectrogram and fourier transformation
+
+Robust sound event recognition using convolutional neural networks
+
+Acoustic Scene Classification Using a CNN-SuperVector System Trained with Auditory and Spectrogram Image Features
+
+A Cnn-Gru Approach to Capture Time-Frequency Pattern Interdependence for Snore Sound Classification
+
+Application of deep visualization in CNN-based tool condition monitoring for end milling
+
+Detecting hypopnea and obstructive apnea events using convolutional neural networks on wavelet spectrograms of nasal airflow
+
+Combining 3d image and tabular data via the dynamic affine feature map transform
+
+Deep Neural Network-Based Gait Classification Using Wearable Inertial Sensor Data
+
+Application of CNN for Human Activity Recognition with FFT Spectrogram of Acceleration and Gyro Sensors
+
+IQ-Data-Based WiFi Signal Classification Algorithm Using the Choi-Williams and Margenau-Hill-Spectrogram Features: A Case in Human Activity Recognition
+
+Ground Moving Radar Targets Classification Based on Spectrogram Images Using Convolutional Neural Networks
+
+Using convolutional neural networks for human activity classification on micro-Doppler radar spectrograms
+
+Wi-Fi-CSI-based Fall Detection by Spectrogram Analysis with CNN
+
+Wheelchair Accessibility Evaluation with Deep Learning using a Sensing Acceleration Data-Based Spectrogram
+
+CNN/Bi-LSTM-based deep learning algorithm for classification of power quality disturbances by using spectrogram images
+
+Structural vibration-based classification and prediction of delamination in smart composite laminates using deep learning neural network
+
+Using CNN To Classify Spectrograms of Seismic Events From Llaima Volcano (Chile)
+
+Generative adversarial networks: An overview
+
+Generative adversarial nets
+
+Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks
+
+I2t2i: Learning text to image synthesis with textual data augmentation
+
+C4synth: Cross-caption cycle-consistent text-to-image synthesis
+
+Generative adversarial text to image synthesis
+
+Learning what and where to draw
+
+Stackgan++: Realistic image synthesis with stacked generative adversarial networks
+
+Photographic text-to-image synthesis with a hierarchically-nested adversarial network
+
+Inferring semantic layout for hierarchical text-to-image synthesis
+
+Adversarial learning of semantic relevance in text to image synthesis
+
+Semantics disentangling for text-to-image generation
+
+Attngan: Fine-grained text to image generation with attentional generative adversarial networks
+
+Controllable text-to-image generation
+
+Learn, imagine and create: Text-to-image generation from prior knowledge
+
+Mirrorgan: Learning text-to-image generation by redescription
+
+Object-driven text-to-image synthesis via adversarial training
+
+Realistic image generation using region-phrase attention
+
+Semantics-enhanced adversarial nets for text-to-image synthesis
+
+Hierarchically-fused generative adversarial network for text to realistic image synthesis
+
+Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis
+
+Simgan: Photo-realistic semantic image manipulation using generative adversarial networks
+
+Visual-relation conscious image generation from structured-text
+
+Text-adaptive generative adversarial networks: manipulating images with natural language
+
+Semantic object accuracy for generative text-to-image synthesis
+
+Text-to-image synthesis via symmetrical distillation networks
+
+Semantically invariant text-to-image generation
+
+Text-to-image synthesis via visual-memory creative adversarial network
+
+Caltech-UCSD Birds 200
+
+Automated Flower Classification over a Large Number of Classes
+
+Challenges in visual data analysis
+
+Common Crawl
+
+Language Models are Few-Shot Learners
+
+Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)
+
+Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data
+
+Table-to-Text Natural Language Generation with Unseen Schemas
+
+Hierarchical encoder with auxiliary supervision for neural table-to-text generation: Learning better representation for tables
+
+Fundamentals of EEG measurement
+
+MBrain: A Multi-Channel Self-Supervised Learning Framework for Brain Signals
+
+The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface
+
+Gaze Stripes: Image-Based Visualization of Eye Tracking Data
+
+Llama: Open and efficient foundation language models
+
+Llama 2: Open foundation and fine-tuned chat models
+
+Fashion-Oriented Image Captioning with External Knowledge Retrieval and Fully Attentive Gates
+
+Attribute Conditioned Fashion Image Captioning
+
+Image Captioning with Attention for Smart Local Tourism using EfficientNet
+
+Reconciling Image Captioning and User’s Comments for Urban Tourism
+
+Mask r-cnn
+
+Addressing semantic heterogeneity through multiple knowledge base assisted merging of domain-specific ontologies
+
+Document Understanding Conference - publications data
+
+Text Analysis Conference - Past TAC Data
+
+Stockwell transform and semi-supervised feature selection from deep features for classification of BCI signals
+
+Rectification of the bias in the wavelet power spectrum
+
+A practical guide to wavelet analysis
+
+Limitations of information extraction methods and techniques for heterogeneous unstructured big data
+
+CLOVA
+
+Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce conversations
+
+Speak - The speaking app that actually talks
+
+ELSA Speak
+
+Siri - Apple
+
+Cortana
+
+Youper: Artificial Intelligence For Mental Health Care
+
+The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains
+
+Cross-Domain Analysis of ML and DL: Evaluating their Impact in Diverse Domains
+
+Improved techniques for training gans
+
+Pros and cons of gan evaluation measures
+
+Speech and language processing
+
+Enriching word vectors with subword information
+
+Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference
+
+Neural Text Generation from Structured Data with Application to the Biography Domain
+
+Local higher-order graph clustering
+
+Big data integration
+
+Dynamic Graph CNN for Learning on Point Clouds
+
+Generic schema matching with cupid
+
+Duplicate Record Detection: A Survey
+
+Visualizing data using t-SNE
+

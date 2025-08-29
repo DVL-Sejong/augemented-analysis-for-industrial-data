@@ -1,0 +1,3533 @@
+@article{kim1991classifying,
+  title={Classifying schematic and data heterogeneity in multidatabase systems},
+  author={Kim, Won and Seo, Jungyun},
+  journal={Computer},
+  volume={24},
+  number={12},
+  pages={12--18},
+  year={1991},
+  publisher={IEEE}
+}
+
+@article{meng2020survey,
+  title={A survey on machine learning for data fusion},
+  author={Meng, Tong and Jing, Xuyang and Yan, Zheng and Pedrycz, Witold},
+  journal={Information Fusion},
+  volume={57},
+  pages={115--129},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{batini1984methodology,
+  author={Batini, Carlo and Lenzerini, Maurizio},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={A Methodology for Data Schema Integration in the Entity Relationship Model}, 
+  year={1984},
+  volume={SE-10},
+  number={6},
+  pages={650-664}
+}
+
+@article{bleiholder2009data,
+  title={Data fusion},
+  author={Bleiholder, Jens and Naumann, Felix},
+  journal={ACM computing surveys (CSUR)},
+  volume={41},
+  number={1},
+  pages={1--41},
+  year={2009},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{hendler2014data,
+  title={Data integration for heterogenous datasets},
+  author={Hendler, James},
+  journal={Big data},
+  volume={2},
+  number={4},
+  pages={205--215},
+  year={2014},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
+@article{hellerstein2008quantitative,
+  title={Quantitative data cleaning for large databases},
+  author={Hellerstein, Joseph M},
+  journal={United Nations Economic Commission for Europe (UNECE)},
+  volume={25},
+  pages={1--42},
+  year={2008}
+}
+
+@article{rahm2000data,
+  title={Data cleaning: Problems and current approaches},
+  author={Rahm, Erhard and Do, Hong Hai and others},
+  journal={IEEE Data Eng. Bull.},
+  volume={23},
+  number={4},
+  pages={3--13},
+  year={2000}
+}
+
+@inproceedings{hong2023how,
+    author={Hong, Hyein and Yoo, Sangbong and Jin, Yejin and Jang, Yun},
+    booktitle={2023 IEEE 16th Pacific Visualization Symposium (PacificVis)}, 
+    title={How Can We Improve Data Quality for Machine Learning? A Visual Analytics System using Data and Process-driven Strategies}, 
+    year={2023},
+    volume={},
+    number={},
+    pages={112-121},
+    address={Seoul, South Korea},
+    publisher={IEEE}
+}
+
+@inproceedings{wenzek2020ccnet,
+    title = "{CCN}et: Extracting High Quality Monolingual Datasets from Web Crawl Data",
+    author = "Wenzek, Guillaume  and
+      Lachaux, Marie-Anne  and
+      Conneau, Alexis  and
+      Chaudhary, Vishrav  and
+      Guzm{\'a}n, Francisco  and
+      Joulin, Armand  and
+      Grave, Edouard",
+    booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    pages = "4003--4012",
+    abstract = "Pre-training text representations have led to significant improvements in many areas of natural language processing. The quality of these models benefits greatly from the size of the pretraining corpora as long as its quality is preserved. In this paper, we describe an automatic pipeline to extract massive high-quality monolingual datasets from Common Crawl for a variety of languages. Our pipeline follows the data processing introduced in fastText (Mikolov et al., 2017; Grave et al., 2018), that deduplicates documents and identifies their language. We augment this pipeline with a filtering step to select documents that are close to high quality corpora like Wikipedia.",
+    language = "English",
+}
+
+@misc{taori2023alpaca,
+    title={Alpaca: A Strong, Replicable Instruction-Following Model},
+    author={Rohan Taori and Ishaan Gulrajani and Tianyi Zhang and Yann Dubois and Xuechen Li and Carlos Guestrin and Percy Liang and Tatsunori B. Hashimoto},
+    year={2023},
+    url={https://crfm.stanford.edu/2023/03/13/alpaca.html}
+}
+
+@article{ramesh2022hierarchical,
+    title={Hierarchical text-conditional image generation with clip latents},
+    author={Ramesh, Aditya and Dhariwal, Prafulla and Nichol, Alex and Chu, Casey and Chen, Mark},
+    journal={arXiv preprint arXiv:2204.06125},
+    year={2022},
+    numpages={27}
+}
+
+@article{malik2016big,
+  title={Big-data: transformation from heterogeneous data to semantically-enriched simplified data},
+  author={Malik, Kaleem Razzaq and Ahmad, Tauqir and Farhan, Muhammad and Aslam, Muhammad and Jabbar, Sohail and Khalid, Shehzad and Kim, Mucheol},
+  journal={Multimedia Tools and Applications},
+  volume={75},
+  pages={12727--12747},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{wang2017heterogeneous,
+  title={Heterogeneous data and big data analytics},
+  author={Wang, Lidong},
+  journal={Automatic Control and Information Sciences},
+  volume={3},
+  number={1},
+  pages={8--15},
+  year={2017},
+  publisher={Science and Education Publishing Co., Ltd.}
+}
+
+@article{naumann2006data,
+  title={Data Fusion in Three Steps: Resolving Schema, Tuple, and Value Inconsistencies.},
+  author={Naumann, Felix and Bilke, Alexander and Bleiholder, Jens and Weis, Melanie},
+  journal={IEEE Data Eng. Bull.},
+  volume={29},
+  number={2},
+  pages={21--31},
+  year={2006}
+}
+
+@inproceedings{liang2009learning,
+    title={Learning semantic correspondences with less supervision},
+    author={Liang, Percy and Jordan, Michael I and Klein, Dan},
+    booktitle={Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP},
+    pages={91--99},
+    year={2009},
+    address={Suntec, Singapore},
+    publisher={ACL}
+}
+
+@inproceedings{chen2008learning,
+    title={Learning to sportscast: a test of grounded language acquisition},
+    author={Chen, David L and Mooney, Raymond J},
+    booktitle={Proceedings of the 25th international conference on Machine learning},
+    pages={128--135},
+    year={2008},
+    address={Helsinki, Finland},
+    publisher={JMLR.org}
+}
+
+@inproceedings{luong2015effective,
+    title = "Effective Approaches to Attention-based Neural Machine Translation",
+    author = "Luong, Thang  and
+      Pham, Hieu  and
+      Manning, Christopher D.",
+    booktitle = "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2015",
+    address = "Lisbon, Portugal",
+    publisher = "ACL",
+    pages = "1412--1421",
+}
+
+
+@inproceedings{wisemanACL2017challenges,
+    title={Challenges in Data-to-Document Generation},
+    author={Wiseman, Sam and Shieber, Stuart and Rush, Alexander},
+    booktitle={Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+    month={sep},
+    year={2017},
+    publisher={ACL},
+    pages={2253--2263},
+    address={Copenhagen, Denmark}
+}
+
+@inproceedings{liuAAAI2018table,
+    title={Table-to-text generation by structure-aware seq2seq learning},
+    author={Liu, Tianyu and Wang, Kexiang and Sha, Lei and Chang, Baobao and Sui, Zhifang},
+    booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+    year={2018},
+    pages={4881--4888},
+    address={New Orleans, Louisiana, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{shaAAAI2018order,
+    title={Order-planning neural text generation from structured data},
+    author={Sha, Lei and Mou, Lili and Liu, Tianyu and Poupart, Pascal and Li, Sujian and Chang, Baobao and Sui, Zhifang},
+    booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+    year={2018},
+    pages={5414--5421},
+    address={New Orleans, Louisiana, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{gong2020enhancing,
+    title={Enhancing content planning for table-to-text generation with data understanding and verification},
+    author={Gong, Heng and Bi, Wei and Feng, Xiaocheng and Qin, Bing and Liu, Xiaojiang and Liu, Ting},
+    booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings},
+    pages={2905--2914},
+    year={2020},
+    address={Virtual},
+    publisher={ACL}
+}
+
+@inproceedings{lebret2016neural,
+    title = "Neural Text Generation from Structured Data with Application to the Biography Domain",
+    author = "Lebret, R{\'e}mi  and
+      Grangier, David  and
+      Auli, Michael",
+    booktitle = "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2016",
+    address = "Austin, Texas",
+    publisher = "ACL",
+    pages = "1203--1213",
+}
+
+@inproceedings{puduppully2019data,
+    title = "Data-to-text Generation with Entity Modeling",
+    author = "Puduppully, Ratish  and
+      Dong, Li  and
+      Lapata, Mirella",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "ACL",
+    pages = "2023--2035",
+}
+
+@inproceedings{baoAAAI2018table,
+    title={Table-to-text: Describing table region with natural language},
+    author={Bao, Junwei and Tang, Duyu and Duan, Nan and Yan, Zhao and Lv, Yuanhua and Zhou, Ming and Zhao, Tiejun},
+    booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+    year={2018},
+    address={New Orleans, Lousiana, USA},
+    pages={5020--5027},
+    publisher={AAAI Press}
+}
+
+@inproceedings{wang2018describing,
+    title = "Describing a Knowledge Base",
+    author = "Wang, Qingyun  and
+      Pan, Xiaoman  and
+      Huang, Lifu  and
+      Zhang, Boliang  and
+      Jiang, Zhiying  and
+      Ji, Heng  and
+      Knight, Kevin",
+    booktitle = "Proceedings of the 11th International Conference on Natural Language Generation",
+    month = nov,
+    year = "2018",
+    address = "Tilburg University, The Netherlands",
+    publisher = "ACL",
+    pages = "10--21",
+}
+
+@inproceedings{parikh2020totto,
+    title = "{ToTTo}: A Controlled Table-To-Text Generation Dataset",
+    author = "Parikh, Ankur  and
+      Wang, Xuezhi  and
+      Gehrmann, Sebastian  and
+      Faruqui, Manaal  and
+      Dhingra, Bhuwan  and
+      Yang, Diyi  and
+      Das, Dipanjan",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "ACL",
+    pages = "1173--1186",
+}
+
+@inproceedings{suadaa2021towards,
+    title={Towards Table-to-Text Generation with Numerical Reasoning},
+    author={Suadaa, Lya Hulliyyatus and Kamigaito, Hidetaka and Funakoshi, Kotaro and Okumura, Manabu and Takamura, Hiroya},
+    booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+    pages={1451--1465},
+    year={2021},
+    address={Online},
+    publisher={ACL}
+}
+
+@inproceedings{ma2019key,
+    title = "Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation",
+    author = "Ma, Shuming  and
+      Yang, Pengcheng  and
+      Liu, Tianyu  and
+      Li, Peng  and
+      Zhou, Jie  and
+      Sun, Xu",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "ACL",
+    pages = "2047--2057",
+}
+
+@inproceedings{wang2021sketch,
+    title = "Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation",
+    author = "Wang, Peng  and
+      Lin, Junyang  and
+      Yang, An  and
+      Zhou, Chang  and
+      Zhang, Yichang  and
+      Zhou, Jingren  and
+      Yang, Hongxia",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "ACL",
+    pages = "4831--4843",
+}
+
+@inproceedings{wang2020towards,
+    title = "Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints",
+    author = "Wang, Zhenyi  and
+      Wang, Xiaoyang  and
+      An, Bang  and
+      Yu, Dong  and
+      Chen, Changyou",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "ACL",
+    pages = "1072--1086",
+}
+
+@inproceedings{narayan2020stepwise,
+    title={Stepwise Extractive Summarization and Planning with Structured Transformers},
+    author={Narayan, Shashi and Maynez, Joshua and Adamek, Jakub and Pighin, Daniele and Bratanic, Blaz and McDonald, Ryan},
+    booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages={4143--4159},
+    year={2020},
+    address={Online},
+    publisher={ACL}
+}
+
+@inproceedings{gong2020tablegpt,
+    title={Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching},
+    author={Gong, Heng and Sun, Yawei and Feng, Xiaocheng and Qin, Bing and Bi, Wei and Liu, Xiaojiang and Liu, Ting},
+    booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+    pages={1978--1988},
+    year={2020},
+    address={Barcelona, Spain (Online)},
+    publisher={International Committee on Computational Linguistics}
+}
+
+@inproceedings{su2021few,
+    title = "Few-Shot Table-to-Text Generation with Prototype Memory",
+    author = "Su, Yixuan  and
+      Meng, Zaiqiao  and
+      Baker, Simon  and
+      Collier, Nigel",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "ACL",
+    pages = "910--917",
+}
+
+@article{liu2021towards, 
+    title={Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View},
+    volume={35}, 
+    number={15}, 
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+    author={Liu, Tianyu and Zheng, Xin and Chang, Baobao and Sui, Zhifang}, 
+    year={2021}, 
+    month={May}, 
+    pages={13415-13423}
+}
+
+@article{rebuffel2022controlling,
+    author = {Rebuffel, Clement and Roberti, Marco and Soulier, Laure and Scoutheeten, Geoffrey and Cancelliere, Rossella and Gallinari, Patrick},
+    title = {Controlling Hallucinations at Word Level in Data-to-Text Generation},
+    year = {2022},
+    issue_date = {Jan 2022},
+    publisher = {Kluwer Academic Publishers},
+    address = {USA},
+    volume = {36},
+    number = {1},
+    issn = {1384-5810},
+    journal = {Data Min. Knowl. Discov.},
+    month = {jan},
+    pages = {318–354},
+    numpages = {37},
+    keywords = {Hallucinations, Controlled text generation, Data-to-text generation}
+}
+
+@inproceedings{ramos2003using,
+    title={Using tf-idf to determine word relevance in document queries},
+    author={Ramos, Juan and others},
+    booktitle={Proceedings of the first instructional conference on machine learning},
+    volume={242},
+    pages={29--48},
+    year={2003},
+    address={irtual Conference},
+    publisher={Citeseer}
+}
+
+@inproceedings{wartena2010keyword,
+    title={Keyword extraction using word co-occurrence},
+    author={Wartena, Christian and Brussee, Rogier and Slakhorst, Wout},
+    booktitle={2010 Workshops on Database and Expert Systems Applications},
+    pages={54--58},
+    year={2010},
+    address={Bilbao, Spain},
+    publisher={IEEE}
+}
+
+@article{matsuo2004keyword,
+	title={Keyword extraction from a single document using word co-occurrence statistical information},
+	author={Matsuo, Yutaka and Ishizuka, Mitsuru},
+	journal={International Journal on Artificial Intelligence Tools},
+	volume={13},
+	number={01},
+	pages={157--169},
+	year={2004},
+	publisher={World Scientific}
+}
+
+@inproceedings{armouty2019automated,
+    title={Automated keyword extraction using support vector machine from Arabic news documents},
+    author={Armouty, Batool and Tedmori, Sara},
+    booktitle={2019 IEEE Jordan International Joint Conference on Electrical Engineering and Information Technology (JEEIT)},
+    pages={342--346},
+    year={2019},
+    address={Amman, Jordan},
+    publisher={IEEE}
+}
+
+@inproceedings{sakakibara1993text,
+    title={Text classification and keyword extraction by learning decision trees},
+    author={Sakakibara, Yasubumi and Misue, Kazuo and Koshiba, Takeshi},
+    booktitle={Proceedings of 9th IEEE Conference on Artificial Intelligence for Applications},
+    pages={466},
+    year={1993},
+    address={Orlando, FL, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{yih2006finding,
+    title={Finding advertising keywords on web pages},
+    author={Yih, Wen-tau and Goodman, Joshua and Carvalho, Vitor R},
+    booktitle={Proceedings of the 15th international conference on World Wide Web},
+    pages={213--222},
+    year={2006},
+    address={Edinburgh, Scotland},
+    publisher={ACM}
+}
+
+@inproceedings{wu2005domain,
+    title={Domain-specific keyphrase extraction},
+    author={Wu, Yi-fang Brook and Li, Quanzhi and Bot, Razvan Stefan and Chen, Xin},
+    booktitle={Proceedings of the 14th ACM international conference on Information and knowledge management},
+    pages={283--284},
+    year={2005},
+    address={Bremen, Germany},
+    publisher={ACM}
+}
+
+@inproceedings{kelleher2005automatic,
+    title={Automatic hypertext keyphrase detection},
+    author={Kelleher, Daniel and Luz, Saturnino},
+    booktitle={IJCAI},
+    volume={5},
+    pages={1608--1609},
+    year={2005},
+    address={Edinburgh, Scotland},
+    publisher={AAAI Press}
+}
+
+@article{kim2013automatic,
+    title={Automatic keyphrase extraction from scientific articles},
+    author={Kim, Su Nam and Medelyan, Olena and Kan, Min-Yen and Baldwin, Timothy},
+    journal={Language resources and evaluation},
+    volume={47},
+    number={3},
+    pages={723--742},
+    year={2013},
+    publisher={Springer}
+}
+
+@inproceedings{mou-etal-2016-sequence,
+    title = "Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation",
+    author = "Mou, Lili  and
+      Song, Yiping  and
+      Yan, Rui  and
+      Li, Ge  and
+      Zhang, Lu  and
+      Jin, Zhi",
+    booktitle = "Proceedings of {COLING} 2016, the 26th International Conference on Computational Linguistics: Technical Papers",
+    month = dec,
+    year = "2016",
+    address = "Osaka, Japan",
+    publisher = "The COLING 2016 Organizing Committee",
+    pages = "3349--3358",
+}
+
+@inproceedings{li2018guiding,
+    title={Guiding generation for abstractive text summarization based on key information guide network},
+    author={Li, Chenliang and Xu, Weiran and Li, Si and Gao, Sheng},
+    booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2},
+    pages={55--60},
+    year={2018},
+    address={New Orleans, Louisiana},
+    publisher={ACL}
+}
+
+@inproceedings{ge2021keywords,
+    title={Keywords guided method name generation},
+    author={Ge, Fan and Kuang, Li},
+    booktitle={2021 IEEE/ACM 29th International Conference on Program Comprehension (ICPC)},
+    pages={196--206},
+    year={2021},
+    address={Madrid, Spain},
+    publisher={IEEE}
+}
+
+@article{luhn1957statistical,
+	title={A statistical approach to mechanized encoding and searching of literary information},
+	author={Luhn, Hans Peter},
+	journal={IBM Journal of research and development},
+	volume={1},
+	number={4},
+	pages={309--317},
+	year={1957},
+	publisher={IBM}
+}
+
+@inproceedings{campos2018text,
+    title={A text feature based automatic keyword extraction method for single documents},
+    author={Campos, Ricardo and Mangaravite, V{\'\i}tor and Pasquali, Arian and Jorge, Al{\'\i}pio M{\'a}rio and Nunes, C{\'e}lia and Jatowt, Adam},
+    booktitle={European conference on information retrieval},
+    pages={684--691},
+    year={2018},
+    address={Grenoble, France},
+    publisher={Springer}
+}
+
+@inproceedings{hulth2003improved,
+    title={Improved automatic keyword extraction given more linguistic knowledge},
+    author={Hulth, Anette},
+    booktitle={Proceedings of the 2003 conference on Empirical methods in natural language processing},
+    pages={216--223},
+    year={2003},
+    address={Sapporo, Japan},
+    publisher={ACL}
+}
+
+@article{duan2021oilog,
+    title={OILog: An online incremental log keyword extraction approach based on MDP-LSTM neural network},
+    author={Duan, Xiaoyu and Ying, Shi and Cheng, Hailong and Yuan, Wanli and Yin, Xiang},
+    journal={Information Systems},
+    volume={95},
+    pages={101618},
+    year={2021},
+    publisher={Elsevier}
+}
+
+@inproceedings{wang2017keyword,
+    title={Keyword extraction from online product reviews based on bi-directional LSTM recurrent neural network},
+    author={Wang, Y and Zhang, J},
+    booktitle={2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)},
+    pages={2241--2245},
+    year={2017},
+    address={Singapore},
+    publisher={IEEE}
+}
+
+@article{cao2009density,
+	title={A density-based method for adaptive LDA model selection},
+	author={Cao, Juan and Xia, Tian and Li, Jintao and Zhang, Yongdong and Tang, Sheng},
+	journal={Neurocomputing},
+	volume={72},
+	number={7-9},
+	pages={1775--1781},
+	year={2009},
+	publisher={Elsevier}
+}
+
+@article{deerwester1990indexing,
+	title={Indexing by latent semantic analysis},
+	author={Deerwester, Scott and Dumais, Susan T and Furnas, George W and Landauer, Thomas K and Harshman, Richard},
+	journal={Journal of the American society for information science},
+	volume={41},
+	number={6},
+	pages={391--407},
+	year={1990},
+	publisher={Wiley Online Library}
+}
+
+@inproceedings{hofmann1999probabilistic,
+    title={Probabilistic latent semantic indexing},
+    author={Hofmann, Thomas},
+    booktitle={Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval},
+    pages={50--57},
+    year={1999},
+    address={Berkeley, California, USA},
+    publisher={ACM Press}
+}
+
+@article{kim2020word2vec,
+	title={Word2vec-based latent semantic analysis (W2V-LSA) for topic modeling: A study on blockchain technology trend analysis},
+	author={Kim, Suhyeon and Park, Haecheong and Lee, Junghye},
+	journal={Expert Systems with Applications},
+	volume={152},
+	pages={113401},
+	year={2020},
+	publisher={Elsevier}
+}
+
+@article{menon2017semantics,
+	title={Semantics-based topic inter-relationship extraction},
+	author={Menon, Remya RK and Joseph, Deepthy and Kaimal, MR},
+	journal={Journal of Intelligent \& Fuzzy Systems},
+	volume={32},
+	number={4},
+	pages={2941--2951},
+	year={2017},
+	publisher={IOS Press}
+}
+
+@inproceedings{xing2017topic,
+    title={Topic aware neural response generation},
+    author={Xing, Chen and Wu, Wei and Wu, Yu and Liu, Jie and Huang, Yalou and Zhou, Ming and Ma, Wei-Ying},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={31},
+    year={2017},
+    pages={3351--3357},
+    address={San Francisco, California, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{miao2017discovering,
+    title={Discovering discrete latent topics with neural variational inference},
+    author={Miao, Yishu and Grefenstette, Edward and Blunsom, Phil},
+    booktitle={International Conference on Machine Learning},
+    pages={2410--2419},
+    year={2017},
+    address={Sydney, Australia},
+    publisher={PMLR}
+}
+
+@inproceedings{wei2019translating,
+    title={Translating with bilingual topic knowledge for neural machine translation},
+    author={Wei, Xiangpeng and Hu, Yue and Xing, Luxi and Wang, Yipeng and Gao, Li},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={33},
+    pages={7257--7264},
+    year={2019},
+    address={Honolulu, Hawaii, USA},
+    publisher={AAAI Press}
+}
+
+@article{christian2016single,
+  title={Single document automatic text summarization using term frequency-inverse document frequency (TF-IDF)},
+  author={Christian, Hans and Agus, Mikhael Pramodana and Suhartono, Derwin},
+  journal={ComTech: Computer, Mathematics and Engineering Applications},
+  volume={7},
+  number={4},
+  pages={285--294},
+  year={2016}
+}
+
+@inproceedings{okumura2015automatic,
+    title={Automatic labelling of documents based on ontology},
+    author={Okumura, Naoya and Miura, Takao},
+    booktitle={2015 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM)},
+    pages={34--39},
+    year={2015},
+    address={Victoria, BC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{tseng2006toward,
+    title={Toward generic title generation for clustered documents},
+    author={Tseng, Yuen-Hsien and Lin, Chi-Jen and Chen, Hsiu-Han and Lin, Yu-I},
+    booktitle={Asia Information Retrieval Symposium},
+    pages={145--157},
+    year={2006},
+    address={Singapore},
+    publisher={Springer}
+}
+
+@inproceedings{oya2014template,
+    title={A template-based abstractive meeting summarization: Leveraging summary and source text relationships},
+    author={Oya, Tatsuro and Mehdad, Yashar and Carenini, Giuseppe and Ng, Raymond},
+    booktitle={Proceedings of the 8th International Natural Language Generation Conference (INLG)},
+    pages={45--53},
+    year={2014},
+    address={Philadelphia, Pennsylvania, U.S.A.},
+    publisher={ACL}
+}
+
+@inproceedings{gerani2014abstractive,
+    title={Abstractive summarization of product reviews using discourse structure},
+    author={Gerani, Shima and Mehdad, Yashar and Carenini, Giuseppe and Ng, Raymond and Nejat, Bita},
+    booktitle={Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)},
+    pages={1602--1613},
+    year={2014},
+    address={Doha, Qatar},
+    publisher={ACL}
+}
+
+@article{erkan2004lexrank,
+  title={Lexrank: Graph-based lexical centrality as salience in text summarization},
+  author={Erkan, G{\"u}nes and Radev, Dragomir R},
+  journal={Journal of artificial intelligence research},
+  volume={22},
+  pages={457--479},
+  year={2004}
+}
+
+@inproceedings{mihalcea2004textrank,
+    title={Textrank: Bringing order into text},
+    author={Mihalcea, Rada and Tarau, Paul},
+    booktitle={Proceedings of the 2004 conference on empirical methods in natural language processing},
+    pages={404--411},
+    year={2004},
+    address={Barcelona, Spain},
+    publisher={ACL}
+}
+
+@inproceedings{rush2015neural,
+    title = "A Neural Attention Model for Abstractive Sentence Summarization",
+    author = "Rush, Alexander M.  and
+      Chopra, Sumit  and
+      Weston, Jason",
+    booktitle = "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2015",
+    address = "Lisbon, Portugal",
+    publisher = "ACL",
+    pages = "379--389",
+}
+
+@inproceedings{nallapati2016abstractive,
+    title = "Abstractive Text Summarization using Sequence-to-sequence {RNN}s and Beyond",
+    author = "Nallapati, Ramesh  and
+      Zhou, Bowen  and
+      dos Santos, Cicero  and
+      Gu̇l{\c{c}}ehre, {\c{C}}a{\u{g}}lar  and
+      Xiang, Bing",
+    booktitle = "Proceedings of the 20th {SIGNLL} Conference on Computational Natural Language Learning",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "ACL",
+    pages = "280--290",
+}
+
+@inproceedings{cheng2016neural,
+    title = "Neural Summarization by Extracting Sentences and Words",
+    author = "Cheng, Jianpeng  and
+      Lapata, Mirella",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "ACL",
+    pages = "484--494",
+}
+
+@article{narayan2017neural,
+    title={Neural extractive summarization with side information},
+    author={Narayan, Shashi and Papasarantopoulos, Nikos and Cohen, Shay B and Lapata, Mirella},
+    journal={arXiv preprint arXiv:1704.04530},
+    year={2017},
+    numpages={9}
+}
+
+@inproceedings{isonuma2017extractive,
+    title={Extractive summarization using multi-task learning with document classification},
+    author={Isonuma, Masaru and Fujino, Toru and Mori, Junichiro and Matsuo, Yutaka and Sakata, Ichiro},
+    booktitle={Proceedings of the 2017 Conference on empirical methods in natural language processing},
+    pages={2101--2110},
+    year={2017},
+    address={Copenhagen, Denmark},
+    publisher={ACL}
+}
+
+@inproceedings{celikyilmaz2018deep,
+    title = "Deep Communicating Agents for Abstractive Summarization",
+    author = "Celikyilmaz, Asli  and
+      Bosselut, Antoine  and
+      He, Xiaodong  and
+      Choi, Yejin",
+    booktitle = "Proceedings of the 2018 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)",
+    month = jun,
+    year = "2018",
+    address = "New Orleans, Louisiana",
+    publisher = "ACL",
+    pages = "1662--1675",
+}
+
+@inproceedings{zhou2018neural,
+    title = "Neural Document Summarization by Jointly Learning to Score and Select Sentences",
+    author = "Zhou, Qingyu  and
+      Yang, Nan  and
+      Wei, Furu  and
+      Huang, Shaohan  and
+      Zhou, Ming  and
+      Zhao, Tiejun",
+    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "ACL",
+    pages = "654--663",
+}
+
+@inproceedings{hsu2018unified,
+    title = "A unified model for extractive and abstractive summarization using inconsistency loss",
+    author = "Hsu, Wan-Ting and Lin, Chieh-Kai and Lee, Ming-Ying and Min, Kerui and Tang, Jing and Sun, Min",
+    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "ACL",
+    pages = "132--141",
+}
+
+@inproceedings{gehrmann2018bottom,
+    title = "Bottom-Up Abstractive Summarization",
+    author = "Gehrmann, Sebastian  and
+      Deng, Yuntian  and
+      Rush, Alexander",
+    booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "ACL",
+    pages = "4098--4109",
+}
+
+@inproceedings{gu2016incorporating,
+    title = "Incorporating Copying Mechanism in Sequence-to-Sequence Learning",
+    author = "Gu, Jiatao  and
+      Lu, Zhengdong  and
+      Li, Hang  and
+      Li, Victor O.K.",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "ACL",
+    pages = "1631--1640",
+}
+
+@inproceedings{gulcehre2016pointing,
+    title = "Pointing the Unknown Words",
+    author = "Gulcehre, Caglar  and
+      Ahn, Sungjin  and
+      Nallapati, Ramesh  and
+      Zhou, Bowen  and
+      Bengio, Yoshua",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "ACL",
+    pages = "140--149",
+}
+
+@inproceedings{see2017get,
+    title = "Get To The Point: Summarization with Pointer-Generator Networks",
+    author = "See, Abigail  and
+      Liu, Peter J.  and
+      Manning, Christopher D.",
+    booktitle = "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2017",
+    address = "Vancouver, Canada",
+    publisher = "ACL",
+    pages = "1073--1083",
+}
+
+@inproceedings{lewis2020bart,
+    title = "{BART}: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+    author = "Lewis, Mike  and
+      Liu, Yinhan  and
+      Goyal, Naman  and
+      Ghazvininejad, Marjan  and
+      Mohamed, Abdelrahman  and
+      Levy, Omer  and
+      Stoyanov, Veselin  and
+      Zettlemoyer, Luke",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "ACL",
+    pages = "7871--7880",
+}
+
+@inproceedings{devlin2018bert,
+  title="BERT: Pre-training of deep bidirectional transformers for language understanding",
+  author="Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina",
+  booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "ACL",
+    pages = "4171--4186",
+}
+
+@misc{radford2018improving,
+	title = {Improving language understanding by generative pre-training},
+	url = {https://openai.com/research/language-unsupervised},
+	year = {2018},
+	author = {Radford, Alec and Narasimhan, Karthik and Salimans, Tim and Sutskever, Ilya}
+}
+
+@article{hermann2015teaching,
+    title={Teaching machines to read and comprehend},
+    author={Hermann, Karl Moritz and Kocisky, Tomas and Grefenstette, Edward and Espeholt, Lasse and Kay, Will and Suleyman, Mustafa and Blunsom, Phil},
+    journal={Advances in neural information processing systems},
+    volume={28},
+    year={2015},
+    numpages={9}
+}
+
+@inproceedings{nallapati2017summarunner,
+    title={Summarunner: A recurrent neural network based sequence model for extractive summarization of documents},
+    author={Nallapati, Ramesh and Zhai, Feifei and Zhou, Bowen},
+    booktitle={Thirty-first AAAI conference on artificial intelligence},
+    year={2017},
+    pages={3075--3081},
+    address={San Francisco, California USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{durrett2016learning,
+    title = "Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints",
+    author = "Durrett, Greg  and
+      Berg-Kirkpatrick, Taylor  and
+      Klein, Dan",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "ACL",
+    pages = "1998--2008",
+}
+
+@article{raffel2020exploring,
+    author = {Raffel, Colin and Shazeer, Noam and Roberts, Adam and Lee, Katherine and Narang, Sharan and Matena, Michael and Zhou, Yanqi and Li, Wei and Liu, Peter J.},
+    title = {Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer},
+    year = {2020},
+    issue_date = {January 2020},
+    publisher = {JMLR.org},
+    volume = {21},
+    number = {1},
+    issn = {1532-4435},
+    journal = {J. Mach. Learn. Res.},
+    month = {jan},
+    articleno = {140},
+    numpages = {67},
+    keywords = {transfer learning, multi-task learning, deep learning, natural language processing, attention based models}
+}
+
+@article{yu2022survey,
+    author = {Yu, Wenhao and Zhu, Chenguang and Li, Zaitang and Hu, Zhiting and Wang, Qingyun and Ji, Heng and Jiang, Meng},
+    title = {A Survey of Knowledge-Enhanced Text Generation},
+    year = {2022},
+    issue_date = {January 2022},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    volume = {54},
+    number = {11s},
+    issn = {0360-0300},
+    journal = {ACM Comput. Surv.},
+    month = {nov},
+    articleno = {227},
+    numpages = {38},
+    keywords = {Natural language generation, Knowledge-enhanced Methods}
+}
+
+@article{yang2021survey,
+    title={A survey of knowledge enhanced pre-trained models},
+    author={Yang, Jian and Xiao, Gang and Shen, Yulong and Jiang, Wei and Hu, Xinyu and Zhang, Ying and Peng, Jinghui},
+    journal={arXiv preprint arXiv:2110.00269},
+    year={2021},
+    numpages={19}
+}
+
+@article{hossain2019comprehensive,
+    author = {Hossain, MD. Zakir and Sohel, Ferdous and Shiratuddin, Mohd Fairuz and Laga, Hamid},
+    title = {A Comprehensive Survey of Deep Learning for Image Captioning},
+    year = {2019},
+    issue_date = {November 2019},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    volume = {51},
+    number = {6},
+    issn = {0360-0300},
+    journal = {ACM Comput. Surv.},
+    month = {feb},
+    articleno = {118},
+    numpages = {36},
+    keywords = {deep learning, LSTM, natural language processing, CNN, computer vision, Image captioning}
+}
+
+@inproceedings{mason2014nonparametric,
+    title={Nonparametric method for data-driven image captioning},
+    author={Mason, Rebecca and Charniak, Eugene},
+    booktitle={Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics},
+    pages={592--598},
+    year={2014},
+    address={Baltimore, Maryland},
+    publisher={ACL}
+}
+
+@inproceedings{yagcioglu2015distributed,
+    title={A distributed representation based query expansion approach for image captioning},
+    author={Yagcioglu, Semih and Erdem, Erkut and Erdem, Aykut and Cak{\i}c{\i}, Ruket},
+    booktitle={Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing},
+    pages={106--111},
+    year={2015},
+    address={Beijing, China},
+    publisher={ACL}
+}
+
+@inproceedings{verma2014im2text,
+    title={Im2Text and Text2Im: Associating Images and Texts for Cross-Modal Retrieval},
+    author={Verma, Yashaswi and Jawahar, CV},
+    booktitle={BMVC},
+    volume={1},
+    pages={2},
+    year={2014},
+    address={Nottingham},
+    publisher={Citeseer}
+}
+
+@article{nenkova2005impact,
+    title={The impact of frequency on summarization},
+    author={Nenkova, Ani and Vanderwende, Lucy},
+    journal={Microsoft Research, Redmond, Washington, Tech. Rep. MSR-TR-2005},
+    volume={101},
+    year={2005},
+    numpages={9}
+}
+
+@inproceedings{yang2011corpus,
+    title={Corpus-guided sentence generation of natural images},
+    author={Yang, Yezhou and Teo, Ching and Daum{\'e} III, Hal and Aloimonos, Yiannis},
+    booktitle={Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing},
+    pages={444--454},
+    year={2011},
+    address={Edinburgh, Scotland, UK},
+    publisher={ACL}
+}
+
+@inproceedings{li2011composing,
+    title={Composing simple image descriptions using web-scale n-grams},
+    author={Li, Siming and Kulkarni, Girish and Berg, Tamara and Berg, Alexander and Choi, Yejin},
+    booktitle={Proceedings of the Fifteenth Conference on Computational Natural Language Learning},
+    pages={220--228},
+    year={2011},
+    address={Portland, Oregon, USA},
+    publisher={ACL}
+}
+
+@inproceedings{mitchell2012midge,
+    title={Midge: Generating image descriptions from computer vision detections},
+    author={Mitchell, Margaret and Dodge, Jesse and Goyal, Amit and Yamaguchi, Kota and Stratos, Karl and Han, Xufeng and Mensch, Alyssa and Berg, Alexander and Berg, Tamara and Daum{\'e} III, Hal},
+    booktitle={Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics},
+    pages={747--756},
+    year={2012},
+    address={Avignon, France},
+    publisher={ACL}
+}
+
+@article{baltrusaitis2019multimodal,
+    author = {Baltrusaitis, Tadas and Ahuja, Chaitanya and Morency, Louis-Philippe}, title = {Multimodal Machine Learning: A Survey and Taxonomy}, year = {2019}, issue_date = {February 2019}, publisher = {IEEE Computer Society}, address = {USA}, volume = {41}, number = {2}, issn = {0162-8828}, journal = {IEEE Trans. Pattern Anal. Mach. Intell.}, month = {feb}, pages = {423–443}, numpages = {21}
+}
+
+@article{mao2014explain,
+    title={Explain images with multimodal recurrent neural networks},
+    author={Mao, Junhua and Xu, Wei and Yang, Yi and Wang, Jiang and Yuille, Alan L},
+    journal={arXiv preprint arXiv:1410.1090},
+    year={2014},
+    numpages={9}
+}
+
+@inproceedings{karpathy2015deep,
+    title={Deep visual-semantic alignments for generating image descriptions},
+    author={Karpathy, Andrej and Fei-Fei, Li},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={3128--3137},
+    year={2015},
+    address={Boston, MA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{chen2015mind,
+    title={Mind's eye: A recurrent visual representation for image caption generation},
+    author={Chen, Xinlei and Lawrence Zitnick, C},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={2422--2431},
+    year={2015},
+    address={Boston, MA, USA},
+    publisher={IEEE}    
+}
+
+@inproceedings{vinyals2015show,
+    title={Show and tell: A neural image caption generator},
+    author={Vinyals, Oriol and Toshev, Alexander and Bengio, Samy and Erhan, Dumitru},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={3156--3164},
+    year={2015},
+    address={Boston, MA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{donahue2015long,
+    title={Long-term recurrent convolutional networks for visual recognition and description},
+    author={Donahue, Jeffrey and Anne Hendricks, Lisa and Guadarrama, Sergio and Rohrbach, Marcus and Venugopalan, Subhashini and Saenko, Kate and Darrell, Trevor},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={2625--2634},
+    year={2015},
+    address={San Juan, PR, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{you2016image,
+    title={Image captioning with semantic attention},
+    author={You, Quanzeng and Jin, Hailin and Wang, Zhaowen and Fang, Chen and Luo, Jiebo},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={4651--4659},
+    year={2016},
+    address={Las Vegas, NV, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{ma2015multimodal,
+    title={Multimodal convolutional neural networks for matching image and sentence},
+    author={Ma, Lin and Lu, Zhengdong and Shang, Lifeng and Li, Hang},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={2623--2631},
+    year={2015},
+    address={Santiago, Chile},
+    publisher={IEEE}
+}
+
+@article{lebret2014simple,
+    title={Simple image description generator via a linear phrase-based approach},
+    author={Lebret, R{\'e}mi and Pinheiro, Pedro O and Collobert, Ronan},
+    journal={arXiv preprint arXiv:1412.8419},
+    year={2014},
+    numpages={7}
+}
+
+@inproceedings{yan2015deep,
+    title={Deep correlation for matching images and text},
+    author={Yan, Fei and Mikolajczyk, Krystian},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={3441--3450},
+    year={2015},
+    address={Boston, MA, USA},
+    publisher={IEEE}
+}
+
+@article{everingham2010pascal,
+  title={The pascal visual object classes (voc) challenge},
+  author={Everingham, Mark and Van Gool, Luc and Williams, Christopher KI and Winn, John and Zisserman, Andrew},
+  journal={International journal of computer vision},
+  volume={88},
+  number={2},
+  pages={303--338},
+  year={2010},
+  publisher={Springer}
+}
+
+@article{ordonez2011im2text,
+  title={Im2text: Describing images using 1 million captioned photographs},
+  author={Ordonez, Vicente and Kulkarni, Girish and Berg, Tamara},
+  journal={Advances in neural information processing systems},
+  volume={24},
+  pages={1143--1151},
+  year={2011}
+}
+
+@article{hodosh2013framing,
+  title={Framing image description as a ranking task: Data, models and evaluation metrics},
+  author={Hodosh, Micah and Young, Peter and Hockenmaier, Julia},
+  journal={Journal of Artificial Intelligence Research},
+  volume={47},
+  pages={853--899},
+  year={2013}
+}
+
+@article{young2014image,
+  title={From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions},
+  author={Young, Peter and Lai, Alice and Hodosh, Micah and Hockenmaier, Julia},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={2},
+  pages={67--78},
+  year={2014},
+  publisher={MIT Press}
+}
+
+@inproceedings{lin2014microsoft,
+    title={Microsoft coco: Common objects in context},
+    author={Lin, Tsung-Yi and Maire, Michael and Belongie, Serge and Hays, James and Perona, Pietro and Ramanan, Deva and Doll{\'a}r, Piotr and Zitnick, C Lawrence},
+    booktitle={European conference on computer vision},
+    pages={740--755},
+    year={2014},
+    address={Zurich, Switzerland},
+    publisher={Springer}
+}
+
+@inproceedings{rashtchian2010collecting,
+    title = "Collecting Image Annotations Using {A}mazon{'}s {M}echanical {T}urk",
+    author = "Rashtchian, Cyrus  and
+      Young, Peter  and
+      Hodosh, Micah  and
+      Hockenmaier, Julia",
+    booktitle = "Proceedings of the {NAACL} {HLT} 2010 Workshop on Creating Speech and Language Data with {A}mazon{'}s Mechanical Turk",
+    month = jun,
+    year = "2010",
+    address = "Los Angeles",
+    publisher = "ACL",
+    pages = "139--147",
+}
+
+@inproceedings{zhang2020learning,
+    title={Learning Long-and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption},
+    author={Zhang, Wei and Ying, Yue and Lu, Pan and Zha, Hongyuan},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={34},
+    pages={9571--9578},
+    year={2020},
+    address={New York, NY, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{cornia2019show,
+    title={Show, control and tell: A framework for generating controllable and grounded captions},
+    author={Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={8307--8316},
+    year={2019},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{deng2020length,
+    title={Length-controllable image captioning},
+    author={Deng, Chaorui and Ding, Ning and Tan, Mingkui and Wu, Qi},
+    booktitle={Computer Vision--ECCV 2020: 16th European Conference, August 23--28, 2020, Proceedings, Part XIII 16},
+    pages={712--729},
+    year={2020},
+    address={Glasgow, UK},
+    publisher={Springer}
+}
+
+@inproceedings{rohrbach2013translating,
+    title={Translating video content to natural language descriptions},
+    author={Rohrbach, Marcus and Qiu, Wei and Titov, Ivan and Thater, Stefan and Pinkal, Manfred and Schiele, Bernt},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={433--440},
+    year={2013},
+    address={Sydney, NSW, Australia},
+    publisher={IEEE}
+}
+
+@inproceedings{guadarrama2013youtube2text,
+    title={Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition},
+    author={Guadarrama, Sergio and Krishnamoorthy, Niveda and Malkarnenkar, Girish and Venugopalan, Subhashini and Mooney, Raymond and Darrell, Trevor and Saenko, Kate},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={2712--2719},
+    year={2013},
+    address={Cambridge, MA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{thomason2014integrating,
+  title={Integrating language and vision to generate natural language descriptions of videos in the wild},
+  author={Thomason, Jesse and Venugopalan, Subhashini and Guadarrama, Sergio and Saenko, Kate and Mooney, Raymond},
+  booktitle={Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers},
+  pages={1218--1227},
+  year={2014}
+}
+
+@article{regneri2013grounding,
+  title={Grounding action descriptions in videos},
+  author={Regneri, Michaela and Rohrbach, Marcus and Wetzel, Dominikus and Thater, Stefan and Schiele, Bernt and Pinkal, Manfred},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={1},
+  pages={25--36},
+  year={2013},
+  publisher={MIT Press}
+}
+
+@inproceedings{chen2011collecting,
+    title={Collecting highly parallel data for paraphrase evaluation},
+    author={Chen, David and Dolan, William B},
+    booktitle={Proceedings of the 49th annual meeting of the association for computational linguistics: human language technologies},
+    pages={190--200},
+    year={2011},
+    address={Portland, Oregon, USA},
+    publisher={ACL}
+}
+
+@inproceedings{xu2016msr,
+    title={Msr-vtt: A large video description dataset for bridging video and language},
+    author={Xu, Jun and Mei, Tao and Yao, Ting and Rui, Yong},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={5288--5296},
+    year={2016},
+    address={Las Vegas, NV, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{tanaka2021lol,
+    title={LoL-V2T: Large-Scale Esports Video Description Dataset},
+    author={Tanaka, Tsunehiko and Simo-Serra, Edgar},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={4557--4566},
+    year={2021},
+    address={Nashville, TN, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{zhou2018end,
+    title={End-to-end dense video captioning with masked transformer},
+    author={Zhou, Luowei and Zhou, Yingbo and Corso, Jason J and Socher, Richard and Xiong, Caiming},
+    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    pages={8739--8748},
+    year={2018},
+    address={Salt Lake City, UT, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{lei2020mart,
+    title = "{MART}: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning",
+    author = "Lei, Jie  and
+      Wang, Liwei  and
+      Shen, Yelong  and
+      Yu, Dong  and
+      Berg, Tamara  and
+      Bansal, Mohit",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "ACL",
+    pages = "2603--2614",
+}
+
+@inproceedings{zhu2022end,
+    title = "End-to-end Dense Video Captioning as Sequence Generation",
+    author = "Zhu, Wanrong  and
+      Pang, Bo  and
+      Thapliyal, Ashish V.  and
+      Wang, William Yang  and
+      Soricut, Radu",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    pages = "5651--5665",
+}
+
+@misc{chen2023palix,
+      title={PaLI-X: On Scaling up a Multilingual Vision and Language Model}, 
+      author={Xi Chen and Josip Djolonga and Piotr Padlewski and Basil Mustafa and Soravit Changpinyo and Jialin Wu and Carlos Riquelme Ruiz and Sebastian Goodman and Xiao Wang and Yi Tay and Siamak Shakeri and Mostafa Dehghani and Daniel Salz and Mario Lucic and Michael Tschannen and Arsha Nagrani and Hexiang Hu and Mandar Joshi and Bo Pang and Ceslee Montgomery and Paulina Pietrzyk and Marvin Ritter and AJ Piergiovanni and Matthias Minderer and Filip Pavetic and Austin Waters and Gang Li and Ibrahim Alabdulmohsin and Lucas Beyer and Julien Amelot and Kenton Lee and Andreas Peter Steiner and Yang Li and Daniel Keysers and Anurag Arnab and Yuanzhong Xu and Keran Rong and Alexander Kolesnikov and Mojtaba Seyedhosseini and Anelia Angelova and Xiaohua Zhai and Neil Houlsby and Radu Soricut},
+      year={2023},
+      eprint={2305.18565},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@Inproceedings{yang2023vid2seq,
+    author    = {Yang, Antoine and Nagrani, Arsha and Seo, Paul Hongsuck and Miech, Antoine and Pont-Tuset, Jordi and Laptev, Ivan and Sivic, Josef and Schmid, Cordelia},
+    title     = {Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {10714-10726},
+    address={Vancouver, Canada},
+    publisher={IEEE}
+}
+
+@Inproceedings{gu2023text,
+    author    = {Gu, Xin and Chen, Guang and Wang, Yufei and Zhang, Libo and Luo, Tiejian and Wen, Longyin},
+    title     = {Text With Knowledge Graph Augmented Transformer for Video Captioning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {18941-18951},
+    address={Vancouver, Canada},
+    publisher={IEEE}
+}
+
+@article{torabi2015using,
+    title={Using descriptive video services to create a large data source for video annotation research},
+    author={Torabi, Atousa and Pal, Christopher and Larochelle, Hugo and Courville, Aaron},
+    journal={arXiv preprint arXiv:1503.01070},
+    year={2015},
+    numpages={7}
+}
+
+@inproceedings{rohrbach2015dataset,
+    title={A dataset for movie description},
+    author={Rohrbach, Anna and Rohrbach, Marcus and Tandon, Niket and Schiele, Bernt},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={3202--3212},
+    year={2015},
+    address={Boston, MA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{venugopalan2015sequence,
+    title={Sequence to sequence-video to text},
+    author={Venugopalan, Subhashini and Rohrbach, Marcus and Donahue, Jeffrey and Mooney, Raymond and Darrell, Trevor and Saenko, Kate},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={4534--4542},
+    year={2015},
+    address={Santiago, Chile},
+    publisher={IEEE}
+}
+
+@inproceedings{rohrbach2014coherent,
+    title={Coherent multi-sentence video description with variable level of detail},
+    author={Rohrbach, Anna and Rohrbach, Marcus and Qiu, Wei and Friedrich, Annemarie and Pinkal, Manfred and Schiele, Bernt},
+    booktitle={German conference on pattern recognition},
+    pages={184--195},
+    year={2014},
+    address={Munster, Germany},
+    publisher={Springer}
+}
+
+@inproceedings{sigurdsson2016hollywood,
+    title={Hollywood in homes: Crowdsourcing data collection for activity understanding},
+    author={Sigurdsson, Gunnar A and Varol, G{\"u}l and Wang, Xiaolong and Farhadi, Ali and Laptev, Ivan and Gupta, Abhinav},
+    booktitle={European Conference on Computer Vision},
+    pages={510--526},
+    year={2016},
+    address={Amsterdam, Netherlands},
+    publisher={Springer}
+}
+
+@inproceedings{krishna2017dense,
+    title={Dense-captioning events in videos},
+    author={Krishna, Ranjay and Hata, Kenji and Ren, Frederic and Fei-Fei, Li and Carlos Niebles, Juan},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={706--715},
+    year={2017},
+    address={Venice, Italy},
+    publisher={IEEE}
+}
+
+@inproceedings{zhou2018towards,
+    title={Towards automatic learning of procedures from web instructional videos},
+    author={Zhou, Luowei and Xu, Chenliang and Corso, Jason J},
+    booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+    year={2018},
+    pages={7590--7598},
+    address={New Orleans, LA, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{damen2018scaling,
+    title={Scaling egocentric vision: The epic-kitchens dataset},
+    author={Damen, Dima and Doughty, Hazel and Farinella, Giovanni Maria and Fidler, Sanja and Furnari, Antonino and Kazakos, Evangelos and Moltisanti, Davide and Munro, Jonathan and Perrett, Toby and Price, Will and others},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    pages={720--736},
+    year={2018},
+    address={Munich, Germany},
+    publisher={Springer Science+Business Media}
+}
+
+@inproceedings{miech2019howto100m,
+    title={Howto100m: Learning a text-video embedding by watching hundred million narrated video clips},
+    author={Miech, Antoine and Zhukov, Dimitri and Alayrac, Jean-Baptiste and Tapaswi, Makarand and Laptev, Ivan and Sivic, Josef},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={2630--2640},
+    year={2019},
+    address={Seoul, South Korea},
+    publisher={IEEE}
+}
+
+@inproceedings{li2019end,
+    title={End-to-end let's play commentary generation using multi-modal video representations},
+    author={Li, Chengxi and Gandhi, Sagar and Harrison, Brent},
+    booktitle={Proceedings of the 14th International Conference on the Foundations of Digital Games},
+    pages={1--7},
+    year={2019},
+    address={San Luis Obispo, California, USA},
+    publisher={ACM}
+}
+
+@inproceedings{liu_2019_t2g,
+    title={Combining enterprise knowledge graph and news sentiment analysis for stock price prediction},
+    author={Liu, Jue and Lu, Zhuocheng and Du, Wei},
+    booktitle={Proceedings of the 52nd Hawaii International Conference on System Sciences},
+    year={2019},
+    address={Maui, Hawaii, USA},
+    publisher={University of Hawaii at Manoa, Association for Information Systems IEEE Computer Society Press},
+    pages={1247--1255}
+}
+
+@article{xu_2020_t2g,
+  title={Building a PubMed knowledge graph},
+  author={Xu, Jian and Kim, Sunkyu and Song, Min and Jeong, Minbyul and Kim, Donghyeon and Kang, Jaewoo and Rousseau, Justin F and Li, Xin and Xu, Weijia and Torvik, Vetle I and others},
+  journal={Scientific data},
+  volume={7},
+  number={1},
+  pages={1--15},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{zelenko2003kernel,
+    author = {Zelenko, Dmitry and Aone, Chinatsu and Richardella, Anthony},
+    title = {Kernel Methods for Relation Extraction},
+    year = {2003},
+    issue_date = {3/1/2003},
+    publisher = {JMLR.org},
+    volume = {3},
+    number = {null},
+    issn = {1532-4435},
+    journal = {J. Mach. Learn. Res.},
+    month = {mar},
+    pages = {1083–1106},
+    numpages = {24}
+}
+
+@inproceedings{zhou2005exploring,
+    title = "Exploring Various Knowledge in Relation Extraction",
+    author = "Zhou, GuoDong  and
+      Su, Jian  and
+      Zhang, Jie  and
+      Zhang, Min",
+    booktitle = "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics ({ACL}{'}05)",
+    month = jun,
+    year = "2005",
+    address = "Ann Arbor, Michigan",
+    publisher = "ACL",
+    pages = "427--434",
+}
+
+@inproceedings{sun_2014_t2g,
+    title={A feature-enriched tree kernel for relation extraction},
+    author={Sun, Le and Han, Xianpei},
+    booktitle={Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics},
+    pages={61--67},
+    year={2014},
+    address={Baltimore, Maryland},
+    publisher={ACL}
+}
+
+@article{kim_2021_t2g,
+  title={Deep learning-based knowledge graph generation for COVID-19},
+  author={Kim, Taejin and Yun, Yeoil and Kim, Namgyu},
+  journal={Sustainability},
+  volume={13},
+  number={4},
+  pages={2276},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{chang_2014_t2g,
+    title={Typed tensor decomposition of knowledge bases for relation extraction},
+    author={Chang, Kai-Wei and Yih, Wen-tau and Yang, Bishan and Meek, Christopher},
+    booktitle={Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)},
+    pages={1568--1579},
+    year={2014},
+    address={Doha, Qatar},
+    publisher={ACL}
+}
+
+@inproceedings{jiang_2016_t2g,
+    title={Relation extraction with multi-instance multi-label convolutional neural networks},
+    author={Jiang, Xiaotian and Wang, Quan and Li, Peng and Wang, Bin},
+    booktitle={Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers},
+    pages={1471--1480},
+    year={2016},
+    address={Osaka, Japan},
+    publisher={The COLING 2016 Organizing Committee}
+}
+
+@inproceedings{lin_2016_t2g,
+    title={Neural relation extraction with selective attention over instances},
+    author={Lin, Yankai and Shen, Shiqi and Liu, Zhiyuan and Luan, Huanbo and Sun, Maosong},
+    booktitle={Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    pages={2124--2133},
+    year={2016},
+    address={Berlin, Germany},
+    publisher={ACL}
+}
+
+@inproceedings{zeng_2017_t2g,
+    title = "Incorporating Relation Paths in Neural Relation Extraction",
+    author = "Zeng, Wenyuan  and
+      Lin, Yankai  and
+      Liu, Zhiyuan  and
+      Sun, Maosong",
+    booktitle = "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2017",
+    address = "Copenhagen, Denmark",
+    publisher = "ACL",
+    pages = "1768--1777",
+}
+
+@inproceedings{angeli_2014_t2g,
+    title={Combining distant and partial supervision for relation extraction},
+    author={Angeli, Gabor and Tibshirani, Julie and Wu, Jean and Manning, Christopher D},
+    booktitle={Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)},
+    pages={1556--1567},
+    year={2014},
+    address={Doha, Qatar},
+    publisher={IEEE}
+}
+
+@inproceedings{han_2014_t2g,
+    title={Semantic consistency: A local subspace based method for distant supervised relation extraction},
+    author={Han, Xianpei and Sun, Le},
+    booktitle={Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics},
+    pages={718--724},
+    year={2014},
+    address={Baltimore, Maryland},
+    publisher={ACL}
+}
+
+@inproceedings{pershina_2014_t2g,
+    title={Infusion of labeled data into distant supervision for relation extraction},
+    author={Pershina, Maria and Min, Bonan and Xu, Wei and Grishman, Ralph},
+    booktitle={Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics},
+    pages={732--738},
+    year={2014},
+    address={Baltimore, Maryland},
+    publisher={ACL}
+}
+
+@inproceedings{chen_2014_t2g_clue,
+    title={Encoding relation requirements for relation extraction via joint inference},
+    author={Chen, Liwei and Feng, Yansong and Huang, Songfang and Qin, Yong and Zhao, Dongyan},
+    booktitle={Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    pages={818--827},
+    year={2014},
+    address={Baltimore, Maryland},
+    publisher={ACL}
+}
+
+@article{rotmensch_2017_t2g,
+  title={Learning a health knowledge graph from electronic medical records},
+  author={Rotmensch, Maya and Halpern, Yoni and Tlimat, Abdulhakim and Horng, Steven and Sontag, David},
+  journal={Scientific reports},
+  volume={7},
+  number={1},
+  pages={1--11},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{chen_2018_t2g,
+  title={Knowedu: A system to construct knowledge graph for education},
+  author={Chen, Penghe and Lu, Yu and Zheng, Vincent W and Chen, Xiyang and Yang, Boda},
+  journal={Ieee Access},
+  volume={6},
+  pages={31553--31563},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{geng2020semantic,
+  title={Semantic relation extraction using sequential and tree-structured LSTM with attention},
+  author={Geng, ZhiQiang and Chen, GuoFei and Han, YongMing and Lu, Gang and Li, Fang},
+  journal={Information Sciences},
+  volume={509},
+  pages={183--192},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@inproceedings{NELL,
+    title={Toward an architecture for never-ending language learning},
+    author={Carlson, Andrew and Betteridge, Justin and Kisiel, Bryan and Settles, Burr and Hruschka, Estevam R and Mitchell, Tom M},
+    booktitle={Twenty-Fourth AAAI conference on artificial intelligence},
+    year={2010},
+    pages={1306--1313},
+    address={Atlanta, Georgia, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{ACERDC,
+    title={Exploiting constituent dependencies for tree kernel-based semantic relation extraction},
+    author={Qian, Longhua and Zhou, Guodong and Kong, Fang and Zhu, Qiaoming and Qian, Peide},
+    booktitle={Proceedings of the 22nd International Conference on Computational Linguistics (Coling 2008)},
+    pages={697--704},
+    year={2008},
+    address={Manchester, UK},
+    publisher={Coling 2008 Organizing Committee}
+}
+
+@inproceedings{NYT10,
+    title={Modeling relations and their mentions without labeled text},
+    author={Riedel, Sebastian and Yao, Limin and McCallum, Andrew},
+    booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+    pages={148--163},
+    year={2010},
+    address={Athens, Greece},
+    publisher={Springer}
+}
+
+@inproceedings{KBP,
+    title={Knowledge base population: Successful approaches and challenges},
+    author={Ji, Heng and Grishman, Ralph},
+    booktitle={Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies},
+    pages={1148--1158},
+    year={2011},
+    address={Portland, Oregon, USA},
+    publisher={ACL}
+}
+
+@article{DBpedia,
+  title={Dbpedia-a crystallization point for the web of data},
+  author={Bizer, Christian and Lehmann, Jens and Kobilarov, Georgi and Auer, S{\"o}ren and Becker, Christian and Cyganiak, Richard and Hellmann, Sebastian},
+  journal={Journal of web semantics},
+  volume={7},
+  number={3},
+  pages={154--165},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{GoogleBillionWord,
+    title={One billion word benchmark for measuring progress in statistical language modeling},
+    author={Chelba, Ciprian and Mikolov, Tomas and Schuster, Mike and Ge, Qi and Brants, Thorsten and Koehn, Phillipp and Robinson, Tony},
+    journal={arXiv preprint arXiv:1312.3005},
+    year={2013},
+    numpages={6}
+}
+
+@article{WikiText103,
+    title={Pointer sentinel mixture models},
+    author={Merity, Stephen and Xiong, Caiming and Bradbury, James and Socher, Richard},
+    journal={arXiv preprint arXiv:1609.07843},
+    year={2016},
+    numpages={13}
+}
+
+@Inproceedings{prabhu_2015_i2g,
+    author={Prabhu, Nikita and Babu, R. Venkatesh},
+    booktitle={2015 IEEE International Conference on Computer Vision (ICCV)}, 
+    title={Attribute-Graph: A Graph Based Approach to Image Ranking}, 
+    year={2015},
+    volume={},
+    number={},
+    pages={1071-1079},
+    address={Santiago, Chile},
+    publisher={IEEE}
+}
+
+@article{hong_2021_i2g,  author={Hong, Danfeng and Gao, Lianru and Yao, Jing and Zhang, Bing and Plaza, Antonio and Chanussot, Jocelyn},  journal={IEEE Transactions on Geoscience and Remote Sensing},   title={Graph Convolutional Networks for Hyperspectral Image Classification},   year={2021},  volume={59},  number={7},  pages={5966-5978}
+}
+
+@article{valesia_2020_i2g,  author={Valsesia, Diego and Fracastoro, Giulia and Magli, Enrico},  journal={IEEE Transactions on Image Processing},   title={Deep Graph-Convolutional Image Denoising},   year={2020},  volume={29},  number={},  pages={8226-8237}
+}
+
+@Inproceedings{gu_2019_i2g,
+    author = {Gu, Jiuxiang and Joty, Shafiq and Cai, Jianfei and Zhao, Handong and Yang, Xu and Wang, Gang},
+    title = {Unpaired Image Captioning via Scene Graph Alignments},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month = {October},
+    year = {2019},
+    pages={10323--10332},
+    address={Seoul, South Korea},
+    publisher={IEEE}
+}
+
+@inproceedings{zhou_2020_i2g,
+    author = {Zhou, Shangchen and Zhang, Jiawei and Zuo, Wangmeng and Loy, Chen Change},
+    booktitle = {Advances in Neural Information Processing Systems},
+    editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+    pages = {3499--3509},
+    publisher = {Curran Associates, Inc.},
+    title = {Cross-Scale Internal Graph Neural Network for Image Super-Resolution},
+    volume = {33},
+    year = {2020},
+    address={Online}
+}
+
+@article{wan_2021_i2g,  
+    author={Wan, Sheng and Gong, Chen and Zhong, Ping and Pan, Shirui and Li, Guangyu and Yang, Jian},  
+    journal={IEEE Transactions on Geoscience and Remote Sensing},   
+    title={Hyperspectral Image Classification With Context-Aware Dynamic Graph Convolutional Network},   
+    year={2021},  
+    volume={59},  
+    number={1},  
+    pages={597-612}
+}
+
+@misc{Indian_Pines,
+    title={220 Band AVIRIS Hyperspectral Image Data Set: June 12, 1992 Indian Pine Test Site 3},
+    author = {Baumgardner, Marion F. and Biehl, Larry L. and Landgrebe, David A.},
+    month={Sep},
+    url={https://purr.purdue.edu/publications/1947/1},
+    year={2015}
+}
+
+@inproceedings{rPascal_dataset,
+    title={Describing objects by their attributes},
+    author={Farhadi, Ali and Endres, Ian and Hoiem, Derek and Forsyth, David},
+    booktitle={2009 IEEE conference on computer vision and pattern recognition},
+    pages={1778--1785},
+    year={2009},
+    address={Miami, Florida, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{rImaegNet_dataset,
+    title={Imagenet: A large-scale hierarchical image database},
+    author={Deng, Jia and Dong, Wei and Socher, Richard and Li, Li-Jia and Li, Kai and Fei-Fei, Li},
+    booktitle={2009 IEEE conference on computer vision and pattern recognition},
+    pages={248--255},
+    year={2009},
+    address={ Miami, Florida, USA},
+    publisher={IEEE}
+}
+
+@Inproceedings{bsd_dataset,
+    author = {D. Martin and C. Fowlkes and D. Tal and J. Malik},
+    title = {A Database of Human Segmented Natural Images and its
+           Application to Evaluating Segmentation Algorithms and
+           Measuring Ecological Statistics},
+    booktitle = {Proc. 8th Int'l Conf. Computer Vision},
+    year = {2001},
+    month = {July},
+    volume = {2},
+    pages = {416--423},
+    address={Vancouver, BC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{div2k_dataset,
+    title={Ntire 2017 challenge on single image super-resolution: Methods and results},
+    author={Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition workshops},
+    pages={114--125},
+    year={2017},
+    address={Honolulu, HI, USA},
+    publisher={IEEE}
+}
+
+@article{VG_dataset,
+  title={Visual genome: Connecting language and vision using crowdsourced dense image annotations},
+  author={Krishna, Ranjay and Zhu, Yuke and Groth, Oliver and Johnson, Justin and Hata, Kenji and Kravitz, Joshua and Chen, Stephanie and Kalantidis, Yannis and Li, Li-Jia and Shamma, David A and others},
+  journal={International journal of computer vision},
+  volume={123},
+  number={1},
+  pages={32--73},
+  year={2017},
+  publisher={Springer}
+}
+
+@InProceedings{zhao_2021_v2g_stg,
+    author    = {Zhao, Zixu and Jin, Yueming and Heng, Pheng-Ann},
+    title     = {Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {9960-9969},
+    address={Montreal, QC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{zhang_2021_v2g_hop,
+author = {Zhang, Jingran and Xu, Xing and Shen, Fumin and Yao, Yazhou and Shao, Jie and Zhu, Xiaofeng},
+title = {Video Representation Learning with Graph Contrastive Augmentation},
+year = {2021},
+publisher = {ACM},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+pages = {3043–3051},
+numpages = {9},
+keywords = {graph augmentation, self-supervised learning, video representation learning, contrastive learning},
+location = {Virtual Event, China},
+series = {MM '21}
+}
+
+@Inproceedings{soldan_2021_v2g,
+    author    = {Soldan, Mattia and Xu, Mengmeng and Qu, Sisi and Tegner, Jesper and Ghanem, Bernard},
+    title     = {VLG-Net: Video-Language Graph Matching Network for Video Grounding},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2021},
+    pages     = {3224-3234},
+    address={Montreal, BC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{pan_2020_v2g,
+    author = {Pan, Boxiao and Cai, Haoye and Huang, De-An and Lee, Kuan-Hui and Gaidon, Adrien and Adeli, Ehsan and Niebles, Juan Carlos},
+    title = {Spatio-Temporal Graph for Video Captioning With Knowledge Distillation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2020},
+    pages={10870--10879},
+    address={Seattle, WA, USA},
+    publisher={IEEE}
+}
+
+@article{zhang_2021_v2g_act,  
+    author={Zhang, Jingran and Shen, Fumin and Xu, Xing and Shen, Heng Tao}, 
+    journal={IEEE Transactions on Image Processing},   
+    title={Temporal Reasoning Graph for Activity Recognition},   
+    year={2020},  
+    volume={29},  
+    number={},  
+    pages={5491-5506}
+}
+
+@inproceedings{zhang_2019_v2g_bd,
+    author = {Zhang, Junchao and Peng, Yuxin},
+    title = {Object-Aware Aggregation With Bidirectional Temporal Graph for Video Captioning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019},
+    pages={8319--8328},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{arnab_2021_v2g,
+    author    = {Arnab, Anurag and Sun, Chen and Schmid, Cordelia},
+    title     = {Unified Graph Structured Models for Video Understanding},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {8117-8126},
+    address = {Virtual},
+    publisher = {IEEE}
+}
+
+@article{zhao_2021_v2g_pyramid,
+    title = {Pyramid regional graph representation learning for content-based video retrieval},
+    journal = {Information Processing \& Management},
+    volume = {58},
+    number = {3},
+    pages = {102488},
+    year = {2021},
+    issn = {0306-4573},
+    author = {Guoping Zhao and Mingyu Zhang and Yaxian Li and Jiajun Liu and Bingqing Zhang and Ji-Rong Wen},
+    keywords = {Graph embedding, Video retrieval, Regional graph, Pyramid feature map},
+}
+
+@misc{davis_2017_dataset,
+  title={The 2017 davis challenge on video object segmentation},
+  author={The standalone DAVIS},
+  url={https://davischallenge.org/davis2017/code.html},
+  year={2017}
+}
+
+@inproceedings{VIP,
+    title={Adaptive temporal encoding network for video instance-level human parsing},
+    author={Zhou, Qixian and Liang, Xiaodan and Gong, Ke and Lin, Liang},
+    booktitle={Proceedings of the ACM international conference on Multimedia},
+    pages={1527--1535},
+    year={2018},
+    address={Seoul, South Korea},
+    publisher={ACM}
+}
+
+@inproceedings{JHMDB,
+    title={Towards understanding action recognition},
+    author={Jhuang, Hueihan and Gall, Juergen and Zuffi, Silvia and Schmid, Cordelia and Black, Michael J},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={3192--3199},
+    year={2013},
+    address={Cambridge, MA, USA},
+    publisher={IEEE}
+}
+
+@article{kinetics400,
+    title={The kinetics human action video dataset},
+    author={Kay, Will and Carreira, Joao and Simonyan, Karen and Zhang, Brian and Hillier, Chloe and Vijayanarasimhan, Sudheendra and Viola, Fabio and Green, Tim and Back, Trevor and Natsev, Paul and others},
+    journal={arXiv preprint arXiv:1705.06950},
+    year={2017},
+    numpages={22}
+}
+
+@article{UCF101,
+    title={UCF101: A dataset of 101 human actions classes from videos in the wild},
+    author={Soomro, Khurram and Zamir, Amir Roshan and Shah, Mubarak},
+    journal={arXiv preprint arXiv:1212.0402},
+    year={2012},
+    numpages={7}
+}
+
+@inproceedings{HMDB,
+    title={HMDB: a large video database for human motion recognition},
+    author={Kuehne, Hildegard and Jhuang, Hueihan and Garrote, Est{\'\i}baliz and Poggio, Tomaso and Serre, Thomas},
+    booktitle={2011 International conference on computer vision},
+    pages={2556--2563},
+    year={2011},
+    address={Barcelona},
+    publisher={IEEE}
+}
+
+@inproceedings{DiDeMo,
+    title={Localizing moments in video with natural language},
+    author={Anne Hendricks, Lisa and Wang, Oliver and Shechtman, Eli and Sivic, Josef and Darrell, Trevor and Russell, Bryan},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={5803--5812},
+    year={2017},
+    address={Venice, Italy},
+    publisher={IEEE}
+}
+
+@inproceedings{SSv1,
+    title={The" something something" video database for learning and evaluating visual common sense},
+    author={Goyal, Raghav and Ebrahimi Kahou, Samira and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={5842--5850},
+    year={2017},
+    address={Cambridge, MA, USA},
+    publisher={IEEE}
+}
+
+@article{SSv2,
+    title={On the effectiveness of task granularity for transfer learning},
+    author={Mahdisoltani, Farzaneh and Berger, Guillaume and Gharbieh, Waseem and Fleet, David and Memisevic, Roland},
+    journal={arXiv preprint arXiv:1804.09235},
+    year={2018},
+    numpages={20}
+}
+
+@inproceedings{Jester,
+    title={The jester dataset: A large-scale video dataset of human gestures},
+    author={Materzynska, Joanna and Berger, Guillaume and Bax, Ingo and Memisevic, Roland},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+    pages={0--0},
+    year={2019},
+    address={Montreal, BC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{AVA,
+    title={Ava: A video dataset of spatio-temporally localized atomic visual actions},
+    author={Gu, Chunhui and Sun, Chen and Ross, David A and Vondrick, Carl and Pantofaru, Caroline and Li, Yeqing and Vijayanarasimhan, Sudheendra and Toderici, George and Ricco, Susanna and Sukthankar, Rahul and others},
+    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    pages={6047--6056},
+    year={2018},
+    address={Salt Lake City, UT, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{ActionGenome,
+    title={Action genome: Actions as compositions of spatio-temporal scene graphs},
+    author={Ji, Jingwei and Krishna, Ranjay and Fei-Fei, Li and Niebles, Juan Carlos},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={10236--10247},
+    year={2020},
+    address={Seattle, WA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{SVD,
+    title={SVD: A large-scale short video dataset for near-duplicate video retrieval},
+    author={Jiang, Qing-Yuan and He, Yi and Li, Gen and Lin, Jian and Li, Lei and Li, Wu-Jun},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={5281--5289},
+    year={2019},
+    address={Seoul, South Korea},
+    publisher={IEEE}
+}
+
+@article{Sharma_2019_nonimage,
+	title={DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture},
+	author={Sharma, Alok and Vans, Edwin and Shigemizu, Daichi and Boroevich, Keith A and Tsunoda, Tatsuhiko},
+	journal={Scientific reports},
+	volume={9},
+	number={1},
+	pages={1--7},
+	year={2019},
+	publisher={Nature Publishing Group}
+}
+
+@misc{Sharma_2020_nonimage,
+    Title = {DeepInsight-FS: Selecting features for non-image data using convolutional neural network},
+    Author = {Sharma, Alok and Lysenko, Artem and Boroevich, Keith and Vans, Edwin and Tsunoda, Tatsuhiko},
+    Publisher = {bioRxiv},
+    Year = {2020},
+    URL = {https://doi.org/10.1101/2020.09.17.301515}
+}
+
+@inproceedings{jeong_2019_eeg,  author={Jeong, Daekyo and Yoo, Sangbong and Yun, Jang},  booktitle={2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)},   title={Cybersickness Analysis with EEG Using Deep Learning Algorithms},   year={2019},  volume={},  number={},  pages={827-835}
+}
+
+@article{eeg_definition,
+	author = {Binnie, C D and Prior, P F},
+	title = {Electroencephalography.},
+	volume = {57},
+	number = {11},
+	pages = {1308--1319},
+	year = {1994},
+	publisher = {BMJ Publishing Group Ltd},
+	issn = {0022-3050},
+	eprint = {https://jnnp.bmj.com/content/57/11/1308.full.pdf},
+	journal = {Journal of Neurology, Neurosurgery \& Psychiatry}
+}
+
+@article{Tawhid_2020_eeg,
+	author = {Tawhid, Md. Nurul Ahad and Siuly, Siuly and wang, hua},
+	year = {2020},
+	month = {10},
+	pages = {},
+	title = {Diagnosis of autism spectrum disorder from EEG using a time–frequency spectrogram image-based approach},
+	volume = {56},
+	journal = {Electronics Letters}
+}
+
+@article{Vrbancic_2018_eeg, 
+	title={Automatic Classification of Motor Impairment Neural Disorders from EEG Signals Using Deep Convolutional Neural Networks}, 
+	volume={24}, 
+	number={4}, 
+	journal={Elektronika ir Elektrotechnika}, 
+	author={Vrbancic, Grega and Podgorelec, Vili}, 
+	year={2018}, 
+	month={Aug.}, 
+	pages={3-7} 
+}
+
+@article{Loh_2021_eeg,
+    title={Decision support system for major depression detection using spectrogram and convolution neural network with EEG signals},
+    author={Loh, Hui Wen and Ooi, Chui Ping and Aydemir, Emrah and Tuncer, Turker and Dogan, Sengul and Acharya, U Rajendra},
+    journal={Expert Systems},
+    pages={e12773},
+    year={2021},
+    volume={},
+    publisher={Wiley Online Library}
+}
+
+@article{Aslan_2020_eeg,
+	author = {Aslan, Zülfikar and Akin, Mehmet},
+	year = {2020},
+	month = {04},
+	pages = {235-244},
+	title = {Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram Images of EEG Signals},
+	volume = {37},
+	journal = {Traitement du Signal}
+}
+
+@article{Tawhid_2021_eeg,
+    author = {Tawhid, Nurul Ahad and Siuly, Siuly and Wang, Hua and Whittaker, Frank and Wang, Kate and Zhang, Yanchun},
+    journal = {PLOS ONE},
+    keywords = {},
+    number = {6},
+    pages = {e0253094},
+    title = {A spectrogram image based intelligent technique for automatic detection of autism spectrum disorder from EEG},
+    volume = {16},
+    year = {2021}
+}
+
+@inproceedings{Yuan_2017_eeg,
+    title={Patients’ EEG data analysis via spectrogram image with a convolution neural network},
+    author={Yuan, Longhao and Cao, Jianting},
+    booktitle={International Conference on Intelligent Decision Technologies},
+    pages={13--21},
+    year={2017},
+    address={Algarve, Portugal},
+    publisher={Springer}
+}
+
+@article{Ruffini_2019_eeg,
+    AUTHOR={Ruffini, Giulio and Ibañez, David and Castellano, Marta and Dubreuil-Vall, Laura and Soria-Frisch, Aureli and Postuma, Ron and Gagnon, Jean-François and Montplaisir, Jacques},   	 
+    TITLE={Deep Learning With EEG Spectrograms in Rapid Eye Movement Behavior Disorder},      
+    JOURNAL={Frontiers in Neurology},      
+    VOLUME={10},      
+    YEAR={2019},        
+    ISSN={1664-2295},
+    numpages={9}
+}
+
+@article{Alcin_2016_eeg,
+	title = {Multi-category EEG signal classification developing time-frequency texture features based Fisher Vector encoding method},
+	journal = {Neurocomputing},
+	volume = {218},
+	pages = {251-258},
+	year = {2016},
+	issn = {0925-2312},
+	author = {Ömer F. Alçіn and Siuly Siuly and Varun Bajaj and Yanhui Guo and Abdulkadir Şengu¨r and Yanchun Zhang},
+	keywords = {Electroencephalogram, GLCM descriptors, Fisher Vector encoding, Extreme machine learning (EML), Feature extraction}
+}
+
+@INPROCEEDINGS{Shalash_2019_eeg,  
+    author={Shalash, Wafaa Mohib}, 
+    booktitle={2019 IEEE International Conference on Imaging Systems and Techniques (IST)},   
+    title={Driver Fatigue Detection with Single EEG Channel Using Transfer Learning},   
+    year={2019},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Abu Dhabi, United Arab Emirates},
+    publisher={IEEE}
+}
+
+@article{Raghu_2020_eeg,
+	title = {EEG based multi-class seizure type classification using convolutional neural network and transfer learning},
+	journal = {Neural Networks},
+	volume = {124},
+	pages = {202-212},
+	year = {2020},
+	issn = {0893-6080},
+	author = {S. Raghu and Natarajan Sriraam and Yasin Temel and Shyam Vasudeva Rao and Pieter L. Kubben},
+	keywords = {Convolution neural network, Electroencephalogram, Epilepsy, Seizure type, Support vector machine, Transfer learning}
+}
+
+@article{Mandhouj_2021_eeg,
+	author = {Mandhouj, Badreddine and Cherni, Mohamed and Sayadi, Mounir},
+	year = {2021},
+	month = {07},
+	pages = {1-10},
+	title = {An automated classification of EEG signals based on spectrogram and CNN for epilepsy diagnosis},
+	volume = {108},
+	journal = {Analog Integrated Circuits and Signal Processing}
+}
+
+@article{Tabar_2016_eeg,
+	year = 2016,
+	month = {nov},
+	publisher = {{IOP} Publishing},
+	volume = {14},
+	number = {1},
+	pages = {016003},
+	author = {Yousef Rezaei Tabar and Ugur Halici},
+	title = {A novel deep learning approach for classification of {EEG} motor imagery signals},
+	journal = {Journal of Neural Engineering}
+}
+
+@article{Dai_2019_eeg,
+    AUTHOR = {Dai, Mengxi and Zheng, Dezhi and Na, Rui and Wang, Shuai and Zhang, Shuailei},
+    TITLE = {EEG Classification of Motor Imagery Using a Novel Deep Learning Framework},
+    JOURNAL = {Sensors},
+    VOLUME = {19},
+    YEAR = {2019},
+    NUMBER = {3},
+    ARTICLE-NUMBER = {551},
+    ISSN = {1424-8220},
+    numpages = {16}
+}
+
+@INPROCEEDINGS{Donmez_2019_eeg,  
+    author={Donmez, Hayriye and Ozkurt, Nalan},  
+    booktitle={2019 Innovations in Intelligent Systems and Applications Conference (ASYU)},   
+    title={Emotion Classification from EEG Signals in Convolutional Neural Networks},   
+    year={2019},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Izmir, Turkey},
+    publisher={IEEE}
+}
+
+@article{Mustafa_2012_eeg,
+	author = {Mustafa, Mahfuzah and Taib, Mohd Nasir and Murat, Zunairah and Sulaiman, Norizam},
+	year = {2012},
+	month = {04},
+	pages = {17-22},
+	title = {Comparison between KNN and ANN Classification in Brain Balancing Application via Spectrogram Image},
+	volume = {2},
+	journal = {Journal of Computer Science \& Computational Mathematics}
+}
+
+@INPROCEEDINGS{Mustafa_2013_eeg,  
+    author={Mustafa, Mahfuzah and Taib, Mohd Nasir and Lias, Sahrim and Murat, Zunairah Hj and Sulaiman, Norizam},  
+    booktitle={2013 The International Conference on Technological Advances in Electrical, Electronics and Computer Engineering (TAEECE)},
+    title={EEG spectrogram classification employing ANN for IQ application}, 
+    year={2013},  
+    volume={},  
+    number={},  
+    pages={199-203},  
+    address={Konya, Turkey},
+    publisher={IEEE}
+}
+
+@article{Toraman_2019_eeg,
+	title = {Is it possible to detect cerebral dominance via EEG signals by using deep learning?},
+	journal = {Medical Hypotheses},
+	volume = {131},
+	pages = {109315},
+	year = {2019},
+	issn = {0306-9877},
+	author = {Suat Toraman and Seda Arslan Tuncer and Ferhat Balgetir},
+	keywords = {Electroencephalography, Speech center, Dominant hemisphere, Machine learning, Convolutional neural network, Classification}
+}
+
+@ARTICLE{Budak_2019_eeg, 
+	author={Budak, Umit and Bajaj, Varun and Akbulut, Yaman and Atila, Orhan and Sengur, Abdulkadir},  
+	journal={IEEE Sensors Journal},   
+	title={An Effective Hybrid Model for EEG-Based Drowsiness Detection},   
+	year={2019},  
+	volume={19},  
+	number={17},  
+	pages={7624-7631}
+}
+
+@article{Kuo_2021_eeg,
+	title = {An EEG spectrogram-based automatic sleep stage scoring method via data augmentation, ensemble convolution neural network, and expert knowledge},
+	journal = {Biomedical Signal Processing and Control},
+	volume = {70},
+	pages = {102981},
+	year = {2021},
+	issn = {1746-8094},
+	author = {Chih-En Kuo and Guan-Ting Chen and Po-Yu Liao},
+	keywords = {Automatic sleep stage scoring, Convolution neural network, Data augmentation, Time–frequency spectrogram}
+}
+
+@inproceedings{mfcc,
+    title={Mel frequency cepstral coefficients for music modeling},
+    author={Logan, Beth},
+    booktitle={In International Symposium on Music Information Retrieval},
+    year={2000},
+    numpages={13},
+    address={Plymouth, Massachusetts},
+    publisher={Citeseer}
+}
+
+@article{Sharan_2015,
+title = {Noise robust audio surveillance using reduced spectrogram image feature and one-against-all SVM},
+journal = {Neurocomputing},
+volume = {158},
+pages = {90-99},
+year = {2015},
+issn = {0925-2312},
+author = {Roneel V. Sharan and Tom J. Moir},
+keywords = {Audio surveillance, Noise robust, Sound recognition, Reduced spectrogram image feature, Support vector machines}
+}
+
+@ARTICLE{Liu_2018,  
+author={Liu, Zheli and Wu, Zhendong and Li, Tong and Li, Jin and Shen, Chao},  
+journal={IEEE Transactions on Industrial Informatics},   
+title={GMM and CNN Hybrid Method for Short Utterance Speaker Recognition},   
+year={2018},  
+volume={14},  
+number={7},  
+pages={3244-3252}
+}
+
+@inproceedings{Yenigalla_2018,
+    title={Speech Emotion Recognition Using Spectrogram \& Phoneme Embedding},
+    author={Promod Yenigalla and Abhay Kumar and Suraj Tripathi and Chirag Singh and Sibsambhu Kar and Jithendra Vepa},
+    booktitle={INTERSPEECH},
+    year={2018},
+    pages={3688--3692},
+    address={Hyderabad, India},
+    publisher={International Speech Communication Association (ISCA)}
+}
+
+@inproceedings{Ghosal_2012,
+    author = {Ghosal, Arijit and Chakraborty, Rudrasis and Dhara, Bibhas Chandra and Saha, Sanjoy Kumar},
+    title = {Song/Instrumental Classification Using Spectrogram Based Contextual Features},
+    year = {2012},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    booktitle = {Proceedings of the CUBE International Information Technology Conference},
+    pages = {21–25},
+    numpages = {5},
+    keywords = {spectrogram image, instrumental/song classification, RANSAC},
+    location = {Pune, India}
+}
+
+@INPROCEEDINGS{Stolar_2018,  
+    author={Stolar, Melissa and Lech, Margaret and Bolia, Robert S. and Skinner, Michael},  
+    booktitle={2018 12th International Conference on Signal Processing and Communication Systems (ICSPCS)},   
+    title={Acoustic Characteristics of Emotional Speech Using Spectrogram Image Classification},   
+    year={2018},  
+    volume={},  
+    number={},  
+    pages={1-5},  
+    address={Cairns, QLD, Australia},
+    publisher={IEEE}
+}
+
+@INPROCEEDINGS{Neammalai_2014,  
+    author={Neammalai, Piyawat and Phimoltares, Suphakant and Lursinsap, Chidchanok},  
+    booktitle={Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2014 Asia-Pacific},   
+    title={Speech and music classification using hybrid Form of spectrogram and fourier transformation},   
+    year={2014},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Siem Reap, Cambodia},
+    publisher={IEEE}
+}
+
+@INPROCEEDINGS{Zhang_2015,  
+    author={Zhang, Haomin and McLoughlin, Ian and Song, Yan},  
+    booktitle={2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
+    title={Robust sound event recognition using convolutional neural networks},
+    year={2015},  
+    volume={},  
+    number={},  
+    pages={559-563},  
+    address={South Brisbane, QLD, Australia},
+    publisher={IEEE}
+}
+
+@inproceedings{Hyder_2017,
+    title={Acoustic Scene Classification Using a CNN-SuperVector System Trained with Auditory and Spectrogram Image Features.},
+    author={Hyder, Rakib and Ghaffarzadegan, Shabnam and Feng, Zhe and Hansen, John HL and Hasan, Taufiq},
+    booktitle={Interspeech},
+    pages={3073--3077},
+    year={2017},
+    address={Stockholm, Sweden},
+    publisher={International Speech Communication Association (ISCA)}
+}
+
+@INPROCEEDINGS{Wang_2018,  
+    author={Wang, Jianhong and Strömfeli, Harald and Schuller, Bjorn W.},  
+    booktitle={2018 26th European Signal Processing Conference (EUSIPCO)},   
+    title={A Cnn-Gru Approach to Capture Time-Frequency Pattern Interdependence for Snore Sound Classification},   
+    year={2018},  
+    volume={},  
+    number={},  
+    pages={997-1001},  
+    address={Rome, Italy},
+    publisher={IEEE}
+}
+
+@article{Kothuru_2019,
+title = {Application of deep visualization in CNN-based tool condition monitoring for end milling},
+journal = {Procedia Manufacturing},
+volume = {34},
+pages = {995-1004},
+year = {2019},
+note = {47th SME North American Manufacturing Research Conference, NAMRC 47, Pennsylvania, USA.},
+issn = {2351-9789},
+author = {Achyuth Kothuru and Sai Prasad Nooka and Rui Liu},
+keywords = {Deep visualization, Tool condition monitoring, Convolutional neural networks, Tool wear, Spectrogram}
+}
+
+@inproceedings{Chang_2019,
+    title={A CNN-based method for infant cry detection and recognition},
+    author={Chang, Chuan-Yu and Tsai, Lung-Yu},
+    booktitle={Workshops of the International Conference on Advanced Information Networking and Applications},
+    pages={786--792},
+    year={2019},
+    address={Matsue, Japan},
+    publisher={Springer}
+}
+
+@inproceedings{Aldrich_2019,
+    title={Detection of nearby UAVs using CNN and Spectrograms},
+    author={Cabrera-Ponce, Aldrich A and Martinez-Carranza, J and Rascon, Caleb},
+    booktitle={Proceedings of the International Micro Air Vehicle Conference and Competition (IMAV)},
+    volume={29},
+    year={2019},
+    pages={138--143},
+    address={Madrid, Spain},
+    publisher={Sage}
+}
+
+@article{Zhou_2021,
+    title={Cough recognition based on mel-spectrogram and convolutional neural network},
+    author={Zhou, Quan and Shan, Jianhua and Ding, Wenlong and Wang, Chengyin and Yuan, Shi and Sun, Fuchun and Li, Haiyuan and Fang, Bin},
+    journal={Frontiers in Robotics and AI},
+    volume={8},
+    year={2021},
+    numpages={7},
+    publisher={Frontiers}
+}
+
+@Article{Zhang_2021,
+    AUTHOR = {Zhang, Jing and Wen, Xingyu and Cho, Ayoung and Whang, Mincheol},
+    TITLE = {An Empathy Evaluation System Using Spectrogram Image Features of Audio},
+    JOURNAL = {Sensors},
+    VOLUME = {21},
+    YEAR = {2021},
+    NUMBER = {21},
+    ARTICLE-NUMBER = {7111},
+    PubMedID = {34770419},
+    ISSN = {1424-8220},
+    numpages={23}
+}
+
+@INPROCEEDINGS{Wazir_2020,  
+    author={Wazir, Abdulaziz Saleh Ba and Karim, Hezerul Abdul and Abdullah, Mohd Haris Lye and Mansor, Sarina and AlDahoul, Nouar and Fauzi, Mohammad Faizal Ahmad and See, John},  
+    booktitle={2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)},   
+    title={Spectrogram-Based Classification Of Spoken Foul Language Using Deep CNN},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Tampere, Finland},
+    publisher={IEEE}
+}
+
+@Article{Mushtaq_2020,
+    AUTHOR = {Mushtaq, Zohaib and Su, Shun-Feng},
+    TITLE = {Efficient Classification of Environmental Sounds through Multiple Features Aggregation and Data Enhancement Techniques for Spectrogram Images},
+    JOURNAL = {Symmetry},
+    VOLUME = {12},
+    YEAR = {2020},
+    NUMBER = {11},
+    ARTICLE-NUMBER = {1822},
+    ISSN = {2073-8994},
+    numpages={34}
+}
+
+@ARTICLE{Khan_2021,  
+author={Khan, Adnan Shahid and Ahmad, Zeeshan and Abdullah, Johari and Ahmad, Farhan},  
+journal={IEEE Access},   
+title={A Spectrogram Image-Based Network Anomaly Detection System Using Deep Convolutional Neural Network},   
+year={2021},  
+volume={9},  
+number={},  
+pages={87079-87093},  
+}
+
+@inproceedings{Yang_2018,
+    title={Convolutional neural network based side-channel attacks in time-frequency representations},
+    author={Yang, Guang and Li, Huizhong and Ming, Jingdian and Zhou, Yongbin},
+    booktitle={International Conference on Smart Card Research and Advanced Applications},
+    pages={1--17},
+    year={2018},
+    address={Montpellier, France},
+    publisher={Springer}
+}
+
+@ARTICLE{Azab_2020,  
+author={Azab, Ahmad and Khasawneh, Mahmoud}, 
+journal={IEEE Access},   
+title={MSIC: Malware Spectrogram Image Classification},   
+year={2020},  
+volume={8},  
+number={},  
+pages={102007-102021}
+}
+
+@article{Ortega_2021,
+  title={A deep learning based wearable system for food and drink intake recognition},
+  author={Ortega Anderez, Dario and Lotfi, Ahmad and Pourabdollah, Amir},
+  journal={Journal of Ambient Intelligence and Humanized Computing},
+  volume={12},
+  number={10},
+  pages={9435--9447},
+  year={2021},
+  publisher={Springer}
+}
+
+@inproceedings{Alshurafa_2014,
+    title={Non-invasive monitoring of eating behavior using spectrogram analysis in a wearable necklace},
+    author={Alshurafa, Nabil and Kalantarian, Haik and Pourhomayoun, Mohammad and Sarin, Shruti and Liu, Jason J and Sarrafzadeh, Majid},
+    booktitle={2014 IEEE healthcare innovation conference (HIC)},
+    pages={71--74},
+    year={2014},
+    address={New York, USA},
+    publisher={IEEE}
+}
+
+@ARTICLE{Alshurafa_2015,  
+author={Alshurafa, Nabil and Kalantarian, Haik and Pourhomayoun, Mohammad and Liu, Jason J. and Sarin, Shruti and Shahbazi, Behnam and Sarrafzadeh, Majid},  
+journal={IEEE Sensors Journal},   
+title={Recognition of Nutrition Intake Using Time-Frequency Decomposition in a Wearable Necklace Using a Piezoelectric Sensor},   
+year={2015},  
+volume={15},  
+number={7},  
+pages={3909-3916}
+}
+
+@inproceedings{Salem_2018,  
+    author={Salem, Milad and Taheri, Shayan and Yuan, Jiann–Shiun},  
+    booktitle={2018 IEEE Biomedical Circuits and Systems Conference (BioCAS)},   
+    title={ECG Arrhythmia Classification Using Transfer Learning from 2- Dimensional Deep CNN Features},   
+    year={2018},  
+    volume={},  
+    number={},  
+    pages={1-4},  
+    address={Cleveland, OH, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{McCloskey_2018,
+    title={Detecting hypopnea and obstructive apnea events using convolutional neural networks on wavelet spectrograms of nasal airflow},
+    author={McCloskey, Stephen and Haidar, Rim and Koprinska, Irena and Jeffries, Bryn},
+    booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+    pages={361--372},
+    year={2018},
+    address={Melbourne, VIC, Australia},
+    publisher={Springer}
+}
+
+@inproceedings{Polsterl_2021,
+    title={Combining 3d image and tabular data via the dynamic affine feature map transform},
+    author={P{\"o}lsterl, Sebastian and Wolf, Tom Nuno and Wachinger, Christian},
+    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+    pages={688--698},
+    year={2021},
+    address={Vancouver, Canada},
+    publisher={Springer}
+}
+
+@INPROCEEDINGS{Jung_2019,  
+    author={Jung, Dawoon and Nguyen, Mau Dung and Han, Jooin and Park, Mina and Lee, Kwanhoon and Yoo, Seonggeun and Kim, Jinwook and Mun, Kyung-Ryoul},  
+    booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},   
+    title={Deep Neural Network-Based Gait Classification Using Wearable Inertial Sensor Data},   
+    year={2019},  
+    volume={},  
+    number={},  
+    pages={3624-3628},  
+    address={Berlin, Germany},
+    publisher={IEEE}
+}
+
+@INPROCEEDINGS{Nguyen_2020,  
+    author={Nguyen, Mau Dung and Mun, Kyung-Ryoul and Jung, Dawoon and Han, Jooin and Park, Mina and Kim, Jeuk and Kim, Jinwook},  
+    booktitle={2020 IEEE International Conference on Consumer Electronics (ICCE)},   
+    title={IMU-based Spectrogram Approach with Deep Convolutional Neural Networks for Gait Classification},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Las Vegas, NV, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Ito_2018,
+	author = {Ito, Chihiro and Cao, Xin and Shuzo, Masaki and Maeda, Eisaku},
+	title = {Application of CNN for Human Activity Recognition with FFT Spectrogram of Acceleration and Gyro Sensors},
+	year = {2018},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	booktitle = {Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers},
+	pages = {1503–1510},
+	numpages = {8},
+	keywords = {SHL dataset, FFT spectrogram, Human activity recognition, Correlation analysis, CNN},
+	location = {Singapore, Singapore}
+}
+
+@Article{Lin_2021,
+    AUTHOR = {Lin, Yier and Yang, Fan},
+    TITLE = {IQ-Data-Based WiFi Signal Classification Algorithm Using the Choi-Williams and Margenau-Hill-Spectrogram Features: A Case in Human Activity Recognition},
+    JOURNAL = {Electronics},
+    VOLUME = {10},
+    YEAR = {2021},
+    NUMBER = {19},
+    ARTICLE-NUMBER = {2368},
+    ISSN = {2079-9292},
+    NUMPAGES = {13}
+}
+
+@inproceedings{Hadhrami_2018,  
+    author={Hadhrami, Esra Al and Mufti, Maha Al and Taha, Bilal and Werghi, Naoufel},  
+    booktitle={2018 19th International Radar Symposium (IRS)},   
+    title={Ground Moving Radar Targets Classification Based on Spectrogram Images Using Convolutional Neural Networks},   
+    year={2018},  
+    volume={},  
+    number={},  
+    pages={1-9},  
+    address={Bonn, Germany},
+    publisher={IEEE}
+}
+
+@inproceedings{Jordan_2016,
+    title={Using convolutional neural networks for human activity classification on micro-Doppler radar spectrograms},
+    author={Jordan, Tyler S},
+    booktitle={Sensors, and Command, Control, Communications, and Intelligence (C3I) Technologies for Homeland Security, Defense, and Law Enforcement Applications XV},
+    volume={9825},
+    pages={982509},
+    year={2016},
+    address={Baltimore, MD, United States},
+    publisher={International Society for Optics and Photonics}
+}
+
+@INPROCEEDINGS{Nakamura_2020,  
+    author={Nakamura, Takashi and Bouazizi, Mondher and Yamamoto, Kohei and Ohtsuki, Tomoaki},  
+    booktitle={GLOBECOM 2020 - 2020 IEEE Global Communications Conference},
+    title={Wi-Fi-CSI-based Fall Detection by Spectrogram Analysis with CNN},
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-6},  
+    address={Taipei, Taiwan},
+    publisher={IEEE}
+}
+
+@INPROCEEDINGS{Kaneda_2020,  
+    author={Kaneda, Kazuyuki and Kamohara, Masaharu and Shiku, Osamu and Kobayashi, Toru},  
+    booktitle={2020 IEEE 9th Global Conference on Consumer Electronics (GCCE)},
+    title={Wheelchair Accessibility Evaluation with Deep Learning using a Sensing Acceleration Data-Based Spectrogram},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={205-207},  
+    address={Kobe, Japan},
+    publisher={IEEE}
+}
+
+@article{Ozer_2021,
+  title={CNN/Bi-LSTM-based deep learning algorithm for classification of power quality disturbances by using spectrogram images},
+  author={{\"O}zer, {\.I}lyas and Efe, Serhat Berat and {\"O}zbay, Harun},
+  journal={International Transactions on Electrical Energy Systems},
+  volume={31},
+  number={12},
+  pages={e13204},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+
+@article{Khan_2019,
+title = {Structural vibration-based classification and prediction of delamination in smart composite laminates using deep learning neural network},
+journal = {Composites Part B: Engineering},
+volume = {161},
+pages = {586-594},
+year = {2019},
+issn = {1359-8368},
+author = {Asif Khan and Dae-Kwan Ko and Soo Chul Lim and Heung Soo Kim},
+keywords = {Smart materials, Delamination, Vibration, Non-destructive testing}
+}
+
+@INPROCEEDINGS{Curilem_2018,  
+    author={Curilem, Millaray and Canário, João Paulo and Franco, Luis and Rios, Ricardo A.},  
+    booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},   
+    title={Using CNN To Classify Spectrograms of Seismic Events From Llaima Volcano (Chile)},   
+    year={2018},  
+    volume={},  
+    number={},  
+    pages={1-8},  
+    address={Rio de Janeiro, Brazil},
+    publisher={IEEE}
+}
+
+@article{creswell2018generative,
+  title={Generative adversarial networks: An overview},
+  author={Creswell, Antonia and White, Tom and Dumoulin, Vincent and Arulkumaran, Kai and Sengupta, Biswa and Bharath, Anil A},
+  journal={IEEE Signal Processing Magazine},
+  volume={35},
+  number={1},
+  pages={53--65},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{gan_def,
+    title={Generative adversarial nets},
+    author={Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua},
+    journal={Advances in neural information processing systems},
+    volume={27},
+    year={2014},
+    numpages={9}
+}
+
+@inproceedings{Zhang_2017_t2i,
+    title={Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks},
+    author={Zhang, Han and Xu, Tao and Li, Hongsheng and Zhang, Shaoting and Wang, Xiaogang and Huang, Xiaolei and Metaxas, Dimitris N},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={5907--5915},
+    year={2017},
+    address={Venice, Italy},
+    publisher={IEEE}
+}
+
+@inproceedings{Dong_2017_t2i_i2t2i,
+    title={I2t2i: Learning text to image synthesis with textual data augmentation},
+    author={Dong, Hao and Zhang, Jingqing and McIlwraith, Douglas and Guo, Yike},
+    booktitle={2017 IEEE international conference on image processing (ICIP)},
+    pages={2015--2019},
+    year={2017},
+    address={Beijing, China},
+    publisher={IEEE}
+}
+
+@inproceedings{Joseph_2019_t2i,
+    title={C4synth: Cross-caption cycle-consistent text-to-image synthesis},
+    author={Joseph, KJ and Pal, Arghya and Rajanala, Sailaja and Balasubramanian, Vineeth N},
+    booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    pages={358--366},
+    year={2019},
+    address={Hawaii, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Reed_2016_t2i_org,
+    title={Generative adversarial text to image synthesis},
+    author={Reed, Scott and Akata, Zeynep and Yan, Xinchen and Logeswaran, Lajanugen and Schiele, Bernt and Lee, Honglak},
+    booktitle={International conference on machine learning},
+    pages={1060--1069},
+    year={2016},
+    address={New York, USA},
+    publisher={PMLR}
+}
+
+@article{Reed_2016_t2i,
+    title={Learning what and where to draw},
+    author={Reed, Scott E and Akata, Zeynep and Mohan, Santosh and Tenka, Samuel and Schiele, Bernt and Lee, Honglak},
+    journal={Advances in neural information processing systems},
+    volume={29},
+    year={2016},
+    numpages={9}
+}
+
+@article{Zhang_2018_t2i,
+  title={Stackgan++: Realistic image synthesis with stacked generative adversarial networks},
+  author={Zhang, Han and Xu, Tao and Li, Hongsheng and Zhang, Shaoting and Wang, Xiaogang and Huang, Xiaolei and Metaxas, Dimitris N},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={8},
+  pages={1947--1962},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{Zhang_2018_t2i_photo,
+    title={Photographic text-to-image synthesis with a hierarchically-nested adversarial network},
+    author={Zhang, Zizhao and Xie, Yuanpu and Yang, Lin},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={6199--6208},
+    year={2018},
+    address={Salt Lake City, UT, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Hong_2018_t2i,
+    title={Inferring semantic layout for hierarchical text-to-image synthesis},
+    author={Hong, Seunghoon and Yang, Dingdong and Choi, Jongwook and Lee, Honglak},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={7986--7994},
+    year={2018},
+    address={Salt Lake City, UT, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Cha_2019_t2i,
+    title={Adversarial learning of semantic relevance in text to image synthesis},
+    author={Cha, Miriam and Gwon, Youngjune L and Kung, HT},
+    booktitle={Proceedings of the AAAI conference on artificial intelligence},
+    volume={33},
+    pages={3272--3279},
+    year={2019},
+    address={Honolulu, Hawaii, USA},
+    publisher={AAAI Press}
+}
+
+@inproceedings{Yin_2019_t2i,
+    title={Semantics disentangling for text-to-image generation},
+    author={Yin, Guojun and Liu, Bin and Sheng, Lu and Yu, Nenghai and Wang, Xiaogang and Shao, Jing},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    pages={2327--2336},
+    year={2019},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Xu_2018_t2i,
+    title={Attngan: Fine-grained text to image generation with attentional generative adversarial networks},
+    author={Xu, Tao and Zhang, Pengchuan and Huang, Qiuyuan and Zhang, Han and Gan, Zhe and Huang, Xiaolei and He, Xiaodong},
+    booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+    pages={1316--1324},
+    year={2018},
+    address={Salt Lake City, UT, USA},
+    publisher={IEEE}
+}
+
+@article{Li_2019_t2i_control,
+    title={Controllable text-to-image generation},
+    author={Li, Bowen and Qi, Xiaojuan and Lukasiewicz, Thomas and Torr, Philip},
+    journal={Advances in Neural Information Processing Systems},
+    volume={32},
+    year={2019},
+    numpages={11}
+}
+
+@article{Qiao_2019_t2i,
+    title={Learn, imagine and create: Text-to-image generation from prior knowledge},
+    author={Qiao, Tingting and Zhang, Jing and Xu, Duanqing and Tao, Dacheng},
+    journal={Advances in Neural Information Processing Systems},
+    volume={32},
+    year={2019},
+    numpages={11}
+}
+
+@inproceedings{Qiao_2019_t2i_mirror,
+    title={Mirrorgan: Learning text-to-image generation by redescription},
+    author={Qiao, Tingting and Zhang, Jing and Xu, Duanqing and Tao, Dacheng},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={1505--1514},
+    year={2019},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Li_2019_t2i,
+    title={Object-driven text-to-image synthesis via adversarial training},
+    author={Li, Wenbo and Zhang, Pengchuan and Zhang, Lei and Huang, Qiuyuan and He, Xiaodong and Lyu, Siwei and Gao, Jianfeng},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={12174--12182},
+    year={2019},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Huang_2019_t2i,
+    title={Realistic image generation using region-phrase attention},
+    author={Huang, Wanming and Da Xu, Richard Yi and Oppermann, Ian},
+    booktitle={Asian Conference on Machine Learning},
+    pages={284--299},
+    year={2019},
+    address={Nagoya, Japan},
+    publisher={PMLR}
+}
+
+@inproceedings{Tan_2019_t2i,
+    title={Semantics-enhanced adversarial nets for text-to-image synthesis},
+    author={Tan, Hongchen and Liu, Xiuping and Li, Xin and Zhang, Yi and Yin, Baocai},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={10501--10510},
+    year={2019},
+    address={Seoul, South Korea},
+    publisher={IEEE}
+}
+
+@inproceedings{Huang_2019_t2i_hier,
+    title={Hierarchically-fused generative adversarial network for text to realistic image synthesis},
+    author={Huang, Xin and Wang, Mingjie and Gong, Minglun},
+    booktitle={2019 16th Conference on Computer and Robot Vision (CRV)},
+    pages={73--80},
+    year={2019},
+    address={Kingston, QC, Canada},
+    publisher={IEEE}
+}
+
+@inproceedings{Zhu_2019_t2i,
+    title={Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis},
+    author={Zhu, Minfeng and Pan, Pingbo and Chen, Wei and Yang, Yi},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={5802--5810},
+    year={2019},
+    address={Long Beach, CA, USA},
+    publisher={IEEE}
+}
+
+@inproceedings{Yu_2019_t2i,
+    title={Simgan: Photo-realistic semantic image manipulation using generative adversarial networks},
+    author={Yu, Simiao and Dong, Hao and Liang, Felix and Mo, Yuanhan and Wu, Chao and Guo, Yike},
+    booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+    pages={734--738},
+    year={2019},
+    address={Taipei, Taiwan},
+    publisher={IEEE}
+}
+
+@inproceedings{Vo_2020_t2i,
+    title={Visual-relation conscious image generation from structured-text},
+    author={Vo, Duc Minh and Sugimoto, Akihiro},
+    booktitle={European Conference on Computer Vision},
+    pages={290--306},
+    year={2020},
+    address={Online},
+    publisher={Springer}
+}
+
+@article{nam_2018_t2i,
+    title={Text-adaptive generative adversarial networks: manipulating images with natural language},
+    author={Nam, Seonghyeon and Kim, Yunji and Kim, Seon Joo},
+    journal={Advances in neural information processing systems},
+    volume={31},
+    year={2018},
+    numpages={10}
+}
+
+@article{Hinz_2020_t2i,
+    title={Semantic object accuracy for generative text-to-image synthesis},
+    author={Hinz, Tobias and Heinrich, Stefan and Wermter, Stefan},
+    journal={IEEE transactions on pattern analysis and machine intelligence},
+    year={2020},
+    volume={44},
+    pages={1552--1565},
+    publisher={IEEE}
+}
+
+@inproceedings{Yuan_2018_t2i,
+    title={Text-to-image synthesis via symmetrical distillation networks},
+    author={Yuan, Mingkuan and Peng, Yuxin},
+    booktitle={Proceedings of the ACM international conference on Multimedia},
+    pages={1407--1415},
+    year={2018},
+    address={Seoul, South Korea},
+    publisher={ACM}
+}
+
+@inproceedings{Sah_2018_t2i,
+    title={Semantically invariant text-to-image generation},
+    author={Sah, Shagan and Peri, Dheeraj and Shringi, Ameya and Zhang, Chi and Dominguez, Miguez and Savakis, Andreas and Ptucha, Rav},
+    booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+    pages={3783--3787},
+    year={2018},
+    address={Athens, Greece},
+    publisher={IEEE}
+}
+
+@inproceedings{Zhang_2018_t2i_memory,
+  title={Text-to-image synthesis via visual-memory creative adversarial network},
+  author={Zhang, Shengyu and Dong, Hao and Hu, Wei and Guo, Yike and Wu, Chao and Xie, Di and Wu, Fei},
+  booktitle={Pacific Rim Conference on Multimedia},
+  pages={417--427},
+  year={2018},
+  publisher={Springer}
+}
+
+@techreport{WelinderEtal2010,
+	Author = {P. Welinder and S. Branson and T. Mita and C. Wah and F. Schroff and S. Belongie and P. Perona},
+	Institution = {California Institute of Technology},
+	Number = {CNS-TR-2010-001},
+	Title = {{Caltech-UCSD Birds 200}},
+	Year = {2010}
+}
+
+@InProceedings{Nilsback08,
+    author       = "Maria-Elena Nilsback and Andrew Zisserman",
+    title        = "Automated Flower Classification over a Large Number of Classes",
+    booktitle    = "Indian Conference on Computer Vision, Graphics and Image Processing",
+    month        = "Dec",
+    year         = "2008",
+    pages="722--729",
+    address="Bhubaneswar, India",
+    publisher="IEEE",
+}
+
+@inproceedings{keim2006challenges,
+    title={Challenges in visual data analysis},
+    author={Keim, Daniel A and Mansmann, Florian and Schneidewind, J{\"o}rn and Ziegler, Hartmut},
+    booktitle={Tenth International Conference on Information Visualisation (IV'06)},
+    pages={9--16},
+    year={2006},
+    address={London, England},
+    publisher={IEEE}
+}
+
+@misc{commoncrawl,
+    title = {Common Crawl},
+    url = {https://commoncrawl.org/},
+    year = {2007},
+    author = {Common Crawl team founded by Gil Elbaz}
+}
+
+@inproceedings{brown2020language,
+    author = {Brown, Tom and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared D and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and Agarwal, Sandhini and Herbert-Voss, Ariel and Krueger, Gretchen and Henighan, Tom and Child, Rewon and Ramesh, Aditya and Ziegler, Daniel and Wu, Jeffrey and Winter, Clemens and Hesse, Chris and Chen, Mark and Sigler, Eric and Litwin, Mateusz and Gray, Scott and Chess, Benjamin and Clark, Jack and Berner, Christopher and McCandlish, Sam and Radford, Alec and Sutskever, Ilya and Amodei, Dario},
+    booktitle = {Advances in Neural Information Processing Systems},
+    editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+    pages = {1877--1901},
+    publisher = {Curran Associates, Inc.},
+    title = {Language Models are Few-Shot Learners},
+    volume = {33},
+    year = {2020},
+    address = {Vitrual}
+}
+
+@inproceedings{gongACL2019table,
+    title={Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)},
+    author={Gong, Heng and Feng, Xiaocheng and Qin, Bing and Liu, Ting},
+    booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+    month={nov},
+    year={2019},
+    address={Hong Kong, China},
+    publisher={ACL},
+    pages={3143--3152},
+}
+
+@inproceedings{shahidiACL2020two,
+    title={Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data},
+    author={Shahidi, Hamidreza and Li, Ming and Lin, Jimmy},
+    booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+    month={jul},
+    year={2020},
+    address={Online},
+    publisher={ACL},
+    pages={3864--3870}
+}
+
+@misc{liu2019tabletotext,
+      title={Table-to-Text Natural Language Generation with Unseen Schemas}, 
+      author={Tianyu Liu and Wei Wei and William Yang Wang},
+      year={2019},
+      eprint={1911.03601},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{liu2019hierarchical,
+    title={Hierarchical encoder with auxiliary supervision for neural table-to-text generation: Learning better representation for tables},
+    author={Liu, Tianyu and Luo, Fuli and Xia, Qiaolin and Ma, Shuming and Chang, Baobao and Sui, Zhifang},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={33},
+    pages={6786--6793},
+    year={2019},
+    address={Washington DC, USA},
+    publisher={AAAI Press}
+}
+
+@article{teplan2002fundamentals,
+  title={Fundamentals of EEG measurement},
+  author={Teplan, Michal and others},
+  journal={Measurement science review},
+  volume={2},
+  number={2},
+  pages={1--11},
+  year={2002}
+}
+
+@inproceedings{cai2023mbrain,
+    author = {Cai, Donghong and Chen, Junru and Yang, Yang and Liu, Teng and Li, Yafeng},
+    title = {MBrain: A Multi-Channel Self-Supervised Learning Framework for Brain Signals},
+    year = {2023},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+    pages = {130–141},
+    numpages = {12},
+    location = {Long Beach, CA, USA}
+}
+
+@ARTICLE{yoo2019the,
+  author={Yoo, Sangbong and Jeong, Dae Kyo and Jang, Yun},
+  journal={IEEE Access}, 
+  title={The Study of a Classification Technique for Numeric Gaze-Writing Entry in Hands-Free Interface}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={49125-49134}
+}
+
+@ARTICLE{kurzhals2016gaze,
+  author={Kurzhals, Kuno and Hlawatsch, Marcel and Heimerl, Florian and Burch, Michael and Ertl, Thomas and Weiskopf, Daniel},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Gaze Stripes: Image-Based Visualization of Eye Tracking Data}, 
+  year={2016},
+  volume={22},
+  number={1},
+  pages={1005-1014}
+}
+
+@article{touvron2023llama,
+    title={Llama: Open and efficient foundation language models},
+    author={Touvron, Hugo and Lavril, Thibaut and Izacard, Gautier and Martinet, Xavier and Lachaux, Marie-Anne and Lacroix, Timoth{\'e}e and Rozi{\`e}re, Baptiste and Goyal, Naman and Hambro, Eric and Azhar, Faisal and others},
+    journal={arXiv preprint arXiv:2302.13971},
+    year={2023},
+    numpages={27}
+}
+
+@article{touvron2023llama2,
+    title={Llama 2: Open foundation and fine-tuned chat models},
+    author={Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and others},
+    journal={arXiv preprint arXiv:2307.09288},
+    year={2023},
+    numpages={77}
+}
+
+@Article{s23031286,
+    AUTHOR = {Moratelli, Nicholas and Barraco, Manuele and Morelli, Davide and Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita},
+    TITLE = {Fashion-Oriented Image Captioning with External Knowledge Retrieval and Fully Attentive Gates},
+    JOURNAL = {Sensors},
+    VOLUME = {23},
+    YEAR = {2023},
+    NUMBER = {3},
+    ARTICLE-NUMBER = {1286},
+    PubMedID = {36772326},
+    ISSN = {1424-8220},
+    numpages={16}
+}
+
+@INPROCEEDINGS{9897417,
+    author={Cai, Chen and Yap, Kim-Hui and Wang, Suchen},
+    booktitle={2022 IEEE International Conference on Image Processing (ICIP)}, 
+    title={Attribute Conditioned Fashion Image Captioning}, 
+    year={2022},
+    volume={},
+    number={},
+    pages={1921-1925},
+    address={United Arab Emirates},
+    publisher={IEEE}
+}
+
+@article{Fudholi_2021,
+    year = {2021},
+    month = {feb},
+    publisher = {IOP Publishing},
+    volume = {1077},
+    number = {1},
+    pages = {012038},
+    author = {Dhomas Hatta Fudholi and Yurio Windiatmoko and Nurdi Afrianto and Prastyo Eko Susanto and Magfirah Suyuti and Ahmad Fathan Hidayatullah and Ridho Rahmadi},
+    title = {Image Captioning with Attention for Smart Local Tourism using EfficientNet},
+    journal = {IOP Conference Series: Materials Science and Engineering}
+}
+
+@inproceedings{9286602,
+    author={Bounab, Yazid and Oussalah, Mourad and Ferdenache, Ahlam},
+    booktitle={2020 Tenth International Conference on Image Processing Theory, Tools and Applications (IPTA)}, 
+    title={Reconciling Image Captioning and User’s Comments for Urban Tourism}, 
+    year={2020},
+    volume={},
+    number={},
+    pages={1-6},
+    address={Paris, France},
+    publisher={IEEE}
+}
+
+@inproceedings{he2017mask,
+    title={Mask r-cnn},
+    author={He, Kaiming and Gkioxari, Georgia and Doll{\'a}r, Piotr and Girshick, Ross},
+    booktitle={Proceedings of the IEEE international conference on computer vision},
+    pages={2961--2969},
+    year={2017},
+    address={Cambridge, MA, USA},
+    publisher={IEEE}
+}
+
+@article{maree2015addressing,
+  title={Addressing semantic heterogeneity through multiple knowledge base assisted merging of domain-specific ontologies},
+  author={Maree, Mohammed and Belkhatir, Mohammed},
+  journal={Knowledge-Based Systems},
+  volume={73},
+  pages={199--211},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@misc{ducdataset,
+	title = {Document Understanding Conference - publications data},
+	url = {https://duc.nist.gov/data.html},
+	year = {2002},
+	author = {National Institute of Standards and Techonlogy~(NIST)}
+}
+
+@misc{tacdataset,
+	title = {Text Analysis Conference - Past TAC Data},
+	url = {https://tac.nist.gov/data/index.html},
+	year = {2021},
+	author = {National Institute of Standards and Techonlogy~(NIST)}
+}
+
+@article{salimpour2022stockwell,
+  title={Stockwell transform and semi-supervised feature selection from deep features for classification of BCI signals},
+  author={Salimpour, Sahar and Kalbkhani, Hashem and Seyyedi, Saeed and Solouk, Vahid},
+  journal={Scientific Reports},
+  volume={12},
+  number={1},
+  pages={11773},
+  year={2022},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{liu2007rectification,
+  title={Rectification of the bias in the wavelet power spectrum},
+  author={Liu, Yonggang and San Liang, X and Weisberg, Robert H},
+  journal={Journal of Atmospheric and Oceanic Technology},
+  volume={24},
+  number={12},
+  pages={2093--2102},
+  year={2007}
+}
+
+@article{torrence1998practical,
+  title={A practical guide to wavelet analysis},
+  author={Torrence, Christopher and Compo, Gilbert P},
+  journal={Bulletin of the American Meteorological society},
+  volume={79},
+  number={1},
+  pages={61--78},
+  year={1998},
+  publisher={American Meteorological Society}
+}
+
+@article{adnan2019limitations,
+  title={Limitations of information extraction methods and techniques for heterogeneous unstructured big data},
+  author={Adnan, Kiran and Akbar, Rehan},
+  journal={International Journal of Engineering Business Management},
+  volume={11},
+  pages={1847979019890771},
+  year={2019},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@misc{clova,
+    title = {CLOVA},
+    url = {https://clova.ai/},
+    year = {2023},
+    author = {NAVER-NAVER Cloud}
+}
+
+@misc{firefiles,
+    title = {Firefiles.ai | AI notetaker to transcribe, summarize, search, and analze vioce conversations.},
+    url = {https://fireflies.ai/},
+    year = {2023},
+    author = {Firefiles.ai Corp.}
+}
+
+@misc{speak,
+    title = {Speak - The speaking app that actually talks},
+    url = {https://www.speak.com/},
+    year = {2023},
+    author = {Speakeasy Labs}
+}
+
+@misc{elsa,
+    title = {ELSA Speak},
+    url = {https://elsaspeak.com/en/},
+    year = {2023},
+    author = {ELSA}
+}
+
+@misc{siri,
+    title = {Siri - Apple},
+    url = {https://www.apple.com/},
+    year = {2023},
+    author = {Apple Inc.}
+}
+
+@misc{cortana,
+    title = {Cortana},
+    url = {https://www.microsoft.com/en-us/cortana},
+    year = {2023},
+    author = {Microsoft}
+}
+
+@misc{youper,
+    title = {Youper: Artificial Intelligence For Mental Health Care},
+    url = {https://www.youper.ai/},
+    year = {2023},
+    author = {Youper}
+}
+
+@article{shuman2013emerging,
+  title={The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains},
+  author={Shuman, David I and Narang, Sunil K and Frossard, Pascal and Ortega, Antonio and Vandergheynst, Pierre},
+  journal={IEEE signal processing magazine},
+  volume={30},
+  number={3},
+  pages={83--98},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{khetani2023cross,
+  title={Cross-Domain Analysis of ML and DL: Evaluating their Impact in Diverse Domains},
+  author={Khetani, Vinit and Gandhi, Yatin and Bhattacharya, Saurabh and Ajani, Samir N and Limkar, Suresh},
+  journal={International Journal of Intelligent Systems and Applications in Engineering},
+  volume={11},
+  number={7s},
+  pages={253--262},
+  year={2023}
+}
+
+@article{salimans2016improved,
+    title={Improved techniques for training gans},
+    author={Salimans, Tim and Goodfellow, Ian and Zaremba, Wojciech and Cheung, Vicki and Radford, Alec and Chen, Xi},
+    journal={Advances in neural information processing systems},
+    volume={29},
+    year={2016},
+    numpages={9}
+}
+
+@article{borji2019pros,
+  title={Pros and cons of gan evaluation measures},
+  author={Borji, Ali},
+  journal={Computer vision and image understanding},
+  volume={179},
+  pages={41--65},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{parsing2009speech,
+  title={Speech and language processing},
+  author={Parsing, Constituency},
+  journal={Power Point Slides},
+  year={2009}
+}
+
+@article{bojanowski2017enriching,
+    title={Enriching word vectors with subword information},
+    author={Bojanowski, Piotr and Grave, Edouard and Joulin, Armand and Mikolov, Tomas},
+    journal={Transactions of the association for computational linguistics},
+    volume={5},
+    pages={135--146},
+    year={2017},
+    publisher={MIT Press}
+}
+
+@inproceedings{mccoy-etal-2019-right,
+    title = "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+    author = "McCoy, Tom  and
+      Pavlick, Ellie  and
+      Linzen, Tal",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "ACL",
+    pages = "3428--3448",
+}
+
+@inproceedings{lebret-etal-2016-neural,
+    title = "Neural Text Generation from Structured Data with Application to the Biography Domain",
+    author = "Lebret, R{\'e}mi  and
+      Grangier, David  and
+      Auli, Michael",
+    booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2016",
+    address = "Austin, Texas",
+    publisher = "ACL",
+    pages = "1203--1213",
+}
+
+@inproceedings{yin2017local,
+    title={Local higher-order graph clustering},
+    author={Yin, Hao and Benson, Austin R and Leskovec, Jure and Gleich, David F},
+    booktitle={Proceedings of the ACM SIGKDD international conference on knowledge discovery and data mining},
+    pages={555--564},
+    year={2017},
+    address={Halifax, Canada},
+    publisher={ACM}
+}
+
+@inproceedings{dong2013big,
+    title={Big data integration},
+    author={Dong, Xin Luna and Srivastava, Divesh},
+    booktitle={2013 IEEE 29th international conference on data engineering (ICDE)},
+    pages={1245--1248},
+    year={2013},
+    address={Brisbane, QLD},
+    publisher={IEEE}
+}
+
+@article{wang2019dynamic,
+    author = {Wang, Yue and Sun, Yongbin and Liu, Ziwei and Sarma, Sanjay E. and Bronstein, Michael M. and Solomon, Justin M.},
+    title = {Dynamic Graph CNN for Learning on Point Clouds},
+    year = {2019},
+    issue_date = {October 2019},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    volume = {38},
+    number = {5},
+    issn = {0730-0301},
+    journal = {ACM Trans. Graph.},
+    month = {oct},
+    articleno = {146},
+    numpages = {12},
+    keywords = {classification, Point cloud, segmentation}
+}
+
+@inproceedings{madhavan2001generic,
+    title={Generic schema matching with cupid},
+    author={Madhavan, Jayant and Bernstein, Philip A and Rahm, Erhard},
+    booktitle={In Proceedings of the International Conference on Very Large Data Bases},
+    volume={1},
+    number={2001},
+    pages={49--58},
+    year={2001},
+    address={Roma, Italy},
+    publisher={Morgan Kaufmann Publishers Inc.}
+}
+
+@ARTICLE{elmagarmid2007duplicate,
+  author={Elmagarmid, Ahmed K. and Ipeirotis, Panagiotis G. and Verykios, Vassilios S.},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Duplicate Record Detection: A Survey}, 
+  year={2007},
+  volume={19},
+  number={1},
+  pages={1-16}
+}
+
+@article{van2008visualizing,
+    title={Visualizing data using t-SNE},
+    author={Van der Maaten, Laurens and Hinton, Geoffrey},
+    journal={Journal of machine learning research},
+    volume={9},
+    number={11},
+    pages={2579--2605},
+    year={2008}
+}
+
+@book{jolliffe2002principal,
+  title={Principal component analysis for special types of data},
+  author={Jolliffe, Ian T},
+  year={2002},
+  publisher={Springer}
+}
+
+@inproceedings{halevy2006data,
+    title={Data integration: The teenage years},
+    author={Halevy, Alon and Rajaraman, Anand and Ordille, Joann},
+    booktitle={Proceedings of the 32nd international conference on Very large data bases},
+    pages={9--16},
+    year={2006},
+    address={Seoul, South Korea},
+    publisher={ACM}
+}
+
+@inproceedings{lenzerini2002data,
+    author = {Lenzerini, Maurizio},
+    title = {Data Integration: A Theoretical Perspective},
+    year = {2002},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    pages = {233–246},
+    numpages = {14},
+    location = {Madison, Wisconsin}
+}

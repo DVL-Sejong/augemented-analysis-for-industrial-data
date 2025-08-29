@@ -1,0 +1,21 @@
+Dimensionality reduction papers related in "Text data"
+
+A Comparative Approach of Dimensionality Reduction Techniques in Text Classification
+A Comparison of Dimensionality Reduction Techniques for Text Retrieval
+A Comparison of Dimensionality Reduction Techniques for Unstructured Clinical Text
+A Systematic Study on Document Representation and Dimensionality Reduction for Text Clustering
+A three-stage unsupervised dimension reduction method for text clustering
+Application of fuzzy clustering for text data dimensionality reduction
+Comparing and Combining Dimension Reduction Techniques for Efficient Text Clustering
+Dimension Reduction in Text Classification with Support Vector Machines
+Dimensionality Reduction for Active Learning with Nearest Neighbour Classifier in Text Categorisation Problems
+Enhancing_Text_Analysis_via_Dimensionality_Reduction
+Exploration_of_dimensionality_reduction_for_text_visualization
+Feature Reduction for Neural Network Based Text Categorization
+Hybrid dimension reduction by integrating feature selection with feature extraction method for text clustering
+Multi-label Text Classification using Semantic Features and Dimensionality Reduction with Autoencoders
+On the Effects of Dimensionality Reduction on High Dimensional Similarity Search
+Random projection in dimensionality reduction Applications to image and text data
+Text comparison using word vector representations and dimensionality reduction
+Text Document Preprocessing and Dimension Reduction Techniques for Text Document Clustering
+Trace-Oriented Feature Analysis for Large-Scale Text Data Dimension Reduction

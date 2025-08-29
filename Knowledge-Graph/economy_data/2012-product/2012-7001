@@ -1,0 +1,79 @@
+[
+    {
+        "DOCID": 1127376,
+        "MAIN_OBJ": "http://www.tdstock365.com",
+        "SUB_OBJ": "티디스톡",
+        "RELATION": "다음 종류에 속함(instance of)",
+        "weight": "0.10477"
+    },
+    {
+        "DOCID": 1127377,
+        "MAIN_OBJ": "야",
+        "SUB_OBJ": "티디스톡",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127378,
+        "MAIN_OBJ": "야",
+        "SUB_OBJ": "http://www.tdstock365.com",
+        "RELATION": "해당 개체가 소유한 것(owner of)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1127379,
+        "MAIN_OBJ": "티디스톡",
+        "SUB_OBJ": "30배",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.81143"
+    },
+    {
+        "DOCID": 1127380,
+        "MAIN_OBJ": "티디스톡",
+        "SUB_OBJ": "90%",
+        "RELATION": "해당 개체의 제품(product or material produced)",
+        "weight": "0.28248"
+    },
+    {
+        "DOCID": 1127381,
+        "MAIN_OBJ": "3%",
+        "SUB_OBJ": "90%",
+        "RELATION": "시간적 또는 공간적으로 뒤에 오는 것(followed by)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127382,
+        "MAIN_OBJ": "90%",
+        "SUB_OBJ": "3%",
+        "RELATION": "시간적 또는 공간적으로 앞에 오는 것(follows)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127383,
+        "MAIN_OBJ": "주식투자자",
+        "SUB_OBJ": "유럽",
+        "RELATION": "해당 개체의 위치(location)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1127384,
+        "MAIN_OBJ": "VIP회원",
+        "SUB_OBJ": "사용자",
+        "RELATION": "하위 개념(subclass of)",
+        "weight": "0.60085"
+    },
+    {
+        "DOCID": 1127385,
+        "MAIN_OBJ": "관계자",
+        "SUB_OBJ": "주식투자자",
+        "RELATION": "해당 개체가 다음의 일부분임(part of)",
+        "weight": "0.17609"
+    },
+    {
+        "DOCID": 1127386,
+        "MAIN_OBJ": "2년 내",
+        "SUB_OBJ": "5%",
+        "RELATION": "해당 개체가 다음으로 이루어져 있음(has part)",
+        "weight": "0.60085"
+    }
+]

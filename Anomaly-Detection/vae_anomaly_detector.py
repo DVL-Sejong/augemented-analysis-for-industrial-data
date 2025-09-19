@@ -202,4 +202,5 @@ class VAEAnomalyDetector:
                 recon_errors.extend(error.mean(dim=1).cpu().numpy())
 
         recon_errors = np.array(recon_errors)
+        self.threshold = np.percentile(recon_errors, 95)
 

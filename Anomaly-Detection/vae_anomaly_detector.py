@@ -215,4 +215,6 @@ class VAEAnomalyDetector:
         X = self.preprocess_flow_data(flows)
         X_scaled = self.scaler.transform(X)
 
+        # PyTorch 텐서로 변환
+
 

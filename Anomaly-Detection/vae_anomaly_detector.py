@@ -230,5 +230,6 @@ class VAEAnomalyDetector:
         return anomalies, recon_errors
 
     def save_model(self, filepath):
+        """모델 저장"""
 
 

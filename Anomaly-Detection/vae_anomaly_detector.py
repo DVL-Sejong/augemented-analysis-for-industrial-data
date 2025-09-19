@@ -227,5 +227,6 @@ class VAEAnomalyDetector:
 
         # 이상 탐지 결과
         anomalies = recon_errors > self.threshold
+        return anomalies, recon_errors
 
 

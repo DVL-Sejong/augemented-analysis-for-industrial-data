@@ -226,5 +226,6 @@ class VAEAnomalyDetector:
             recon_errors = error.mean(dim=1).cpu().numpy()
 
         # 이상 탐지 결과
+        anomalies = recon_errors > self.threshold
 
 

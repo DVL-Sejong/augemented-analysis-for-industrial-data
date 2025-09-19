@@ -229,4 +229,6 @@ class VAEAnomalyDetector:
         anomalies = recon_errors > self.threshold
         return anomalies, recon_errors
 
+    def save_model(self, filepath):
+
 

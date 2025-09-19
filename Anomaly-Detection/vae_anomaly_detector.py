@@ -207,5 +207,6 @@ class VAEAnomalyDetector:
         return losses
 
     def predict(self, flows):
+        """이상 탐지 수행"""
 
 

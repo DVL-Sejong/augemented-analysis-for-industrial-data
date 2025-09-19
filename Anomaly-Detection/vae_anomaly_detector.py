@@ -201,3 +201,5 @@ class VAEAnomalyDetector:
                 error = nn.functional.mse_loss(recon_batch, data, reduction='none')
                 recon_errors.extend(error.mean(dim=1).cpu().numpy())
 
+        recon_errors = np.array(recon_errors)
+

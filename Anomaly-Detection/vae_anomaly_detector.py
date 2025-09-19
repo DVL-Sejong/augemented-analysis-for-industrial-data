@@ -203,4 +203,5 @@ class VAEAnomalyDetector:
 
         recon_errors = np.array(recon_errors)
         self.threshold = np.percentile(recon_errors, 95)
+        print(f'Threshold set to: {self.threshold:.4f}')
 

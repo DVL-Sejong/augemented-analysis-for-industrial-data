@@ -231,5 +231,6 @@ class VAEAnomalyDetector:
 
     def save_model(self, filepath):
         """모델 저장"""
+        torch.save({
 
 

@@ -212,5 +212,6 @@ class VAEAnomalyDetector:
             raise ValueError("Model has not been trained yet")
 
         # 데이터 전처리
+        X = self.preprocess_flow_data(flows)
 
 

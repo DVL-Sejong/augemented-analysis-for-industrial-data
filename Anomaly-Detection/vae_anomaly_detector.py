@@ -221,5 +221,6 @@ class VAEAnomalyDetector:
         # 모델 평가 모드
         self.model.eval()
         with torch.no_grad():
+            recon_batch, _, _ = self.model(X_tensor)
 
 

@@ -209,5 +209,6 @@ class VAEAnomalyDetector:
     def predict(self, flows):
         """이상 탐지 수행"""
         if self.model is None:
+            raise ValueError("Model has not been trained yet")
 
 

@@ -206,3 +206,4 @@ class VAEAnomalyDetector:
         print(f'Threshold set to: {self.threshold:.4f}')
         return losses
 
+

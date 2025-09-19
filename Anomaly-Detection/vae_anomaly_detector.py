@@ -213,5 +213,6 @@ class VAEAnomalyDetector:
 
         # 데이터 전처리
         X = self.preprocess_flow_data(flows)
+        X_scaled = self.scaler.transform(X)
 
 

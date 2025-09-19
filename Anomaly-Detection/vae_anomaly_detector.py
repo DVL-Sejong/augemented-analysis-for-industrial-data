@@ -211,4 +211,6 @@ class VAEAnomalyDetector:
         if self.model is None:
             raise ValueError("Model has not been trained yet")
 
+        # 데이터 전처리
+
 

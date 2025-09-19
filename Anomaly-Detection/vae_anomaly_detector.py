@@ -223,5 +223,6 @@ class VAEAnomalyDetector:
         with torch.no_grad():
             recon_batch, _, _ = self.model(X_tensor)
             error = nn.functional.mse_loss(recon_batch, X_tensor, reduction='none')
+            recon_errors = error.mean(dim=1).cpu().numpy()
 
 

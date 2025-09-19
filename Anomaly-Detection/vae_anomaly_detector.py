@@ -198,3 +198,4 @@ class VAEAnomalyDetector:
             for batch_idx, (data,) in enumerate(dataloader):
                 data = data.to(self.device)
                 recon_batch, _, _ = self.model(data)
+                error = nn.functional.mse_loss(recon_batch, data, reduction='none')

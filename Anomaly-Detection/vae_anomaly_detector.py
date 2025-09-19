@@ -218,4 +218,6 @@ class VAEAnomalyDetector:
         # PyTorch 텐서로 변환
         X_tensor = torch.FloatTensor(X_scaled).to(self.device)
 
+        # 모델 평가 모드
+
 

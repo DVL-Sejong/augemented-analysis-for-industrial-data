@@ -1,0 +1,297 @@
+Id,Name,Type,Pic,Localization,Date,H_G_D,Video,Chanel depth,Wind,AIS link,Distance,Atmospheric and oceanographic data,Duration,Notes,Target
+80,Adricristuy,Dredger,,Punta LangosteiraClickfor zoom,2012-10-04 14:00:00,"(3),(16),(5)",No,20.0,Not available,AIS data,350 m,Considerable swell. Moderate / low wave,1:00,"Dredger Adricristuy recording during Punta Langosteira measurements campaign for ECODRAGA project.
+
+The area was pretty dredged.",
+10,Mar de Onza (Leaving),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 00:00:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",2:34,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Ship leaves port.",Class_C
+14,Pirata de Cies (Waiting),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 00:00:00,"(2),(4),(2.85)",No,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:00,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Waiting for passengers loading",Class_C
+15,Rada Uno (Passing),Tugboat,,Ocean liners harbourClickor zoom,2013-07-10 00:00:00,"(2),(4),(2.85)",NO,9.1,0,Not available,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",2:22,First series of recordings. There is not in situ wind speed measures. Quite harbor noise.,Class_A
+6,Mar de Cangas (Entering),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:19:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",5:01,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Entering port for docking.",Class_C
+7,Mar de Cangas (Waiting),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:25:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:00,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+
+Waiting during passengers unloading.",Class_C
+13,Pirata de Cies (Entering),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:26:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",3:27,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Entering the port for docking.",Class_C
+11,Minho Uno (Entering),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:36:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:22,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Entering the port for docking.",Class_C
+12,Minho Uno (Leaving),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:36:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",2:01,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Leaving the port",Class_C
+17,Mar de Mouro (Entering),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:47:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:16,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Entering the port for docking.",Class_C
+8,Mar de Onza (Entering),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:48:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:33,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+Entering the port for docking.",Class_C
+9,Mar de Onza (Waiting),Passengers,,Cangas ships departureClickfor zoom,2013-07-10 12:55:00,"(2),(4),(2.85)",NO,4.8,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",1:00,"First series of recordings. There is not in situ wind speed measures. 
+Quite harbor noise.
+Waing for passengers loading.",Class_C
+16,MSC Opera,Ocean liner,,Ocean liner harbourClickor zoom,2013-07-10 14:52:00,"(2),(4),(2.85)",No,9.1,0,AIS data,<50,"Mean air temperature (ºC) 18,9Maximum air temperature (ºC) 20,5Minimum air temperature (ºC) 17,4Mean relative humidity (%) 95Maximum relative humidity (%) 100Minimum relative humidity (%) 87Dew temperature (ºC) 18Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,66Streak (km/h) 28,22Streak direction (Degrees) 248Main wind direction(Degrees) 270Rain (L/m2) 0",2:43,"First series of recordings. There is not in situ wind speed measures. Quite harbor noise.
+
+There were no direct vision between hidrophones and ship",Class_D
+21,Motorboat,Motorboat,,Bouzas CoveClickfor zoom,2013-07-18 18:13:00,"(1,2)(2,32)(2.5,3.5)",SI,7.5,2,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:43,"Recorded at Bouzas cove, at the end of the walk zone, in a place with rocks. Clear video, no apparent interferences.
+Considerable rock noise.
+
+H2 saturated!",Class_B
+18,Autopride (Entering),RORO,,Bouzas CoveClickfor zoom,2013-07-18 18:20:00,"(1,2)(2,32)(2.5,3.5)",SI,7.5,2,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",11:22,"Recorded at Bouzas cove, at the end of the walk zone, in a place with rocks. Clear video, no apparent interferences.
+Considerable rock noise.
+Ship reaches the port.
+
+H2 saturated!",Class_D
+19,Autopride(reverse),RORO,,Bouzas CoveClickfor zoom,2013-07-18 18:20:00,"(1,2)(2,32)(2.5,3.5)",SI,7.5,2,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",6:14,"Recorded at Bouzas cove, at the end of the walk zone, in a place with rocks. Clear video, no apparent interferences.
+Considerable rock noise.
+Ship in reverse.
+H2 saturated!",Class_D
+20,Autopride(preparing maneuver),RORO,,Bouzas CoveClickfor zoom,2013-07-18 18:20:00,"(1,2)(2,32)(2.5,3.5)",SI,7.5,2,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:30,"Recorded at Bouzas cove, at the end of the walk zone, in a place with rocks. Clear video, no apparent interferences.
+Considerable rock noise.
+Ship prepares maneover for docking.
+H2 saturated!",Class_D
+38,Arroios,Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 00:05:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:46,"Considerable harbour noise. 
+H2 not available.
+
+Arroios leaves while Pirata de Cies and Mar de Ons arrive.",Class_C
+40,"Mar de Cangas (arrives, interference",Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 00:08:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:44,"Considerable harbour noise. 
+H2 not available.
+
+Mar de Cangas arrives followed by pirata de Cies. Arroios leaves in the distance.",Class_C
+43,"Pirata de Cies (arrives, interference)",Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 00:08:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:51,"Considerable harbour noise. 
+H2 not available.
+
+Pirata de Cies arrives behind Mar de Cangas, Arrois leaves.",Class_C
+42,Pirata de Cies (leaves),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 00:22:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:58,"Considerable harbour noise. 
+H2 not available.
+
+Pirata de Cies leaves after a reversal maneuver.",Class_C
+41,Minho uno (arrives),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 00:24:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:52,"Considerable harbour noise. 
+H2 not available.
+
+Minho uno arrives at port, Pirata de Cies leaves in the distance. Low signal.",Class_C
+39,"Motorboat ""Duda"" (arrives)",Motorboat,,Red lighthouse at the portClickfor zoom,2013-07-19 00:30:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:13,"Considerable harbour noise. 
+H2 not available.
+
+Motorboat Duda arrives. Low signal.",Class_B
+45,Yacht (leaves),Motorboat,,Red lighthouse at the portClickfor zoom,2013-07-19 00:32:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:32,"Considerable harbour noise. 
+H2 not available.
+
+Unidentified yacht leaving port. Low signal.",Class_B
+26,Motorboat,Motorboat,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:17:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:23,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+Motorboat passes, small signal.",Class_B
+27,Motorboat (close recording),Motorboat,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:22:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:30,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+Motorboat start, good signal.",Class_B
+28,Nuevo ria Aldan,Trawler,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:22:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",2:43,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+""Nuevo ria Aldan"" leaves the dock, good signal.",Class_A
+31,Tugboat (start-stop engine),Tugboat,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:32:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:04,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+Tugboat leaving dock starting and stopping the motor. Medium-good signal.",Class_A
+29,Pilot ship,Pilot ship,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:37:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:34,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+Pilot ship arrives before Adventure of the Seas. Small signal.",Class_B
+30,Pilot ship,Pilot ship,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:40:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:44,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+
+Pilot ship passes. Medium-good signal.",Class_B
+24,Adventure of the seas (slowing),Ocean liner,,In front of ocean linersOcean liner harbourclickfor zoom,2013-07-19 09:45:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:42,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+Slowing before the docking maneuver of Adventure os the Seas.",Class_D
+25,Adventure of the seas (arrives),Ocean liner,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:45:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",2:20,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+AOTS arriving to dock. Possible interferences from a fishing ship and also from the pilot ship ship wich help to dock big ships.",Class_D
+22,Adventure of the seas (maneuver),Ocean liner,,In front of ocean liners harbourclickfor zoom,2013-07-19 09:50:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:53,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+Docking maneuver of Adventure os the Seas.",Class_D
+23,Adventure of the seas (stopped),Ocean liner,,In front of ocean liners harbourclickfor zoom,2013-07-19 10:05:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,0,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:09,"Small background noise from ship ""Rio Caxil"", there's also some harbor noise,
+H2 saturated, only H1 was considerate.
+Background noise at the end of the docking maneuver.",Class_D
+37,Sailboat (starts and leaves),Sailboat,,Red lighthouse at the portClickfor zoom,2013-07-19 12:17:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:43,"Considerable harbour noise. 
+H2 not available
+
+Good signal. Starts engine and leaves port.",Class_B
+36,Minho uno (leaving),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 12:22:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:41,"Considerable harbour noise. 
+H2 not available.
+
+Low signal. Mar de Onza arriving in the distance.",Class_C
+34,Mar de Onza (arrives),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 12:24:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",2:03,"Considerable harbour noise. 
+H2 not available.
+Mar de Onza arriving at port. Low signal, Minho uno in the distance.",Class_C
+33,"""Duda"" (going out)",Motorboat,,Red lighthouse at the portClickfor zoom,2013-07-19 12:36:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,Not available,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",0:37,"Considerable harbour noise. 
+H2 not available
+
+Start and stop of motorboat ""Duda"", good signal.",Class_B
+35,Mar de Onza (going out),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 12:37:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",1:37,"Considerable harbour noise. 
+H2 not available.
+
+Mar de Onza leaving port. Low signal. Arroios entering in the distance.",Class_C
+32,Arroios (arrives),Passengers,,Red lighthouse at the portClickfor zoom,2013-07-19 12:39:00,"(1,2)(2,32)(2.5,3.5)",SI,5.8,13,AIS data,<50,"Mean air temperature (ºC) 23,4Maximum air temperature (ºC) 31Minimum air temperature (ºC) 17,4Mean relative humidity (%) 68Maximum relative humidity (%) 100Minimum relative humidity (%) 44Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 11,81Streak (km/h) 36,94Streak direction (Degrees) 2Main wind direction(Degrees) 45Rain (L/m2) 0",3:36,"Considerable harbour noise. 
+H2 not available
+Arriving at port, Mar de Onza going out in the distance",Class_C
+46,Mussel boat1,Mussel boat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:00:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",0:11,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, far take.",Class_A
+54,Pirata de Salvora (leaves),Passengers,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:04:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:08,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+H3 signal, leaving the port. Less speed than the arrive.",Class_C
+56,Sailboat,Sailboat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:20:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",0:49,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, sailboat passing (without engine) really close. Considerable background noise.",Class_B
+57,Sailboat 2,Sailboat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:20:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",0:19,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, sailboat (with engine) in the distance.",Class_B
+47,Mussel boat2,Mussel boat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:25:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",5:14,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H2 signal, close take.",Class_A
+50,Motorboat1,Motorboat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:36:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:04,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, motorboat passes slow and relatively close.",Class_B
+48,Mussel boat3 (interf),Mussel boat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:39:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:23,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, mediuym gain take with Pirata de Salvora in the distance.",Class_A
+53,Pirata de Salvora (arrives),Passengers,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:40:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:41,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, recording of the port reaching including crossing speed and braking.",Class_C
+51,Motorboat2 (interf),Motorboat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:45:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:40,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+H3 signal. motoboat passes at high speed. Not always visible interferences from other ships.",Class_B
+52,Motorboat3 (interf),Motorboat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 12:57:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:04,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, motorboat passes at high speed with interference from Mussel boat4.",Class_B
+49,Mussel boat4,Mussel boat,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 13:00:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:47,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H1 signal, close take without interference.",Class_A
+55,"Pirata de Salvora (leaves, 2nd take)",Passengers,,Vigo sea loch - Zone 1Clickfor zoom,2013-07-23 13:04:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,15.0,10.5,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:55,"Zone 1 - in front of Moaña.
+Recording with better gain without clipping is presented. Other signals available.
+
+H3 signal, leaving the port. Medium-close take.",Class_C
+62,Mar de Cangas (leaves),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:00:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",5:14,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, leaving Cangas port. This take is longer than the second one. At the en of the take there's a crossing with another ship but it seems to not interfere.",Class_C
+63,Mar de Onza (arrives),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:08:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",3:16,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, arriving to port.",Class_C
+67,Pirata de Cies,Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:13:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",4:16,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, Pirata de Cies sailing to Cies islands.",Class_C
+58,Eimskip Reefer (interf),RORO,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:20:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,Not available,>100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",3:59,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+Signal in H2, RORO passing with strong mussel boat interference.",Class_D
+66,Fishboat,Mussel boat,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:27:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:35,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, mussel boat passing with a sailbot (sailing with engine) interfering at the middle of the recording.",Class_A
+60,Mar de Cangas (arrives),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:40:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",5:49,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, at the beggining there's a far crossing with Mar de Onza. Arriving to port at considerable speed.",Class_C
+59,Mar de Mouro (arrives),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:50:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",4:10,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H2, Marde Mouro sailing to port at considerable speed.",Class_C
+65,Minho uno (arrives),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 14:55:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:43,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, arriving to Cangas port.",Class_C
+61,Mar de Cangas (leaves 2),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 15:04:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:23,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+Signal in H3, leaving Cangas port.",Class_C
+64,Mar de Onza (leaves),Passengers,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 15:08:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:13,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, leaving Cangas port.",Class_C
+68,Sailboat,Sailboat,,Vigo sea loch - Zone 2Clickfor zoom,2013-07-23 15:13:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,12.0,10.5,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",4:57,"Zone 2 - in front of Cangas. Choppy sea. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, recording of the measurements sailboat on his way back to hydrophone pick up.",Class_B
+71,Discovery UK,Ocean liner,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 16:05:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,AIS data,>100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:15,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, ocean liner leaving Vigo sea loch. There's no video but there are notes indicating interferences from a motorboat and Playa Beluso fishboat. Small signal and high interferences.",Class_D
+77,High speed motorboat,Motorboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 16:15:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:32,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, high power motorboat passing.",Class_B
+75,Fishboat 1,Fishboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 16:25:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",0:53,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, 8m length fishboat passing. There is some unknown background noise.",Class_A
+79,Zodiac,Motorboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 16:40:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:39,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, zodiac passing.",Class_B
+73,Mari Carmen fishboat,Fishboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 16:45:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:19,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, fishboat Maria del Carmen passing.",Class_A
+76,Fishboat 2,Fishboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 17:05:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:57,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, fishboat passing.",Class_A
+72,Motorboat 2,Motorboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 17:17:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:03,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, motorboat passing. Possible interference at the end of the recording.",Class_B
+74,Saladino Primero,fishboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 17:46:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",2:25,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, fishboat Saladino Primero passing.",Class_A
+70,Small yacht,Motorboat,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 18:21:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",NO,14.0,18,Not available,<50,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",1:54,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H2, 6m length yacht passing.",Class_B
+69,Costa Voyager,Ocean liner,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 18:30:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,14.0,18,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",6:40,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H2, ocean liner leaving Vigo sea loch. Aprox speed 15 knots.",Class_D
+78,Viking Chance,RORO,,Vigo sea loch - Zone 3Clickfor zoom,2013-07-23 18:42:00,"(1,2,3)(2,16,64)(5.5,6.5,7.5)",SI,14.0,18,AIS data,50-100,"Mean air temperature (ºC) 20Maximum air temperature (ºC) 22,7Minimum air temperature (ºC) 17Mean relative humidity (%) 81Maximum relative humidity (%) 93Minimum relative humidity (%) 65Dew temperature (ºC) 16,5Cold hours (7 ºC base) (h) 0Wind speed (km/h) 13,28Streak (km/h) 43,34Streak direction (Degrees) 4Main wind direction(Degrees) 225Rain (L/m2) 0",3:08,"Vigo sea loch - Zone 3 - in front of Alcabre beach. 
+Recording with better gain without clipping is presented. Other signals available.
+
+Signal in H3, big RORO passing followed by the pilot ship.",Class_D
+85,Natural ambient noise sample 1,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(1)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:25,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+86,Natural ambient noise sample 2,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(32)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:39,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+87,Natural ambient noise sample 3,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(64)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:38,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+88,Natural ambient noise sample 4,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(1)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:33,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+89,Natural ambient noise sample 5,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(32)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:33,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+90,Natural ambient noise sample 6,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(64)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:31,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+91,Natural ambient noise sample 7,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(64)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,0:34,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+92,Natural ambient noise sample 8,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 00:00:00,(1)(64)(4.5),Not available,7.5,Not available,AIS data,<50,Not available,1:07,"Natural ambient noise measurement in Cortegada platform.
+Random sample measurement.",Class_E
+81,Maximum Flow,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-25 15:06:00,(1)(64)(4.5),No,7.5,5.29,Not available,<50m,Flow - 27.25 cm/sRain  0Wave  1.2mWind  5.29m/s,2:00,Natural ambient noise measurement in Cortegada platform.Maximum flow result measured during this campaign.,Class_E
+83,Maximum wave,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-27 01:06:00,(1)(64)(4.5),No,7.5,1.93,Not available,<50m,Flow - 6.4 cm/sRain  0 L/m2Wave  2mWind  1.93m/s,2:00,Natural ambient noise measurement in Cortegada platform.Maximum wave result measured during this campaign.,Class_E
+82,Maximum rain,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-27 04:06:00,(1)(64)(4.5),No,7.5,3.34,Not available,<50m,"Flow - 11,42 cm/sRain  2.9 L/m2Wave  1.5mWind  3.34m/s",2:00,Natural ambient noise measurement in Cortegada platform.Maximum rain result measured during this campaign.,Class_E
+84,Maximum wind,Natural ambient noise,,Intecmar weather stationClickfor zoom,2013-09-27 05:06:00,(1)(64)(4.5),No,7.5,12.21,Not available,<50m,Flow - 12 cm/sRain  0.1 L/m2Wave  1.5mWind  12.21m/s,2:00,Natural ambient noise measurement in Cortegada platform.Maximum wind result measured during this campaign.,Class_E
+93,Moanha tests sample 1,Dredger,,Moanha dredger test,2014-03-06 00:00:00,"(3),(16),(5)",No,12.0,Not available,AIS data,100 m,Not available,0:30,"Dredger Adricristuy recording during Moanha measurements campaign for ECODRAGA project.
+
+Sea bottom was basically mud.",
+94,Moanha tests sample 2,Dredger,,Moanha dredger test,2014-03-06 00:00:00,"(2),(16),(5)",No,12.0,Not available,AIS data,100 m,Not available,0:50,"Dredger Adricristuy recording during Moanha measurements campaign for ECODRAGA project.
+
+Sea bottom was basically mud.",
+95,Moanha tests sample 3,Dredger,,Moanha dredger test,2014-03-06 00:00:00,"(2),(16),(5)",No,12.0,Not available,AIS data,100 m,Not available,1:00,"Dredger Adricristuy recording during Moanha measurements campaign for ECODRAGA project.
+
+Sea bottom was basically mud.",
+96,Moanha tests sample 4,Dredger,,Moanha dredger test,2014-03-06 00:00:00,"(2),(16),(5)",No,12.0,Not available,AIS data,100 m,Not available,1:02,"Dredger Adricristuy recording during Moanha measurements campaign for ECODRAGA project.
+
+Sea bottom was basically mud.",

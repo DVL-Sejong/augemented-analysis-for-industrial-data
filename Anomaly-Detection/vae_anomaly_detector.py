@@ -234,5 +234,6 @@ class VAEAnomalyDetector:
         torch.save({
             'model_state_dict': self.model.state_dict(),
             'threshold': self.threshold,
+            'scaler': self.scaler,
 
 

@@ -236,5 +236,6 @@ class VAEAnomalyDetector:
             'threshold': self.threshold,
             'scaler': self.scaler,
             'label_encoders': self.label_encoders,
+            'hidden_dim': self.hidden_dim,
 
 

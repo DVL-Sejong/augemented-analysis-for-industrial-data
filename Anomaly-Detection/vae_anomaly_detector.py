@@ -241,3 +241,4 @@ class VAEAnomalyDetector:
         }, filepath)
 
     def load_model(self, filepath):
+        """모델 로드"""

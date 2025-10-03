@@ -245,3 +245,4 @@ class VAEAnomalyDetector:
         checkpoint = torch.load(filepath)
         self.threshold = checkpoint['threshold']
         self.scaler = checkpoint['scaler']
+        self.label_encoders = checkpoint['label_encoders']

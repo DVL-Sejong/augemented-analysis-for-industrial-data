@@ -238,5 +238,6 @@ class VAEAnomalyDetector:
             'label_encoders': self.label_encoders,
             'hidden_dim': self.hidden_dim,
             'latent_dim': self.latent_dim,
+        }, filepath)
 
 

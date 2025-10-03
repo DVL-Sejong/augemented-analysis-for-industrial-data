@@ -235,5 +235,6 @@ class VAEAnomalyDetector:
             'model_state_dict': self.model.state_dict(),
             'threshold': self.threshold,
             'scaler': self.scaler,
+            'label_encoders': self.label_encoders,
 
 

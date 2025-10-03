@@ -248,3 +248,4 @@ class VAEAnomalyDetector:
         self.label_encoders = checkpoint['label_encoders']
         self.hidden_dim = checkpoint['hidden_dim']
         self.latent_dim = checkpoint['latent_dim']
+        input_dim = len(self.scaler.mean_)

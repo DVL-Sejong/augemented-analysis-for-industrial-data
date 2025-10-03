@@ -244,3 +244,4 @@ class VAEAnomalyDetector:
         """모델 로드"""
         checkpoint = torch.load(filepath)
         self.threshold = checkpoint['threshold']
+        self.scaler = checkpoint['scaler']

@@ -251,3 +251,4 @@ class VAEAnomalyDetector:
         input_dim = len(self.scaler.mean_)
         self.model = VAE(input_dim, self.hidden_dim, self.latent_dim).to(self.device)
         self.model.load_state_dict(checkpoint['model_state_dict'])
+        self.model.eval()

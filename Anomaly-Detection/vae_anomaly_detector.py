@@ -253,3 +253,4 @@ class VAEAnomalyDetector:
         self.model.load_state_dict(checkpoint['model_state_dict'])
         self.model.eval()
         print(f"Model loaded from {filepath}")
+        return self

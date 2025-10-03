@@ -242,3 +242,4 @@ class VAEAnomalyDetector:
 
     def load_model(self, filepath):
         """모델 로드"""
+        checkpoint = torch.load(filepath)

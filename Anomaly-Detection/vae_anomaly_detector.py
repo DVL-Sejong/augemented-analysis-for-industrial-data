@@ -246,3 +246,4 @@ class VAEAnomalyDetector:
         self.threshold = checkpoint['threshold']
         self.scaler = checkpoint['scaler']
         self.label_encoders = checkpoint['label_encoders']
+        self.hidden_dim = checkpoint['hidden_dim']

@@ -240,4 +240,4 @@ class VAEAnomalyDetector:
             'latent_dim': self.latent_dim,
         }, filepath)
 
-
+    def load_model(self, filepath):

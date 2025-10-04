@@ -1,0 +1,105 @@
+
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>Federated Security Simulation Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2.0.1/dist/chartjs-chart-matrix.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}" />
+  <style>
+    /* Make main charts taller */
+    #trendWrap { height: 260px; }
+    #heatRWrap, #heatHWrap { height: 280px; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-6">
+    <header class="mb-6">
+      <div class="flex items-center justify-between">
+        <div>
+          <h1 class="text-3xl font-bold">보안 시뮬레이션 대시보드</h1>
+          <p class="text-slate-600">계층형 FL · 공격/방어 전후 비교(5R+5R)</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <button class="px-3 py-1 rounded-lg border" data-scenario="A">Scenario A</button>
+          <button class="px-3 py-1 rounded-lg border" data-scenario="B">Scenario B</button>
+          <button class="px-3 py-1 rounded-lg border" data-scenario="C">Scenario C</button>
+        </div>
+      </div>
+      <div id="phaseBanner" class="mt-2 text-sm text-slate-700">Scenario A – ATTACK</div>
+    </header>
+
+    <!-- Compare Board -->
+    <section class="mb-6 bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-xl font-semibold">시나리오 비교 보드 (Attack vs Defend)</h2>
+        <span class="text-xs text-slate-500">동일 시나리오의 최근 5R(공격)과 5R(방어) 평균/분포 비교</span>
+      </div>
+
+      <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-3 mb-4">
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Acc(Attack)</div><div id="kpiAccAtk" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Acc(Defend)</div><div id="kpiAccDef" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Acc Δ(Def-Att)</div><div id="kpiAccDelta" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Exclusions/round (Attack)</div><div id="kpiExclAtk" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Exclusions/round (Defend)</div><div id="kpiExclDef" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Loss(Attack)</div><div id="kpiLossAtk" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Loss(Defend)</div><div id="kpiLossDef" class="text-xl font-semibold">—</div></div>
+        <div class="p-3 rounded-xl border bg-slate-50"><div class="text-xs text-slate-500">Loss Δ(Att-Def)</div><div id="kpiLossDelta" class="text-xl font-semibold">—</div></div>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div class="bg-white border border-slate-200 rounded-2xl p-3">
+          <h3 class="text-sm text-slate-600 mb-1">Acc(5R) – Attack vs Defend</h3>
+          <canvas id="cmpAcc" height="110"></canvas>
+        </div>
+        <div class="bg-white border border-slate-200 rounded-2xl p-3">
+          <h3 class="text-sm text-slate-600 mb-1">Loss(5R) – Attack vs Defend</h3>
+          <canvas id="cmpLoss" height="110"></canvas>
+        </div>
+        <div class="bg-white border border-slate-200 rounded-2xl p-3">
+          <h3 class="text-sm text-slate-600 mb-1">탐지/차단 이벤트 (최근 5R)</h3>
+          <canvas id="alertStack" height="110"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section: Trend enlarged -->
+    <section class="mb-6">
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">Global Training Trend (Latest Attack+Defend)</h2>
+        <div id="trendWrap"><canvas id="chartTrend"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Section: Heatmaps centered and larger -->
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl flex items-center justify-center">
+        <div class="w-full max-w-3xl">
+          <h2 class="text-xl font-semibold mb-2 text-center">데이터 비율 R 히트맵</h2>
+          <div id="heatRWrap"><canvas id="heatR"></canvas></div>
+        </div>
+      </div>
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl flex items-center justify-center">
+        <div class="w-full max-w-3xl">
+          <h2 class="text-xl font-semibold mb-2 text-center">엔트로피 H 히트맵</h2>
+          <div id="heatHWrap"><canvas id="heatH"></canvas></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Logs -->
+    <section class="mt-6">
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">알림 / 이벤트</h2>
+        <div id="log" class="text-sm space-y-1 h-64 overflow-auto"></div>
+      </div>
+    </section>
+  </div>
+
+  <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+  <script src="{{ url_for('static', filename='dashboard.alertstack.patch.js') }}"></script>
+</body>
+</html>

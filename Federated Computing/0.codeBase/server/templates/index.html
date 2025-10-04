@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>Federated Simulation Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Matrix plugin for heatmap -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2.0.1/dist/chartjs-chart-matrix.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}" />
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-6">
+    <header class="mb-6">
+      <h1 class="text-3xl font-bold">연합 학습 시뮬레이션 대시보드</h1>
+      <p class="text-slate-600">멀티 컴퓨팅 / 전역 모델 / 통신 / 데이터 (R/H) / 아웃라이어</p>
+    </header>
+
+    <section class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Global trend -->
+      <div class="col-span-2 bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">Global Training Trend</h2>
+        <canvas id="chartTrend" height="120"></canvas>
+      </div>
+
+      <!-- Hyperbolic network view -->
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">통신(하이퍼볼릭 뷰)</h2>
+        <canvas id="poincare" width="350" height="350"></canvas>
+        <div class="text-xs text-slate-500 mt-2">중앙에 가까울수록 지연↓, 경계로 갈수록 지연↑</div>
+      </div>
+
+      <!-- Heatmap R/H -->
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">데이터 비율 R 히트맵</h2>
+        <canvas id="heatR" height="160"></canvas>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">엔트로피 H 히트맵</h2>
+        <canvas id="heatH" height="160"></canvas>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">알림 / 라운드 요약</h2>
+        <div id="log" class="text-sm space-y-1 h-64 overflow-auto"></div>
+      </div>
+
+      <!-- Federated analysis -->
+      <div class="col-span-3 bg-white border border-slate-200 rounded-2xl p-4 shadow-xl">
+        <h2 class="text-xl font-semibold mb-2">연합 분석 (가중 분포)</h2>
+        <canvas id="chartAnalysis" height="100"></canvas>
+      </div>
+    </section>
+  </div>
+
+  <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

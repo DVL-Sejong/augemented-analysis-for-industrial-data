@@ -264,3 +264,4 @@ class VAEAnomalyDetector:
         plt.hist(recon_errors[anomalies], bins=50, alpha=0.7, label='Anomaly', color='red')
         plt.axvline(self.threshold, color='green', linestyle='--', label='Threshold')
         plt.xlabel('Reconstruction Error')
+        plt.ylabel('Frequency')

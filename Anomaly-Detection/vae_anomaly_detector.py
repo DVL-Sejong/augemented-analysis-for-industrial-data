@@ -262,3 +262,4 @@ class VAEAnomalyDetector:
         plt.subplot(1, 2, 1)
         plt.hist(recon_errors[~anomalies], bins=50, alpha=0.7, label='Normal', color='blue')
         plt.hist(recon_errors[anomalies], bins=50, alpha=0.7, label='Anomaly', color='red')
+        plt.axvline(self.threshold, color='green', linestyle='--', label='Threshold')

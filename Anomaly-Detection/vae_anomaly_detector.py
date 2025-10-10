@@ -257,3 +257,4 @@ class VAEAnomalyDetector:
 
     def visualize_reconstruction_errors(self, flows, save_path=None):
         """재구성 오차 분포 시각화"""
+        anomalies, recon_errors = self.predict(flows)

@@ -260,3 +260,4 @@ class VAEAnomalyDetector:
         anomalies, recon_errors = self.predict(flows)
         plt.figure(figsize=(12, 5))
         plt.subplot(1, 2, 1)
+        plt.hist(recon_errors[~anomalies], bins=50, alpha=0.7, label='Normal', color='blue')

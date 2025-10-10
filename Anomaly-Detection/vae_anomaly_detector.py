@@ -254,3 +254,5 @@ class VAEAnomalyDetector:
         self.model.eval()
         print(f"Model loaded from {filepath}")
         return self
+
+    def visualize_reconstruction_errors(self, flows, save_path=None):

@@ -259,3 +259,4 @@ class VAEAnomalyDetector:
         """재구성 오차 분포 시각화"""
         anomalies, recon_errors = self.predict(flows)
         plt.figure(figsize=(12, 5))
+        plt.subplot(1, 2, 1)

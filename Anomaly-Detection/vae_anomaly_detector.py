@@ -267,3 +267,4 @@ class VAEAnomalyDetector:
         plt.ylabel('Frequency')
         plt.title('Reconstruction Error Distribution')
         plt.legend()
+        plt.subplot(1, 2, 2)

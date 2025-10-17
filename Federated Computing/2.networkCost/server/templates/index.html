@@ -1,0 +1,62 @@
+<!-- server/templates/index.html -->
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <title>연합 학습 시뮬레이션 대시보드</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}" />
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <div class="container">
+    <header>
+      <h1>연합 학습 시뮬레이션 대시보드</h1>
+      <p class="sub">Global Model / Data (R,H) / Network Cost</p>
+    </header>
+
+    <!-- 1) Global Trend -->
+    <section class="grid grid-2">
+      <div class="card">
+        <h3>Global Training Trend</h3>
+        <canvas id="chartTrend" height="140"></canvas>
+      </div>
+      <div class="card">
+        <h3>Cache Path Table (Latest by Client)</h3>
+        <table class="tbl">
+          <thead>
+            <tr><th>Client</th><th>Round</th><th>Path</th><th>RTT(ms)</th><th>Cost</th><th>Cache</th><th>Bytes*</th></tr>
+          </thead>
+          <tbody id="tblPathsBody"></tbody>
+        </table>
+        <p class="muted">* bytes_after_preproc (에지 전처리 반영)</p>
+      </div>
+    </section>
+
+    <!-- 2) Network Cost Dashboard -->
+    <section class="grid grid-3">
+      <div class="card">
+        <h3>Avg Tier RTT per Round</h3>
+        <canvas id="chartNetRtt" height="120"></canvas>
+      </div>
+      <div class="card">
+        <h3>Sum Network Cost per Round</h3>
+        <canvas id="chartNetCost" height="120"></canvas>
+      </div>
+      <div class="card">
+        <h3>Cache Hit Rate (%)</h3>
+        <canvas id="chartCacheHit" height="120"></canvas>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <h3>Total Bytes Up per Round</h3>
+        <canvas id="chartBytes" height="120"></canvas>
+      </div>
+    </section>
+  </div>
+
+  <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

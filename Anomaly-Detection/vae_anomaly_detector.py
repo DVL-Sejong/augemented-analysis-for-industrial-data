@@ -274,3 +274,4 @@ class VAEAnomalyDetector:
         plt.ylabel('Reconstruction Error')
         plt.title('Anomaly Detection Results')
         plt.legend()
+        plt.tight_layout()

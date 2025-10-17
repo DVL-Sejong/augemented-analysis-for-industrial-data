@@ -265,3 +265,4 @@ class VAEAnomalyDetector:
         plt.axvline(self.threshold, color='green', linestyle='--', label='Threshold')
         plt.xlabel('Reconstruction Error')
         plt.ylabel('Frequency')
+        plt.title('Reconstruction Error Distribution')

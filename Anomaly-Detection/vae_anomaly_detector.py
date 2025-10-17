@@ -271,3 +271,4 @@ class VAEAnomalyDetector:
         plt.scatter(range(len(recon_errors)), recon_errors, c=anomalies, cmap='coolwarm', alpha=0.6)
         plt.axhline(self.threshold, color='green', linestyle='--', label='Threshold')
         plt.xlabel('Sample Index')
+        plt.ylabel('Reconstruction Error')

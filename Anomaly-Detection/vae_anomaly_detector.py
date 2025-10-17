@@ -272,3 +272,4 @@ class VAEAnomalyDetector:
         plt.axhline(self.threshold, color='green', linestyle='--', label='Threshold')
         plt.xlabel('Sample Index')
         plt.ylabel('Reconstruction Error')
+        plt.title('Anomaly Detection Results')

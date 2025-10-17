@@ -268,3 +268,4 @@ class VAEAnomalyDetector:
         plt.title('Reconstruction Error Distribution')
         plt.legend()
         plt.subplot(1, 2, 2)
+        plt.scatter(range(len(recon_errors)), recon_errors, c=anomalies, cmap='coolwarm', alpha=0.6)

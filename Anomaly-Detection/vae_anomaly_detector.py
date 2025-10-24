@@ -281,3 +281,5 @@ class VAEAnomalyDetector:
         else:
             plt.show()
         return anomalies, recon_errors
+
+    def get_anomaly_report(self, flows):

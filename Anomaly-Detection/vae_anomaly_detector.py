@@ -279,3 +279,4 @@ class VAEAnomalyDetector:
             plt.savefig(save_path, dpi=300, bbox_inches='tight')
             print(f"Plot saved to {save_path}")
         else:
+            plt.show()

@@ -280,3 +280,4 @@ class VAEAnomalyDetector:
             print(f"Plot saved to {save_path}")
         else:
             plt.show()
+        return anomalies, recon_errors

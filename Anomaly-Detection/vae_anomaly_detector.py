@@ -283,3 +283,4 @@ class VAEAnomalyDetector:
         return anomalies, recon_errors
 
     def get_anomaly_report(self, flows):
+        """이상 탐지 결과 리포트 생성"""

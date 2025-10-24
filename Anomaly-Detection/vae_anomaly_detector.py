@@ -285,3 +285,4 @@ class VAEAnomalyDetector:
     def get_anomaly_report(self, flows):
         """이상 탐지 결과 리포트 생성"""
         anomalies, recon_errors = self.predict(flows)
+        total_flows = len(flows)

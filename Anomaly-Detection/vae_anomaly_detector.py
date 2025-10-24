@@ -275,3 +275,4 @@ class VAEAnomalyDetector:
         plt.title('Anomaly Detection Results')
         plt.legend()
         plt.tight_layout()
+        if save_path:

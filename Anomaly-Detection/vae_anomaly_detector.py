@@ -289,3 +289,4 @@ class VAEAnomalyDetector:
         anomaly_count = np.sum(anomalies)
         anomaly_percentage = (anomaly_count / total_flows) * 100
         report = {}
+        report['total_flows'] = total_flows

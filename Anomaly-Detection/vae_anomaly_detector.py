@@ -306,3 +306,4 @@ class VAEAnomalyDetector:
         X_scaled = self.scaler.transform(X)
         X_tensor = torch.FloatTensor(X_scaled).to(self.device)
         self.model.eval()
+        with torch.no_grad():

@@ -286,3 +286,4 @@ class VAEAnomalyDetector:
         """이상 탐지 결과 리포트 생성"""
         anomalies, recon_errors = self.predict(flows)
         total_flows = len(flows)
+        anomaly_count = np.sum(anomalies)

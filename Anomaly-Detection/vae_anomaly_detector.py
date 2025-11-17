@@ -314,3 +314,4 @@ class VAEAnomalyDetector:
         pca = PCA(n_components=2)
         latent_2d = pca.fit_transform(latent_vectors)
         plt.figure(figsize=(10, 8))
+        plt.scatter(latent_2d[~anomalies, 0], latent_2d[~anomalies, 1], c='blue', alpha=0.6, label='Normal')

@@ -318,3 +318,4 @@ class VAEAnomalyDetector:
         plt.scatter(latent_2d[anomalies, 0], latent_2d[anomalies, 1], c='red', alpha=0.6, label='Anomaly')
         plt.xlabel('First Principal Component')
         plt.ylabel('Second Principal Component')
+        plt.title('Latent Space Visualization (PCA)')

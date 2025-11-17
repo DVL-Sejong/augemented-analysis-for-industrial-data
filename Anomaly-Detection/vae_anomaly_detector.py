@@ -290,3 +290,4 @@ class VAEAnomalyDetector:
         anomaly_percentage = (anomaly_count / total_flows) * 100
         report = {}
         report['total_flows'] = total_flows
+        report['anomaly_count'] = int(anomaly_count)

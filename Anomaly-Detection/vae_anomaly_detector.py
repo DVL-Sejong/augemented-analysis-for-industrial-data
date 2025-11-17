@@ -297,3 +297,5 @@ class VAEAnomalyDetector:
         report['max_recon_error'] = float(np.max(recon_errors))
         report['min_recon_error'] = float(np.min(recon_errors))
         return report
+
+    def analyze_latent_space(self, flows, save_path=None):

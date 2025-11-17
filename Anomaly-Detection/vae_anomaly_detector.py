@@ -311,3 +311,4 @@ class VAEAnomalyDetector:
             latent_vectors = mu.cpu().numpy()
         anomalies, _ = self.predict(flows)
         from sklearn.decomposition import PCA
+        pca = PCA(n_components=2)

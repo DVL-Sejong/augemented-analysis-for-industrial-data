@@ -322,3 +322,4 @@ class VAEAnomalyDetector:
         plt.legend()
         plt.grid(True, alpha=0.3)
         if save_path:
+            plt.savefig(save_path, dpi=300, bbox_inches='tight')

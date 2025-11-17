@@ -321,3 +321,4 @@ class VAEAnomalyDetector:
         plt.title('Latent Space Visualization (PCA)')
         plt.legend()
         plt.grid(True, alpha=0.3)
+        if save_path:

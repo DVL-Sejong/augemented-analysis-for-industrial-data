@@ -295,3 +295,4 @@ class VAEAnomalyDetector:
         report['threshold'] = float(self.threshold)
         report['mean_recon_error'] = float(np.mean(recon_errors))
         report['max_recon_error'] = float(np.max(recon_errors))
+        report['min_recon_error'] = float(np.min(recon_errors))

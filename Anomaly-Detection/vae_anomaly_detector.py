@@ -326,3 +326,4 @@ class VAEAnomalyDetector:
             print(f"Latent space visualization saved to {save_path}")
         else:
             plt.show()
+        return latent_2d

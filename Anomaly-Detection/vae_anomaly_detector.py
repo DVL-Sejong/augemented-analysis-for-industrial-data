@@ -313,3 +313,4 @@ class VAEAnomalyDetector:
         from sklearn.decomposition import PCA
         pca = PCA(n_components=2)
         latent_2d = pca.fit_transform(latent_vectors)
+        plt.figure(figsize=(10, 8))

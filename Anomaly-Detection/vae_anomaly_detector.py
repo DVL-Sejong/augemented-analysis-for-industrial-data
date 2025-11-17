@@ -323,3 +323,4 @@ class VAEAnomalyDetector:
         plt.grid(True, alpha=0.3)
         if save_path:
             plt.savefig(save_path, dpi=300, bbox_inches='tight')
+            print(f"Latent space visualization saved to {save_path}")

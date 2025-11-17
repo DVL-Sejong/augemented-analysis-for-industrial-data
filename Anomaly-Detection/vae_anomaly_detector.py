@@ -300,3 +300,4 @@ class VAEAnomalyDetector:
 
     def analyze_latent_space(self, flows, save_path=None):
         """잠재 공간 시각화"""
+        if self.model is None:

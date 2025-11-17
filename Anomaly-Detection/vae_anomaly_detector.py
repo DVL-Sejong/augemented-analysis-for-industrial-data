@@ -319,3 +319,4 @@ class VAEAnomalyDetector:
         plt.xlabel('First Principal Component')
         plt.ylabel('Second Principal Component')
         plt.title('Latent Space Visualization (PCA)')
+        plt.legend()

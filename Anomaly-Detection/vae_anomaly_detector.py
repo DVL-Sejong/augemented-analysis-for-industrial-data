@@ -292,3 +292,4 @@ class VAEAnomalyDetector:
         report['total_flows'] = total_flows
         report['anomaly_count'] = int(anomaly_count)
         report['anomaly_percentage'] = f"{anomaly_percentage:.2f}%"
+        report['threshold'] = float(self.threshold)

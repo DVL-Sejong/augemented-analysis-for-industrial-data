@@ -303,3 +303,4 @@ class VAEAnomalyDetector:
         if self.model is None:
             raise ValueError("Model has not been trained yet")
         X = self.preprocess_flow_data(flows)
+        X_scaled = self.scaler.transform(X)

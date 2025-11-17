@@ -308,3 +308,4 @@ class VAEAnomalyDetector:
         self.model.eval()
         with torch.no_grad():
             mu, _ = self.model.encode(X_tensor)
+            latent_vectors = mu.cpu().numpy()

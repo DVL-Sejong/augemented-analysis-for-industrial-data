@@ -293,3 +293,4 @@ class VAEAnomalyDetector:
         report['anomaly_count'] = int(anomaly_count)
         report['anomaly_percentage'] = f"{anomaly_percentage:.2f}%"
         report['threshold'] = float(self.threshold)
+        report['mean_recon_error'] = float(np.mean(recon_errors))

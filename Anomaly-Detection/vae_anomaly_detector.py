@@ -302,3 +302,4 @@ class VAEAnomalyDetector:
         """잠재 공간 시각화"""
         if self.model is None:
             raise ValueError("Model has not been trained yet")
+        X = self.preprocess_flow_data(flows)

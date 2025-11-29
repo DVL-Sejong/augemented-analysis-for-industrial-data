@@ -338,3 +338,4 @@ class VAEAnomalyDetector:
         report = self.get_anomaly_report(flows)
         print("="*50)
         print("VAE Anomaly Detection Report")
+        print("="*50)

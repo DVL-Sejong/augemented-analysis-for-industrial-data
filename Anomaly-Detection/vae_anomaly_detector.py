@@ -329,3 +329,4 @@ class VAEAnomalyDetector:
         return latent_2d
 
     def detect_anomalies_in_real_time(self, flow):
+        """단일 플로우에 대한 실시간 이상 탐지"""

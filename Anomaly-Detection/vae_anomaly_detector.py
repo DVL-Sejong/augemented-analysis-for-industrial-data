@@ -332,3 +332,5 @@ class VAEAnomalyDetector:
         """단일 플로우에 대한 실시간 이상 탐지"""
         anomaly, recon_error = self.predict([flow])
         return bool(anomaly[0]), float(recon_error[0])
+
+    def print_report(self, flows):

@@ -335,3 +335,4 @@ class VAEAnomalyDetector:
 
     def print_report(self, flows):
         """이상 탐지 리포트를 콘솔에 출력"""
+        report = self.get_anomaly_report(flows)

@@ -327,3 +327,5 @@ class VAEAnomalyDetector:
         else:
             plt.show()
         return latent_2d
+
+    def detect_anomalies_in_real_time(self, flow):

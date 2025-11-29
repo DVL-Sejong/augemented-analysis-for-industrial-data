@@ -337,3 +337,4 @@ class VAEAnomalyDetector:
         """이상 탐지 리포트를 콘솔에 출력"""
         report = self.get_anomaly_report(flows)
         print("="*50)
+        print("VAE Anomaly Detection Report")

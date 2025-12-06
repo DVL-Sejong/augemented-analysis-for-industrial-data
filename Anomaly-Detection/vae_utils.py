@@ -8,3 +8,4 @@ def calculate_reconstruction_error_statistics(recon_errors: np.ndarray) -> Dict[
     """재구성 오차의 통계 정보를 계산"""
     return {
         'mean': float(np.mean(recon_errors)),
+        'std': float(np.std(recon_errors)),

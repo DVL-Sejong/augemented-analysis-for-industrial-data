@@ -9,3 +9,4 @@ def calculate_reconstruction_error_statistics(recon_errors: np.ndarray) -> Dict[
     return {
         'mean': float(np.mean(recon_errors)),
         'std': float(np.std(recon_errors)),
+        'min': float(np.min(recon_errors)),

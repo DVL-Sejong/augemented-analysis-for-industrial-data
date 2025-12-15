@@ -18,3 +18,4 @@ class FlowPreprocessor:
 
     def normalize_bytes(self, bytes_data: np.ndarray) -> np.ndarray:
         """바이트 수를 로그 변환하여 정규화"""
+        return np.log(bytes_data + 1)

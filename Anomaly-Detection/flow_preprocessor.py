@@ -22,3 +22,4 @@ class FlowPreprocessor:
 
     def fit_transform(self, data: np.ndarray) -> np.ndarray:
         """데이터를 스케일러에 맞춰 변환"""
+        return self.scaler.fit_transform(data)

@@ -8,3 +8,4 @@ class FlowPreprocessor:
     def __init__(self, scaler_type: str = 'standard'):
         self.scaler_type = scaler_type
         if scaler_type == 'standard':
+            self.scaler = StandardScaler()

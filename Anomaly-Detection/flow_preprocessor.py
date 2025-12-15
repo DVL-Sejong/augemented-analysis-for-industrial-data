@@ -10,3 +10,4 @@ class FlowPreprocessor:
         if scaler_type == 'standard':
             self.scaler = StandardScaler()
         else:
+            self.scaler = MinMaxScaler()

@@ -13,3 +13,4 @@ class FlowPreprocessor:
             self.scaler = MinMaxScaler()
 
     def normalize_ports(self, ports: np.ndarray) -> np.ndarray:
+        """포트 번호를 로그 변환하여 정규화"""

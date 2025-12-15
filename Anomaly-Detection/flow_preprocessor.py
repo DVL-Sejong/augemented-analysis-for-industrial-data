@@ -9,3 +9,4 @@ class FlowPreprocessor:
         self.scaler_type = scaler_type
         if scaler_type == 'standard':
             self.scaler = StandardScaler()
+        else:

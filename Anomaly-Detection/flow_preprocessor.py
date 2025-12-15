@@ -11,3 +11,5 @@ class FlowPreprocessor:
             self.scaler = StandardScaler()
         else:
             self.scaler = MinMaxScaler()
+
+    def normalize_ports(self, ports: np.ndarray) -> np.ndarray:

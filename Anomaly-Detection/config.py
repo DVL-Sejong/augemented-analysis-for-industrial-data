@@ -9,3 +9,4 @@ class VAEConfig:
     EPOCHS = 100
     BATCH_SIZE = 32
     ANOMALY_THRESHOLD_PERCENTILE = 95
+    SCALER_TYPE = 'standard'

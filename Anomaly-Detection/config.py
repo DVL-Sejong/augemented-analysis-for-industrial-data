@@ -2,3 +2,4 @@
 
 
 class VAEConfig:
+    """VAE 모델 설정"""

@@ -6,3 +6,4 @@ class VAEConfig:
     HIDDEN_DIM = 128
     LATENT_DIM = 20
     LEARNING_RATE = 1e-3
+    EPOCHS = 100

@@ -8,3 +8,4 @@ class FlowDataLoader:
     @staticmethod
     def load_from_csv(csv_file: str) -> List[Flow]:
         """CSV 파일에서 플로우 데이터 로드"""
+        flows = []

@@ -408,3 +408,10 @@ class VAEAnomalyDetector:
         for flow in flows:
             total += flow.src_tx + flow.dst_tx
         return total
+
+    def filter_private_ips_only(self, flows):
+        private_flows = []
+        for flow in flows:
+            if flow.src_ip.is_private and flow.dst_ip.is_private:
+                private_flows.append(flow)
+        return private_flows

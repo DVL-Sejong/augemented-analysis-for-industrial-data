@@ -395,3 +395,10 @@ class VAEAnomalyDetector:
                 proto = flow.ip_protocol
                 protocol_counts[proto] = protocol_counts.get(proto, 0) + 1
         return protocol_counts
+
+    def filter_by_port_range(self, flows, min_port, max_port):
+        filtered = []
+        for flow in flows:
+            if min_port <= flow.dst_port <= max_port:
+                filtered.append(flow)
+        return filtered

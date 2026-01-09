@@ -360,3 +360,13 @@ class VAEAnomalyDetector:
             scores.append((flow, score))
         sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
         return sorted_scores[:n]
+
+    def export_anomalies_to_csv(self, flows, output_path):
+        anomalies, scores = self.predict(flows)
+        data = []
+        for i, (flow, is_anomaly, score) in enumerate(zip(flows, anomalies, scores)):
+            if is_anomaly:
+                data.append({'index': i, 'score': score, 'src_ip': str(flow.src_ip), 'dst_ip': str(flow.dst_ip)})
+        df = pd.DataFrame(data)
+        df.to_csv(output_path, index=False)
+        return len(data)

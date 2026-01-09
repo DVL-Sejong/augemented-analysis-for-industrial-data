@@ -344,3 +344,11 @@ class VAEAnomalyDetector:
         recon_error = self.predict([flow_data])[1][0]
         normalized_score = min(recon_error / self.threshold, 1.0)
         return normalized_score
+
+    def filter_high_risk_flows(self, flows, risk_threshold=0.8):
+        results = []
+        for flow in flows:
+            score = self.calculate_anomaly_score(flow)
+            if score >= risk_threshold:
+                results.append((flow, score))
+        return results

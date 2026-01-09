@@ -386,3 +386,12 @@ class VAEAnomalyDetector:
                 groups[ip_str] = []
             groups[ip_str].append(flow)
         return groups
+
+    def count_anomalies_by_protocol(self, flows):
+        anomalies, _ = self.predict(flows)
+        protocol_counts = {}
+        for flow, is_anomaly in zip(flows, anomalies):
+            if is_anomaly:
+                proto = flow.ip_protocol
+                protocol_counts[proto] = protocol_counts.get(proto, 0) + 1
+        return protocol_counts

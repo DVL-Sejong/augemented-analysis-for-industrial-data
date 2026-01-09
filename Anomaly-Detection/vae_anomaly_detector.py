@@ -377,3 +377,12 @@ class VAEAnomalyDetector:
             score = self.calculate_anomaly_score(flow)
             total_score += score
         return total_score / len(flows) if len(flows) > 0 else 0.0
+
+    def group_by_source_ip(self, flows):
+        groups = {}
+        for flow in flows:
+            ip_str = str(flow.src_ip)
+            if ip_str not in groups:
+                groups[ip_str] = []
+            groups[ip_str].append(flow)
+        return groups

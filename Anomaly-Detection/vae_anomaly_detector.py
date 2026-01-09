@@ -352,3 +352,11 @@ class VAEAnomalyDetector:
             if score >= risk_threshold:
                 results.append((flow, score))
         return results
+
+    def get_top_anomalies(self, flows, n=10):
+        scores = []
+        for flow in flows:
+            score = self.calculate_anomaly_score(flow)
+            scores.append((flow, score))
+        sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
+        return sorted_scores[:n]

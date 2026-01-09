@@ -402,3 +402,9 @@ class VAEAnomalyDetector:
             if min_port <= flow.dst_port <= max_port:
                 filtered.append(flow)
         return filtered
+
+    def get_total_bytes_transferred(self, flows):
+        total = 0
+        for flow in flows:
+            total += flow.src_tx + flow.dst_tx
+        return total

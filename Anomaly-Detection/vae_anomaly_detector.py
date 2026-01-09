@@ -339,3 +339,8 @@ class VAEAnomalyDetector:
         print("="*50)
         print("VAE Anomaly Detection Report")
         print("="*50)
+
+    def calculate_anomaly_score(self, flow_data):
+        recon_error = self.predict([flow_data])[1][0]
+        normalized_score = min(recon_error / self.threshold, 1.0)
+        return normalized_score

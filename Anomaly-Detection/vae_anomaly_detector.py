@@ -370,3 +370,10 @@ class VAEAnomalyDetector:
         df = pd.DataFrame(data)
         df.to_csv(output_path, index=False)
         return len(data)
+
+    def calculate_mean_score(self, flows):
+        total_score = 0.0
+        for flow in flows:
+            score = self.calculate_anomaly_score(flow)
+            total_score += score
+        return total_score / len(flows) if len(flows) > 0 else 0.0
